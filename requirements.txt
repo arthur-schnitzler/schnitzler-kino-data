@@ -1,0 +1,8 @@
+pandas
+acdh-tei-pyutils
+jinja2
+jupyter
+notebook
+flake8
+sqlalchemy
+black
