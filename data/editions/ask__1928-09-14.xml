@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Schmutziges Geld«, 1928-09-14, Wien</title>
+            <title type="alternative" when-iso="1928-09-14"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>14/9 […] Mit C. P. Kino Stafa „Schmutziges Geld“ (Chinesin Wong), beim Hirschen genachtm.</ab></div>
+         <div type="ckp"><ab>18.9. Tagelang nicht eingeschrieben. Kein gutes Zeichen. Am 12. letzter guter Abend bei ihm gewesen. Am 13. Lilis Geburtstag. Seine Geschwister um ihn. Frieda ist zurück.
+Sein Verhalten gegen mich kühler, Verzweiflung grösser. 14. und 15. mit ihm im Kino. Trostlos düstere Abende. Dabei weiss ich vor Sorgen nicht ein und aus. Das Mädchen (Emma) hat mir in der unverschämtesten Weise gekündigt. Ende des Monats ziehen Spieglers aus und ich suche keinen Ersatz. A. schimpft immer über diese Wohnung (und darüber, dass ich vermiete), rät zu tauschen oder zu verkaufen, vermeidet aber jedes Wort, das mir wirklich helfen könnte. Ich weiss nicht, wozu ich mich entschliessen soll.
+A. will mir immer wieder Geld aufdrängen. O nein!
+Harry ist von Skoda-Wetzler gekündigt worden. Sparmassnahmen, Abbau. Auch das noch.
+Abend mit A. Konversation. Nachtmahl in der Heumühle. Ich fühle, es geht etwas vor. Offenbar Briefe und Rufe aus Berlin. […] [II, 144f.]</ab></div>
+         <div type="anmerkung"><ab>»Frieda«: Pollak. »Harry«: Pollaczeks älterer Sohn. »Die Wohnung«: der Familie Loeb in der Peregringasse wurde im Oktober 1928 verkauft. Pollaczeks Eintrag bezieht sich auch auf die beiden Folgeeinträge.
+Notiz in der »Filmrundschau« der 14.9.1928, S. 9, dort 13 Spielorte verzeichnet. </ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Schmutziges Geld“ (Ot. D „Song“) [Ot. GB „Show Life“]</cell>
+                  <cell role="data"><date>[1928]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D/[GB]</placeName></cell>
+                  <cell role="data"><persName>Richard Eichberg</persName></cell>
+                  <cell role="data"><persName>[Adolf Lantz, Helen Gosewisch]</persName></cell>
+                  <cell role="data"><orgName>Eichberg-Film, British International Pictures</orgName></cell>
+                  <cell role="data">Anna May Wong, Mary Kid, Heinrich George, Hans Adalbert Schlettow, Paul Hörbiger</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__42">
+               <orgName>Mariahilfer Zentralpalast / Stafakino</orgName>
+               <location><address><addrLine>07., Mariahilferstraße 120</addrLine></address></location>
+               <note type="info"> Eröffnet 1920. Umbenennung 1930. Tonfilm ab 1930. Fassungsraum: 1920: 600 Sitzplätze (davon 48 Logenplätze), 1922: 640.</note>
+            </org>
+            <org xml:id="ask_wirt__30">
+               <orgName>Zum Hirschen</orgName>
+               <location><address><addrLine>None None, nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

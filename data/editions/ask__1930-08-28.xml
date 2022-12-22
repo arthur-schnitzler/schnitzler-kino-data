@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-08-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Ketten«, 1930-08-28, Marienbad</title>
+            <title type="alternative" when-iso="1930-08-28"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>28/8 Marienbad. […] Mit C. P. Kino, „Ketten“ (Kortner), Teplerhaus genachtm. […]</ab></div>
+         <div type="anmerkung"><ab>Notiz in der Marienbader Zeitung, 28.8.1930, S. 2: »Dr. Arthur Schnitzler in Marienbad. Wie wir erfahren, ist auch heuer wieder der Wiener Schriftsteller und praktische Arzt Dr. Arthur Schnitzler zum Kurgebrauch in Marienbad eingetroffen«. Auf der nächsten Seite folgt eine Besprechung des Films »Ketten«: „Bio Globus. Donnerstag, den 28., und Freitag, den 29. August, Fritz Kortner, der deutsche Meister-Darsteller, in seiner neuen Rolle im russischen Großfilm ‚In Ketten‘, Drama aus dem zaristischen Rußland voll atemberaubender Spannung […]. Fron – Fron – Fron! An endlosen Schienensträngen schuften Sträflinge, Knechtschaft, Kosakenwärter! Im nahen Buchenwald knallen zwei Schüsse. ‚Auf der Flucht Nr. 40 und Nr. 130 erschossen‘, sagt der Rapport. Wer prüft die Wahrheit? – Es sind nur Hunde, Hunde! Ketten klirren, Zungen keuchen, Augen funkeln in Fieber und Haß – Sklavengehirne wälzen nur einen Gedanken tagaus, tagein: Flucht – Flucht – Flucht!! In diesem trostlosen Milieu der transsibirischen Bahn helfen mongolische Bauern den verbannten Sträflingen. Aus dieser Verschwörung dampft die wuchtige Tragik dieses monumentalen Filmes empor, in der Mitte die Gestalt des Militärgouverneurs: Fürst Wagarin, welche Rolle von Fritz Kortner meisterhaft und unvergleichlich verkörpert wird. Ein Film, der zu den auserwähltesten Filmschöpfungen gehört und deswegen jedermann zur Besichtigung wärmstens empfohlen wird. Außerdem das erstklassige Beiprogramm mit Wochenberichterstattung.“ Im Zentral-Kino: „Die Nacht nach dem Verrat“ sowie „als Ergänzung ‚Eine verhängnisvolle Hochzeit.‘ Lustspiel in zwei Akten und die ‚Emelka-Woche Nr. 32‘“. 
+
+Der Film lief in Wien einige Monate früher: Premierennotiz NFP 11.4.1930, S. 11, für 25.4.1930, Anzeige und Premierennotiz NFP 25.4.1930, S. 13. Besprechung von Lilly Klaudy in NFP 29.4.1930, S. 10.
+</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Ketten“</cell>
+                  <cell role="data"><date>[1930]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Gennaro Righelli</persName></cell>
+                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><orgName>Erda-Greenbaum-Film</orgName></cell>
+                  <cell role="data">Fritz Kortner, Theodor Loos, William Freshman, Alexandre Bernard, Renée Héribel</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Marienbad</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

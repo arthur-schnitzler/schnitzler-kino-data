@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-21.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Seitensprünge«, 1931-05-21, Wien</title>
+            <title type="alternative" when-iso="1931-05-21"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>21/5 […] Abds. mit C. P. (Sascha) Kino, Seitensprünge; mit ihr Meißl genachtm.; dann „Metrophon“.–</ab></div>
+         <div type="ckp"><ab>21.5. Heini hat mich noch gestern Abend angerufen, um mir für Erdbeeren zu danken, die ich ihm zur Begrüssung hinüberschickte. Er war etwas forciert liebenswürdig.
+Nachmittag mit Emmy Tolnay bei Emmy Sachs im Sanatorium, die vor wenigen Wochen ihren Mann verloren hat und jetzt an Star operiert wurde. Sie war in Lichtrosa drapiert,– ein wenig lächerlich für eine 62jährige Witwe in Trauer,– eher wie eine Wöchnerin.
+Am Abend mit A. Erst im Kino „Seitensprünge“, saudumm. Dann bei Meisl genachtmahlt und nachher Pathephon. Ein Abend zum sterben öd und traurig. Was er mir von Heinis Scheidung erzählt ist <hi>unwahr</hi>, wie sein ganzes Gehaben. [III, 175]</ab></div>
+         <div type="anmerkung"><ab>Premierennotiz der Uraufführung im Sascha-Palast NFP 8.5.1931, S. 13, für 12.5.1931. Anzeige und Notiz NFP 12.5.1931, S. 4 bzw. 13. Besprechung von –nd– in NFP 16.5.1931, S. 8. Spielort nochmals bestätigt NFP 21.5.1931, S. 17.</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Seitensprünge“</cell>
+                  <cell role="data"><date>[1931]</date></cell>
+                  <cell role="data">Komisch</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Stefan Szekely</persName></cell>
+                  <cell role="data"><persName>Lajos Biró, Bobby E. Lüthge, Karl Noti</persName></cell>
+                  <cell role="data"><orgName>Cicero-Tobis-Klangfilm</orgName></cell>
+                  <cell role="data">Gerda Maurus, Oskar Sima, Paul Vincenti, Adele Sandrock u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__24">
+               <orgName>Eos Lichtspiele / Sascha Palast</orgName>
+               <location><address><addrLine>03., Ungargasse 60</addrLine></address></location>
+               <note type="info"> Eröffnet 1921. Umbenennung 1931. Tonfilm ab 1931. Fassungsraum: Galerie. 1922: 1088 Sitzplätze (davon 122 Logenplätze). Das Kino wurde in der ehemaligen Winterreitschule eingerichtet. – Beschreibung von Architektur und Ausstattung anläßlich der Eröffnung in „Die Filmwelt“ Jg. 1922, Nr. 3, S. 3f. Nicht ident mit dem späteren Eos-Kino in der Landstraßer Hauptstraße. </note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

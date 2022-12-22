@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-10-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Café Paradiso«, 1931-10-19, Wien</title>
+            <title type="alternative" when-iso="1931-10-19"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>19/10 […] Mit C. P. (Schubert) Kino, Café Paradiso. Allein zu Haus genachtm.– […]</ab></div>
+         <div type="ckp"><ab>I9ten Okt. – Gestern Abend, sehr dürftiges Stück in hübscher Aufmachung A. schlief zumeist. Sein Aussehen furchtbar. Mein Herz setzte oft aus vor Angst. Nachher im „Vindobona“ genachtmahlt. A. wurde nachdem er gegessen hatte viel frischer. Er betrachtete mit lächelndem Mistrauen einen blauen Fleck auf meinem nackten Arm. Ich leide seit August an einer Angio Neurose wie Dr Bl. diese kleinen blauen Beulen nennt und Folgen der Aufregung sind – aber ich liess ihm sein Mistrauen und lächelte eben so listig zurück. Vielleicht besser so. Er sah immer wieder hin – – Fand mich übrigens gut und hübsch aussehend und sagte es mir.
+Heute Abend um ½7 rief A. mich an (obwol er gesagt hatte dass er zu Hause bleiben wird) ob ich mit ihm ins Kino gehen will. Ich sagte sehr glücklich: „Ich bin ja froh wenn du mit mir gehen willst“ aber er reagierte eher kühl und befangen so als ob jemand bei ihm im Zimmer währe – Vielleicht Einbildung. Er holte mich ab. „Caffee Paradiso“ Spannender Film. [III, 252]</ab></div>
+         <div type="anmerkung"><ab>Schnitzlers letzter Tagebucheintrag. Pollaczek schreibt am 20. Oktober 1931 noch von dessen Ausgang in die Stadt und einem gemeinsamen Theaterbesuch (»Der Gerichtsvollzieher«), gefolgt von einem Abendessen mit dem Ehepaar Kapper. Die Kürze des Notats zeugt von ihrer Erschütterung: »22ten Oktober – vorbei – – –« (CKP III, 253). Der darauffolgende Eintrag protokolliert die letzten Stunden und endet mit der Beschreibung des Begräbnisses, bei dem Pollaczek Olga Schnitzler und Suzanne Clauser ein letztes Mal die Hand gibt. Am 22. Oktober titelt die NFP mit der Schlagzeile »Ein erschütternder Verlust für Österreich«, daneben ein Nachruf im Feuilleton aus der Feder Felix Saltens.
+„Stärker berührt mich trotz aller Schwächen und Knalleffekte der Fabel die sehenswerte deutsche Version des in Paris […] gedrehten Films ‚Mitternachtsliebe‘, der ausgezeichnete französische Milieuschilderungen und stilsichere schauspielerische Leistungen bringt“ (SK II, S. 537f). 
+
+Deutsche Version von »Les amants de minuit« von Marc Allégret und Augusto Genina. Ankündigung NFP 7.8.1931, S. 10. Premierennotiz der Uraufführung im Burg- und Schweden-Kino NFP 11.8.1931, S. 9, für 15.8.1931. Besprechung von f. in NFP 15.8.1931, S. 13.</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Café Paradies“ („Sünden um Mitternacht“, [Ot. „Mitternachtsliebe“])</cell>
+                  <cell role="data"><date>[1930/31]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D/F</placeName></cell>
+                  <cell role="data"><persName>Augusto Genina, Carl Froelich</persName></cell>
+                  <cell role="data"><persName>Carl Behr</persName></cell>
+                  <cell role="data"><orgName>Carl Fröhlich-Film-Tobis-Klangfilm</orgName></cell>
+                  <cell role="data">Alfred Loretto, Daniela Parola, [Hans Adalbert Schlettow, Josseline Gael, Pierre Batcheff]</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__5">
+               <orgName>Schubertkino</orgName>
+               <location><address><addrLine>09., Währingerstraße 46</addrLine></address></location>
+               <note type="info"> Eröffnet 1912. Tonfilm ab 1931. Fassungsraum: ehemaliger Schubertsaal. 1914: ca. 200 Sitzplätze, 1913: Umbau (Klappsitze statt Bänke), 1922: 177, 1934: 187 (davon 6 Logenplätze).</note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

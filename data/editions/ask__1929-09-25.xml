@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-09-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Der Singende Narr«, 1929-09-25, Wien</title>
+            <title type="alternative" when-iso="1929-09-25"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>25/9 […] Mit C. P. Tonfilm „Der singende Narr“ (Al Jolson); dann Linde soup.</ab></div>
+         <div type="ckp"><ab>25.9. Kino Tonfilm „Der singende Narr“. In guter Stimmung, herzlich, aber von jenen Wochen meilenweit entfernt. Vielleicht meine Schuld – aber ich kann nicht anders. [II, 276]</ab></div>
+         <div type="anmerkung"><ab>Der erste amerikanische Tonfilm. »Der Riesenschmarren ist durchgehends vertont« (SK II, S. 254). Premierennotiz NFP 20.9.1929, S. 9. Notiz NFP 15.11.1929, S. 11: »›Singing Fool‹ übt nach wie vor unverminderte Zugkraft aus. Die Vorstellungen im Lustspieltheater- und Flotten-Kino sind bisher von mehr als 200.000 Personen besucht worden, so daß jeder neunte Einwohner von Wien diesen Film gesehen hat. Infolgedessen bleibt ›Singing Fool‹ auch weiter im Spielplan der beiden genannten Kinotheater.«
+Bericht von der Berliner Premiere (und auch zum Wettrennen um den Tonfilm zwischen deutschen und US-amerikanischen Produktionsfirmen) u. d. T. »Schwarzer Bajazzo« von Manfred Georg in NFP 6.6.1929, S. 13. Besprechung von Ludwig Hirschfeld anläßlich der Wiener Premiere im Lustspieltheater NFP 21.9.1929, S. 6. Vgl. auch dessen Artikel »Tonfilm mit Weinzwang« in NFP 22.9.1929, S. 13. Nachgewiesener Spielort: Lustspieltheater und Flottenkino (NFP 25.9.1929, S. 17).</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Der singende Narr“ (Ot. „The singing Fool“)</cell>
+                  <cell role="data"><date>[1928]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>USA</placeName></cell>
+                  <cell role="data"><persName>Lloyd Bacon</persName></cell>
+                  <cell role="data"><persName>Leslie Burrows [(Vorlage Kurzgeschichte selben Titels); C. Graham Baker (Drehbuch) ; Joseph Jackson (Dialoge, Titel)]</persName></cell>
+                  <cell role="data"><orgName>Warner-Vitaphone-Film</orgName></cell>
+                  <cell role="data">Al Jolson, Arthur [Housman], Edward Martindel, Josephine Dunn, Betty Bronson, David Lee u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

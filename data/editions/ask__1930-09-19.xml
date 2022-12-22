@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-09-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Annette«, 1930-09-19, Wien</title>
+            <title type="alternative" when-iso="1930-09-19"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>19/9 […] Mit C. P. Kino „Annette“ – Unleidlich; durch die Stadt (von Fechner begleitet) Imperial; dort genachtm.– Ziemlich unwohl.– </ab></div>
+         <div type="ckp"><ab>18.9. Jetzt geh ich zu Wildgans. Gott steh mir bei. Es ist eine Schicksalsstunde für mich. Nie lag mir an einer Arbeit so viel. Unterredung kurz und befangen von beiden Seiten. Verspricht in 14 Tagen zu lesen. Abend Anna bei mir sehr begeistert von ihrer Reise. Abend mit A. im Kino. Manchesmal glaube ich es ist gut, so still und friedlich wie es jetzt ist und dann fühle ich wieder dass ich diese Stumpfheit nicht ertrage. Was denkt er, was will er? […]
+Gegen Abend kleiner einsamer Spaziergang. Ging auch an A.’s Haus vorbei. Das Fenster seines Schlafzimmers beleuchtet. Plötzlich war ein törichter Verdacht in mir. Oder vielleicht ist er gar nicht töricht – – – –[III, 97]</ab></div>
+         <div type="anmerkung"><ab>Pollaczek spricht bei Burgtheaterdirektor Anton Wildgans wegen einer eventuellen Aufführung ihres Stückes »Dame« vor, die jedoch nicht zustandekommt (Auszüge veröffentlicht die NFP einige Wochen später). 
+»Anna«: Pollaczeks Schwester Anna Epstein. Die Datierung ist bei Pollaczek ungenau. 
+Ankündigung NFP 12.9.1930, S. 10. Nachgewiesene Spielorte: Rotenturm-Kino, Tuchlauben-Lichtspiele und Kino Schäffer (NFP 19.9.1930, S. 19, NZG 19.9.1930, S. 8, NFP 12.9.1930, S. 10).</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Die Frau, von der man nicht spricht“ („Seine Freundin Annette“)</cell>
+                  <cell role="data"><date>[1930]</date></cell>
+                  <cell role="data">Komisch</cell>
+                  <cell role="data"><placeName>USA</placeName></cell>
+                  <cell role="data"><persName>Felix Basch</persName></cell>
+                  <cell role="data"><persName>John Meehan (Vorlage Bühnenstück „The Lady Lies“)</persName></cell>
+                  <cell role="data"><orgName>Paramount-Movietone-Film (franz. Negativ)</orgName></cell>
+                  <cell role="data">Lissi Arna, Lotte Lorring, Eva Brigitte Hartwig, Fritz Delius, Hadrian M. Netto, Philipp Manning, Peter Wolf</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

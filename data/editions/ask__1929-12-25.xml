@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-12-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Frau Im Mond«, 1929-12-25, Wien</title>
+            <title type="alternative" when-iso="1929-12-25"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>25/12 Vm. packen u. dgl.–
+Telef. mit O. Berlin.
+Vor Tisch zu C. P., wo auch Karl mit Magda.
+Allein zu Hause gegessen.– 
+Nm. tel. und sonst nichts rechtes.
+Zu C. P.; die mir einen kleinen Artikel vorlas, gegen die Generalproben (durch meine neuesten Erfahrungen, und den Beschluss der Direktoren veranlaßt, keine oeffentlichen Generalproben mehr zu veranstalten).
+Mit ihr Kino „Frau im Mond“; nach einem guten crimin. Anfang von unergründlicher Praetentiosität und Dummheit.
+Mit C. P. bei ihr genachtm.; mühselige Conversation; begleite sie heim, in schlechter Stimmung auseinander, wie allzuoft.– </ab></div>
+         <div type="anmerkung"><ab>»Wann wird man endlich bei uns auf die Erde niedersteigen?« (SK II, S. 238). Premierennotiz NFP 15.11.1929, S. 11, für 18.11.1929. Nachgewiesene Spielorte: Capitol-, Atlantis-, Eisenbahnerheim-, Margaretner Bürger-, Arkaden-, Flieger-, Olympia- und Weltspiegel-Kino sowie Kino Wienzeile und  Weltbiograph (NFP 25.12.1929, S. 43).</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Frau im Mond“</cell>
+                  <cell role="data"><date>[1929]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Fritz Lang</persName></cell>
+                  <cell role="data"><persName>Thea von Harbou (Vorlage Roman)</persName></cell>
+                  <cell role="data"><orgName>Lang-Ufa-Film</orgName></cell>
+                  <cell role="data">Gerda Maurus, Margarete Kupfer, Tilla Durieux, Willy Fritsch, Gustav von Wangenheim, Klaus Pohl, Fritz Rasp, Gustl Stark-Gstettenbauer</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-01-24.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Atlantic Film«, 1930-01-24, Wien</title>
+            <title type="alternative" when-iso="1930-01-24"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>24/1 […] – Mit C. P. Apolloth. Atlantic Film, interessant, aber blasphemisch auf mich wirkend. Mit C.P. „Weingartl“ soup.</ab></div>
+         <div type="ckp"><ab>24.1. Den ganzen Tag allein, nur um die Mittagszeit ein wenig in die Kälte hinaus. Anruf Friedas, sie bedauert mich, aber ich fühle, dass sie nicht aufrichtig zu mir ist. Es ist kein Zweifel, dass sie mit A. über seine Beziehung zu mir spricht. Sie stellt es etwa so dar, er ist gleichgiltig gegen <hi>alles</hi> geworden, ist am liebsten allein, möchte aber gleichzeitig, dass ich nicht leide.
+Ich kann nicht, ich kann [n]icht, kann nicht. Heute soll ich mit ihm ins Kino. Sage ich Nein,– wird eine Szene daraus, gehe ich wirds eine Qual. Dr. D[onath] telefonisch gesprochen. Er findet A.’s Befinden sehr gut. Er kommt morgen zu mir. Abends Tonfilm „Atlantis“. Qualvoller, aufregender Film. Mir stürzten die Tränen aus den Augen. A. hält meine Hand, sanft, fast zärtlich. Auf der Heimfahrt küsst er mich. Ich frage – warum? wenn Du mich nicht liebst? Er: „Das habe ich <hi>nie</hi> gesagt. Du verstehst mich nicht – ich bin seelisch krank“. – Nein, das versteh ich wirklich nicht. [III, 25]</ab></div>
+         <div type="anmerkung"><ab>„Kortner und Vallentin verstehen mitunter schon, richtig zu sprechen“ (SK II, S. 305). Notiz NFP 3.1.1930, S. 13. Premierennotiz der Uraufführung im Apollo-Kino und Anzeige NFP 10.1.1930, S. 12/13. Besprechung von Manfred Georg in NFP, 1.11.1929, S. 9, in der auch auf den Aspekt des Tonfilms eingegangen wird (»Atlantic« wurde parallel in englischer und deutscher Sprache gedreht). Ebenfalls wird dort der Konflikt zwischen der europäischen und der US-amerikanischen Filmindustrie thematisiert.</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Atlantic“</cell>
+                  <cell role="data"><date>[1929]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>UK/D</placeName></cell>
+                  <cell role="data"><persName>E. A. Dupont</persName></cell>
+                  <cell role="data"><persName>Ernest Raymond (Vorlage Bühnenstück); [E. A. Dupont, Victor Kendall]</persName></cell>
+                  <cell role="data"><orgName>British-International-R.C.A. Photophone</orgName></cell>
+                  <cell role="data">Fritz Kortner, Franz Lederer, Hermann Vallentin, Willi Forst, Heinrich Schroth, Theodor Loos, Philipp Manning, Georg August Koch, Georg John, Lucie Mannheim, Elfriede Borodin, Elsa Wagner, Julia Serda</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__11">
+               <orgName>Apollo</orgName>
+               <location><address><addrLine>06., Gumpendorferstraße 63</addrLine></address></location>
+               <note type="info"> Eröffnet 1929. Tonfilm ab 1929. Ab 1929 1440 Plätze (davon 80 Logenplätze). Zur (Wieder-)Eröffnung des Mariahilfer Apollo-Kinos vgl. auch den Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. – Zur Wiedereröffnung des Mariahilfer Apollo-Kinos Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. Ebd. S. 7 Bericht über Architektur des Kinos sowie eine dreispaltige Anzeige. – Schwarz 1992, S. 266 nennt auch ein „Apollo“ im 15. Bezirk (Schanzstr. 2-4); ein weiteres Kino im 17. Bezirk (Dornerplatz 9) bestand unter diesem Namen nur bis 1927. Dieses dürfte Schnitzler ebenfalls besucht haben, als es später unter dem Namen „Gloriakino“ geführt wurde.</note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

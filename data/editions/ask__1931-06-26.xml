@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-06-26.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Lied Des Lebens«, 1931-06-26, Wien</title>
+            <title type="alternative" when-iso="1931-06-26"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>26/6 […] – Mit C. P. Abds. (Imperial-) Kino Granowsky Lied des Lebens (Praetentiös dumm, mit einigen schönen Bildern).– Im „Dtsch. Haus“ genachtm. […]</ab></div>
+         <div type="ckp"><ab>27.6. Furchtbarer Abend. Weiss nicht, wie man so etwas überlebt. Nach quälendem Film „Lied des Lebens“ im Deutschen Haus Nachtmahl. Er sagt, dass Dr. D., bei dem er heute Mittag war, Palace-Sanatorium Dr. Hecht für <hi>mich</hi> empfiehlt. Er würde dann später mit Prof. Schinnerer ins Südbahn-Hotel Semmering gehen (eine halbe Stunde wenigstens entfernt). Ich sagte, anfangs lächelnd: „Nein, danke,– wenn ich <hi>allein</hi> fort soll, dann nach Bad Gastein, wozu mein Arzt rät“, dass ich aber, wenn er <hi>mit mir</hi> ] geht mich ganz seinen Wünschen anpasse. Er kann sich augenblicklich ein Alleinsein mit mir nicht vorstellen, will erst mit Schinnerer in meiner Nähe, dann <hi>ganz allein</hi>, dann Heini, Arnoldo, Olga für paar Tage treffen, eventuell mich ganz zum Schluss. Zunehmende Erbitterung. Am Weg zum Auto erklärt er, er geht zu Fuss, ich soll allein fahren. Ich antworte: „Ich auch“ und stürze wie eine Irrsinnige von der Teinfaltstrasse in die Stadt zurück. Er hinter mir drein. Beim Café Central holt er mich ein: „Sei nicht dumm – wir fahren zusammen“. Mir ist so schwindlig, dass ich mich an den Häusern anhalten muss, bis wir ein Auto finden. Ich bringe kein Wort mehr über die Lippen. Zuhause Harry: „Wie siehst du aus? Kann ich dir helfen?“ 4 Allonal. Jetzt seit 6 Uhr wach.
+Mit A. kurzes Telefongespräch, will morgen über den Sommer weiter reden. Ich reagiere nicht. Abend die Kinder bei mir, letztes gemeinsames Abendessen. Nachmittag war Melingo da beim Einpacken helfen. In 2 Stunden war es erledigt. Dann fuhren er und Harry gleich zur Bahn das Gepäck absenden. [III, 195f.]</ab></div>
+         <div type="anmerkung"><ab>»Dr. Hecht«: Victor Hecht (1882–?, Arzt, Sanatoriumsleiter); »Melingo«: Nicht ermittelt.
+Pollaczek und Schnitzler waren Gäste bei der Pressevorführung des Films. Vgl. Mitzi Friedmann an Clara Katharina Pollaczek, Brief vom 27.10.1931. WBR, HS, H.I.N. 104.811. 
+„Mit Kunst hat dieses prätentiöse Sammelsurium von Bildern und Liedern nicht das geringste zu tun“ (SK II, S. 490). 
+Ankündigung NFP 22.5.1931, S. 12. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP 16.6.1931, S. 7, unter Angabe von zwei weiteren Spielorten. Besprechung NFP 26.6.1931, S. 12. </ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Das Lied vom Leben“</cell>
+                  <cell role="data"><date>[1930/31]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Alexis Granowski</persName></cell>
+                  <cell role="data"><persName>[Victor] Trivas, H. Lechner</persName></cell>
+                  <cell role="data"><orgName>Filmkunst A.-G.-Tobis-Klangfilm</orgName></cell>
+                  <cell role="data">Aribert Mog, Margot Ferra, [Elsa Wagner, Ernst Busch, Harald Paulsen] u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__31">
+               <orgName>Imperialkino</orgName>
+               <location><address><addrLine>01., Rothgasse 3</addrLine></address></location>
+               <note type="info"> Eröffnet 1911. Tonfilm ab 1930. Fassungsraum: 1914: Ca. 480 Sitzplätze, 1922: 486 Sitzplätze (davon 58 Logenplätze).</note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

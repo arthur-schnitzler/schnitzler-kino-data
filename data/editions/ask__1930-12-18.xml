@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-12-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Kiebitz«, 1930-12-18, Wien</title>
+            <title type="alternative" when-iso="1930-12-18"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>18/12 […] Abd. mit C. P. Kino („Kiebitz“), sie nachtm. bei mir. […]</ab></div>
+         <div type="ckp"><ab>19.12. Kino („Kibitz“). Furchtbarer Schund. Dann bei A. genachtmahlt. Forciert heiter, forcierte Ungezwungenheit, aber Trockenheit im Herzen bleibt zurück. Er zeigt mir den neuen Schlafrock. Irgendein Verdacht ist wieder in mir, aber ich lasse nichts merken. Er hat seinen Kleiderkasten rasch zugemacht, als ich näherkam, als wolle er verhüten, dass ich hineinsehe und war dabei merkwürdig blass und atemlos. Voriges Jahr hing einmal ein himmelblauer Schlafrock in diesem Kasten und er sagte damals auf meine erstaunte Frage, dass er Lili gehöre und ich glaubte ihm. Vielleicht hat er an diese Erklärung vergessen und hatte Angst, dass ich ihn verdächtigen könnte, wenn ich diesen Schlafrock sähe. –
+Es ist vielleicht wirklich vertrottelt von mir misstrauisch gegen diesen müden alten Mann zu sein. Aber sein ganzes Verhalten gegen mich ist so sonderbar, so unnatürlich und veränderlich. […] [III, 129f.]</ab></div>
+         <div type="anmerkung"><ab>Pollaczeks Verdacht fällt auf Suzanne Clauser, mit der zwei Kinobesuche Schnitzlers dokumentiert sind (11.7. und 24.11.1930).
+Premierennotiz NFP 16.12.1930, S. 13. Besprechung von Philipp Winter in NFP 19.12.1930, S. 11. Nachgewiesene Spielorte: Burg-, Ufa-Ton- und Schottenring-Kino (NFP 16.12.1930, S. 13 und NZG 18.12.1930, S. 7).</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Der Kiebitz“ [Ot. „The Kibitzer“]</cell>
+                  <cell role="data"><date>[1930]</date></cell>
+                  <cell role="data">Komisch</cell>
+                  <cell role="data"><placeName>USA</placeName></cell>
+                  <cell role="data"><persName>Edward E. Sloman</persName></cell>
+                  <cell role="data"><persName>[Joseph] Swerling, [Edward G.] Robinson (Vorlage Roman „The Kibitzer“); [Marion Dix (Drehbuch); Sam Mintz, Viola Brothers Shore (Adaption, Dialog)]</persName></cell>
+                  <cell role="data"><orgName>Paramount-Karol</orgName></cell>
+                  <cell role="data">Mary Brian, Neil Hamilton, Harry Green, Eugéne Palette u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

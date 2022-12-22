@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-10-26.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Dolly Macht Carrière«, 1930-10-26, Wien</title>
+            <title type="alternative" when-iso="1930-10-26"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>26/10 […] Mit C. P. Kino „Dolly macht Carrière“ (Dolly Haas) – mit C. P. bei mir genachtm.– […]
+Von 24. nachzutragen: Bubi B.-H. bei mir; erzählt von seinen Erfahrungen mit Elis. Bergner und dem übeln Czinner; als Mitarbeiter am Ariane Film (der nun andern (Nero-Film) übergeben wird).– Über meine amerik. Geschäfte;– er erbietet sich zu Interventionen bei Simon Schuster etc.– Fährt wieder nach New York, wahrscheinlich Paramount.–</ab></div>
+         <div type="ckp"><ab>26.10. Gestern Harry zu Tisch. Heute Sturm und Regen. Abend mit A. im Kino. „Dolly macht Carrière.“ Dann bei A. Sternwartestrasse. Gemütlicherer Abend. [III, 106]</ab></div>
+         <div type="anmerkung"><ab>»Bubi B.-H.«: Gabriel Beer-Hofmann (1901–1971). »Simon Schuster«: das amerikanische Verlagshaus Simon &amp; Schuster.
+Der von Schnitzler erwähnte »Ariane«-Film Paul Czinners sollte im März 1931 in die Kinos kommen (siehe Eintrag zum 2.4.1931).
+Ankündigung NFP 10.10.1930, S. 14. Besprechung von Eduard Siebrecht in NFP 24.10.1930, S. 12. Nachgewiesene Spielorte: Burg-, Flieger- und Ufa-Ton-Kino (NZG 26.10.1930, S. 16). </ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Dolly macht Karriere“</cell>
+                  <cell role="data"><date>[1930]</date></cell>
+                  <cell role="data">Komisch</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Anatole Litvak</persName></cell>
+                  <cell role="data"><persName>[Irma von] Cube, [Peter] Heimann</persName></cell>
+                  <cell role="data"><orgName>Ufa-Klangfilm</orgName></cell>
+                  <cell role="data">Dolly Haas, Wicki Werkmeister, Oskar Karlweis, Kurt Gerron, Paul Kemp, Alfred Abel, Hermann Blass, Theo Lingen, Gustl Stark-Gstettenbauer, Paul [Henckels]</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

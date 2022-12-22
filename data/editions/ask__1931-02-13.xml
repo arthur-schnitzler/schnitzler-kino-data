@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-02-13.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Nächte Am Bosporus«, 1931-02-13, Wien</title>
+            <title type="alternative" when-iso="1931-02-13"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>13/2 […] Mit C. P. Schweden-Kino (Nächte am Bosporus;– George, Veidt, Tr. v. Molo) – mit ihr Meißl soupirt.– […]</ab></div>
+         <div type="ckp"><ab>13.2.1931. Vormittag von A. abgeholt in die Generalprobe. Auch Anna kam hin. Ich fand die Aufführung heute besser als gestern, wenn auch noch viel auszusetzen wäre. Ich fürchte doch die morgige Première. Es ist viel verworren, viel peinlich und ob das Publikum die Gewalt der Sprache, die Schönheiten dieses Stückes als solches würdigen wird – –
+Trotzdem ich A. riet heute zuhaus zu bleiben, will er mich ins Kino holen und nachher soupieren gehen. Wie soll man sich da in ihm auskennen! Gestern Mittag nach der Probe sass er bei mir. Als ich ihm beim Fortgehen die Hand gab, zog er mich zärtlich an sich, küsste mich und dankte mir für all meine Ratschläge. Am Abend rief er mich noch an. [III, 151f.]</ab></div>
+         <div type="anmerkung"><ab>»Anna«: Anna Epstein, geb. Loeb, Pollaczeks Schwester. – »Generalprobe«: Jene zu Schnitzlers »Der Gang zum Weiher« im Wiener Burgtheater, siehe auch den Folgeeintrag.
+„schwüle psychologische Fabel“ (SK II, S. 447). Ankündigung NFP 6.2.1931, S. 12. Notiz und Anzeige NFP 10.2.1931, S. 9, mit Angabe der (exklusiven) »Uraufführung Schwedenkino«, vgl. auch NFP 13.2.1931, S. 20.</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Nächte am Bosporus“ („Der Mann, der den Mord beging“)</cell>
+                  <cell role="data"><date>[1931]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Kurt Bernhardt</persName></cell>
+                  <cell role="data"><persName>Heinz Goldberg, Henry Koster</persName></cell>
+                  <cell role="data"><orgName>Terra-Tobis-Klangfilm</orgName></cell>
+                  <cell role="data">Conrad Veidt, Heinrich George, Trude von Molo, Erich Ponto</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__10">
+               <orgName>Ferdinandskino / Ifa Palast Kino / Schwedenkino</orgName>
+               <location><address><addrLine>02., Taborstraße 1-3</addrLine></address></location>
+               <note type="info"> Eröffnet 1919. Umbenennung 1927. Fassungsraum: Galerie. 1922: 702 Sitzplätze (davon 120 Logenplätze).
+</note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

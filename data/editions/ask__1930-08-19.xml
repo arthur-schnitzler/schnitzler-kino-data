@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-08-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Ein Tango Für Dich«, 1930-08-19, Wien</title>
+            <title type="alternative" when-iso="1930-08-19"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>19/8 […] Mit C. P. (die heut bei Ferry war) Lustspth. Kino „Ein Tango für dich“; dann bei Prochaska genachtm. […] </ab></div>
+         <div type="ckp"><ab>20.8. Gespräch mit Dr. D.[:] A. habe sich sehr befriedigt über mein Wesen und die jetzige Art unserer Beziehung geäussert. Ich sagte Dr. D., dass ich kaum eine Beziehung, der so wie <hi>jetzt</hi> jede Zärtlichkeit fehlt, auf die Dauer durchhalten werde.
+Abends mit A. Kino und dann bei Prochaska im Prater. A. kühl wie immer. Ich sage ihm sehr freundlich, dass ich meine Wohnung instand setzen lassen werde, da ich dieses Leben zwischen Koffern und aufgerollten Teppichen satt habe und er mir mit einer Reise, zu der er sich so schwer entschließen scheint, gar keinen Gefallen tut. Ich bleibe ebenso gern hier. Darauf er: er habe die Absicht nächste Woche nach Marienbad zu gehen und es sei ihm angenehm mit mir zu fahren. Ich meinte, er könne ruhig auch allein fortfahren, da eine gemeinsame Reise ohne Animo ein Unding sei. Er erklärte, dass es ihm gar nicht einfalle allein fortzugehen, für Stimmung liesse sich allerdings kein Programm machen, weder für hier noch für dort. Kurzum Drehs ohne Ende. 
+Es ist mir heute ganz klar, dass die Wühlarbeit verschiedener Weiber nach unserer Reise in Caux angefangen hat. Diese Weiber <hi>fühlten</hi>, wie nah wir uns dort gekommen sind und witterten Gefahr für sich. Nach seiner Berliner Reise im Winter kam er plötzlich mit der veränderten Einstellung und mit dem veränderten Programm zurück. […] [III, 88f.]</ab></div>
+         <div type="anmerkung"><ab>Pollaczeks Datierung auf den 20. August wird plausibel durch den Schluß des vorangehenden Eintrags, der mit »Heute Mittag« eingeleitet ist. »Reise in Caux«: Sommer 1929, siehe Eintrag vom 27. September 1929. 
+Premierennotiz NFP 8.8.1930, S. 11, für 14.8.1930. Nachgewiesener Spielort: Lustspieltheater (NZG 19.8.1930, S. 8). „Die Tonfilmoperetten beginnen eine Plage zu werden“ (SK II, S. 390).</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Ein Tango für dich“</cell>
+                  <cell role="data"><date>[1930]</date></cell>
+                  <cell role="data">Komisch</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Géza von Bolvary</persName></cell>
+                  <cell role="data"><persName>[Walter Reisch]</persName></cell>
+                  <cell role="data"><orgName>Super-Tobis-Film</orgName></cell>
+                  <cell role="data">Willi Forst, Ernst Verebes, Fee Malten, Oskar Karlweis</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__1">
+               <orgName>Lustspieltheater</orgName>
+               <location><address><addrLine>02., Prater</addrLine></address></location>
+               <note type="info"> Eröffnet 1927. Tonfilm ab 1929
+Fassungsraum: ehemaliges Theater, 3 Ränge. 1927: 1065 Sitzplätze.</note>
+            </org>
+            <org xml:id="ask_wirt__6">
+               <orgName>Prochaska</orgName>
+               <location><address><addrLine>Prater 37, 2.0</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

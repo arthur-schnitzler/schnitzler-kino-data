@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 env.secret
 hansi.csv
-/data/editions
+# /data/editions
 film_df.csv
 kinos.csv
 Untitled.ipynb

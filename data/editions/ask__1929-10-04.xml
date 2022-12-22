@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-10-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Lady Hamilton«, 1929-10-04, Wien</title>
+            <title type="alternative" when-iso="1929-10-04"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>4/10 […] Mit C. P. Apollokino (Lady Hamilton, und tonfilmisches, Orgel), „Weingartl“ soup.–</ab></div>
+         <div type="anmerkung"><ab>„Von den historischen Filmen ist dieser nicht der schlechteste“ (SK II, S. 214). Notiz NFP 4.10.1929, S. 9. Besprechung von Kurt Sonnenfeld anläßlich der Eröffnung des Apollo-Kinos in NFP 12.9.1929, S. 7.</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Lady Hamilton. – The Divine Lady“ („Die ungekrönte Königin“)</cell>
+                  <cell role="data"><date>[1929]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>USA</placeName></cell>
+                  <cell role="data"><persName>Frank Lloyd</persName></cell>
+                  <cell role="data"><persName>E. Barrington (Vorlage gleichnamiger Roman); Forrest Halsey (Adaption)</persName></cell>
+                  <cell role="data"><orgName>First Nationalfilm</orgName></cell>
+                  <cell role="data">Corinne Griffith, Dorothy Cumming, Victor [Michael] Várkonyi, Ian Keith, Montague Love</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__11">
+               <orgName>Apollo</orgName>
+               <location><address><addrLine>06., Gumpendorferstraße 63</addrLine></address></location>
+               <note type="info"> Eröffnet 1929. Tonfilm ab 1929. Ab 1929 1440 Plätze (davon 80 Logenplätze). Zur (Wieder-)Eröffnung des Mariahilfer Apollo-Kinos vgl. auch den Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. – Zur Wiedereröffnung des Mariahilfer Apollo-Kinos Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. Ebd. S. 7 Bericht über Architektur des Kinos sowie eine dreispaltige Anzeige. – Schwarz 1992, S. 266 nennt auch ein „Apollo“ im 15. Bezirk (Schanzstr. 2-4); ein weiteres Kino im 17. Bezirk (Dornerplatz 9) bestand unter diesem Namen nur bis 1927. Dieses dürfte Schnitzler ebenfalls besucht haben, als es später unter dem Namen „Gloriakino“ geführt wurde.</note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

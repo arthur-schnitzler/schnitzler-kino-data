@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-02-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Daemon Weib«, 1927-02-25, Wien</title>
+            <title type="alternative" when-iso="1927-02-25"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>25/2 […] Mit C. P. Kino („Daemon Weib“) – dann beim Leupold (neue Wirthin) genachtm.</ab></div>
+         <div type="anmerkung"><ab>»Leupold«: Vermutlich Gastwirtschaft Alfred Leupold, Wien 1., Schottengasse 3
+Besprechung von H. Sch. in NFP 11.3.1927, S. 16: „Ursprünglich war es im amerikanischen Original eine ‚Temptress‘, eine Versucherin und Verführerin, eine Circe, eine Schwester des dort drüben im Film heimischen ‚Vamp‘, des weiblichen Vampires. Beide verdanken ihre Existenz wohl nur der Phantasie der Szenarioautoren, die sie die gewagtesten psychologischen Kapriolen ausführen lassen, ohne sich an die Wirklichkeit des Lebens gebunden zu fühlen. Auch dieser ‚Dämon Weib‘ ist eine reinblütige literatische Konstruktion: eine schöne Frau, der die Männer zu Füßen liegen und für sie zugrunde gehen und die doch in Anwandlungen amerikanisierter Lulu-Stimmungen an allem schuldlos ist. Bis auch dieser Dämon seinen Bezwinger findet: einen Mann, dem das Weib – siegend – besiegt verfallen ist und der es sich erst erkämpfen muß. […] 
+Fred Niblo, der ‚Ben Hur‘-Regisseur, hat dem mit dramatischer Dynamik gefüllten Sujet von Ibanez durch seine Regie starke filmische Wirkungen abgewonnen. Er verwandelt die oft nur dichterisch-mathematischen Konstruktionen des Autors in wirkliches Leben, ohne dabei allerdings, wie bei der Peitschenduellszene, vor sehr krassen Bildern zurückzuschrecken. Jeder Auftritt hat bei Niblo seinen dramatischen Höhe- und Kontrapunkt und das Spiel einen gigantischen Hintergrund, der uns auch das Geschehen im Vordergrund großartig erscheinen läßt. Dabei spart Niblo nicht mit der Ausstattung und schafft Bilder von eindringlichster Wirkung. 
+Greta Garbo ist wunderschön; deshalb findet man sich damit ab, daß ihre nordische Madonnenhaftigkeit absolut nicht für die Rolle einer Verführerin geeignet ist. […] Man darf ‚Dämon Weib‘ als einen der interessantesten der neuen Filme bezeichnen.“</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Dämon Weib“ („Die Versucherin“, „The Temptress“)</cell>
+                  <cell role="data"><date>[1927]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>USA</placeName></cell>
+                  <cell role="data"><persName>Fred Niblo</persName></cell>
+                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><orgName>Metro-Goldwyn-Film</orgName></cell>
+                  <cell role="data">Greta Garbo, Antonio Moreno, Roy d’Arcy</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__16">
+               <orgName>Vermutlich Gastwirtschaft Alfred Leupold</orgName>
+               <location><address><addrLine>Schottengasse 3, 1.0</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-31.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Expresszug 13 Hat Verspätung«, 1931-05-31, Wien</title>
+            <title type="alternative" when-iso="1931-05-31"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>31/5 […] Abds. mit C. P. Ufa Kino, Expresszug 13 hat Verspätung, dann Prater Prochaska; dann herum, auch Metrophon;– über die Sonntags Prater Typen amüsiert.–</ab></div>
+         <div type="ckp"><ab>1. Juni. Gestern Abend Kino (D-Zug 13). Nicht ungeschickt, aber langweilig. Nachher Prochaska. Dann Wurstelprater. Ich frage mich wieder, wozu? Nicht ein freundliches Wort, nicht ein <hi>Atom</hi> von Herzlichkeit. So schleicht man nebeneinander hin. Wir sprechen vom Fall Auspitz und von Verdauung, Diät, Rohkost und dann fährt man heim und er sagt Gute Nacht und ich antworte: „Schlaf gut“. […] [III, 180]</ab></div>
+         <div type="anmerkung"><ab>Fall Auspitz: Konkurs der Bank Auspitz, Lieben und Co. infolge der Weltwirtschaftskrise. Pollaczek  erwähnt im Tagebuch am 24. Mai 1931 außerdem den Suizid bzw. Suizidversuch von Ludwig Schüller und Stefan Auspitz (CKP III, 176).
+»[Der Film] gefährdet angeblich die öffentliche Sicherheit und Ordnung, da er irgend jemanden dazu bewegen könnte, ein Attentat auf das Staatsoberhaupt zu begehen« (SK II, S. 487). Zum Film, der (deshalb?) 1933 in Deutschland verboten wurde, vgl. Dost 1998, 290f.
+Notizen NFP 19.5.1931, S. 10, NFP 22.5.1931, S. 12, und NFP 29.5.1931, S. 13. Besprechung von Fritz Frankl in NFP 31.5.1931, S. 21. Spielort bestätigt NZG 31.5.1931, S. 16.</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„D-Zug 13 hat Verspätung“</cell>
+                  <cell role="data"><date>[1931]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Alfred Zeisler</persName></cell>
+                  <cell role="data"><persName>[Rudolf] Katscher, [Egon] Eis</persName></cell>
+                  <cell role="data"><orgName>Ufa-Klangfilm</orgName></cell>
+                  <cell role="data">Charlotte Susa, Alfred Beierle, Fee Malten</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__8">
+               <orgName>Zentralkino / Ufa-Ton-Kino</orgName>
+               <location><address><addrLine>02., Taborstraße 8</addrLine></address></location>
+               <note type="info"> Eröffnet 1916. Umbenennung 1929. Tonfilm ab 1929.  Fassungsraum: Ehemalige Singspielhalle, Galerie. 1922: insgesamt 1008 Sitzplätze (davon 110 Logenplätze), 1923: 984 (128). – Schwarz 1992, S. 208 nennt außerdem noch ein „Wiedner Zentralkino“, 04., Favoritenplatz 5.</note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

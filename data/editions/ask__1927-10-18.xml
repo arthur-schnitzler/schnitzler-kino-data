@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-10-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Gefährliche Fahrt«, 1927-10-18, Wien</title>
+            <title type="alternative" when-iso="1927-10-18"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>18/10 […] Mit C. P. in einem Kino (amerik.; „gefährliche Fahrt“ – ) ohne wesentliches zu sprechen: nicht miteinander genachtm.</ab></div>
+         <div type="anmerkung"><ab>Während eines Aufenthaltes seiner geschiedenen Frau Olga in Wien hatte Schnitzler Pollaczek nie zu sich nach Hause gebeten, was diese am 22.Oktober 1927 brieflich wie folgt kommentierte: „[…] Du findest es wünschenswert dass die O. dich besucht wenn sie in Wien ist, – gut, – aber dann eben <hi>wie ein Gast</hi> den man fallweise gerne spricht, bei <hi>dir zu Hause fühlen</hi>, müsste <hi>ich</hi> mich. […] der Gedanke an eine Ehe mit dir ist mir <hi>nie</hi> gekommen, ist mir immer völlig fern gelegen und ist mir mindestens so widerwärtig wie dir und ebenso ein dauerndes Zusammensein unter einem Dach. Aber wenn ich dir weiter Freundin und Geliebte sein soll, dann muss mir unsere Beziehung endlich eine Art Heimath bedeuten eine Zuflucht aus allen Sorgen und Kümmernissen des Lebens. Du musst mich eben so gerne bei dir sehen wie ich dich bei mir. Ich gehe sehr gerne aus einer guten Stimmung heraus mit dir aus, – ins Theater, ins Kino etc. aber wir sind beide nicht jung genug, unser Zusammensein hauptsächlich darauf einzustellen.“ [CKP II, 64] Dieser Hintergrund erklärt, daß entgegen Pollaczeks und Schnitzlers Gepflogenheit ein gemeinsames Abendessen nicht stattfand.
+Nachgewiesene Spielorte: Tuchlauben-Kino (NZG 18.10.1927, S. 8), Central-, Votivpark-Kino (NFP 28.10.1927, S. 17).</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Gefährliche Fahrt“ (Ot. „Paradise“)</cell>
+                  <cell role="data"><date>[1927]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>USA</placeName></cell>
+                  <cell role="data"><persName>Erwin Willat</persName></cell>
+                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><orgName>[Ray Rockett Productions]</orgName></cell>
+                  <cell role="data">Milton Sills, Lloyd Whitlock, Charles Murray, Betty Bronson</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

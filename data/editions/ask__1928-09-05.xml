@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-05.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Spione«, 1928-09-05, Wien</title>
+            <title type="alternative" when-iso="1928-09-05"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>5/9 […] Mit C. P. Kino, „Spione“, im Churhauskeller genachtm.–</ab></div>
+         <div type="ckp"><ab>5.9. Mit Magda bei Krupnik, ein einfache[s] Kleid um 24 S. fürs Spital aussuchen geholfen. Telefonisches Gespräch mit Berta Z., dann mit Dr. Horch von der Josefstadt. In den nächsten Tagen geht ein Brief an A. ab. Ich habe genau angegeben, wie er stilisiert sein soll: Man brennt darauf, ein Stück von ihm zu geben. Ob er nicht etwas Neues hat? etc. Ich hoffe so, dass ihm das helfen wird.
+Nachmittag Bruder Otto bei mir, der liebste, beste Mensch, den es gibt.
+Abend mit A. im Kino. War innerlich erstaunt, dass er den Wunsch hatte. Nachher Kurhauskeller. Alle Leute starren uns an. [II, 143]</ab></div>
+         <div type="anmerkung"><ab>»Magda«: Pollaczeks Schwiegertochter; »Berta Z.«: die Journalistin Berta Zuckerkandl (1864–1945); »Dr. Horch«: Franz Horch (1901–1951, Dramaturg, Schriftsteller und Übersetzer). Hintergrund des Versuchs von Pollaczek, ein Stück von Schnitzler auf die Bühne zu bringen, – und des von ihr wahrgenommenen Starrens der Leute im Restaurant – ist, daß dessen Tochter Lili am 28.7.1928 in Venedig an den Folgen einer selbstzugefügten Schußwunde gestorben war. 
+»eine tolle optische Reportage« (SK II, S. 62). Nachgewiesene Spielorte: Central-, Maria-Theresien-Kino.</ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Spione“</cell>
+                  <cell role="data"><date>[1927/28]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Fritz Lang</persName></cell>
+                  <cell role="data"><persName>Thea von Harbou (Vorlage gleichnamiger Roman); [Fritz Lang, Thea von Harbou]</persName></cell>
+                  <cell role="data"><orgName>Lang-Ufa-Film</orgName></cell>
+                  <cell role="data">Willy Fritsch, Rudolf Klein-Rogge, Louis Ralph, Paul Hörbiger, Lupu Pick, Fritz Rasp, Gerda Maurus, Lien Deyers u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_wirt__9">
+               <orgName>Meinl Churhaus-Restaurant</orgName>
+               <location><address><addrLine>Stephansplatz 3, 1.0</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>

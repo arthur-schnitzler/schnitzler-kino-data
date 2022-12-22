@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Voruntersuchung«, 1931-05-17, Wien</title>
+            <title type="alternative" when-iso="1931-05-17"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="as"><ab>17/5 […] – Abds. mit C. P. (Apollo-Kino) Voruntersuchung (Bassermann); mit ihr bei mir genachtm. Die Stunde nachher ziemlich unerträglich, da sie immer gekränkt ist.–</ab></div>
+         <div type="ckp"><ab>17.5. Mit Emmy gestern etwas eintönige Konversation, ich war innerlich zu elend, um anregend zu sein, wollte eigentlich um 3/4 11 Uhr Nacht, als sie fort war, noch bei A. versuchsweise anrufen, unterdrückte es aber, um mich nicht aufzuregen. Heute um 1/4 9 Uhr Früh rief er mich an. Er war richtig schon gestern Abend da. Warum, wozu? Ich frage nicht.
+Er kam um ½12 Uhr Vormittag herüber, fand mich <hi>sehr</hi> gut aussehend. Das findet er immer, wenn er ein schlechtes Gewissen hat. Kühle Begrüssung, dann in etwas freundlicherer Stimmung kurze Spazierfahrt auf den Kobenzl. Die Clauser kommt angeblich Nachmittag zu ihm, ich weiss nicht, ob er sie nicht zu Tisch gebeten hat. Beweise fehlen mir,– was weiss ich überhaupt? Und <hi>niemand</hi> hilft mir. Am Abend mit ihm im Kino („Voruntersuchung“), wie immer jetzt solche Abende zu Zweit unerträglich. Er sitzt neben mir, starrt an mir vorbei, kein liebes Wort kommt über seine Lippen, von Zärtlichkeit gar nicht zu reden. Dabei war ich bis zur letzten halben Stunde ausgesprochen heiter, dann versagte meine Kraft und ich wurde still und ging sobald als möglich. <hi>Reden</hi> darüber <hi>kann</hi> ich nicht mehr.
+Donnerstag soll Heini kommen, die Scheidung von Ruth ist schon vollzogene Tatsache. [III, 174]</ab></div>
+         <div type="anmerkung"><ab>Pollaczek und Schnitzler hatten eine Aufführung des gleichnamigen Bühnenstücks am 28. Jänner 1931 im Theater in der Josefstadt besucht. Pollaczek hält es für »übrigens ausgezeichnet« (CKP III, 146).
+„Der junge Regisseur Siodmak zeigt seine Begabung in den Details“ (SK II, S. 489).
+Ankündigung NFP 8.5.1931, S. 13. Premierennotiz der Uraufführung im Apollo-Kino NFP 12.5.1931, S. 13, für »in den nächsten Tagen«. Besprechung von Fritz Frankl in NFP 16.5.1931, S. 9. Spielort bestätigt NFP 17.5.1931, S. 28. </ab></div>
+         <div type="film">
+            <table>
+               <head>Filme</head>
+               <row role="label">
+                  <cell role="data">Filmtitel</cell>
+                  <cell role="data">Jahr</cell>
+                  <cell role="data">Genre</cell>
+                  <cell role="data">Land</cell>
+                  <cell role="data">Regie</cell>
+                  <cell role="data">Buch</cell>
+                  <cell role="data">Produktion</cell>
+                  <cell role="data">Darsteller</cell>
+               </row>
+               <row role="label">
+                  <cell role="data">„Voruntersuchung“</cell>
+                  <cell role="data"><date>[1931]</date></cell>
+                  <cell role="data">Drama</cell>
+                  <cell role="data"><placeName>D</placeName></cell>
+                  <cell role="data"><persName>Robert Siodmak</persName></cell>
+                  <cell role="data"><persName>Robert Liebmann</persName></cell>
+                  <cell role="data"><orgName>Ufa-Klangfilm</orgName></cell>
+                  <cell role="data">Albert Bassermann, Hans Brausewetter, Charlotte Ander u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+         <listOrg>
+            <org xml:id="ask_kino__11">
+               <orgName>Apollo</orgName>
+               <location><address><addrLine>06., Gumpendorferstraße 63</addrLine></address></location>
+               <note type="info"> Eröffnet 1929. Tonfilm ab 1929. Ab 1929 1440 Plätze (davon 80 Logenplätze). Zur (Wieder-)Eröffnung des Mariahilfer Apollo-Kinos vgl. auch den Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. – Zur Wiedereröffnung des Mariahilfer Apollo-Kinos Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. Ebd. S. 7 Bericht über Architektur des Kinos sowie eine dreispaltige Anzeige. – Schwarz 1992, S. 266 nennt auch ein „Apollo“ im 15. Bezirk (Schanzstr. 2-4); ein weiteres Kino im 17. Bezirk (Dornerplatz 9) bestand unter diesem Namen nur bis 1927. Dieses dürfte Schnitzler ebenfalls besucht haben, als es später unter dem Namen „Gloriakino“ geführt wurde.</note>
+            </org>
+            <org xml:id="ask_wirt__0">
+               <orgName>unbekannt</orgName>
+               <location><address><addrLine> , nan</addrLine></address></location>
+            </org>
+         </listOrg>
+      </back>
+   </text>
+</TEI>
