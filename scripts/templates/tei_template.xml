@@ -58,13 +58,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </revisionDesc>
    </teiHeader>
    <text type="letter">
-      <div type="as">{{ zitatasTEI|safe }}</div>
-      <div type="ckp">{{ zitatckpTEI|safe }}</div>
-      <div type="anmerkung">{{ anmerkung_online|safe }}</anmerkung>{% if filme %}
-      <div type="film">
-         <table>
-            <head>Filme</head>
-            <tr>
+      <body>
+         <div type="as"><ab>{{ zitatas|safe }}</ab></div>{% if zitatckp %}
+         <div type="ckp"><ab>{{ zitatckp|safe }}</ab></div>{% endif %}
+         <div type="anmerkung"><ab>{{ anmerkung_online|safe }}</ab></div>{% if filme %}
+         <div type="film">
+            <table>
+               <head>Filme</head>
                <row role="label">
                   <cell role="data">Filmtitel</cell>
                   <cell role="data">Jahr</cell>
@@ -74,37 +74,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data">Buch</cell>
                   <cell role="data">Produktion</cell>
                   <cell role="data">Darsteller</cell>
-               </row>
-            </tr>{% for x in filme %}
-            <row role="label">
-               <cell role="data">{{ x.Titel }}</cell>
-               <cell role="data"><date>{{ x.Jahr }}</date></cell>
-               <cell role="data">{{ x.Genre }}</cell>
-               <cell role="data"><placeName>{{ x.Land }}</placeName></cell>
-               <cell role="data"><persName>{{ x.Regie }}</persName></cell>
-               <cell role="data"><persName>{{ x.Buch }}</cell>
-               <cell role="data"><orgName>{{ x.Produktion }}</cell>
-               <cell role="data">{{ x.Darsteller }}</cell>
-            </row>{% endfor %}
-         </table>
-      </div>{% endif %}
+               </row>{% for x in filme %}
+               <row role="label">
+                  <cell role="data">{{ x.Titel }}</cell>
+                  <cell role="data"><date>{{ x.Jahr }}</date></cell>
+                  <cell role="data">{{ x.Genre }}</cell>
+                  <cell role="data"><placeName>{{ x.Land }}</placeName></cell>
+                  <cell role="data"><persName>{{ x.Regie }}</persName></cell>
+                  <cell role="data"><persName>{{ x.Buch }}</persName></cell>
+                  <cell role="data"><orgName>{{ x.Produktion }}</orgName></cell>
+                  <cell role="data">{{ x.Darsteller }}</cell>
+               </row>{% endfor %}
+            </table>
+         </div>{% endif %}
+      </body>
+      <back>
+         <listPlace>
+            <place type="location">
+               <placeName>{{ ort }}</placeName>
+            </place>
+         </listPlace>
+         <listOrg>{% if kino_data %}
+            <org xml:id="ask_kino__{{ kino_data.id }}">
+               <orgName>{{ kino_data.kino }}</orgName>
+               <location><address><addrLine>{{ kino_data.adresse }}</addrLine></address></location>
+               <note type="info"> {{ kino_data.kinoinfo }}</note>
+            </org>{% endif %}{% if wirte_data %}
+            <org xml:id="ask_wirt__{{ wirte_data.id }}">
+               <orgName>{{ wirte_data.bezeichnung }}</orgName>
+               <location><address><addrLine>{{ wirte_data.str}} {{ wirte_data.onr }}, {{ wirte_data.bezirk }}</addrLine></address></location>
+            </org>{% endif %}
+         </listOrg>
+      </back>
    </text>
-   <back>
-      <listplace>
-         <place type="location">
-            <placeName>{{ ort }}</placeName>
-         </place>
-      </listplace>
-      <listOrg>{% if kino_data %}
-         <org xml:id="ask_kino__ {{ kino_data.id }}">
-            <orgName>{{ kino_data.kino }}</orgName>
-            <location>{{ kino_data.adresse }}</location>
-            <note type="info"> {{ kino_data.kinoinfo }}</note>
-         </org>{% endif %}{% if wirte_data %}
-         <org xml:id="ask_wirt__ {{ wirte_data.id }}">
-            <orgName>{{ wirte_data.bezeichnung }}</orgName>
-            <location>{{ wirte_data.str}} {{ wirte_data.onr }}, {{ wirte_data.bezirk }} </location>
-         </org>{% endif %}
-      </listOrg>
-   </back>
 </TEI>
