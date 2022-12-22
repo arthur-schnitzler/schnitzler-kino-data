@@ -130,3 +130,6 @@ dmypy.json
 env.secret
 hansi.csv
 /data/editions
+film_df.csv
+kinos.csv
+Untitled.ipynb

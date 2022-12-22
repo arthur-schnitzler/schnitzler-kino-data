@@ -24,9 +24,26 @@ query = "SELECT * FROM synopse"
 df = pd.read_sql(query, con=db_connection)
 df.to_csv("hansi.csv", index=False)
 
+film_df = pd.read_sql("SELECT * FROM filminfo", con=db_connection)
+film_df.to_csv("film_df.csv", index=False)
+film_dict = {
+    row['id']: row.to_dict() for i, row in film_df.iterrows()
+}
+
+kinos = pd.read_sql("SELECT * FROM kinos", con=db_connection)
+kinos.to_csv("kinos.csv", index=False)
+kino_dict = {
+    row['id']: row.to_dict() for i, row in kinos.iterrows()
+}
+
+
 for i, row in tqdm(df.head(N).iterrows(), total=N):
     context = row.to_dict()
     context['title'] = "hansi"
+    try:
+        kino = kino_dict[row['kino_id']]
+    except KeyError:
+        kino = None
     file_name = os.path.join(out_dir, f"ask__{context['datum']}.xml")
     with open(file_name.lower(), 'w') as f:
         f.write(template.render(**context))
