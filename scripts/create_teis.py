@@ -27,10 +27,6 @@ df.to_csv("hansi.csv", index=False)
 
 film_df = pd.read_sql("SELECT * FROM filminfo", con=db_connection)
 film_df.to_csv("film_df.csv", index=False)
-film_dict = {
-    row['id']: row.to_dict() for i, row in film_df.iterrows()
-}
-
 filme = defaultdict(list)
 for i, row in film_df.iterrows():
     filme[row['id_besuch']].append(row.to_dict())
@@ -41,16 +37,24 @@ kino_dict = {
     row['id']: row.to_dict() for i, row in kinos.iterrows()
 }
 
+wirte = pd.read_sql("SELECT * FROM orte_danach", con=db_connection)
+wirte.to_csv("wirte.csv", index=False)
+wirte_dict = {
+    row['id']: row.to_dict() for i, row in wirte.iterrows()
+}
+
 
 for i, row in tqdm(df.head(N).iterrows(), total=N):
     context = row.to_dict()
     besuch_id = row['id']
     films = filme[besuch_id]
+    wirte_data = wirte_dict[row['ortDanach_id']]
     try:
         kino_data = kino_dict[row['kino_id']]
     except KeyError:
         kino_data = None
     context["kino_data"] = kino_data
+    context["wirte_data"] = wirte_data
     context["filme"] = films
     file_name = os.path.join(out_dir, f"ask__{context['datum']}.xml")
     with open(file_name.lower(), 'w') as f:

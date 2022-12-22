@@ -90,24 +90,21 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </div>{% endif %}
    </text>
    <back>
-      <list>
-         <head>Film</head>{% for x in filme %}
-         <item key="ask_film__{{ x.id }}">{{ x.Titel }}</item>{% endfor %}
-      </list>
       <listplace>
-         <place xml:id="ask_wirt__{{ ortDanach_id }}" type="wirt">
-            <placeName></placeName>
-         </place>
          <place type="location">
             <placeName>{{ ort }}</placeName>
          </place>
-      </listplace>{% if kino_data %}
-      <listOrt>
+      </listplace>
+      <listOrg>{% if kino_data %}
          <org xml:id="ask_kino__ {{ kino_data.id }}">
             <orgName>{{ kino_data.kino }}</orgName>
             <location>{{ kino_data.adresse }}</location>
             <note type="info"> {{ kino_data.kinoinfo }}</note>
-         </org>
-      </listOrg>{% endif %}
+         </org>{% endif %}{% if wirte_data %}
+         <org xml:id="ask_wirt__ {{ wirte_data.id }}">
+            <orgName>{{ wirte_data.bezeichnung }}</orgName>
+            <location>{{ wirte_data.str}} {{ wirte_data.onr }}, {{ wirte_data.bezirk }} </location>
+         </org>{% endif %}
+      </listOrg>
    </back>
 </TEI>
