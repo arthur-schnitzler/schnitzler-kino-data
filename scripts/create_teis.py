@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import jinja2
+from collections import defaultdict
 
 from sqlalchemy import create_engine
 from tqdm import tqdm
@@ -30,6 +31,10 @@ film_dict = {
     row['id']: row.to_dict() for i, row in film_df.iterrows()
 }
 
+filme = defaultdict(list)
+for i, row in film_df.iterrows():
+    filme[row['id_besuch']].append(row.to_dict())
+
 kinos = pd.read_sql("SELECT * FROM kinos", con=db_connection)
 kinos.to_csv("kinos.csv", index=False)
 kino_dict = {
@@ -39,11 +44,14 @@ kino_dict = {
 
 for i, row in tqdm(df.head(N).iterrows(), total=N):
     context = row.to_dict()
-    context['title'] = "hansi"
+    besuch_id = row['id']
+    films = filme[besuch_id]
     try:
-        kino = kino_dict[row['kino_id']]
+        kino_data = kino_dict[row['kino_id']]
     except KeyError:
-        kino = None
+        kino_data = None
+    context["kino_data"] = kino_data
+    context["filme"] = films
     file_name = os.path.join(out_dir, f"ask__{context['datum']}.xml")
     with open(file_name.lower(), 'w') as f:
         f.write(template.render(**context))
