@@ -54,7 +54,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -68,16 +68,16 @@ Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 
             <table>
                <head>Filme</head>
                <row role="label">
-                  <cell role="data">Filmtitel</cell>
-                  <cell role="data">Jahr</cell>
-                  <cell role="data">Genre</cell>
-                  <cell role="data">Land</cell>
-                  <cell role="data">Regie</cell>
-                  <cell role="data">Buch</cell>
-                  <cell role="data">Produktion</cell>
-                  <cell role="data">Darsteller</cell>
+                  <cell role="label">Filmtitel</cell>
+                  <cell role="label">Jahr</cell>
+                  <cell role="label">Genre</cell>
+                  <cell role="label">Land</cell>
+                  <cell role="label">Regie</cell>
+                  <cell role="label">Buch</cell>
+                  <cell role="label">Produktion</cell>
+                  <cell role="label">Darsteller</cell>
                </row>
-               <row role="label">
+               <row role="data">
                   <cell role="data">„Die Drei-Groschen-Oper“</cell>
                   <cell role="data"><date>[1931]</date></cell>
                   <cell role="data">Komisch</cell>
@@ -97,12 +97,12 @@ Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 
             </place>
          </listPlace>
          <listOrg>
-            <org xml:id="ask_kino__24">
+            <org xml:id="ask_kino__24" type="kino">
                <orgName>Eos Lichtspiele / Sascha Palast</orgName>
                <location><address><addrLine>03., Ungargasse 60</addrLine></address></location>
                <note type="info"> Eröffnet 1921. Umbenennung 1931. Tonfilm ab 1931. Fassungsraum: Galerie. 1922: 1088 Sitzplätze (davon 122 Logenplätze). Das Kino wurde in der ehemaligen Winterreitschule eingerichtet. – Beschreibung von Architektur und Ausstattung anläßlich der Eröffnung in „Die Filmwelt“ Jg. 1922, Nr. 3, S. 3f. Nicht ident mit dem späteren Eos-Kino in der Landstraßer Hauptstraße. </note>
             </org>
-            <org xml:id="ask_wirt__6">
+            <org xml:id="ask_wirt__6" type="wirt">
                <orgName>Prochaska</orgName>
                <location><address><addrLine>Prater 37, 2.0</addrLine></address></location>
             </org>

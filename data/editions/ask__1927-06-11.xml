@@ -54,7 +54,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -66,16 +66,16 @@ Besprechung von Lilly Klaudy in NFP, 17.6.1927, S. 14. Nachgewiesene Spielorte: 
             <table>
                <head>Filme</head>
                <row role="label">
-                  <cell role="data">Filmtitel</cell>
-                  <cell role="data">Jahr</cell>
-                  <cell role="data">Genre</cell>
-                  <cell role="data">Land</cell>
-                  <cell role="data">Regie</cell>
-                  <cell role="data">Buch</cell>
-                  <cell role="data">Produktion</cell>
-                  <cell role="data">Darsteller</cell>
+                  <cell role="label">Filmtitel</cell>
+                  <cell role="label">Jahr</cell>
+                  <cell role="label">Genre</cell>
+                  <cell role="label">Land</cell>
+                  <cell role="label">Regie</cell>
+                  <cell role="label">Buch</cell>
+                  <cell role="label">Produktion</cell>
+                  <cell role="label">Darsteller</cell>
                </row>
-               <row role="label">
+               <row role="data">
                   <cell role="data">„Syd, das Mädchen für alles“ („The Man on the Box“)</cell>
                   <cell role="data"><date>[1925]</date></cell>
                   <cell role="data">Komisch</cell>
@@ -95,7 +95,7 @@ Besprechung von Lilly Klaudy in NFP, 17.6.1927, S. 14. Nachgewiesene Spielorte: 
             </place>
          </listPlace>
          <listOrg>
-            <org xml:id="ask_wirt__3">
+            <org xml:id="ask_wirt__3" type="wirt">
                <orgName>Wohnung Pollaczek</orgName>
                <location><address><addrLine> , nan</addrLine></address></location>
             </org>

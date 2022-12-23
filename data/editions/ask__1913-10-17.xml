@@ -54,7 +54,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -65,16 +65,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <table>
                <head>Filme</head>
                <row role="label">
-                  <cell role="data">Filmtitel</cell>
-                  <cell role="data">Jahr</cell>
-                  <cell role="data">Genre</cell>
-                  <cell role="data">Land</cell>
-                  <cell role="data">Regie</cell>
-                  <cell role="data">Buch</cell>
-                  <cell role="data">Produktion</cell>
-                  <cell role="data">Darsteller</cell>
+                  <cell role="label">Filmtitel</cell>
+                  <cell role="label">Jahr</cell>
+                  <cell role="label">Genre</cell>
+                  <cell role="label">Land</cell>
+                  <cell role="label">Regie</cell>
+                  <cell role="label">Buch</cell>
+                  <cell role="label">Produktion</cell>
+                  <cell role="label">Darsteller</cell>
                </row>
-               <row role="label">
+               <row role="data">
                   <cell role="data">„Der König“</cell>
                   <cell role="data"><date>1913</date></cell>
                   <cell role="data"></cell>
@@ -94,12 +94,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             </place>
          </listPlace>
          <listOrg>
-            <org xml:id="ask_kino__30">
+            <org xml:id="ask_kino__30" type="kino">
                <orgName>Grabenkino</orgName>
                <location><address><addrLine>01., Graben 17</addrLine></address></location>
                <note type="info"> Eröffnung/Schließung: 1907-1914. Fassungsraum: 1909: 241 Sitzplätze. – 1914 wurde das Kino aufgelassen, nachdem von der Baubehörde ein aufwendiger Umbau gefordert wurde […]. Das Kino wurde darauf an den Verein „Lebende Zielscheibe“ verkauft. Auf die im Film aufgenommenen Tiere konnten die Besucher schießen. Nach jedem Schuß blieb der Film zur Begutachtung des Treffers automatisch stehen […]</note>
             </org>
-            <org xml:id="ask_wirt__0">
+            <org xml:id="ask_wirt__0" type="wirt">
                <orgName>unbekannt</orgName>
                <location><address><addrLine> , nan</addrLine></address></location>
             </org>

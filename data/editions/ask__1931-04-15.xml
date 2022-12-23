@@ -54,7 +54,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-22">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -66,16 +66,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <table>
                <head>Filme</head>
                <row role="label">
-                  <cell role="data">Filmtitel</cell>
-                  <cell role="data">Jahr</cell>
-                  <cell role="data">Genre</cell>
-                  <cell role="data">Land</cell>
-                  <cell role="data">Regie</cell>
-                  <cell role="data">Buch</cell>
-                  <cell role="data">Produktion</cell>
-                  <cell role="data">Darsteller</cell>
+                  <cell role="label">Filmtitel</cell>
+                  <cell role="label">Jahr</cell>
+                  <cell role="label">Genre</cell>
+                  <cell role="label">Land</cell>
+                  <cell role="label">Regie</cell>
+                  <cell role="label">Buch</cell>
+                  <cell role="label">Produktion</cell>
+                  <cell role="label">Darsteller</cell>
                </row>
-               <row role="label">
+               <row role="data">
                   <cell role="data">„Der Blaue Expreß“ [Ot. „Goluboi express“]</cell>
                   <cell role="data"><date>[1929]</date></cell>
                   <cell role="data">Drama</cell>
@@ -95,12 +95,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             </place>
          </listPlace>
          <listOrg>
-            <org xml:id="ask_kino__12">
+            <org xml:id="ask_kino__12" type="kino">
                <orgName>Apollokino / Gloriakino</orgName>
                <location><address><addrLine>17., Dornerplatz 9</addrLine></address></location>
                <note type="info"> Eröffnet 1912. Umbenennung 1927. Tonfilm ab 1930. Fassungsraum: 1914: 320 Sitzplätze, 1922: 520 Sitzplätze (davon 22 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0">
+            <org xml:id="ask_wirt__0" type="wirt">
                <orgName>unbekannt</orgName>
                <location><address><addrLine> , nan</addrLine></address></location>
             </org>
