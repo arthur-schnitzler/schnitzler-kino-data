@@ -62,7 +62,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <occupation>{{ x.berufoderbeschäftigungliteral|e }}</occupation>{% endif %}
                   <persName>{{ x.name|e }}</persName>{% if x.gnd %}{% if x.geburtsdatum %}
                   <birth when="{{ x.geburtsdatum }}"/>{% endif %}{% if x.sterbedatum %}
-                  <birth when="{{ x.sterbedatum }}"/>{% endif %}
+                  <death when="{{ x.sterbedatum }}"/>{% endif %}
                   <idno type="GND">{{ x.gnd }}</idno>{% endif %}{% if x.besuchstage %}{% for y in x.besuchstage %}
                   <note type="mention" target="ask__{{ y }}.xml">{{ y }}</note>{% endfor %}{% endif %}
                 </person>{% endfor %}
