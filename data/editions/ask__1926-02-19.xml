@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">277</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,66 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-209">
+               <persName>Bellamy, Madge</persName>
+               <idno type="GND">https://d-nb.info/gnd/119031531</idno>
+            </person>
+            <person xml:id="ask-person-412">
+               <persName>Bull, Charles Edward</persName>
+               <idno type="GND">https://d-nb.info/gnd/1208614088</idno>
+            </person>
+            <person xml:id="ask-person-485">
+               <persName>Chadwick, Cyril</persName>
+            </person>
+            <person xml:id="ask-person-917">
+               <persName>Ford, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/118534319</idno>
+            </person>
+            <person xml:id="ask-person-1347">
+               <persName>Hulette, Glads</persName>
+               <idno type="GND">https://d-nb.info/gnd/141956860</idno>
+            </person>
+            <person xml:id="ask-person-1478">
+               <persName>Kenyon, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/1048753646</idno>
+            </person>
+            <person xml:id="ask-person-1527">
+               <persName>Kohler, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1053198779</idno>
+            </person>
+            <person xml:id="ask-person-1759">
+               <persName>MacDonald, J. Farrell</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061708373</idno>
+            </person>
+            <person xml:id="ask-person-1810">
+               <persName>Marcus, James A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/142491977</idno>
+            </person>
+            <person xml:id="ask-person-2096">
+               <persName>O’Brien, George</persName>
+            </person>
+            <person xml:id="ask-person-2227">
+               <persName>Powers, Francis</persName>
+               <idno type="GND">https://d-nb.info/gnd/124954367</idno>
+            </person>
+            <person xml:id="ask-person-2409">
+               <persName>Russell, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/116711086</idno>
+            </person>
+            <person xml:id="ask-person-2851">
+               <persName>Waggner, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/140521615</idno>
+            </person>
+            <person xml:id="ask-person-2866">
+               <persName>Walling, Will</persName>
+               <idno type="GND">https://d-nb.info/gnd/139599223</idno>
+            </person>
+            <person xml:id="ask-person-2908">
+               <persName>Welch, Jim</persName>
+               <idno type="GND">https://d-nb.info/gnd/173478328</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

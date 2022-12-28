@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">726</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-167">
+               <persName>Barton, Grace</persName>
+               <idno type="GND">https://d-nb.info/gnd/134322223</idno>
+            </person>
+            <person xml:id="ask-person-218">
+               <persName>Benham, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/170560732</idno>
+            </person>
+            <person xml:id="ask-person-301">
+               <persName>Bloomer, Raymond</persName>
+               <idno type="GND">https://d-nb.info/gnd/141328398</idno>
+            </person>
+            <person xml:id="ask-person-479">
+               <persName>Casavant, Nina</persName>
+               <idno type="GND">https://d-nb.info/gnd/1183819730</idno>
+            </person>
+            <person xml:id="ask-person-661">
+               <persName>Denison, Edward</persName>
+               <idno type="GND">https://d-nb.info/gnd/131983059</idno>
+            </person>
+            <person xml:id="ask-person-1095">
+               <persName>Grauer, Bunny</persName>
+            </person>
+            <person xml:id="ask-person-1556">
+               <persName>Krech, Warren</persName>
+            </person>
+            <person xml:id="ask-person-1917">
+               <persName>Millarde, Harry</persName>
+            </person>
+            <person xml:id="ask-person-2572">
+               <persName>Sloane, Paul H.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1218807539</idno>
+            </person>
+            <person xml:id="ask-person-2740">
+               <persName>Thomas, Jane</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

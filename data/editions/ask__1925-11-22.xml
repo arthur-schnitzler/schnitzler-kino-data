@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">750</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,79 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-516">
+               <persName>Clarke, Downing</persName>
+               <idno type="GND">https://d-nb.info/gnd/1089896417</idno>
+            </person>
+            <person xml:id="ask-person-524">
+               <persName>Cliffe, H. Cooper</persName>
+            </person>
+            <person xml:id="ask-person-618">
+               <persName>Daniels, Bébé</persName>
+               <idno type="GND">https://d-nb.info/gnd/135402816</idno>
+            </person>
+            <person xml:id="ask-person-629">
+               <persName>Davidson, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/1144881943</idno>
+            </person>
+            <person xml:id="ask-person-737">
+               <persName>Duval, Paulette</persName>
+               <idno type="GND">https://d-nb.info/gnd/173438296</idno>
+            </person>
+            <person xml:id="ask-person-884">
+               <persName>Finch, Flora</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018304096</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1479">
+               <persName>Kenyon, Doris</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055101780</idno>
+            </person>
+            <person xml:id="ask-person-1772">
+               <persName>Maclaren, Ian</persName>
+               <idno type="GND">https://d-nb.info/gnd/136343899</idno>
+            </person>
+            <person xml:id="ask-person-2074">
+               <persName>Olcott, Sidney</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047676273</idno>
+            </person>
+            <person xml:id="ask-person-2225">
+               <persName>Powell, Templar</persName>
+               <idno type="GND">https://d-nb.info/gnd/138792011</idno>
+            </person>
+            <person xml:id="ask-person-2536">
+               <persName>Shannon, Frank</persName>
+               <idno type="GND">https://d-nb.info/gnd/141959355</idno>
+            </person>
+            <person xml:id="ask-person-2543">
+               <persName>Sherman, Lowell</persName>
+               <idno type="GND">https://d-nb.info/gnd/14184762X</idno>
+            </person>
+            <person xml:id="ask-person-2709">
+               <persName>Tarkington, Booth</persName>
+               <idno type="GND">https://d-nb.info/gnd/118801376</idno>
+            </person>
+            <person xml:id="ask-person-2805">
+               <persName>Valentino, Rudolph</persName>
+               <idno type="GND">https://d-nb.info/gnd/118625918</idno>
+            </person>
+            <person xml:id="ask-person-2865">
+               <persName>Waller, Louis</persName>
+               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
+            </person>
+            <person xml:id="ask-person-2951">
+               <persName>Wilson, Lois</persName>
+               <idno type="GND">https://d-nb.info/gnd/1122443978</idno>
+            </person>
+            <person xml:id="ask-person-2993">
+               <persName>Yorke, Oswald</persName>
+               <idno type="GND">https://d-nb.info/gnd/1157891756</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

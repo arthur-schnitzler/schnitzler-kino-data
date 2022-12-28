@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">302</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,59 @@ Premierennotiz und Anzeige NFP 10.9.1926, S. 16. </ab></div>
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-102">
+               <persName>Asther, Nils</persName>
+               <idno type="GND">https://d-nb.info/gnd/118970240</idno>
+            </person>
+            <person xml:id="ask-person-266">
+               <persName>Beß, Jane</persName>
+               <idno type="GND">https://d-nb.info/gnd/116154489</idno>
+            </person>
+            <person xml:id="ask-person-314">
+               <persName>Bois, Curt</persName>
+               <idno type="GND">https://d-nb.info/gnd/118512994</idno>
+            </person>
+            <person xml:id="ask-person-324">
+               <persName>Bonn, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/118625543</idno>
+            </person>
+            <person xml:id="ask-person-614">
+               <persName>Damita, Lily</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061430359</idno>
+            </person>
+            <person xml:id="ask-person-1023">
+               <persName>Gerron, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
+            </person>
+            <person xml:id="ask-person-1486">
+               <persName>Kertész, Mihaly</persName>
+               <idno type="GND">https://d-nb.info/gnd/1216510946</idno>
+            </person>
+            <person xml:id="ask-person-1608">
+               <persName>Lantz, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
+            </person>
+            <person xml:id="ask-person-1631">
+               <persName>Leffler, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116855797</idno>
+            </person>
+            <person xml:id="ask-person-2186">
+               <persName>Platen, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
+            </person>
+            <person xml:id="ask-person-2641">
+               <persName>Stern, Artur</persName>
+            </person>
+            <person xml:id="ask-person-2697">
+               <persName>Szöreghi, Julius von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061649415</idno>
+            </person>
+            <person xml:id="ask-person-2771">
+               <persName>Trevor, Jack</persName>
+               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

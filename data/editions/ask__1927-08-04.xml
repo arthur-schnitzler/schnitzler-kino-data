@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">350</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,52 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-426">
+               <persName>Busch, Eddy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1096341328</idno>
+            </person>
+            <person xml:id="ask-person-842">
+               <persName>Falkenstein, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1590">
+               <persName>Landa, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/116669950</idno>
+            </person>
+            <person xml:id="ask-person-2127">
+               <persName>Parry, Lee</persName>
+               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
+            </person>
+            <person xml:id="ask-person-2310">
+               <persName>Rex, Eugen</persName>
+               <idno type="GND">https://d-nb.info/gnd/11645766X</idno>
+            </person>
+            <person xml:id="ask-person-2317">
+               <persName>Richard, Frida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
+            </person>
+            <person xml:id="ask-person-2858">
+               <persName>Walburg, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/120288380X</idno>
+            </person>
+            <person xml:id="ask-person-2889">
+               <persName>Wassmann, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1153087219</idno>
+            </person>
+            <person xml:id="ask-person-2957">
+               <persName>Winter, Philipp</persName>
+               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
+            </person>
+            <person xml:id="ask-person-3006">
+               <persName>Zerlett, Hans Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116983191</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

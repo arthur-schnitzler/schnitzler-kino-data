@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">171</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-761">
+               <persName>Edthofer, Anton</persName>
+               <idno type="GND">https://d-nb.info/gnd/13014407X</idno>
+            </person>
+            <person xml:id="ask-person-1126">
+               <persName>Grune, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/13907760X</idno>
+            </person>
+            <person xml:id="ask-person-1219">
+               <persName>Haskel, Leonhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/126270937</idno>
+            </person>
+            <person xml:id="ask-person-1304">
+               <persName>Höflich, Lucie</persName>
+               <idno type="GND">https://d-nb.info/gnd/118963805</idno>
+            </person>
+            <person xml:id="ask-person-1518">
+               <persName>Klöpfer, Eugen</persName>
+               <idno type="GND">https://d-nb.info/gnd/116231874</idno>
+            </person>
+            <person xml:id="ask-person-2048">
+               <persName>Nissen, Aud Egede</persName>
+               <idno type="GND">https://d-nb.info/gnd/142174769</idno>
+            </person>
+            <person xml:id="ask-person-2764">
+               <persName>Trautner, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/117406554</idno>
+            </person>
+            <person xml:id="ask-person-2801">
+               <persName>Urgiß, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/117315036</idno>
+            </person>
+            <person xml:id="ask-person-2974">
+               <persName>Wolfradt, Willi</persName>
+               <idno type="GND">https://d-nb.info/gnd/117437018</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

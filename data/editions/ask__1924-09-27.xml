@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">204</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,31 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1157">
+               <persName>Hackerville, George</persName>
+            </person>
+            <person xml:id="ask-person-1422">
+               <persName>Julian, Rupert</persName>
+               <idno type="GND">https://d-nb.info/gnd/121949974</idno>
+            </person>
+            <person xml:id="ask-person-1483">
+               <persName>Kerry, Norman</persName>
+               <idno type="GND">https://d-nb.info/gnd/141933631</idno>
+            </person>
+            <person xml:id="ask-person-2164">
+               <persName>Philbin, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/160231809</idno>
+            </person>
+            <person xml:id="ask-person-2627">
+               <persName>Stegmann, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/1192309847</idno>
+            </person>
+            <person xml:id="ask-person-2816">
+               <persName>Vaverka, Anton</persName>
+               <idno type="GND">https://d-nb.info/gnd/1203575858</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

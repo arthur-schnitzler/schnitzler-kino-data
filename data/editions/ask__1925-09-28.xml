@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">253</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,51 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-28">
+               <persName>Alberti, Fritz</persName>
+            </person>
+            <person xml:id="ask-person-50">
+               <persName>Alma, Marian</persName>
+               <idno type="GND">https://d-nb.info/gnd/116287969</idno>
+            </person>
+            <person xml:id="ask-person-273">
+               <persName>Biensfeldt, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116165685</idno>
+            </person>
+            <person xml:id="ask-person-965">
+               <persName>Fryland, Alphons</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019855827</idno>
+            </person>
+            <person xml:id="ask-person-1163">
+               <persName>Haid, Liane</persName>
+               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
+            </person>
+            <person xml:id="ask-person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="ask-person-2078">
+               <persName>Ondra, Anny</persName>
+               <idno type="GND">https://d-nb.info/gnd/1081829273</idno>
+            </person>
+            <person xml:id="ask-person-2140">
+               <persName>Pavanelli, Livio</persName>
+               <idno type="GND">https://d-nb.info/gnd/116069902</idno>
+            </person>
+            <person xml:id="ask-person-2239">
+               <persName>Pröckl, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/116292148</idno>
+            </person>
+            <person xml:id="ask-person-2629">
+               <persName>Stein, Paul Ludwig</persName>
+               <idno type="GND">https://d-nb.info/gnd/141369914</idno>
+            </person>
+            <person xml:id="ask-person-2811">
+               <persName>Vanloo, Rolf E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013990633</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -6,9 +6,14 @@ from datetime import date
 from sqlalchemy import create_engine
 from tqdm import tqdm
 
+from config import openrefine_persons_gsheet_id, out_dir
+from utils import gsheet_to_df
+from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
+
+
+
 
 today = date.today()
-out_dir = './data/editions'
 os.makedirs(out_dir, exist_ok=True)
 templateLoader = jinja2.FileSystemLoader(searchpath="./scripts/templates")
 templateEnv = jinja2.Environment(loader=templateLoader)
@@ -22,6 +27,31 @@ N = None
 
 db_connection_str = f"mysql://{DB_USER}:{DB_PW}@{DB_HOST}/{DB_NAME}"
 db_connection = create_engine(db_connection_str)
+
+
+print("loading personen_besuche data into dict")
+personen_df = gsheet_to_df(openrefine_persons_gsheet_id).fillna('')
+personen_df.columns = personen_df.columns.str.lower().str.replace(' ','').str.replace('-','_').str.replace('(', '', regex=False).str.replace(')', '', regex=False)
+data = {}
+for g, ndf in personen_df.groupby('id'):
+    try:
+        ask_id = f"ask-person-{int(g)}"
+    except ValueError:
+        continue
+    query = f"SELECT id_besuch FROM personenBesuch WHERE id_person IN ({int(g)})"
+    item = ndf.iloc[0].to_dict()
+    item['id'] = ask_id
+    item['db_id'] = int(g)
+    if item['gnd_nummer']:
+        item['gnd'] = get_normalized_uri(f"https://d-nb.info/gnd/{item['gnd_nummer']}")
+    item['besuch_ids'] = sorted(list(pd.read_sql(query, con=db_connection).id_besuch.unique()))
+    data[int(g)] = item
+
+print("writing a besuche-personen dict")
+besuche = defaultdict(list)
+for key, value in data.items():
+    for x in value['besuch_ids']:
+        besuche[x].append(value)
 
 query = "SELECT * FROM synopse"
 df = pd.read_sql(query, con=db_connection)
@@ -62,6 +92,7 @@ for i, row in tqdm(df.head(N).iterrows(), total=N):
     context["kino_data"] = kino_data
     context["wirte_data"] = wirte_data
     context["filme"] = films
+    context["personen"] = besuche[besuch_id]
     context["current_date"] = f'{today.strftime("%Y-%m-%d")}'
     file_name = os.path.join(out_dir, f"ask__{context['datum']}.xml")
     with open(file_name.lower(), 'w') as f:

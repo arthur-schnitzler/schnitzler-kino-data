@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">112</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,31 @@ Spielort bestätigt NZG 17.8.1930, S. 12.</ab></div>
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-316">
+               <persName>Boles, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/101945623X</idno>
+            </person>
+            <person xml:id="ask-person-344">
+               <persName>Branch, Hurston</persName>
+               <idno type="GND">https://d-nb.info/gnd/11904949X</idno>
+            </person>
+            <person xml:id="ask-person-2185">
+               <persName>Plante, Laura la</persName>
+               <idno type="GND">https://d-nb.info/gnd/1166586103</idno>
+            </person>
+            <person xml:id="ask-person-2336">
+               <persName>Ripley, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/13869754X</idno>
+            </person>
+            <person xml:id="ask-person-2354">
+               <persName>Robertson, John S.</persName>
+            </person>
+            <person xml:id="ask-person-2892">
+               <persName>Watters, George Manker</persName>
+               <idno type="GND">https://d-nb.info/gnd/126910529</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

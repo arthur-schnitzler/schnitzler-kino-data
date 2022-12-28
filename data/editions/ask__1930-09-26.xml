@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">122</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -93,6 +94,42 @@ Besprechung von Manfred Georg in NFP 15.8.1930, S. 7. Premierennotiz NFP 5.9.193
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-547">
+               <persName>Compson, Betty</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013030672</idno>
+            </person>
+            <person xml:id="ask-person-592">
+               <persName>Cruze, James</persName>
+               <idno type="GND">https://d-nb.info/gnd/138735379</idno>
+            </person>
+            <person xml:id="ask-person-705">
+               <persName>Douglas, Donald</persName>
+            </person>
+            <person xml:id="ask-person-941">
+               <persName>Franz Josef I.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1034541528</idno>
+            </person>
+            <person xml:id="ask-person-1010">
+               <persName>Georg, Manfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019705183</idno>
+            </person>
+            <person xml:id="ask-person-1149">
+               <persName>Guttman, ?</persName>
+               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
+            </person>
+            <person xml:id="ask-person-1232">
+               <persName>Hecht, Ben</persName>
+            </person>
+            <person xml:id="ask-person-1445">
+               <persName>Kane, Margie (Babe)</persName>
+               <idno type="GND">https://d-nb.info/gnd/1068303557</idno>
+            </person>
+            <person xml:id="ask-person-2670">
+               <persName>Strohheim, Erich von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1069690422</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

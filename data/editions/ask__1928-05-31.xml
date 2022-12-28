@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">402</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,59 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1457">
+               <persName>Kastner, Bruno</persName>
+               <idno type="GND">https://d-nb.info/gnd/116066008</idno>
+            </person>
+            <person xml:id="ask-person-1518">
+               <persName>Klöpfer, Eugen</persName>
+               <idno type="GND">https://d-nb.info/gnd/116231874</idno>
+            </person>
+            <person xml:id="ask-person-1574">
+               <persName>Kyser, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116634472</idno>
+            </person>
+            <person xml:id="ask-person-1619">
+               <persName>Ledebur, Leopold von</persName>
+               <idno type="GND">https://d-nb.info/gnd/116851503</idno>
+            </person>
+            <person xml:id="ask-person-1658">
+               <persName>Lettinger, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
+            </person>
+            <person xml:id="ask-person-1712">
+               <persName>Loos, Theodor</persName>
+               <idno type="GND">https://d-nb.info/gnd/116850345</idno>
+            </person>
+            <person xml:id="ask-person-1744">
+               <persName>Luther, Martin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
+            </person>
+            <person xml:id="ask-person-1999">
+               <persName>Murski, Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061309770</idno>
+            </person>
+            <person xml:id="ask-person-2140">
+               <persName>Pavanelli, Livio</persName>
+               <idno type="GND">https://d-nb.info/gnd/116069902</idno>
+            </person>
+            <person xml:id="ask-person-2584">
+               <persName>Sonnenfeld, Kurt</persName>
+            </person>
+            <person xml:id="ask-person-2746">
+               <persName>Tiedtke, Jakob</persName>
+               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
+            </person>
+            <person xml:id="ask-person-2807">
+               <persName>Vallentin, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
+            </person>
+            <person xml:id="ask-person-2853">
+               <persName>Wagner, Elsa</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

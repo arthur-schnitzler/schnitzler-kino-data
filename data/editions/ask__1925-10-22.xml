@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">257</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-276">
+               <persName>Bildt, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11618051X</idno>
+            </person>
+            <person xml:id="ask-person-611">
+               <persName>Dagover, Lil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
+            </person>
+            <person xml:id="ask-person-730">
+               <persName>Dupont, E. A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119061872</idno>
+            </person>
+            <person xml:id="ask-person-1039">
+               <persName>Glass, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/116654368</idno>
+            </person>
+            <person xml:id="ask-person-1311">
+               <persName>Holländer, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/116961805</idno>
+            </person>
+            <person xml:id="ask-person-1540">
+               <persName>Korff, Arnold</persName>
+               <idno type="GND">https://d-nb.info/gnd/101334071X</idno>
+            </person>
+            <person xml:id="ask-person-1568">
+               <persName>Kupfer, Margarete</persName>
+            </person>
+            <person xml:id="ask-person-1676">
+               <persName>Limburg, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/117007145</idno>
+            </person>
+            <person xml:id="ask-person-1912">
+               <persName>Mierendorff, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1020648120</idno>
+            </person>
+            <person xml:id="ask-person-2261">
+               <persName>Ralph, Louis</persName>
+               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

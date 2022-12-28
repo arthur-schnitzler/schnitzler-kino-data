@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">1</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,40 @@ Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsy
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-530">
+               <persName>Colani, Viktor</persName>
+               <idno type="GND">https://d-nb.info/gnd/106185308X</idno>
+            </person>
+            <person xml:id="ask-person-876">
+               <persName>Ferner, Max</persName>
+            </person>
+            <person xml:id="ask-person-1443">
+               <persName>Kamradek, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061372065</idno>
+            </person>
+            <person xml:id="ask-person-1490">
+               <persName>Kid, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061461572</idno>
+            </person>
+            <person xml:id="ask-person-1568">
+               <persName>Kupfer, Margarete</persName>
+            </person>
+            <person xml:id="ask-person-1638">
+               <persName>Leibelt, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116876972</idno>
+            </person>
+            <person xml:id="ask-person-2163">
+               <persName>Pfanz, Herman</persName>
+            </person>
+            <person xml:id="ask-person-2516">
+               <persName>Seitz, Franz</persName>
+            </person>
+            <person xml:id="ask-person-2934">
+               <persName>Wieck, Dorothea</persName>
+               <idno type="GND">https://d-nb.info/gnd/117346411</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Bern</placeName>

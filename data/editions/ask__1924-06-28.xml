@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">728</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,62 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-10">
+               <persName>Abel, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
+            </person>
+            <person xml:id="ask-person-308">
+               <persName>Böcklin, Charlotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061785653</idno>
+            </person>
+            <person xml:id="ask-person-508">
+               <persName>Christians, Mady</persName>
+               <idno type="GND">https://d-nb.info/gnd/116509430</idno>
+            </person>
+            <person xml:id="ask-person-769">
+               <persName>Egénieff, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116365331</idno>
+            </person>
+            <person xml:id="ask-person-821">
+               <persName>Esser, Peter</persName>
+            </person>
+            <person xml:id="ask-person-866">
+               <persName>Fekete, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116438851</idno>
+            </person>
+            <person xml:id="ask-person-1241">
+               <persName>Heilborn-Körbitz, Luise</persName>
+               <idno type="GND">https://d-nb.info/gnd/102748154X</idno>
+            </person>
+            <person xml:id="ask-person-1358">
+               <persName>Imhoff, Hildegard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062136586</idno>
+            </person>
+            <person xml:id="ask-person-1587">
+               <persName>Lamprecht, Gerhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/116665483</idno>
+            </person>
+            <person xml:id="ask-person-2231">
+               <persName>Prasch-Grevenberg, Auguste</persName>
+               <idno type="GND">https://d-nb.info/gnd/116280689</idno>
+            </person>
+            <person xml:id="ask-person-2351">
+               <persName>Roberts, Ralph Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/119046334</idno>
+            </person>
+            <person xml:id="ask-person-2584">
+               <persName>Sonnenfeld, Kurt</persName>
+            </person>
+            <person xml:id="ask-person-2685">
+               <persName>Sussin, Mathilde</persName>
+               <idno type="GND">https://d-nb.info/gnd/104934720X</idno>
+            </person>
+            <person xml:id="ask-person-3024">
+               <persName>Zopp, Rudolf del</persName>
+               <idno type="GND">https://d-nb.info/gnd/117013668</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Baden-Baden</placeName>

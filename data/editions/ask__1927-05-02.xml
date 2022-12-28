@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">338</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-486">
+               <persName>Chakatouny, Acho</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062429265</idno>
+            </person>
+            <person xml:id="ask-person-720">
+               <persName>Duflos, Huguette</persName>
+               <idno type="GND">https://d-nb.info/gnd/1158978456</idno>
+            </person>
+            <person xml:id="ask-person-739">
+               <persName>Duvivier, Julien</persName>
+               <idno type="GND">https://d-nb.info/gnd/121587126</idno>
+            </person>
+            <person xml:id="ask-person-962">
+               <persName>Frondaie, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/126333750</idno>
+            </person>
+            <person xml:id="ask-person-981">
+               <persName>Galli</persName>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

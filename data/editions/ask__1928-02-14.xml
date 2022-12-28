@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">381</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,59 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-53">
+               <persName>Alten, Ferdinand von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
+            </person>
+            <person xml:id="ask-person-139">
+               <persName>Balzac, Honoré de</persName>
+               <idno type="GND">https://d-nb.info/gnd/118506358</idno>
+            </person>
+            <person xml:id="ask-person-418">
+               <persName>Burg, Eugen</persName>
+               <idno type="GND">https://d-nb.info/gnd/117164062</idno>
+            </person>
+            <person xml:id="ask-person-858">
+               <persName>Fayette, Andrée La</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062051920</idno>
+            </person>
+            <person xml:id="ask-person-975">
+               <persName>Fütterer, Werner</persName>
+               <idno type="GND">https://d-nb.info/gnd/138898278</idno>
+            </person>
+            <person xml:id="ask-person-1023">
+               <persName>Gerron, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1903">
+               <persName>Messer, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/1177079917</idno>
+            </person>
+            <person xml:id="ask-person-1986">
+               <persName>Münchhofen, Helene von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061279413</idno>
+            </person>
+            <person xml:id="ask-person-2051">
+               <persName>Noa, Manfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/172286603</idno>
+            </person>
+            <person xml:id="ask-person-2472">
+               <persName>Schnitzler, Olga, geb. Gussmann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
+            </person>
+            <person xml:id="ask-person-2727">
+               <persName>Than, Josef</persName>
+               <idno type="GND">https://d-nb.info/gnd/117298948</idno>
+            </person>
+            <person xml:id="ask-person-2897">
+               <persName>Wegener, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118765981</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

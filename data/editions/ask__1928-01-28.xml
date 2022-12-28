@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">377</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,42 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-163">
+               <persName>Barrymore, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/119340933</idno>
+            </person>
+            <person xml:id="ask-person-574">
+               <persName>Costello, Dolores</persName>
+               <idno type="GND">https://d-nb.info/gnd/140242627</idno>
+            </person>
+            <person xml:id="ask-person-588">
+               <persName>Crosland, Alan</persName>
+               <idno type="GND">https://d-nb.info/gnd/123067006</idno>
+            </person>
+            <person xml:id="ask-person-1091">
+               <persName>Grasse, Sam de</persName>
+               <idno type="GND">https://d-nb.info/gnd/173879071</idno>
+            </person>
+            <person xml:id="ask-person-1316">
+               <persName>Holmes, Stuart</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062172388</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1980">
+               <persName>Müller, E. Dr.</persName>
+            </person>
+            <person xml:id="ask-person-2073">
+               <persName>Oland, Warner</persName>
+               <idno type="GND">https://d-nb.info/gnd/1020773146</idno>
+            </person>
+            <person xml:id="ask-person-2235">
+               <persName>Prevost, Abbé</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062135377</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

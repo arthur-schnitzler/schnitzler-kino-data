@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">124</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,60 @@ Und morgen wird der Brief aus dem Burgtheater kommen, der seit zwei Tagen unterw
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-91">
+               <persName>Arnold, Gertrud</persName>
+               <idno type="GND">https://d-nb.info/gnd/1050400291</idno>
+            </person>
+            <person xml:id="ask-person-520">
+               <persName>Clauser, Suzanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
+            </person>
+            <person xml:id="ask-person-807">
+               <persName>Engström, Alexa von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1165909871</idno>
+            </person>
+            <person xml:id="ask-person-842">
+               <persName>Falkenstein, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
+            </person>
+            <person xml:id="ask-person-959">
+               <persName>Froelich, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/11683093X</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1125">
+               <persName>Gründgens, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118542850</idno>
+            </person>
+            <person xml:id="ask-person-1778">
+               <persName>Mahler-Werfel, Alma</persName>
+               <idno type="GND">https://d-nb.info/gnd/11857633X</idno>
+            </person>
+            <person xml:id="ask-person-2147">
+               <persName>Peppler, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061427161</idno>
+            </person>
+            <person xml:id="ask-person-2299">
+               <persName>Reisch, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
+            </person>
+            <person xml:id="ask-person-2683">
+               <persName>Supper, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/118620088</idno>
+            </person>
+            <person xml:id="ask-person-2918">
+               <persName>Werfel, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118631373</idno>
+            </person>
+            <person xml:id="ask-person-2942">
+               <persName>Wildgans, Anton</persName>
+               <idno type="GND">https://d-nb.info/gnd/118632841</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

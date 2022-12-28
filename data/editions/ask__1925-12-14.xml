@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">266</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-494">
+               <persName>Chaplin, Charles</persName>
+            </person>
+            <person xml:id="ask-person-945">
+               <persName>French, Charles K.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1081509104</idno>
+            </person>
+            <person xml:id="ask-person-1007">
+               <persName>Geldart, Clarence</persName>
+               <idno type="GND">https://d-nb.info/gnd/1241371091</idno>
+            </person>
+            <person xml:id="ask-person-1521">
+               <persName>Knott, Lydia</persName>
+            </person>
+            <person xml:id="ask-person-1896">
+               <persName>Menjou, Adolphe</persName>
+               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
+            </person>
+            <person xml:id="ask-person-1920">
+               <persName>Miller, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1098242270</idno>
+            </person>
+            <person xml:id="ask-person-1970">
+               <persName>Morrissey, Betty</persName>
+               <idno type="GND">https://d-nb.info/gnd/1206002301</idno>
+            </person>
+            <person xml:id="ask-person-2212">
+               <persName>Polo, Malvina</persName>
+            </person>
+            <person xml:id="ask-person-2249">
+               <persName>Purviance, Edna</persName>
+               <idno type="GND">https://d-nb.info/gnd/1027251803</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

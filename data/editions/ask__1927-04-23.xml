@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">785</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,51 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-16">
+               <persName>Adorée, Renée</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019299991</idno>
+            </person>
+            <person xml:id="ask-person-450">
+               <persName>Cappellini, Arnoldo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
+            </person>
+            <person xml:id="ask-person-554">
+               <persName>Conselman, William</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062204298</idno>
+            </person>
+            <person xml:id="ask-person-599">
+               <persName>Cummings, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/141606487</idno>
+            </person>
+            <person xml:id="ask-person-747">
+               <persName>d’Arcy, Roy</persName>
+               <idno type="GND">https://d-nb.info/gnd/138664439</idno>
+            </person>
+            <person xml:id="ask-person-1031">
+               <persName>Gilbert, John</persName>
+            </person>
+            <person xml:id="ask-person-1036">
+               <persName>Gish, Lillian</persName>
+               <idno type="GND">https://d-nb.info/gnd/119019876</idno>
+            </person>
+            <person xml:id="ask-person-1108">
+               <persName>Gresac, Fred De</persName>
+               <idno type="GND">https://d-nb.info/gnd/135581486</idno>
+            </person>
+            <person xml:id="ask-person-1989">
+               <persName>Murger, Henri</persName>
+               <idno type="GND">https://d-nb.info/gnd/118785400</idno>
+            </person>
+            <person xml:id="ask-person-2471">
+               <persName>Schnitzler, Lili</persName>
+               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
+            </person>
+            <person xml:id="ask-person-2836">
+               <persName>Vidor, King</persName>
+               <idno type="GND">https://d-nb.info/gnd/118860542</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Venedig</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">209</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-517">
+               <persName>Clarke, Westcott</persName>
+            </person>
+            <person xml:id="ask-person-636">
+               <persName>Davis, Mildred</persName>
+            </person>
+            <person xml:id="ask-person-1696">
+               <persName>Lloyd, Harold</persName>
+               <idno type="GND">https://d-nb.info/gnd/118573667</idno>
+            </person>
+            <person xml:id="ask-person-2034">
+               <persName>Newmeyer, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/140896368</idno>
+            </person>
+            <person xml:id="ask-person-2344">
+               <persName>Roach, Hal</persName>
+               <idno type="GND">https://d-nb.info/gnd/119274116</idno>
+            </person>
+            <person xml:id="ask-person-2671">
+               <persName>Strother, Bill</persName>
+            </person>
+            <person xml:id="ask-person-2713">
+               <persName>Taylor, Sam</persName>
+               <idno type="GND">https://d-nb.info/gnd/140979778</idno>
+            </person>
+            <person xml:id="ask-person-2861">
+               <persName>Walker, H. M.</persName>
+               <idno type="GND">https://d-nb.info/gnd/140979883</idno>
+            </person>
+            <person xml:id="ask-person-2925">
+               <persName>Whelan, Tim</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061872165</idno>
+            </person>
+            <person xml:id="ask-person-2995">
+               <persName>Young, Noah</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

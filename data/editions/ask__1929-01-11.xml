@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">27</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,60 @@ Heute Vormittag Stadt. Besuch bei Hofrätin Z. Dann zu Tisch bei Otto-Emmy. Am A
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-26">
+               <persName>Albani, Marcella</persName>
+               <idno type="GND">https://d-nb.info/gnd/11627526X</idno>
+            </person>
+            <person xml:id="ask-person-193">
+               <persName>Beer-Hofmann, Paula</persName>
+               <idno type="GND">https://d-nb.info/gnd/119044994</idno>
+            </person>
+            <person xml:id="ask-person-194">
+               <persName>Beer-Hofmann, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118654756</idno>
+            </person>
+            <person xml:id="ask-person-325">
+               <persName>Bonnard, Mario</persName>
+               <idno type="GND">https://d-nb.info/gnd/17375368X</idno>
+            </person>
+            <person xml:id="ask-person-844">
+               <persName>Fanck, Arnold</persName>
+            </person>
+            <person xml:id="ask-person-1158">
+               <persName>Haensel, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/118544527</idno>
+            </person>
+            <person xml:id="ask-person-1703">
+               <persName>Loeb, Emilie, geb. Petter</persName>
+            </person>
+            <person xml:id="ask-person-1705">
+               <persName>Loeb, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/126501343</idno>
+            </person>
+            <person xml:id="ask-person-1784">
+               <persName>Malasomma, Nunzio</persName>
+               <idno type="GND">https://d-nb.info/gnd/128660759</idno>
+            </person>
+            <person xml:id="ask-person-1873">
+               <persName>McLaglen, Clifford</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061731111</idno>
+            </person>
+            <person xml:id="ask-person-2466">
+               <persName>Schneider, Hannes</persName>
+            </person>
+            <person xml:id="ask-person-2493">
+               <persName>Schubert, Franz</persName>
+            </person>
+            <person xml:id="ask-person-2766">
+               <persName>Trenker, Luis</persName>
+               <idno type="GND">https://d-nb.info/gnd/118623818</idno>
+            </person>
+            <person xml:id="ask-person-2957">
+               <persName>Winter, Philipp</persName>
+               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

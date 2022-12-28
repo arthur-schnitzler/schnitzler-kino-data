@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">30</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,44 @@ Ankündigung NFP 15.2.1929, S. 10. </ab></div>
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-561">
+               <persName>Cooper, Gary</persName>
+               <idno type="GND">https://d-nb.info/gnd/135292174</idno>
+            </person>
+            <person xml:id="ask-person-578">
+               <persName>Cowl, Jane</persName>
+               <idno type="GND">https://d-nb.info/gnd/131992368</idno>
+            </person>
+            <person xml:id="ask-person-811">
+               <persName>Epstein, Anna</persName>
+               <idno type="GND">https://d-nb.info/gnd/14325717X</idno>
+            </person>
+            <person xml:id="ask-person-893">
+               <persName>Fitzmaurice, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/139520767</idno>
+            </person>
+            <person xml:id="ask-person-1057">
+               <persName>Goldbeck, Willis</persName>
+               <idno type="GND">https://d-nb.info/gnd/141051361</idno>
+            </person>
+            <person xml:id="ask-person-1818">
+               <persName>Marion, George Jr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
+            </person>
+            <person xml:id="ask-person-1953">
+               <persName>Moore, Colleen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1022915096</idno>
+            </person>
+            <person xml:id="ask-person-1988">
+               <persName>Murfin, Jane</persName>
+               <idno type="GND">https://d-nb.info/gnd/1208472488</idno>
+            </person>
+            <person xml:id="ask-person-2950">
+               <persName>Wilson, Carey</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061884597</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

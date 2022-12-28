@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">488</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-82">
+               <persName>Arlen, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1132228816</idno>
+            </person>
+            <person xml:id="ask-person-94">
+               <persName>Arzner, Dorothy</persName>
+               <idno type="GND">https://d-nb.info/gnd/119247666</idno>
+            </person>
+            <person xml:id="ask-person-470">
+               <persName>Carroll, Nancy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031524533</idno>
+            </person>
+            <person xml:id="ask-person-691">
+               <persName>Doherty, Ethel</persName>
+            </person>
+            <person xml:id="ask-person-1739">
+               <persName>Lukas, Paul</persName>
+            </person>
+            <person xml:id="ask-person-1818">
+               <persName>Marion, George Jr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
+            </person>
+            <person xml:id="ask-person-2102">
+               <persName>O’Shea, Danny</persName>
+            </person>
+            <person xml:id="ask-person-2710">
+               <persName>Tashman, Lilyan</persName>
+               <idno type="GND">https://d-nb.info/gnd/128704969</idno>
+            </person>
+            <person xml:id="ask-person-2802">
+               <persName>Vajda, Ernest</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057283924</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

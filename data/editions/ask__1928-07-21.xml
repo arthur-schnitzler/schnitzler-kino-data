@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">405</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,42 @@ In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Co
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-597">
+               <persName>Cumming, Dorothy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1238196160</idno>
+            </person>
+            <person xml:id="ask-person-658">
+               <persName>DeMille, Cecil B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119244012</idno>
+            </person>
+            <person xml:id="ask-person-759">
+               <persName>Edeson, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1227955766</idno>
+            </person>
+            <person xml:id="ask-person-1709">
+               <persName>Logan, Jacqueline</persName>
+            </person>
+            <person xml:id="ask-person-2445">
+               <persName>Schildkraut, Joseph</persName>
+               <idno type="GND">https://d-nb.info/gnd/139569928</idno>
+            </person>
+            <person xml:id="ask-person-2446">
+               <persName>Schildkraut, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/117265861</idno>
+            </person>
+            <person xml:id="ask-person-2758">
+               <persName>Torrence, Ernest</persName>
+               <idno type="GND">https://d-nb.info/gnd/173538924</idno>
+            </person>
+            <person xml:id="ask-person-2813">
+               <persName>Várkonyi, [Michael] Victor</persName>
+            </person>
+            <person xml:id="ask-person-2881">
+               <persName>Warner, H. B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/115089394X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

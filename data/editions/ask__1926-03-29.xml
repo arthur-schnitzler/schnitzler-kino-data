@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">282</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-240">
+               <persName>Bergman, Henry</persName>
+               <idno type="GND">https://d-nb.info/gnd/129190624</idno>
+            </person>
+            <person xml:id="ask-person-494">
+               <persName>Chaplin, Charles</persName>
+            </person>
+            <person xml:id="ask-person-1168">
+               <persName>Hale, Georgia</persName>
+               <idno type="GND">https://d-nb.info/gnd/119296780</idno>
+            </person>
+            <person xml:id="ask-person-1998">
+               <persName>Murray, Tom</persName>
+            </person>
+            <person xml:id="ask-person-2687">
+               <persName>Swain, Mack</persName>
+               <idno type="GND">https://d-nb.info/gnd/1027251811</idno>
+            </person>
+            <person xml:id="ask-person-2857">
+               <persName>Waite, Malcolm</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

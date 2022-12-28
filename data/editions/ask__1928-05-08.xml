@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">398</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,44 @@ Besprechung von H. Sch. in NFP 6.5.1928, S. 17f.</ab></div>
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-333">
+               <persName>Bourget, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118659561</idno>
+            </person>
+            <person xml:id="ask-person-929">
+               <persName>France, Claude</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062043677</idno>
+            </person>
+            <person xml:id="ask-person-1164">
+               <persName>Haïk, Jacques</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062386477</idno>
+            </person>
+            <person xml:id="ask-person-1472">
+               <persName>Kemm, Jean</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061652793</idno>
+            </person>
+            <person xml:id="ask-person-1606">
+               <persName>Lannes, Georges</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061790371</idno>
+            </person>
+            <person xml:id="ask-person-1852">
+               <persName>Maudru, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061875458</idno>
+            </person>
+            <person xml:id="ask-person-2153">
+               <persName>Peter, Dr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1266499873</idno>
+            </person>
+            <person xml:id="ask-person-2209">
+               <persName>Pollak, Frieda </persName>
+               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
+            </person>
+            <person xml:id="ask-person-2751">
+               <persName>Tod, Malcolm</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061946347</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

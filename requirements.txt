@@ -1,4 +1,5 @@
 pandas
+acdh-arche-assets
 acdh-tei-pyutils
 jinja2
 jupyter

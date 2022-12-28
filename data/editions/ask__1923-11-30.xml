@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">154</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-287">
+               <persName>Björne, Hugo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1114424684</idno>
+            </person>
+            <person xml:id="ask-person-402">
+               <persName>Brunius, Pauline</persName>
+               <idno type="GND">https://d-nb.info/gnd/1263715990</idno>
+            </person>
+            <person xml:id="ask-person-1191">
+               <persName>Hanson, Einar</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274247160</idno>
+            </person>
+            <person xml:id="ask-person-1403">
+               <persName>Johnson, Mary</persName>
+            </person>
+            <person xml:id="ask-person-1579">
+               <persName>Lagerlöf, Selma</persName>
+               <idno type="GND">https://d-nb.info/gnd/118726005</idno>
+            </person>
+            <person xml:id="ask-person-2077">
+               <persName>Olschansky, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
+            </person>
+            <person xml:id="ask-person-2468">
+               <persName>Schnitzler, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
+            </person>
+            <person xml:id="ask-person-2576">
+               <persName>Söderhjelm, Alma</persName>
+               <idno type="GND">https://d-nb.info/gnd/119380420</idno>
+            </person>
+            <person xml:id="ask-person-2648">
+               <persName>Stiller, Mauritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/124994504</idno>
+            </person>
+            <person xml:id="ask-person-4096">
+               <persName>Pollaczek, Clara Katharina</persName>
+               <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

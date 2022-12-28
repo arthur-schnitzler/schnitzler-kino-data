@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">69</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,73 @@ Abend mit A. im Kino (der darauf bestand), dann in einem Beisel genachtmahlt. Me
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-53">
+               <persName>Alten, Ferdinand von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
+            </person>
+            <person xml:id="ask-person-253">
+               <persName>Bernauer, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/118656295</idno>
+            </person>
+            <person xml:id="ask-person-1023">
+               <persName>Gerron, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
+            </person>
+            <person xml:id="ask-person-1179">
+               <persName>Halmay, Tibor von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062403908</idno>
+            </person>
+            <person xml:id="ask-person-1608">
+               <persName>Lantz, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
+            </person>
+            <person xml:id="ask-person-1620">
+               <persName>Lederer, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/130217492</idno>
+            </person>
+            <person xml:id="ask-person-1858">
+               <persName>May, Joe</persName>
+               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
+            </person>
+            <person xml:id="ask-person-2009">
+               <persName>Nagy, Käthe von</persName>
+               <idno type="GND">https://d-nb.info/gnd/132694425</idno>
+            </person>
+            <person xml:id="ask-person-2090">
+               <persName>Österreicher, Rudolf</persName>
+            </person>
+            <person xml:id="ask-person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-2351">
+               <persName>Roberts, Ralph Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/119046334</idno>
+            </person>
+            <person xml:id="ask-person-2428">
+               <persName>Sandrock, Adele</persName>
+               <idno type="GND">https://d-nb.info/gnd/118605429</idno>
+            </person>
+            <person xml:id="ask-person-2461">
+               <persName>Schmitt, Alexandra</persName>
+            </person>
+            <person xml:id="ask-person-2470">
+               <persName>Schnitzler, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848693</idno>
+            </person>
+            <person xml:id="ask-person-2631">
+               <persName>Steinbeck, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/1209596261</idno>
+            </person>
+            <person xml:id="ask-person-2693">
+               <persName>Szakall, Szöke</persName>
+               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
+            </person>
+            <person xml:id="ask-person-2729">
+               <persName>Theimer, Gretl</persName>
+               <idno type="GND">https://d-nb.info/gnd/134571207</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

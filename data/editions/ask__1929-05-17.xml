@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">433</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,44 @@ Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dor
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="ask-person-1014">
+               <persName>Geppert, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1205623329</idno>
+            </person>
+            <person xml:id="ask-person-1112">
+               <persName>Grey, Dolly</persName>
+               <idno type="GND">https://d-nb.info/gnd/135806186</idno>
+            </person>
+            <person xml:id="ask-person-1442">
+               <persName>Kampers, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/120558424</idno>
+            </person>
+            <person xml:id="ask-person-1670">
+               <persName>Liedtke, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
+            </person>
+            <person xml:id="ask-person-2167">
+               <persName>Picha, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116177578</idno>
+            </person>
+            <person xml:id="ask-person-2218">
+               <persName>Porta, Elizza la</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061730611</idno>
+            </person>
+            <person xml:id="ask-person-2256">
+               <persName>Raeder, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/116323604</idno>
+            </person>
+            <person xml:id="ask-person-2872">
+               <persName>Walther-Fein, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1089417594</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

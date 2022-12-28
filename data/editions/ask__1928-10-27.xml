@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">410</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,55 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-573">
+               <persName>Cortez, Ricardo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013862333</idno>
+            </person>
+            <person xml:id="ask-person-719">
+               <persName>Duffy, Gerald C.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1168499399</idno>
+            </person>
+            <person xml:id="ask-person-818">
+               <persName>Erskine, John</persName>
+            </person>
+            <person xml:id="ask-person-1538">
+               <persName>Korda, Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565400</idno>
+            </person>
+            <person xml:id="ask-person-1539">
+               <persName>Korda, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565400</idno>
+            </person>
+            <person xml:id="ask-person-2097">
+               <persName>O’Brien, Tom</persName>
+               <idno type="GND">https://d-nb.info/gnd/1178024741</idno>
+            </person>
+            <person xml:id="ask-person-2355">
+               <persName>Robinson, Casey</persName>
+               <idno type="GND">https://d-nb.info/gnd/139745777</idno>
+            </person>
+            <person xml:id="ask-person-2545">
+               <persName>Sherwood, Robert Emmet</persName>
+               <idno type="GND">https://d-nb.info/gnd/141484934</idno>
+            </person>
+            <person xml:id="ask-person-2595">
+               <persName>Spence, Ralph</persName>
+               <idno type="GND">https://d-nb.info/gnd/108279029X</idno>
+            </person>
+            <person xml:id="ask-person-2652">
+               <persName>Stone, Lewis</persName>
+               <idno type="GND">https://d-nb.info/gnd/1161111719</idno>
+            </person>
+            <person xml:id="ask-person-2926">
+               <persName>White, Alice</persName>
+               <idno type="GND">https://d-nb.info/gnd/138726817</idno>
+            </person>
+            <person xml:id="ask-person-2950">
+               <persName>Wilson, Carey</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061884597</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

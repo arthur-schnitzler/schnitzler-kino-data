@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">66</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -96,6 +97,78 @@ Nachgewiesene Spielorte: Imperial- und Opernkino (NFP 15.2.1931, S. 30). Ankünd
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-191">
+               <persName>Beer, Rudolf</persName>
+            </person>
+            <person xml:id="ask-person-694">
+               <persName>Donath, Anny</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055975756</idno>
+            </person>
+            <person xml:id="ask-person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="ask-person-698">
+               <persName>Doraine, Lucy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061312542</idno>
+            </person>
+            <person xml:id="ask-person-815">
+               <persName>Erkelenz, Peter</persName>
+            </person>
+            <person xml:id="ask-person-991">
+               <persName>Gardiner, Becky</persName>
+               <idno type="GND">https://d-nb.info/gnd/1139670913</idno>
+            </person>
+            <person xml:id="ask-person-1106">
+               <persName>Gregor, Nora</persName>
+               <idno type="GND">https://d-nb.info/gnd/124979645</idno>
+            </person>
+            <person xml:id="ask-person-1265">
+               <persName>Herterich, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116752947</idno>
+            </person>
+            <person xml:id="ask-person-1288">
+               <persName>Hilpert, Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/1235924181</idno>
+            </person>
+            <person xml:id="ask-person-1328">
+               <persName>Horch, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116982802</idno>
+            </person>
+            <person xml:id="ask-person-1413">
+               <persName>Jordan, Egon von</persName>
+               <idno type="GND">https://d-nb.info/gnd/117177199</idno>
+            </person>
+            <person xml:id="ask-person-1540">
+               <persName>Korff, Arnold</persName>
+               <idno type="GND">https://d-nb.info/gnd/101334071X</idno>
+            </person>
+            <person xml:id="ask-person-2044">
+               <persName>Niese, Hansi</persName>
+               <idno type="GND">https://d-nb.info/gnd/117016705</idno>
+            </person>
+            <person xml:id="ask-person-2357">
+               <persName>Robison, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/101626027X</idno>
+            </person>
+            <person xml:id="ask-person-2470">
+               <persName>Schnitzler, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848693</idno>
+            </person>
+            <person xml:id="ask-person-2527">
+               <persName>Serda, Julia</persName>
+               <idno type="GND">https://d-nb.info/gnd/117257753</idno>
+            </person>
+            <person xml:id="ask-person-2819">
+               <persName>Veiller, Bayard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1139671138</idno>
+            </person>
+            <person xml:id="ask-person-3028">
+               <persName>Zuckerkandl, Berta</persName>
+               <idno type="GND">https://d-nb.info/gnd/118758160</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

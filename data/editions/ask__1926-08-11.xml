@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">767</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,73 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-168">
+               <persName>Barwyn, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057142247</idno>
+            </person>
+            <person xml:id="ask-person-437">
+               <persName>Cabanne, Christy</persName>
+               <idno type="GND">https://d-nb.info/gnd/141575484</idno>
+            </person>
+            <person xml:id="ask-person-445">
+               <persName>Campbell, Margaret</persName>
+               <idno type="GND">https://d-nb.info/gnd/13034043X</idno>
+            </person>
+            <person xml:id="ask-person-526">
+               <persName>Cody, Lew</persName>
+               <idno type="GND">https://d-nb.info/gnd/1221831518</idno>
+            </person>
+            <person xml:id="ask-person-617">
+               <persName>Dane, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/139856528</idno>
+            </person>
+            <person xml:id="ask-person-745">
+               <persName>D’algy, Tony</persName>
+               <idno type="GND">https://d-nb.info/gnd/138229058</idno>
+            </person>
+            <person xml:id="ask-person-747">
+               <persName>d’Arcy, Roy</persName>
+               <idno type="GND">https://d-nb.info/gnd/138664439</idno>
+            </person>
+            <person xml:id="ask-person-849">
+               <persName>Farnham, Joseph</persName>
+               <idno type="GND">https://d-nb.info/gnd/1053670508</idno>
+            </person>
+            <person xml:id="ask-person-955">
+               <persName>Friganza, Trixie</persName>
+            </person>
+            <person xml:id="ask-person-1097">
+               <persName>Gravina, Cesare</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062057058</idno>
+            </person>
+            <person xml:id="ask-person-1338">
+               <persName>Hoyt, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/13886389X</idno>
+            </person>
+            <person xml:id="ask-person-1607">
+               <persName>Lanoy, André</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047634589</idno>
+            </person>
+            <person xml:id="ask-person-1919">
+               <persName>Miller, Alice D.G.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119653702</idno>
+            </person>
+            <person xml:id="ask-person-2005">
+               <persName>Myers, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/142022519</idno>
+            </person>
+            <person xml:id="ask-person-2076">
+               <persName>Olmstead, Gertrude</persName>
+            </person>
+            <person xml:id="ask-person-2181">
+               <persName>Pitts, Zazu</persName>
+               <idno type="GND">https://d-nb.info/gnd/141535598</idno>
+            </person>
+            <person xml:id="ask-person-2539">
+               <persName>Shears, Barbara</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Bern</placeName>

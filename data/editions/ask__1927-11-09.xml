@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">797</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,43 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-545">
+               <persName>Commandini, Adele</persName>
+               <idno type="GND">https://d-nb.info/gnd/137714157</idno>
+            </person>
+            <person xml:id="ask-person-579">
+               <persName>Cram, Mildred</persName>
+               <idno type="GND">https://d-nb.info/gnd/136805035</idno>
+            </person>
+            <person xml:id="ask-person-1038">
+               <persName>Glass, Gaston</persName>
+               <idno type="GND">https://d-nb.info/gnd/1196050716</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1768">
+               <persName>Mackaill, Dorothy</persName>
+            </person>
+            <person xml:id="ask-person-1978">
+               <persName>Mulhall, Jack</persName>
+               <idno type="GND">https://d-nb.info/gnd/1229049746</idno>
+            </person>
+            <person xml:id="ask-person-2432">
+               <persName>Santell, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062357728</idno>
+            </person>
+            <person xml:id="ask-person-2475">
+               <persName>Schofield, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1034344390</idno>
+            </person>
+            <person xml:id="ask-person-2537">
+               <persName>Shaw, Peggy</persName>
+               <idno type="GND">https://d-nb.info/gnd/120879271</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

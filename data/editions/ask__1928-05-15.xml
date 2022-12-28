@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">10</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,42 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-40">
+               <persName>Alexander, J. Grubb</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061752038</idno>
+            </person>
+            <person xml:id="ask-person-71">
+               <persName>Anthony, Walter</persName>
+            </person>
+            <person xml:id="ask-person-274">
+               <persName>Biggers, Earl Derr</persName>
+               <idno type="GND">https://d-nb.info/gnd/122076524</idno>
+            </person>
+            <person xml:id="ask-person-330">
+               <persName>Bosworth, Hobart</persName>
+               <idno type="GND">https://d-nb.info/gnd/121611529X</idno>
+            </person>
+            <person xml:id="ask-person-421">
+               <persName>Burns, Edward</persName>
+               <idno type="GND">https://d-nb.info/gnd/119519720</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-555">
+               <persName>Conti, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062155017</idno>
+            </person>
+            <person xml:id="ask-person-1645">
+               <persName>Leni, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/119369249</idno>
+            </person>
+            <person xml:id="ask-person-2050">
+               <persName>Nixon, Marian</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

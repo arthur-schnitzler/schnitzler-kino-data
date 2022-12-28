@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">731</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-19">
+               <persName>Agnew, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/141461292</idno>
+            </person>
+            <person xml:id="ask-person-432">
+               <persName>Butler, Frank</persName>
+               <idno type="GND">https://d-nb.info/gnd/13936613X</idno>
+            </person>
+            <person xml:id="ask-person-577">
+               <persName>Cowan, Sada</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062441168</idno>
+            </person>
+            <person xml:id="ask-person-613">
+               <persName>Dalton, Irene</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031974407</idno>
+            </person>
+            <person xml:id="ask-person-1067">
+               <persName>Gordon, Huntley</persName>
+               <idno type="GND">https://d-nb.info/gnd/134592654</idno>
+            </person>
+            <person xml:id="ask-person-1104">
+               <persName>Greene, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/174214596</idno>
+            </person>
+            <person xml:id="ask-person-2423">
+               <persName>Salvor, Lianne</persName>
+            </person>
+            <person xml:id="ask-person-2688">
+               <persName>Swanson, Gloria</persName>
+               <idno type="GND">https://d-nb.info/gnd/122997506</idno>
+            </person>
+            <person xml:id="ask-person-2899">
+               <persName>Weigel, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1097247759</idno>
+            </person>
+            <person xml:id="ask-person-2980">
+               <persName>Wood, Sam</persName>
+               <idno type="GND">https://d-nb.info/gnd/130010367</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

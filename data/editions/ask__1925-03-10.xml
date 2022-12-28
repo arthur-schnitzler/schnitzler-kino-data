@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">235</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,43 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-438">
+               <persName>Cain, Robert</persName>
+            </person>
+            <person xml:id="ask-person-588">
+               <persName>Crosland, Alan</persName>
+               <idno type="GND">https://d-nb.info/gnd/123067006</idno>
+            </person>
+            <person xml:id="ask-person-1049">
+               <persName>Glyn, Elinor</persName>
+               <idno type="GND">https://d-nb.info/gnd/119200406</idno>
+            </person>
+            <person xml:id="ask-person-1316">
+               <persName>Holmes, Stuart</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062172388</idno>
+            </person>
+            <person xml:id="ask-person-1661">
+               <persName>Lewis, Mitchell</persName>
+               <idno type="GND">https://d-nb.info/gnd/1222468670</idno>
+            </person>
+            <person xml:id="ask-person-1715">
+               <persName>Lorez, Claire de</persName>
+               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
+            </person>
+            <person xml:id="ask-person-2008">
+               <persName>Nagel, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
+            </person>
+            <person xml:id="ask-person-2200">
+               <persName>Polis, John St.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1228605254</idno>
+            </person>
+            <person xml:id="ask-person-2238">
+               <persName>Pringle, Aileen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1239116969</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

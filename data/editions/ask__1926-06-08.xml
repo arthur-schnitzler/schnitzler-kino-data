@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">291</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,63 @@ Nachgewiesener Spielort: Münstedts Kinopalast (RPT 8.6.1926, S. 14).</ab></div>
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-310">
+               <persName>Boese, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/12341055X</idno>
+            </person>
+            <person xml:id="ask-person-654">
+               <persName>Delschaft, Maly</persName>
+               <idno type="GND">https://d-nb.info/gnd/116068124</idno>
+            </person>
+            <person xml:id="ask-person-657">
+               <persName>Demburg, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118727079</idno>
+            </person>
+            <person xml:id="ask-person-716">
+               <persName>Droop, Marie-Louise</persName>
+               <idno type="GND">https://d-nb.info/gnd/104908955</idno>
+            </person>
+            <person xml:id="ask-person-778">
+               <persName>Eichstaedt, Senta</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062337131</idno>
+            </person>
+            <person xml:id="ask-person-782">
+               <persName>Eisenmenger, Hofrat</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061597334</idno>
+            </person>
+            <person xml:id="ask-person-1004">
+               <persName>Gebühr, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/124979610</idno>
+            </person>
+            <person xml:id="ask-person-1068">
+               <persName>Gorin, Owen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062140028</idno>
+            </person>
+            <person xml:id="ask-person-1961">
+               <persName>Morena, Erna</persName>
+               <idno type="GND">https://d-nb.info/gnd/117143588</idno>
+            </person>
+            <person xml:id="ask-person-1980">
+               <persName>Müller, E. Dr.</persName>
+            </person>
+            <person xml:id="ask-person-2182">
+               <persName>Pittschau, Werner</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062207742</idno>
+            </person>
+            <person xml:id="ask-person-2298">
+               <persName>Reinwald, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061508900</idno>
+            </person>
+            <person xml:id="ask-person-2371">
+               <persName>Rommer, Claire</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019375620</idno>
+            </person>
+            <person xml:id="ask-person-3008">
+               <persName>Zickner, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116986220</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

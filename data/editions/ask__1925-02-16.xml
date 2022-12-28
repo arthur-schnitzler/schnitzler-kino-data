@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">226</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-186">
+               <persName>Bech, Philip</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062454332</idno>
+            </person>
+            <person xml:id="ask-person-206">
+               <persName>Bell, Karina</persName>
+               <idno type="GND">https://d-nb.info/gnd/141914335</idno>
+            </person>
+            <person xml:id="ask-person-1786">
+               <persName>Malberg, Peter</persName>
+               <idno type="GND">https://d-nb.info/gnd/122311051</idno>
+            </person>
+            <person xml:id="ask-person-2003">
+               <persName>Muusmann, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055109757</idno>
+            </person>
+            <person xml:id="ask-person-2159">
+               <persName>Petersen, Hans W.</persName>
+               <idno type="GND">https://d-nb.info/gnd/115729782X</idno>
+            </person>
+            <person xml:id="ask-person-2427">
+               <persName>Sandberg, A. W.</persName>
+               <idno type="GND">https://d-nb.info/gnd/141914289</idno>
+            </person>
+            <person xml:id="ask-person-2456">
+               <persName>Schmidt, Aage</persName>
+               <idno type="GND">https://d-nb.info/gnd/1122703082</idno>
+            </person>
+            <person xml:id="ask-person-2567">
+               <persName>Skands, Laurids</persName>
+               <idno type="GND">https://d-nb.info/gnd/106188483X</idno>
+            </person>
+            <person xml:id="ask-person-2752">
+               <persName>Tolnæs, Gunnar</persName>
+               <idno type="GND">https://d-nb.info/gnd/141911581</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">218</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,68 @@ Vgl. dreiseitiger Artikel in Filmwelt, Jg. 1924, Nr. 33, S. 4–6. Vgl. Hätte i
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-91">
+               <persName>Arnold, Gertrud</persName>
+               <idno type="GND">https://d-nb.info/gnd/1050400291</idno>
+            </person>
+            <person xml:id="ask-person-286">
+               <persName>Biswanger, Erwin</persName>
+               <idno type="GND">https://d-nb.info/gnd/12926685X</idno>
+            </person>
+            <person xml:id="ask-person-933">
+               <persName>Francois, Hardy von</persName>
+            </person>
+            <person xml:id="ask-person-1055">
+               <persName>Goetzke, Bernhard</persName>
+            </person>
+            <person xml:id="ask-person-1196">
+               <persName>Harbou, Thea von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118701495</idno>
+            </person>
+            <person xml:id="ask-person-1401">
+               <persName>John, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/1194256775</idno>
+            </person>
+            <person xml:id="ask-person-1599">
+               <persName>Lang, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118569244</idno>
+            </person>
+            <person xml:id="ask-person-1712">
+               <persName>Loos, Theodor</persName>
+               <idno type="GND">https://d-nb.info/gnd/116850345</idno>
+            </person>
+            <person xml:id="ask-person-1977">
+               <persName>Mueller, Hans Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1038346398</idno>
+            </person>
+            <person xml:id="ask-person-2260">
+               <persName>Ralph, Hanna</persName>
+               <idno type="GND">https://d-nb.info/gnd/142155578</idno>
+            </person>
+            <person xml:id="ask-person-2317">
+               <persName>Richard, Frida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
+            </person>
+            <person xml:id="ask-person-2322">
+               <persName>Richter, Paul</persName>
+            </person>
+            <person xml:id="ask-person-2350">
+               <persName>Roberts, Iris</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062249364</idno>
+            </person>
+            <person xml:id="ask-person-2454">
+               <persName>Schlettow, Hans Adalbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117326747</idno>
+            </person>
+            <person xml:id="ask-person-2478">
+               <persName>Schön, Margarete</persName>
+               <idno type="GND">https://d-nb.info/gnd/1216900655</idno>
+            </person>
+            <person xml:id="ask-person-2997">
+               <persName>Yurovsky, Yuri</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">{{ id }}</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -88,7 +89,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             </table>
          </div>{% endif %}
       </body>
-      <back>
+      <back>{% if personen %}
+         <listPerson>{% for x in personen %}
+            <person xml:id="{{ x.id }}">
+               <persName>{{ x.name }}</persName>{% if x.gnd %}
+               <idno type="GND">{{ x.gnd }}</idno>{% endif %}
+            </person>{% endfor %}
+         </listPerson>{% endif %}
          <listPlace>
             <place type="location">
                <placeName>{{ ort }}</placeName>

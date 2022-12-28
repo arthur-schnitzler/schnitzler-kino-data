@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">853</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,58 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-447">
+               <persName>Campeau, Frank</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017966990</idno>
+            </person>
+            <person xml:id="ask-person-917">
+               <persName>Ford, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/118534319</idno>
+            </person>
+            <person xml:id="ask-person-973">
+               <persName>Furthman, Jules</persName>
+               <idno type="GND">https://d-nb.info/gnd/14028463X</idno>
+            </person>
+            <person xml:id="ask-person-1248">
+               <persName>Hellmann, Ernst</persName>
+            </person>
+            <person xml:id="ask-person-1463">
+               <persName>Ke, Kathleen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1196151865</idno>
+            </person>
+            <person xml:id="ask-person-1527">
+               <persName>Kohler, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1053198779</idno>
+            </person>
+            <person xml:id="ask-person-1626">
+               <persName>Lee, Jennie</persName>
+               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
+            </person>
+            <person xml:id="ask-person-1639">
+               <persName>Leigh, Frank</persName>
+               <idno type="GND">https://d-nb.info/gnd/1146010052</idno>
+            </person>
+            <person xml:id="ask-person-1934">
+               <persName>Mix, Tom</persName>
+               <idno type="GND">https://d-nb.info/gnd/118817531</idno>
+            </person>
+            <person xml:id="ask-person-2116">
+               <persName>Pallette, Eugéne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1053495528</idno>
+            </person>
+            <person xml:id="ask-person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-2209">
+               <persName>Pollak, Frieda </persName>
+               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
+            </person>
+            <person xml:id="ask-person-2866">
+               <persName>Walling, Will</persName>
+               <idno type="GND">https://d-nb.info/gnd/139599223</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

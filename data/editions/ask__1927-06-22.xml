@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">790</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,50 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-80">
+               <persName>Arkanow, G.</persName>
+            </person>
+            <person xml:id="ask-person-101">
+               <persName>Asper, Helmut G.</persName>
+            </person>
+            <person xml:id="ask-person-993">
+               <persName>Garelli, S.</persName>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1482">
+               <persName>Kerr, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/11856157X</idno>
+            </person>
+            <person xml:id="ask-person-1649">
+               <persName>Leonidow, L. M.</persName>
+               <idno type="GND">https://d-nb.info/gnd/122239806</idno>
+            </person>
+            <person xml:id="ask-person-1782">
+               <persName>Makarow, W.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062120086</idno>
+            </person>
+            <person xml:id="ask-person-2381">
+               <persName>Rosenowsky, N.</persName>
+            </person>
+            <person xml:id="ask-person-2447">
+               <persName>Schildkroet, Konstantin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1146934211</idno>
+            </person>
+            <person xml:id="ask-person-2708">
+               <persName>Taric, Jurij</persName>
+            </person>
+            <person xml:id="ask-person-2962">
+               <persName>Witowotow, N.</persName>
+            </person>
+            <person xml:id="ask-person-3033">
+               <persName>Šklovskij, Viktor</persName>
+               <idno type="GND">https://d-nb.info/gnd/118765701</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

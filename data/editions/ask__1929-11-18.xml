@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">452</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,75 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-34">
+               <persName>Aldersfeld-Ballestrem</persName>
+            </person>
+            <person xml:id="ask-person-428">
+               <persName>Bush, Mae</persName>
+               <idno type="GND">https://d-nb.info/gnd/138496242</idno>
+            </person>
+            <person xml:id="ask-person-492">
+               <persName>Chaney, Lon</persName>
+               <idno type="GND">https://d-nb.info/gnd/119450100</idno>
+            </person>
+            <person xml:id="ask-person-557">
+               <persName>Conway, Jack</persName>
+               <idno type="GND">https://d-nb.info/gnd/139730893</idno>
+            </person>
+            <person xml:id="ask-person-634">
+               <persName>Davis, Dolly</persName>
+               <idno type="GND">https://d-nb.info/gnd/137740824</idno>
+            </person>
+            <person xml:id="ask-person-923">
+               <persName>Forst, Willi</persName>
+               <idno type="GND">https://d-nb.info/gnd/118818813</idno>
+            </person>
+            <person xml:id="ask-person-989">
+               <persName>Garden, Viola</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061888320</idno>
+            </person>
+            <person xml:id="ask-person-1383">
+               <persName>Janssen, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
+            </person>
+            <person xml:id="ask-person-1447">
+               <persName>Karenne, Diana</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061554988</idno>
+            </person>
+            <person xml:id="ask-person-1884">
+               <persName>Meinert, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047434601</idno>
+            </person>
+            <person xml:id="ask-person-1958">
+               <persName>Moran, Polly</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018858695</idno>
+            </person>
+            <person xml:id="ask-person-2006">
+               <persName>Mylong-Münz, Jack</persName>
+               <idno type="GND">https://d-nb.info/gnd/1021053074</idno>
+            </person>
+            <person xml:id="ask-person-2066">
+               <persName>Nye, Carroll</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055324135</idno>
+            </person>
+            <person xml:id="ask-person-2067">
+               <persName>Oakman, Wheeler</persName>
+               <idno type="GND">https://d-nb.info/gnd/1229049355</idno>
+            </person>
+            <person xml:id="ask-person-2109">
+               <persName>Page, Anita</persName>
+               <idno type="GND">https://d-nb.info/gnd/13624873X</idno>
+            </person>
+            <person xml:id="ask-person-2532">
+               <persName>Serventi, Luigi</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062245261</idno>
+            </person>
+            <person xml:id="ask-person-2771">
+               <persName>Trevor, Jack</persName>
+               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

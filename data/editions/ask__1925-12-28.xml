@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">269</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1616">
+               <persName>Lauritzen, Lau Sr.</persName>
+            </person>
+            <person xml:id="ask-person-1774">
+               <persName>Madsen, Harald, s. Pat und Patachon</persName>
+               <idno type="GND">https://d-nb.info/gnd/118730045</idno>
+            </person>
+            <person xml:id="ask-person-2443">
+               <persName>Schenstrøm, Carl, siehe Pat und Patachon</persName>
+               <idno type="GND">https://d-nb.info/gnd/118754602</idno>
+            </person>
+            <person xml:id="ask-person-2665">
+               <persName>Stribolt, Oscar</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062057821</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

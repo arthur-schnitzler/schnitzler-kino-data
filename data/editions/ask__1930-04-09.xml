@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">491</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,59 @@ Ankündigung NFP 28.3.1930, S. 10. Premierennotiz für Burg- und Ufa-Ton-Kino NF
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-256">
+               <persName>Bernhardt, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/118509888</idno>
+            </person>
+            <person xml:id="ask-person-827">
+               <persName>Evans, Karin</persName>
+               <idno type="GND">https://d-nb.info/gnd/129342084</idno>
+            </person>
+            <person xml:id="ask-person-1058">
+               <persName>Goldberg, Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116748508</idno>
+            </person>
+            <person xml:id="ask-person-1084">
+               <persName>Granach, Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/11854148X</idno>
+            </person>
+            <person xml:id="ask-person-1109">
+               <persName>Gretler, Heinrich</persName>
+            </person>
+            <person xml:id="ask-person-1208">
+               <persName>Hart, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013305035</idno>
+            </person>
+            <person xml:id="ask-person-1245">
+               <persName>Heller, Else</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019222352</idno>
+            </person>
+            <person xml:id="ask-person-1252">
+               <persName>Henckels, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
+            </person>
+            <person xml:id="ask-person-1270">
+               <persName>Herzberg, Martin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
+            </person>
+            <person xml:id="ask-person-1803">
+               <persName>Manning, Philipp</persName>
+               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
+            </person>
+            <person xml:id="ask-person-2482">
+               <persName>Schott, Werner</persName>
+               <idno type="GND">https://d-nb.info/gnd/1052277837</idno>
+            </person>
+            <person xml:id="ask-person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+            <person xml:id="ask-person-2963">
+               <persName>Wohl, Ludwig von</persName>
+               <idno type="GND">https://d-nb.info/gnd/117456837</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">804</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,51 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-94">
+               <persName>Arzner, Dorothy</persName>
+               <idno type="GND">https://d-nb.info/gnd/119247666</idno>
+            </person>
+            <person xml:id="ask-person-140">
+               <persName>Bancroft, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/138154171</idno>
+            </person>
+            <person xml:id="ask-person-196">
+               <persName>Beery, Wallace</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019429607</idno>
+            </person>
+            <person xml:id="ask-person-467">
+               <persName>Carr, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/137920431</idno>
+            </person>
+            <person xml:id="ask-person-592">
+               <persName>Cruze, James</persName>
+               <idno type="GND">https://d-nb.info/gnd/138735379</idno>
+            </person>
+            <person xml:id="ask-person-851">
+               <persName>Farrell, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/1137497874</idno>
+            </person>
+            <person xml:id="ask-person-1343">
+               <persName>Hughes, Rupert</persName>
+               <idno type="GND">https://d-nb.info/gnd/121308308</idno>
+            </person>
+            <person xml:id="ask-person-1779">
+               <persName>Mailes, Charles Hill</persName>
+            </person>
+            <person xml:id="ask-person-2262">
+               <persName>Ralston, Esther</persName>
+               <idno type="GND">https://d-nb.info/gnd/127459537</idno>
+            </person>
+            <person xml:id="ask-person-2610">
+               <persName>Stallings, Laurence</persName>
+               <idno type="GND">https://d-nb.info/gnd/118798391</idno>
+            </person>
+            <person xml:id="ask-person-2983">
+               <persName>Woods, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/138735425</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

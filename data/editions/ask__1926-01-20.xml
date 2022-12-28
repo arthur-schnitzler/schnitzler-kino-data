@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">755</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,52 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-195">
+               <persName>Beery, Noah</persName>
+               <idno type="GND">https://d-nb.info/gnd/106168153X</idno>
+            </person>
+            <person xml:id="ask-person-441">
+               <persName>Calvert, E.H.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1089838506</idno>
+            </person>
+            <person xml:id="ask-person-577">
+               <persName>Cowan, Sada</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062441168</idno>
+            </person>
+            <person xml:id="ask-person-868">
+               <persName>Fellowes, Rockliffe</persName>
+               <idno type="GND">https://d-nb.info/gnd/1147771707</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1728">
+               <persName>Lowe, Edmund</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061857999</idno>
+            </person>
+            <person xml:id="ask-person-2019">
+               <persName>Negri, Pola</persName>
+               <idno type="GND">https://d-nb.info/gnd/118843249</idno>
+            </person>
+            <person xml:id="ask-person-2285">
+               <persName>Regnart, Florence</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062021614</idno>
+            </person>
+            <person xml:id="ask-person-2306">
+               <persName>Requa, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/143033565</idno>
+            </person>
+            <person xml:id="ask-person-2869">
+               <persName>Walsh, Raoul</persName>
+               <idno type="GND">https://d-nb.info/gnd/129014974</idno>
+            </person>
+            <person xml:id="ask-person-2954">
+               <persName>Wing, Wong</persName>
+               <idno type="GND">https://d-nb.info/gnd/138876169</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

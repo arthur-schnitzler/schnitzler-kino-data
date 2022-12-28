@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">442</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-272">
+               <persName>Biebrach, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/143974416</idno>
+            </person>
+            <person xml:id="ask-person-622">
+               <persName>Darmatoff, Osip</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061433714</idno>
+            </person>
+            <person xml:id="ask-person-936">
+               <persName>Frank, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/125270305</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1619">
+               <persName>Ledebur, Leopold von</persName>
+               <idno type="GND">https://d-nb.info/gnd/116851503</idno>
+            </person>
+            <person xml:id="ask-person-1854">
+               <persName>Maurus, Gerda</persName>
+               <idno type="GND">https://d-nb.info/gnd/141771909</idno>
+            </person>
+            <person xml:id="ask-person-1906">
+               <persName>Meyer, Johannes</persName>
+               <idno type="GND">https://d-nb.info/gnd/135663911</idno>
+            </person>
+            <person xml:id="ask-person-2213">
+               <persName>Pomés, Felix de</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061891879</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

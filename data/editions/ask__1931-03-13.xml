@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">474</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,51 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-200">
+               <persName>Behrens, Eduard</persName>
+            </person>
+            <person xml:id="ask-person-280">
+               <persName>Bird, Betty</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062280075</idno>
+            </person>
+            <person xml:id="ask-person-310">
+               <persName>Boese, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/12341055X</idno>
+            </person>
+            <person xml:id="ask-person-797">
+               <persName>Embden, Max van</persName>
+               <idno type="GND">https://d-nb.info/gnd/118530119</idno>
+            </person>
+            <person xml:id="ask-person-842">
+               <persName>Falkenstein, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
+            </person>
+            <person xml:id="ask-person-1122">
+               <persName>Grock</persName>
+               <idno type="GND">https://d-nb.info/gnd/119035480</idno>
+            </person>
+            <person xml:id="ask-person-1163">
+               <persName>Haid, Liane</persName>
+               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
+            </person>
+            <person xml:id="ask-person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="ask-person-1327">
+               <persName>Hörbiger, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118552155</idno>
+            </person>
+            <person xml:id="ask-person-2697">
+               <persName>Szöreghi, Julius von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061649415</idno>
+            </person>
+            <person xml:id="ask-person-2923">
+               <persName>Wettach, Karl Adrien (Grock)</persName>
+               <idno type="GND">https://d-nb.info/gnd/119035480</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

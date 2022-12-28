@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">407</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,52 @@ Nachgewiesene Spielorte: Schottenring-, Tuchlauben- und Flieger-Kino sowie Kino 
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-359">
+               <persName>Brausewetter, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116430249</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1312">
+               <persName>Hollay, Camilla von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
+            </person>
+            <person xml:id="ask-person-1321">
+               <persName>Homolka, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/116976586</idno>
+            </person>
+            <person xml:id="ask-person-1393">
+               <persName>Jennings, Hilde</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061523101</idno>
+            </person>
+            <person xml:id="ask-person-1395">
+               <persName>Jerusalem, Else</persName>
+               <idno type="GND">https://d-nb.info/gnd/119145146</idno>
+            </person>
+            <person xml:id="ask-person-1664">
+               <persName>Leyko, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061573567</idno>
+            </person>
+            <person xml:id="ask-person-1973">
+               <persName>Mosheim, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/116939966</idno>
+            </person>
+            <person xml:id="ask-person-2092">
+               <persName>Oswald, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118787322</idno>
+            </person>
+            <person xml:id="ask-person-2093">
+               <persName>Otto, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1016966490</idno>
+            </person>
+            <person xml:id="ask-person-2167">
+               <persName>Picha, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116177578</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">179</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-469">
+               <persName>Carr, Percy</persName>
+               <idno type="GND">https://d-nb.info/gnd/137920431</idno>
+            </person>
+            <person xml:id="ask-person-612">
+               <persName>Dale, Margaret</persName>
+               <idno type="GND">https://d-nb.info/gnd/140229760</idno>
+            </person>
+            <person xml:id="ask-person-659">
+               <persName>Dempster, Carol</persName>
+               <idno type="GND">https://d-nb.info/gnd/135728797</idno>
+            </person>
+            <person xml:id="ask-person-1118">
+               <persName>Griffith, D. W.</persName>
+               <idno type="GND">https://d-nb.info/gnd/118718851</idno>
+            </person>
+            <person xml:id="ask-person-1349">
+               <persName>Hull, Henry</persName>
+               <idno type="GND">https://d-nb.info/gnd/126543186</idno>
+            </person>
+            <person xml:id="ask-person-2562">
+               <persName>Sinclair, Irene</persName>
+               <idno type="GND">https://d-nb.info/gnd/14067988X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

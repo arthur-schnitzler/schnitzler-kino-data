@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">127</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,60 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-76">
+               <persName>Appelgreen, Britta</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061500519</idno>
+            </person>
+            <person xml:id="ask-person-822">
+               <persName>Esterházy, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
+            </person>
+            <person xml:id="ask-person-1312">
+               <persName>Hollay, Camilla von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
+            </person>
+            <person xml:id="ask-person-1589">
+               <persName>Land, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/116669942</idno>
+            </person>
+            <person xml:id="ask-person-1704">
+               <persName>Loeb, Louis </persName>
+               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
+            </person>
+            <person xml:id="ask-person-1706">
+               <persName>Loeb, Regina</persName>
+               <idno type="GND">https://d-nb.info/gnd/142496596</idno>
+            </person>
+            <person xml:id="ask-person-1831">
+               <persName>Marsa, Rina</persName>
+               <idno type="GND">https://d-nb.info/gnd/139255761</idno>
+            </person>
+            <person xml:id="ask-person-2161">
+               <persName>Petrovich, Iwan</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031491554</idno>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="ask-person-2473">
+               <persName>Albu, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/130068101</idno>
+            </person>
+            <person xml:id="ask-person-2526">
+               <persName>Senesch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118727079</idno>
+            </person>
+            <person xml:id="ask-person-2803">
+               <persName>Vajda, Ladislaus</persName>
+               <idno type="GND">https://d-nb.info/gnd/129296805</idno>
+            </person>
+            <person xml:id="ask-person-3026">
+               <persName>Zsoldos, Andor</persName>
+               <idno type="GND">https://d-nb.info/gnd/1211057747</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

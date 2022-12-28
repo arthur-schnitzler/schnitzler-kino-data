@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">254</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,43 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-626">
+               <persName>Daumery, Carrie</persName>
+            </person>
+            <person xml:id="ask-person-1405">
+               <persName>Johnston, Agnes Christine</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062488083</idno>
+            </person>
+            <person xml:id="ask-person-1733">
+               <persName>Lubitsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
+            </person>
+            <person xml:id="ask-person-1785">
+               <persName>Malatesta, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/123442844X</idno>
+            </person>
+            <person xml:id="ask-person-1896">
+               <persName>Menjou, Adolphe</persName>
+               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
+            </person>
+            <person xml:id="ask-person-2019">
+               <persName>Negri, Pola</persName>
+               <idno type="GND">https://d-nb.info/gnd/118843249</idno>
+            </person>
+            <person xml:id="ask-person-2373">
+               <persName>Roque, Rod la</persName>
+               <idno type="GND">https://d-nb.info/gnd/140894314</idno>
+            </person>
+            <person xml:id="ask-person-2404">
+               <persName>Ruiz, Nick De</persName>
+               <idno type="GND">https://d-nb.info/gnd/139559701</idno>
+            </person>
+            <person xml:id="ask-person-2617">
+               <persName>Starke, Pauline</persName>
+               <idno type="GND">https://d-nb.info/gnd/1221831666</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

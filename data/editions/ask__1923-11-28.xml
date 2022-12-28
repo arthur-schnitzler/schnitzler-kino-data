@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">153</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,50 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-21">
+               <persName>Aidarow, S.</persName>
+            </person>
+            <person xml:id="ask-person-370">
+               <persName>Breslauer, H. K.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119203278</idno>
+            </person>
+            <person xml:id="ask-person-410">
+               <persName>Bulgakowa, Warwara</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061699749</idno>
+            </person>
+            <person xml:id="ask-person-1062">
+               <persName>Golowin, S.</persName>
+               <idno type="GND">https://d-nb.info/gnd/118166786</idno>
+            </person>
+            <person xml:id="ask-person-1367">
+               <persName>Istomin, A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1052153224</idno>
+            </person>
+            <person xml:id="ask-person-1456">
+               <persName>Kaska, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/118625543</idno>
+            </person>
+            <person xml:id="ask-person-1842">
+               <persName>Masalstinov, W.</persName>
+            </person>
+            <person xml:id="ask-person-1975">
+               <persName>Moskwin, Iwan</persName>
+            </person>
+            <person xml:id="ask-person-2129">
+               <persName>Paschvskaja, W.</persName>
+            </person>
+            <person xml:id="ask-person-2258">
+               <persName>Rajewskaja, E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/105637229X</idno>
+            </person>
+            <person xml:id="ask-person-2607">
+               <persName>Ssanin, Alexander</persName>
+            </person>
+            <person xml:id="ask-person-2754">
+               <persName>Tolstoi, Leo</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">172</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,31 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-96">
+               <persName>Asereth, Lenora</persName>
+            </person>
+            <person xml:id="ask-person-366">
+               <persName>Brenon, Herbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/123048028</idno>
+            </person>
+            <person xml:id="ask-person-850">
+               <persName>Farnum, William</persName>
+               <idno type="GND">https://d-nb.info/gnd/1237463335</idno>
+            </person>
+            <person xml:id="ask-person-1257">
+               <persName>Herbert, Holmes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062353846</idno>
+            </person>
+            <person xml:id="ask-person-1979">
+               <persName>Mullen, Sadie</persName>
+               <idno type="GND">https://d-nb.info/gnd/13498577X</idno>
+            </person>
+            <person xml:id="ask-person-1990">
+               <persName>Murillo, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/131527967</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

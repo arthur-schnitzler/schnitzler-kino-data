@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">120</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,70 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-317">
+               <persName>Bollman, Hans Heinz</persName>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="ask-person-701">
+               <persName>Dorsch, Käthe</persName>
+               <idno type="GND">https://d-nb.info/gnd/11868051X</idno>
+            </person>
+            <person xml:id="ask-person-791">
+               <persName>Elsner, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/1146963017</idno>
+            </person>
+            <person xml:id="ask-person-1252">
+               <persName>Henckels, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
+            </person>
+            <person xml:id="ask-person-1373">
+               <persName>Jacoby, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243843225</idno>
+            </person>
+            <person xml:id="ask-person-2165">
+               <persName>Philippi, Siegfried</persName>
+               <idno type="GND">https://d-nb.info/gnd/102510367X</idno>
+            </person>
+            <person xml:id="ask-person-2186">
+               <persName>Platen, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
+            </person>
+            <person xml:id="ask-person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-2205">
+               <persName>Pollaczek, Magdalena</persName>
+               <idno type="GND">https://d-nb.info/gnd/132915251</idno>
+            </person>
+            <person xml:id="ask-person-2209">
+               <persName>Pollak, Frieda </persName>
+               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
+            </person>
+            <person xml:id="ask-person-2414">
+               <persName>Sabo, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/126563608</idno>
+            </person>
+            <person xml:id="ask-person-2496">
+               <persName>Schulz, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019536608</idno>
+            </person>
+            <person xml:id="ask-person-2557">
+               <persName>Sima, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/130872091</idno>
+            </person>
+            <person xml:id="ask-person-2987">
+               <persName>Wüst, Ida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116119667</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

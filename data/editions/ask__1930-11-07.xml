@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">129</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -94,6 +95,59 @@ Ankündigung NFP 17.10.1930, S. 14. Anzeige und Premierennotiz NFP 28.10.1930, S
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-39">
+               <persName>Alexander, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
+            </person>
+            <person xml:id="ask-person-213">
+               <persName>Bender, Henry</persName>
+            </person>
+            <person xml:id="ask-person-246">
+               <persName>Berliner, Gertrude</persName>
+               <idno type="GND">https://d-nb.info/gnd/140576029</idno>
+            </person>
+            <person xml:id="ask-person-277">
+               <persName>Bill, Teddy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1056825936</idno>
+            </person>
+            <person xml:id="ask-person-567">
+               <persName>Corday, Charlotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/118676881</idno>
+            </person>
+            <person xml:id="ask-person-982">
+               <persName>Gallone, Carmine</persName>
+               <idno type="GND">https://d-nb.info/gnd/119353199</idno>
+            </person>
+            <person xml:id="ask-person-1249">
+               <persName>Helm, Brigitte</persName>
+               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
+            </person>
+            <person xml:id="ask-person-1383">
+               <persName>Janssen, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
+            </person>
+            <person xml:id="ask-person-1491">
+               <persName>Kiepura, Jan</persName>
+               <idno type="GND">https://d-nb.info/gnd/118984411</idno>
+            </person>
+            <person xml:id="ask-person-1787">
+               <persName>Maldacea, Francesco</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062306910</idno>
+            </person>
+            <person xml:id="ask-person-2234">
+               <persName>Preminger, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/119067412</idno>
+            </person>
+            <person xml:id="ask-person-2695">
+               <persName>Székely, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
+            </person>
+            <person xml:id="ask-person-2792">
+               <persName>Twardowski, H. von</persName>
+               <idno type="GND">https://d-nb.info/gnd/116173092</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

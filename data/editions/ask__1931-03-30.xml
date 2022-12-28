@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">75</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-28">
+               <persName>Alberti, Fritz</persName>
+            </person>
+            <person xml:id="ask-person-703">
+               <persName>Dostojewski, Fjodor</persName>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1543">
+               <persName>Kortner, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-2094">
+               <persName>Ozep, Fedor</persName>
+               <idno type="GND">https://d-nb.info/gnd/172959756</idno>
+            </person>
+            <person xml:id="ask-person-2192">
+               <persName>Pohl, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/116260513</idno>
+            </person>
+            <person xml:id="ask-person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-2274">
+               <persName>Rasp, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-2636">
+               <persName>Sten, Anna</persName>
+               <idno type="GND">https://d-nb.info/gnd/138875537</idno>
+            </person>
+            <person xml:id="ask-person-2849">
+               <persName>Waag, Hanna</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061924149</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

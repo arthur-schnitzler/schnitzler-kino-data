@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">468</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-569">
+               <persName>Cornwall, Ann</persName>
+               <idno type="GND">https://d-nb.info/gnd/173538878</idno>
+            </person>
+            <person xml:id="ask-person-767">
+               <persName>Edwards, Snitz</persName>
+               <idno type="GND">https://d-nb.info/gnd/142261998</idno>
+            </person>
+            <person xml:id="ask-person-1064">
+               <persName>Goodwin, Harold</persName>
+               <idno type="GND">https://d-nb.info/gnd/120598092X</idno>
+            </person>
+            <person xml:id="ask-person-1331">
+               <persName>Horne, James W.</persName>
+               <idno type="GND">https://d-nb.info/gnd/143080571</idno>
+            </person>
+            <person xml:id="ask-person-1465">
+               <persName>Keaton, Buster</persName>
+               <idno type="GND">https://d-nb.info/gnd/118560875</idno>
+            </person>
+            <person xml:id="ask-person-2957">
+               <persName>Winter, Philipp</persName>
+               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

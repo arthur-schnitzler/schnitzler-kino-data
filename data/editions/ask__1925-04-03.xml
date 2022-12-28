@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">238</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,70 @@ Notiz und Anzeige (dort Haupttitel »Einmal kommt der Tag …«) NFP 20.3.1925, 
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-151">
+               <persName>Bard, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/132959372</idno>
+            </person>
+            <person xml:id="ask-person-193">
+               <persName>Beer-Hofmann, Paula</persName>
+               <idno type="GND">https://d-nb.info/gnd/119044994</idno>
+            </person>
+            <person xml:id="ask-person-194">
+               <persName>Beer-Hofmann, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118654756</idno>
+            </person>
+            <person xml:id="ask-person-242">
+               <persName>Bergner, Elisabeth</persName>
+               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
+            </person>
+            <person xml:id="ask-person-608">
+               <persName>Czinner, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116787651</idno>
+            </person>
+            <person xml:id="ask-person-762">
+               <persName>Edwall, Nils</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061659011</idno>
+            </person>
+            <person xml:id="ask-person-918">
+               <persName>Forescu, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057812145</idno>
+            </person>
+            <person xml:id="ask-person-1379">
+               <persName>Jannings, Emil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
+            </person>
+            <person xml:id="ask-person-1562">
+               <persName>Kronert, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061513254</idno>
+            </person>
+            <person xml:id="ask-person-1568">
+               <persName>Kupfer, Margarete</persName>
+            </person>
+            <person xml:id="ask-person-1663">
+               <persName>Ley, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-1743">
+               <persName>Lundt, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/1242435182</idno>
+            </person>
+            <person xml:id="ask-person-2186">
+               <persName>Platen, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
+            </person>
+            <person xml:id="ask-person-2389">
+               <persName>Röttgen, Aenne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061768872</idno>
+            </person>
+            <person xml:id="ask-person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+            <person xml:id="ask-person-2920">
+               <persName>Werner, Walter</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

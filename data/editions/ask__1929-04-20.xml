@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">37</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,37 @@ Harry zu Tisch. Enervante Gespräche über seine Ehe. Er nimmt es wieder nicht e
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-10">
+               <persName>Abel, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
+            </person>
+            <person xml:id="ask-person-33">
+               <persName>Alcover, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062244273</idno>
+            </person>
+            <person xml:id="ask-person-1047">
+               <persName>Glory, Marie</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061757471</idno>
+            </person>
+            <person xml:id="ask-person-1249">
+               <persName>Helm, Brigitte</persName>
+               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
+            </person>
+            <person xml:id="ask-person-1755">
+               <persName>L’Herbier, Marcel</persName>
+            </person>
+            <person xml:id="ask-person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="ask-person-2834">
+               <persName>Victor, Henry</persName>
+            </person>
+            <person xml:id="ask-person-3023">
+               <persName>Zola, Émile</persName>
+               <idno type="GND">https://d-nb.info/gnd/118637223</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

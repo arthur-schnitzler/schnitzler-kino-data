@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">190</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,48 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1001">
+               <persName>Gaus, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/120311625X</idno>
+            </person>
+            <person xml:id="ask-person-1006">
+               <persName>Geisendörfer, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/116500514</idno>
+            </person>
+            <person xml:id="ask-person-1128">
+               <persName>Grunwald, Willy</persName>
+               <idno type="GND">https://d-nb.info/gnd/116901438</idno>
+            </person>
+            <person xml:id="ask-person-1212">
+               <persName>Hartmann, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
+            </person>
+            <person xml:id="ask-person-1528">
+               <persName>Köhler, Marga</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061599760</idno>
+            </person>
+            <person xml:id="ask-person-2040">
+               <persName>Nielsen, Asta</persName>
+               <idno type="GND">https://d-nb.info/gnd/118587854</idno>
+            </person>
+            <person xml:id="ask-person-2366">
+               <persName>Roemer, Josef</persName>
+               <idno type="GND">https://d-nb.info/gnd/141328533</idno>
+            </person>
+            <person xml:id="ask-person-2967">
+               <persName>Wojan, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061337391</idno>
+            </person>
+            <person xml:id="ask-person-2986">
+               <persName>Wrede, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-3017">
+               <persName>Zilzer, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061940993</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

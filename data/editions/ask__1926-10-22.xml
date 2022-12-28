@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">771</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,83 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-27">
+               <persName>Albers, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
+            </person>
+            <person xml:id="ask-person-359">
+               <persName>Brausewetter, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116430249</idno>
+            </person>
+            <person xml:id="ask-person-372">
+               <persName>Brettel, Colette</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061252760</idno>
+            </person>
+            <person xml:id="ask-person-782">
+               <persName>Eisenmenger, Hofrat</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061597334</idno>
+            </person>
+            <person xml:id="ask-person-842">
+               <persName>Falkenstein, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
+            </person>
+            <person xml:id="ask-person-879">
+               <persName>Fett, Isidor Dir. (Filmproduzent)</persName>
+               <idno type="GND">https://d-nb.info/gnd/133330249</idno>
+            </person>
+            <person xml:id="ask-person-1162">
+               <persName>Haid, Grit</persName>
+               <idno type="GND">https://d-nb.info/gnd/1049307976</idno>
+            </person>
+            <person xml:id="ask-person-1240">
+               <persName>Heidemann, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116604832</idno>
+            </person>
+            <person xml:id="ask-person-1281">
+               <persName>Hildebrand, Mira</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061287041</idno>
+            </person>
+            <person xml:id="ask-person-1299">
+               <persName>Hoffmann, Dr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1050486609</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1490">
+               <persName>Kid, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061461572</idno>
+            </person>
+            <person xml:id="ask-person-1965">
+               <persName>Morgan, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1201140560</idno>
+            </person>
+            <person xml:id="ask-person-1966">
+               <persName>Morgenstern, Leo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062321235</idno>
+            </person>
+            <person xml:id="ask-person-1980">
+               <persName>Müller, E. Dr.</persName>
+            </person>
+            <person xml:id="ask-person-2092">
+               <persName>Oswald, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118787322</idno>
+            </person>
+            <person xml:id="ask-person-2222">
+               <persName>Potechina, Lydia</persName>
+               <idno type="GND">https://d-nb.info/gnd/1043652914</idno>
+            </person>
+            <person xml:id="ask-person-2601">
+               <persName>Spira, Camilla</persName>
+               <idno type="GND">https://d-nb.info/gnd/117491659</idno>
+            </person>
+            <person xml:id="ask-person-2602">
+               <persName>Spira, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

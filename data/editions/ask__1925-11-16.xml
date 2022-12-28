@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">262</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,95 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-204">
+               <persName>Belcher, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/142262021</idno>
+            </person>
+            <person xml:id="ask-person-297">
+               <persName>Blinn, Holbrook</persName>
+               <idno type="GND">https://d-nb.info/gnd/1186940387</idno>
+            </person>
+            <person xml:id="ask-person-309">
+               <persName>Bodamere, Madame De</persName>
+               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
+            </person>
+            <person xml:id="ask-person-457">
+               <persName>Carillo, Mario</persName>
+               <idno type="GND">https://d-nb.info/gnd/1122700083</idno>
+            </person>
+            <person xml:id="ask-person-546">
+               <persName>Comont, Mathilde</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061767485</idno>
+            </person>
+            <person xml:id="ask-person-723">
+               <persName>Dumanoir, Philippe</persName>
+               <idno type="GND">https://d-nb.info/gnd/120858169</idno>
+            </person>
+            <person xml:id="ask-person-767">
+               <persName>Edwards, Snitz</persName>
+               <idno type="GND">https://d-nb.info/gnd/142261998</idno>
+            </person>
+            <person xml:id="ask-person-808">
+               <persName>d’Ennery, Adolphe</persName>
+               <idno type="GND">https://d-nb.info/gnd/130135275</idno>
+            </person>
+            <person xml:id="ask-person-839">
+               <persName>Falk, Norbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057549096</idno>
+            </person>
+            <person xml:id="ask-person-1048">
+               <persName>Glümer, Mizi</persName>
+               <idno type="GND">https://d-nb.info/gnd/128385022</idno>
+            </person>
+            <person xml:id="ask-person-1520">
+               <persName>Knoblock, Edward</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061944530</idno>
+            </person>
+            <person xml:id="ask-person-1549">
+               <persName>Kräly, Hanns</persName>
+               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
+            </person>
+            <person xml:id="ask-person-1577">
+               <persName>Lacy, Philippe De</persName>
+               <idno type="GND">https://d-nb.info/gnd/138116741</idno>
+            </person>
+            <person xml:id="ask-person-1639">
+               <persName>Leigh, Frank</persName>
+               <idno type="GND">https://d-nb.info/gnd/1146010052</idno>
+            </person>
+            <person xml:id="ask-person-1733">
+               <persName>Lubitsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
+            </person>
+            <person xml:id="ask-person-1864">
+               <persName>McAlpin, Donald</persName>
+               <idno type="GND">https://d-nb.info/gnd/1160723117</idno>
+            </person>
+            <person xml:id="ask-person-2150">
+               <persName>Periolat, George</persName>
+            </person>
+            <person xml:id="ask-person-2169">
+               <persName>Pickford, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/119031035</idno>
+            </person>
+            <person xml:id="ask-person-2315">
+               <persName>Rich, Irene</persName>
+               <idno type="GND">https://d-nb.info/gnd/118694076X</idno>
+            </person>
+            <person xml:id="ask-person-2606">
+               <persName>Sprotte, Bert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061491129</idno>
+            </person>
+            <person xml:id="ask-person-2786">
+               <persName>Turner, Doreen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017479178</idno>
+            </person>
+            <person xml:id="ask-person-2868">
+               <persName>Walsh, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/118694109X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

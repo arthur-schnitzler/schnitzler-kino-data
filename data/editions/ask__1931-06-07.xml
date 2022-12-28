@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">93</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,54 @@ Notizen NFP 19.5.1931, S. 10, und 29.5.1931, S. 13. Anzeige und Premierennotiz f
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-4">
+               <persName>Schwarzkopf, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/1014997828</idno>
+            </person>
+            <person xml:id="ask-person-391">
+               <persName>Brown, Martin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
+            </person>
+            <person xml:id="ask-person-408">
+               <persName>Buchowetzki, Dimitri</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062126793</idno>
+            </person>
+            <person xml:id="ask-person-1159">
+               <persName>Zirkus Hagenbeck</persName>
+               <idno type="GND">https://d-nb.info/gnd/123198690</idno>
+            </person>
+            <person xml:id="ask-person-1274">
+               <persName>Hesterberg, Trude</persName>
+               <idno type="GND">https://d-nb.info/gnd/118704257</idno>
+            </person>
+            <person xml:id="ask-person-1711">
+               <persName>Long, Louise</persName>
+               <idno type="GND">https://d-nb.info/gnd/1079037624</idno>
+            </person>
+            <person xml:id="ask-person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="ask-person-2777">
+               <persName>Tschechowa, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/118624296</idno>
+            </person>
+            <person xml:id="ask-person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+            <person xml:id="ask-person-2847">
+               <persName>Voß, Peter</persName>
+            </person>
+            <person xml:id="ask-person-3016">
+               <persName>Zilahy, L.</persName>
+               <idno type="GND">https://d-nb.info/gnd/101207433</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">17</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-431">
+               <persName>Butler, David</persName>
+               <idno type="GND">https://d-nb.info/gnd/119177625</idno>
+            </person>
+            <person xml:id="ask-person-1661">
+               <persName>Lewis, Mitchell</persName>
+               <idno type="GND">https://d-nb.info/gnd/1222468670</idno>
+            </person>
+            <person xml:id="ask-person-1826">
+               <persName>Marlowe, June</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061989356</idno>
+            </person>
+            <person xml:id="ask-person-1877">
+               <persName>Meagher, Edward J.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1170267319</idno>
+            </person>
+            <person xml:id="ask-person-2278">
+               <persName>Raymaker, H. C.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1139067753</idno>
+            </person>
+            <person xml:id="ask-person-2331">
+               <persName>Rin-Tin-Tin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1181895960</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Ischl</placeName>

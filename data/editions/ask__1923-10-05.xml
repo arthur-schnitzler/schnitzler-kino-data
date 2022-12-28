@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">718</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,65 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-822">
+               <persName>Esterházy, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
+            </person>
+            <person xml:id="ask-person-1041">
+               <persName>Glawatsch, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116657731</idno>
+            </person>
+            <person xml:id="ask-person-1239">
+               <persName>Hegyesi, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061901122</idno>
+            </person>
+            <person xml:id="ask-person-1332">
+               <persName>Hornigk, Anny</persName>
+            </person>
+            <person xml:id="ask-person-1486">
+               <persName>Kertész, Mihaly</persName>
+               <idno type="GND">https://d-nb.info/gnd/1216510946</idno>
+            </person>
+            <person xml:id="ask-person-1502">
+               <persName>Klähr, Medardus</persName>
+            </person>
+            <person xml:id="ask-person-2013">
+               <persName>Napoleon I.</persName>
+               <idno type="GND">https://d-nb.info/gnd/134574516</idno>
+            </person>
+            <person xml:id="ask-person-2079">
+               <persName>Onno, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/134063910</idno>
+            </person>
+            <person xml:id="ask-person-2468">
+               <persName>Schnitzler, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="ask-person-2471">
+               <persName>Schnitzler, Lili</persName>
+               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
+            </person>
+            <person xml:id="ask-person-2653">
+               <persName>Stone, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/1029236194</idno>
+            </person>
+            <person xml:id="ask-person-2803">
+               <persName>Vajda, Ladislaus</persName>
+               <idno type="GND">https://d-nb.info/gnd/129296805</idno>
+            </person>
+            <person xml:id="ask-person-2813">
+               <persName>Várkonyi, [Michael] Victor</persName>
+            </person>
+            <person xml:id="ask-person-2990">
+               <persName>Xantho, Mihail</persName>
+               <idno type="GND">https://d-nb.info/gnd/106207579X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

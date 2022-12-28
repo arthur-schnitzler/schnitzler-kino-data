@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">303</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,51 @@ Premierennotiz NFP 10.9.1926, S. 16. </ab></div>
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-161">
+               <persName>Barrows, Henry A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1038083427</idno>
+            </person>
+            <person xml:id="ask-person-532">
+               <persName>Coldeway, Anthony</persName>
+               <idno type="GND">https://d-nb.info/gnd/1222466457</idno>
+            </person>
+            <person xml:id="ask-person-874">
+               <persName>Ferguson, Casson</persName>
+               <idno type="GND">https://d-nb.info/gnd/1146981732</idno>
+            </person>
+            <person xml:id="ask-person-1251">
+               <persName>Henabery, Joseph</persName>
+               <idno type="GND">https://d-nb.info/gnd/120236184</idno>
+            </person>
+            <person xml:id="ask-person-1600">
+               <persName>Langdon, Lilian</persName>
+               <idno type="GND">https://d-nb.info/gnd/137563949</idno>
+            </person>
+            <person xml:id="ask-person-1715">
+               <persName>Lorez, Claire de</persName>
+               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
+            </person>
+            <person xml:id="ask-person-2011">
+               <persName>Naldi, Nita</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061771024</idno>
+            </person>
+            <person xml:id="ask-person-2076">
+               <persName>Olmstead, Gertrude</persName>
+            </person>
+            <person xml:id="ask-person-2148">
+               <persName>Percy, Eileen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017961859</idno>
+            </person>
+            <person xml:id="ask-person-2425">
+               <persName>Samo, Hector</persName>
+               <idno type="GND">https://d-nb.info/gnd/138815194</idno>
+            </person>
+            <person xml:id="ask-person-2805">
+               <persName>Valentino, Rudolph</persName>
+               <idno type="GND">https://d-nb.info/gnd/118625918</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">383</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-195">
+               <persName>Beery, Noah</persName>
+               <idno type="GND">https://d-nb.info/gnd/106168153X</idno>
+            </person>
+            <person xml:id="ask-person-327">
+               <persName>Borgy, Cely</persName>
+               <idno type="GND">https://d-nb.info/gnd/171458818</idno>
+            </person>
+            <person xml:id="ask-person-2395">
+               <persName>Rowland, Gilbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1146035659</idno>
+            </person>
+            <person xml:id="ask-person-2703">
+               <persName>Talmadge, Norma</persName>
+               <idno type="GND">https://d-nb.info/gnd/122259921X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

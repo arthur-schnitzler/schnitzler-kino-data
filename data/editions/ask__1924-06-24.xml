@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">187</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,48 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-53">
+               <persName>Alten, Ferdinand von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
+            </person>
+            <person xml:id="ask-person-78">
+               <persName>Arbenina, Stella</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061862240</idno>
+            </person>
+            <person xml:id="ask-person-919">
+               <persName>Forest, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018886052</idno>
+            </person>
+            <person xml:id="ask-person-1004">
+               <persName>Gebühr, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/124979610</idno>
+            </person>
+            <person xml:id="ask-person-1058">
+               <persName>Goldberg, Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116748508</idno>
+            </person>
+            <person xml:id="ask-person-1073">
+               <persName>Gottowt, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062117123</idno>
+            </person>
+            <person xml:id="ask-person-1840">
+               <persName>Marville, Suzanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062349652</idno>
+            </person>
+            <person xml:id="ask-person-2105">
+               <persName>Pabst, Erich</persName>
+               <idno type="GND">https://d-nb.info/gnd/143131044</idno>
+            </person>
+            <person xml:id="ask-person-2532">
+               <persName>Serventi, Luigi</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062245261</idno>
+            </person>
+            <person xml:id="ask-person-2585">
+               <persName>Sorina, Alexandra</persName>
+               <idno type="GND">https://d-nb.info/gnd/1048749975</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

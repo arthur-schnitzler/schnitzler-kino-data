@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">792</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,55 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-172">
+               <persName>Bassermann, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
+            </person>
+            <person xml:id="ask-person-839">
+               <persName>Falk, Norbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057549096</idno>
+            </person>
+            <person xml:id="ask-person-1379">
+               <persName>Jannings, Emil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1549">
+               <persName>Kräly, Hanns</persName>
+               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
+            </person>
+            <person xml:id="ask-person-1566">
+               <persName>Kühne, Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-1670">
+               <persName>Liedtke, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
+            </person>
+            <person xml:id="ask-person-1733">
+               <persName>Lubitsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
+            </person>
+            <person xml:id="ask-person-2421">
+               <persName>Salmonova, Lyda</persName>
+               <idno type="GND">https://d-nb.info/gnd/116766735</idno>
+            </person>
+            <person xml:id="ask-person-2531">
+               <persName>Servaes, Dagny</persName>
+               <idno type="GND">https://d-nb.info/gnd/117467944</idno>
+            </person>
+            <person xml:id="ask-person-2850">
+               <persName>Wachtel, Rosa</persName>
+               <idno type="GND">https://d-nb.info/gnd/106148548X</idno>
+            </person>
+            <person xml:id="ask-person-2897">
+               <persName>Wegener, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118765981</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

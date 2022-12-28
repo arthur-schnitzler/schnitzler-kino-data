@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">237</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-14">
+               <persName>Adams, Claire</persName>
+               <idno type="GND">https://d-nb.info/gnd/1211508005</idno>
+            </person>
+            <person xml:id="ask-person-130">
+               <persName>Baker, Graham</persName>
+            </person>
+            <person xml:id="ask-person-537">
+               <persName>Collison, Wilson</persName>
+               <idno type="GND">https://d-nb.info/gnd/1069408778</idno>
+            </person>
+            <person xml:id="ask-person-1200">
+               <persName>Hardy, Oliver</persName>
+               <idno type="GND">https://d-nb.info/gnd/118545922</idno>
+            </person>
+            <person xml:id="ask-person-1324">
+               <persName>Hopwood, Avery</persName>
+               <idno type="GND">https://d-nb.info/gnd/11889482X</idno>
+            </person>
+            <person xml:id="ask-person-1994">
+               <persName>Murray, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/141071621</idno>
+            </person>
+            <person xml:id="ask-person-2525">
+               <persName>Semon, Larry</persName>
+               <idno type="GND">https://d-nb.info/gnd/130071390</idno>
+            </person>
+            <person xml:id="ask-person-3015">
+               <persName>Zigoto</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

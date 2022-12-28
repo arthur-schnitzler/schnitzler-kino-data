@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">55</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,49 @@ Bericht von der Berliner Premiere (und auch zum Wettrennen um den Tonfilm zwisch
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-125">
+               <persName>Bacon, Lloyd</persName>
+               <idno type="GND">https://d-nb.info/gnd/13031580X</idno>
+            </person>
+            <person xml:id="ask-person-129">
+               <persName>Baker, C. Graham</persName>
+               <idno type="GND">https://d-nb.info/gnd/139840281</idno>
+            </person>
+            <person xml:id="ask-person-384">
+               <persName>Bronson, Betty</persName>
+               <idno type="GND">https://d-nb.info/gnd/137417446</idno>
+            </person>
+            <person xml:id="ask-person-422">
+               <persName>Burrows, Leslie</persName>
+               <idno type="GND">https://d-nb.info/gnd/140831274</idno>
+            </person>
+            <person xml:id="ask-person-729">
+               <persName>Dunn, Josephine</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017964688</idno>
+            </person>
+            <person xml:id="ask-person-1292">
+               <persName>Hirschfeld, Ludwig</persName>
+            </person>
+            <person xml:id="ask-person-1336">
+               <persName>Housman, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061470067</idno>
+            </person>
+            <person xml:id="ask-person-1369">
+               <persName>Jackson, Joseph</persName>
+            </person>
+            <person xml:id="ask-person-1407">
+               <persName>Jolson, Al</persName>
+               <idno type="GND">https://d-nb.info/gnd/118864270</idno>
+            </person>
+            <person xml:id="ask-person-1622">
+               <persName>Lee, David</persName>
+               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
+            </person>
+            <person xml:id="ask-person-1836">
+               <persName>Martindel, Edward</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">76</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,41 @@ Premierennotiz NFP 27.2.1931, S. 14, für 3.3.1931. Anzeige und Premierennotiz N
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-65">
+               <persName>Anet, Claude</persName>
+            </person>
+            <person xml:id="ask-person-242">
+               <persName>Bergner, Elisabeth</persName>
+               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
+            </person>
+            <person xml:id="ask-person-608">
+               <persName>Czinner, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116787651</idno>
+            </person>
+            <person xml:id="ask-person-924">
+               <persName>Forster, Rudolf</persName>
+            </person>
+            <person xml:id="ask-person-1018">
+               <persName>Gerasch, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116564342</idno>
+            </person>
+            <person xml:id="ask-person-1046">
+               <persName>Globuznik, Tedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1206944277</idno>
+            </person>
+            <person xml:id="ask-person-1712">
+               <persName>Loos, Theodor</persName>
+               <idno type="GND">https://d-nb.info/gnd/116850345</idno>
+            </person>
+            <person xml:id="ask-person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-2635">
+               <persName>Steinsieck, Annemarie</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057769169</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

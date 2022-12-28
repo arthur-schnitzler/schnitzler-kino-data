@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">47</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -92,6 +93,61 @@ Premierennotiz NFP 7.6.1929, S. 12, für 14.6.1929. Anzeigen und Notiz NFP 14.6.
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-326">
+               <persName>Boothby, Valery</persName>
+               <idno type="GND">https://d-nb.info/gnd/1046479156</idno>
+            </person>
+            <person xml:id="ask-person-380">
+               <persName>Brink, Elga</persName>
+               <idno type="GND">https://d-nb.info/gnd/1169450334</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-766">
+               <persName>Edwards, Henry</persName>
+            </person>
+            <person xml:id="ask-person-881">
+               <persName>Fey, Ernst B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062104064</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1028">
+               <persName>Gibson, Vivian</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062485130</idno>
+            </person>
+            <person xml:id="ask-person-1457">
+               <persName>Kastner, Bruno</persName>
+               <idno type="GND">https://d-nb.info/gnd/116066008</idno>
+            </person>
+            <person xml:id="ask-person-1778">
+               <persName>Mahler-Werfel, Alma</persName>
+               <idno type="GND">https://d-nb.info/gnd/11857633X</idno>
+            </person>
+            <person xml:id="ask-person-1805">
+               <persName>Manstad, Margit</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061330753</idno>
+            </person>
+            <person xml:id="ask-person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="ask-person-2632">
+               <persName>Steinhoff, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/118993933</idno>
+            </person>
+            <person xml:id="ask-person-2789">
+               <persName>Turnowsky, Tea</persName>
+            </person>
+            <person xml:id="ask-person-3031">
+               <persName>Zweig, Stefan</persName>
+               <idno type="GND">https://d-nb.info/gnd/118637479</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

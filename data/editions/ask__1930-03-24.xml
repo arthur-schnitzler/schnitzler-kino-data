@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">486</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,48 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-39">
+               <persName>Alexander, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
+            </person>
+            <person xml:id="ask-person-674">
+               <persName>Diehl, Karl Ludwig</persName>
+               <idno type="GND">https://d-nb.info/gnd/139416498</idno>
+            </person>
+            <person xml:id="ask-person-824">
+               <persName>Etlinger, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1050467310</idno>
+            </person>
+            <person xml:id="ask-person-956">
+               <persName>Fritsch, Willy</persName>
+               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
+            </person>
+            <person xml:id="ask-person-1216">
+               <persName>Harvey, Lilian</persName>
+               <idno type="GND">https://d-nb.info/gnd/118546473</idno>
+            </person>
+            <person xml:id="ask-person-1424">
+               <persName>Junkermann, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
+            </person>
+            <person xml:id="ask-person-1981">
+               <persName>Müller, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1140252038</idno>
+            </person>
+            <person xml:id="ask-person-2501">
+               <persName>Schwannecke, Victor</persName>
+               <idno type="GND">https://d-nb.info/gnd/117351415</idno>
+            </person>
+            <person xml:id="ask-person-2527">
+               <persName>Serda, Julia</persName>
+               <idno type="GND">https://d-nb.info/gnd/117257753</idno>
+            </person>
+            <person xml:id="ask-person-2731">
+               <persName>Thiele, Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/124979513</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

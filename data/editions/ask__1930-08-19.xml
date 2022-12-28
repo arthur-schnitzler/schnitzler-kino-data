@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">113</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -92,6 +93,36 @@ Premierennotiz NFP 8.8.1930, S. 11, für 14.8.1930. Nachgewiesener Spielort: Lus
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-320">
+               <persName>Bolváry, Géza von</persName>
+               <idno type="GND">https://d-nb.info/gnd/119489686</idno>
+            </person>
+            <person xml:id="ask-person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="ask-person-923">
+               <persName>Forst, Willi</persName>
+               <idno type="GND">https://d-nb.info/gnd/118818813</idno>
+            </person>
+            <person xml:id="ask-person-1452">
+               <persName>Karlweis, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/116055766</idno>
+            </person>
+            <person xml:id="ask-person-1794">
+               <persName>Malten, Fee</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019374217</idno>
+            </person>
+            <person xml:id="ask-person-2299">
+               <persName>Reisch, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
+            </person>
+            <person xml:id="ask-person-2823">
+               <persName>Verebes, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/135294959</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

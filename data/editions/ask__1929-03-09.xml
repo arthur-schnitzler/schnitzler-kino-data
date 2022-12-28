@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">35</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -92,6 +93,65 @@ Abend mit A. im Kino. Seine Abreise nach Berlin für den 12. festgesetzt. Mir gr
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-267">
+               <persName>Besserer, Eugenie</persName>
+               <idno type="GND">https://d-nb.info/gnd/1206559942</idno>
+            </person>
+            <person xml:id="ask-person-529">
+               <persName>Cohn, Alfred A.</persName>
+            </person>
+            <person xml:id="ask-person-588">
+               <persName>Crosland, Alan</persName>
+               <idno type="GND">https://d-nb.info/gnd/123067006</idno>
+            </person>
+            <person xml:id="ask-person-1328">
+               <persName>Horch, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116982802</idno>
+            </person>
+            <person xml:id="ask-person-1356">
+               <persName>Ihering, Herbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118708627</idno>
+            </person>
+            <person xml:id="ask-person-1385">
+               <persName>Jarmuth, Jack</persName>
+               <idno type="GND">https://d-nb.info/gnd/1206560509</idno>
+            </person>
+            <person xml:id="ask-person-1407">
+               <persName>Jolson, Al</persName>
+               <idno type="GND">https://d-nb.info/gnd/118864270</idno>
+            </person>
+            <person xml:id="ask-person-1865">
+               <persName>McAvoy, May</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031449078</idno>
+            </person>
+            <person xml:id="ask-person-1908">
+               <persName>Michaelis, Dora</persName>
+               <idno type="GND">https://d-nb.info/gnd/117016314</idno>
+            </person>
+            <person xml:id="ask-person-2073">
+               <persName>Oland, Warner</persName>
+               <idno type="GND">https://d-nb.info/gnd/1020773146</idno>
+            </person>
+            <person xml:id="ask-person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="ask-person-2272">
+               <persName>Raphaelson, Samson</persName>
+               <idno type="GND">https://d-nb.info/gnd/13746181X</idno>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="ask-person-2472">
+               <persName>Schnitzler, Olga, geb. Gussmann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
+            </person>
+            <person xml:id="ask-person-2584">
+               <persName>Sonnenfeld, Kurt</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

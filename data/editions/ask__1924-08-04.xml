@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">194</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-155">
+               <persName>Barnay, Margit</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061490017</idno>
+            </person>
+            <person xml:id="ask-person-397">
+               <persName>Bruck, Reinhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/116725788</idno>
+            </person>
+            <person xml:id="ask-person-399">
+               <persName>Brügmann, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/116747013</idno>
+            </person>
+            <person xml:id="ask-person-643">
+               <persName>Decarli, Bruno</persName>
+               <idno type="GND">https://d-nb.info/gnd/116042699</idno>
+            </person>
+            <person xml:id="ask-person-2040">
+               <persName>Nielsen, Asta</persName>
+               <idno type="GND">https://d-nb.info/gnd/118587854</idno>
+            </person>
+            <person xml:id="ask-person-2801">
+               <persName>Urgiß, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/117315036</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

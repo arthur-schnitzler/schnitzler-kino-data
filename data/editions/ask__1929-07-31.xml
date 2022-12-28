@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">52</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,51 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-104">
+               <persName>Astor, Betty</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062253930</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1136">
+               <persName>Gülstorff, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/116909730</idno>
+            </person>
+            <person xml:id="ask-person-1436">
+               <persName>Kaiser, Georg</persName>
+            </person>
+            <person xml:id="ask-person-1532">
+               <persName>Kolin, Nikolai</persName>
+               <idno type="GND">https://d-nb.info/gnd/1252275269</idno>
+            </person>
+            <person xml:id="ask-person-1691">
+               <persName>Lissenko, Natalie</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062301226</idno>
+            </person>
+            <person xml:id="ask-person-2257">
+               <persName>Raff, Friedrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116323884</idno>
+            </person>
+            <person xml:id="ask-person-2467">
+               <persName>Schnell, Georg Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/102694788X</idno>
+            </person>
+            <person xml:id="ask-person-2731">
+               <persName>Thiele, Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/124979513</idno>
+            </person>
+            <person xml:id="ask-person-2801">
+               <persName>Urgiß, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/117315036</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

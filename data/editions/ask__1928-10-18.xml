@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">863</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,52 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-165">
+               <persName>Bartheel, Carla</persName>
+               <idno type="GND">https://d-nb.info/gnd/125998651</idno>
+            </person>
+            <person xml:id="ask-person-266">
+               <persName>Beß, Jane</persName>
+               <idno type="GND">https://d-nb.info/gnd/116154489</idno>
+            </person>
+            <person xml:id="ask-person-323">
+               <persName>Boni, Carmen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061251675</idno>
+            </person>
+            <person xml:id="ask-person-510">
+               <persName>Christy, Lya</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061325016</idno>
+            </person>
+            <person xml:id="ask-person-1008">
+               <persName>Genina, Augusto</persName>
+               <idno type="GND">https://d-nb.info/gnd/119039184</idno>
+            </person>
+            <person xml:id="ask-person-1424">
+               <persName>Junkermann, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
+            </person>
+            <person xml:id="ask-person-2209">
+               <persName>Pollak, Frieda </persName>
+               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
+            </person>
+            <person xml:id="ask-person-2345">
+               <persName>Roanne, André</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062103661</idno>
+            </person>
+            <person xml:id="ask-person-2588">
+               <persName>Soulaine, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061263428</idno>
+            </person>
+            <person xml:id="ask-person-2806">
+               <persName>Valetti, Rosa</persName>
+               <idno type="GND">https://d-nb.info/gnd/117341150</idno>
+            </person>
+            <person xml:id="ask-person-2807">
+               <persName>Vallentin, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

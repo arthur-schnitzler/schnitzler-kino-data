@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">820</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,62 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-59">
+               <persName>Amann, Betty</persName>
+               <idno type="GND">https://d-nb.info/gnd/124618545</idno>
+            </person>
+            <person xml:id="ask-person-134">
+               <persName>Balázs, Béla</persName>
+               <idno type="GND">https://d-nb.info/gnd/119010305</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1245">
+               <persName>Heller, Else</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019222352</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1858">
+               <persName>May, Joe</persName>
+               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
+            </person>
+            <person xml:id="ask-person-1908">
+               <persName>Michaelis, Dora</persName>
+               <idno type="GND">https://d-nb.info/gnd/117016314</idno>
+            </person>
+            <person xml:id="ask-person-1909">
+               <persName>Michaelis, Karl</persName>
+            </person>
+            <person xml:id="ask-person-2454">
+               <persName>Schlettow, Hans Adalbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117326747</idno>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="ask-person-2472">
+               <persName>Schnitzler, Olga, geb. Gussmann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
+            </person>
+            <person xml:id="ask-person-2633">
+               <persName>Steinrück, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117263923</idno>
+            </person>
+            <person xml:id="ask-person-2695">
+               <persName>Székely, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
+            </person>
+            <person xml:id="ask-person-2811">
+               <persName>Vanloo, Rolf E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013990633</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Berlin</placeName>

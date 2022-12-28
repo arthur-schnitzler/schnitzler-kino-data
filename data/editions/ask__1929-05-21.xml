@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">434</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-67">
+               <persName>Ann, Anny</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254171</idno>
+            </person>
+            <person xml:id="ask-person-205">
+               <persName>Bell, Corry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061610152</idno>
+            </person>
+            <person xml:id="ask-person-798">
+               <persName>Emo, E. W.</persName>
+               <idno type="GND">https://d-nb.info/gnd/139990941</idno>
+            </person>
+            <person xml:id="ask-person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="ask-person-2093">
+               <persName>Otto, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1016966490</idno>
+            </person>
+            <person xml:id="ask-person-2288">
+               <persName>Rehkopf, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062107608</idno>
+            </person>
+            <person xml:id="ask-person-2426">
+               <persName>Samson-Körner, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061466493</idno>
+            </person>
+            <person xml:id="ask-person-2691">
+               <persName>Sym, Igo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1032625317</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

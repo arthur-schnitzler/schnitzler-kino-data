@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">149</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,43 @@ Dostojewskis Romane sind in den frühen 1920er Jahren vielfach verfilmt worden (
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-10">
+               <persName>Abel, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
+            </person>
+            <person xml:id="ask-person-153">
+               <persName>Barjanski, Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031909664</idno>
+            </person>
+            <person xml:id="ask-person-703">
+               <persName>Dostojewski, Fjodor</persName>
+            </person>
+            <person xml:id="ask-person-959">
+               <persName>Froelich, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/11683093X</idno>
+            </person>
+            <person xml:id="ask-person-1219">
+               <persName>Haskel, Leonhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/126270937</idno>
+            </person>
+            <person xml:id="ask-person-1383">
+               <persName>Janssen, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
+            </person>
+            <person xml:id="ask-person-2040">
+               <persName>Nielsen, Asta</persName>
+               <idno type="GND">https://d-nb.info/gnd/118587854</idno>
+            </person>
+            <person xml:id="ask-person-2388">
+               <persName>Rotmund, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062075137</idno>
+            </person>
+            <person xml:id="ask-person-2421">
+               <persName>Salmonova, Lyda</persName>
+               <idno type="GND">https://d-nb.info/gnd/116766735</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

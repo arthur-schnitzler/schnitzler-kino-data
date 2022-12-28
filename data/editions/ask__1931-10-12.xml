@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">103</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,43 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-689">
+               <persName>Döderlein, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1079798714</idno>
+            </person>
+            <person xml:id="ask-person-772">
+               <persName>Ehmann, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116380284</idno>
+            </person>
+            <person xml:id="ask-person-793">
+               <persName>Elster, Else</persName>
+               <idno type="GND">https://d-nb.info/gnd/116461217</idno>
+            </person>
+            <person xml:id="ask-person-1269">
+               <persName>Herz, Peter</persName>
+            </person>
+            <person xml:id="ask-person-2028">
+               <persName>Neufeld, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/136366236</idno>
+            </person>
+            <person xml:id="ask-person-2044">
+               <persName>Niese, Hansi</persName>
+               <idno type="GND">https://d-nb.info/gnd/117016705</idno>
+            </person>
+            <person xml:id="ask-person-2463">
+               <persName>Schmöle, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019536217</idno>
+            </person>
+            <person xml:id="ask-person-3025">
+               <persName>Zoreff, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061359360</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">784</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-119">
+               <persName>Avoy, Mae Mac</persName>
+            </person>
+            <person xml:id="ask-person-542">
+               <persName>Colman, Ronald</persName>
+            </person>
+            <person xml:id="ask-person-1417">
+               <persName>Josephson, Julian</persName>
+               <idno type="GND">https://d-nb.info/gnd/1157613764</idno>
+            </person>
+            <person xml:id="ask-person-1733">
+               <persName>Lubitsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
+            </person>
+            <person xml:id="ask-person-1753">
+               <persName>Lytell, Bert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1237554012</idno>
+            </person>
+            <person xml:id="ask-person-1836">
+               <persName>Martindel, Edward</persName>
+            </person>
+            <person xml:id="ask-person-2316">
+               <persName>Rich, Lilian</persName>
+            </person>
+            <person xml:id="ask-person-2940">
+               <persName>Wilde, Oscar</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057138568</idno>
+            </person>
+            <person xml:id="ask-person-2974">
+               <persName>Wolfradt, Willi</persName>
+               <idno type="GND">https://d-nb.info/gnd/117437018</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

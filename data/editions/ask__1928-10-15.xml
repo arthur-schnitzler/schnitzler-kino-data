@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">814</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,89 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-40">
+               <persName>Alexander, J. Grubb</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061752038</idno>
+            </person>
+            <person xml:id="ask-person-71">
+               <persName>Anthony, Walter</persName>
+            </person>
+            <person xml:id="ask-person-124">
+               <persName>Baclanova, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061830187</idno>
+            </person>
+            <person xml:id="ask-person-283">
+               <persName>Biro, ?</persName>
+            </person>
+            <person xml:id="ask-person-590">
+               <persName>Crowell, Josephine</persName>
+               <idno type="GND">https://d-nb.info/gnd/141955120</idno>
+            </person>
+            <person xml:id="ask-person-1097">
+               <persName>Gravina, Cesare</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062057058</idno>
+            </person>
+            <person xml:id="ask-person-1316">
+               <persName>Holmes, Stuart</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062172388</idno>
+            </person>
+            <person xml:id="ask-person-1345">
+               <persName>Hugo, Victor</persName>
+               <idno type="GND">https://d-nb.info/gnd/118554654</idno>
+            </person>
+            <person xml:id="ask-person-1350">
+               <persName>Hurst, Brandon</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061516423</idno>
+            </person>
+            <person xml:id="ask-person-1530">
+               <persName>Kohner, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116308869</idno>
+            </person>
+            <person xml:id="ask-person-1637">
+               <persName>Lehmann-Haupt, ?</persName>
+               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
+            </person>
+            <person xml:id="ask-person-1645">
+               <persName>Leni, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/119369249</idno>
+            </person>
+            <person xml:id="ask-person-1875">
+               <persName>McLean, May</persName>
+               <idno type="GND">https://d-nb.info/gnd/120339070X</idno>
+            </person>
+            <person xml:id="ask-person-2164">
+               <persName>Philbin, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/160231809</idno>
+            </person>
+            <person xml:id="ask-person-2198">
+               <persName>Polgar, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/118595474</idno>
+            </person>
+            <person xml:id="ask-person-2471">
+               <persName>Schnitzler, Lili</persName>
+               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
+            </person>
+            <person xml:id="ask-person-2518">
+               <persName>Sekely, Bela</persName>
+            </person>
+            <person xml:id="ask-person-2550">
+               <persName>Siegmann, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062304896</idno>
+            </person>
+            <person xml:id="ask-person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+            <person xml:id="ask-person-2878">
+               <persName>Ward, Marion</persName>
+               <idno type="GND">https://d-nb.info/gnd/139850929</idno>
+            </person>
+            <person xml:id="ask-person-2933">
+               <persName>Whittaker, Charles E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062098781</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Berlin</placeName>

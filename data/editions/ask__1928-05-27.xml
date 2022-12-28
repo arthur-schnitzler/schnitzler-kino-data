@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">13</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,75 @@ Besprechung von Eduard Siebrecht in NFP 26.5.1928, S. 8. »Der« bzw. »Die Viel
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-526">
+               <persName>Cody, Lew</persName>
+               <idno type="GND">https://d-nb.info/gnd/1221831518</idno>
+            </person>
+            <person xml:id="ask-person-550">
+               <persName>Connelly, Edward</persName>
+               <idno type="GND">https://d-nb.info/gnd/1050223748</idno>
+            </person>
+            <person xml:id="ask-person-639">
+               <persName>Day, Marceline</persName>
+               <idno type="GND">https://d-nb.info/gnd/136910246</idno>
+            </person>
+            <person xml:id="ask-person-679">
+               <persName>Dietrichstein, Leo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055217622</idno>
+            </person>
+            <person xml:id="ask-person-731">
+               <persName>Duquesnel, Félix</persName>
+               <idno type="GND">https://d-nb.info/gnd/100116825</idno>
+            </person>
+            <person xml:id="ask-person-744">
+               <persName>D’Algy, Antonio</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057079502</idno>
+            </person>
+            <person xml:id="ask-person-747">
+               <persName>d’Arcy, Roy</persName>
+               <idno type="GND">https://d-nb.info/gnd/138664439</idno>
+            </person>
+            <person xml:id="ask-person-969">
+               <persName>Furber, Douglas</persName>
+               <idno type="GND">https://d-nb.info/gnd/142330043</idno>
+            </person>
+            <person xml:id="ask-person-1043">
+               <persName>Glazer, Benjamin F.</persName>
+               <idno type="GND">https://d-nb.info/gnd/142304492</idno>
+            </person>
+            <person xml:id="ask-person-1054">
+               <persName>Goetz, Wolfgang</persName>
+               <idno type="GND">https://d-nb.info/gnd/1147031363</idno>
+            </person>
+            <person xml:id="ask-person-1255">
+               <persName>Hennequin, Maurice</persName>
+               <idno type="GND">https://d-nb.info/gnd/105765485X</idno>
+            </person>
+            <person xml:id="ask-person-1554">
+               <persName>Krauß, Werner</persName>
+            </person>
+            <person xml:id="ask-person-1871">
+               <persName>McGregor, Malcolm</persName>
+               <idno type="GND">https://d-nb.info/gnd/136416632</idno>
+            </person>
+            <person xml:id="ask-person-2004">
+               <persName>Myers, Carmel</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017940088</idno>
+            </person>
+            <person xml:id="ask-person-2166">
+               <persName>Phillips, Dorothy</persName>
+               <idno type="GND">https://d-nb.info/gnd/102869332X</idno>
+            </person>
+            <person xml:id="ask-person-2549">
+               <persName>Siebrecht, Eduard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1205354077</idno>
+            </person>
+            <person xml:id="ask-person-2608">
+               <persName>Stahl, John M.</persName>
+               <idno type="GND">https://d-nb.info/gnd/136444415</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

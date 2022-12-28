@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">139</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,62 @@ Ankündigung NFP 28.11.1930, S. 10. Premierennotiz NFP 2.12.1930, S. 10, für 1.
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-282">
+               <persName>Birinski, Leo</persName>
+               <idno type="GND">https://d-nb.info/gnd/116189851</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-824">
+               <persName>Etlinger, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1050467310</idno>
+            </person>
+            <person xml:id="ask-person-882">
+               <persName>Feyder, Jacques</persName>
+               <idno type="GND">https://d-nb.info/gnd/116485485</idno>
+            </person>
+            <person xml:id="ask-person-927">
+               <persName>Fraenkel, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/1244002941</idno>
+            </person>
+            <person xml:id="ask-person-950">
+               <persName>Frey, Annemarie</persName>
+            </person>
+            <person xml:id="ask-person-1106">
+               <persName>Gregor, Nora</persName>
+               <idno type="GND">https://d-nb.info/gnd/124979645</idno>
+            </person>
+            <person xml:id="ask-person-1424">
+               <persName>Junkermann, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
+            </person>
+            <person xml:id="ask-person-1540">
+               <persName>Korff, Arnold</persName>
+               <idno type="GND">https://d-nb.info/gnd/101334071X</idno>
+            </person>
+            <person xml:id="ask-person-1767">
+               <persName>Mack, Willard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1227955839</idno>
+            </person>
+            <person xml:id="ask-person-1930">
+               <persName>Mirande, Yves</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062192745</idno>
+            </person>
+            <person xml:id="ask-person-1945">
+               <persName>Molnár, Ferenc</persName>
+            </person>
+            <person xml:id="ask-person-2527">
+               <persName>Serda, Julia</persName>
+               <idno type="GND">https://d-nb.info/gnd/117257753</idno>
+            </person>
+            <person xml:id="ask-person-2535">
+               <persName>Shall, Theo</persName>
+               <idno type="GND">https://d-nb.info/gnd/126726078</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

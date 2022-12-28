@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">231</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,59 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-159">
+               <persName>Barrie, Nigel</persName>
+               <idno type="GND">https://d-nb.info/gnd/106023274X</idno>
+            </person>
+            <person xml:id="ask-person-372">
+               <persName>Brettel, Colette</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061252760</idno>
+            </person>
+            <person xml:id="ask-person-601">
+               <persName>Cürlis, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116757620</idno>
+            </person>
+            <person xml:id="ask-person-611">
+               <persName>Dagover, Lil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
+            </person>
+            <person xml:id="ask-person-1045">
+               <persName>Gliese, Rochus</persName>
+               <idno type="GND">https://d-nb.info/gnd/116663308</idno>
+            </person>
+            <person xml:id="ask-person-1341">
+               <persName>Huch, William</persName>
+               <idno type="GND">https://d-nb.info/gnd/1268683213</idno>
+            </person>
+            <person xml:id="ask-person-1632">
+               <persName>Leffler, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/133043894</idno>
+            </person>
+            <person xml:id="ask-person-1991">
+               <persName>Murnau, Friedrich Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/118585878</idno>
+            </person>
+            <person xml:id="ask-person-1999">
+               <persName>Murski, Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061309770</idno>
+            </person>
+            <person xml:id="ask-person-2115">
+               <persName>Palfi, Victor</persName>
+            </person>
+            <person xml:id="ask-person-2222">
+               <persName>Potechina, Lydia</persName>
+               <idno type="GND">https://d-nb.info/gnd/1043652914</idno>
+            </person>
+            <person xml:id="ask-person-2924">
+               <persName>Weyher, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1138037524</idno>
+            </person>
+            <person xml:id="ask-person-2953">
+               <persName>Winar, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061925110</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

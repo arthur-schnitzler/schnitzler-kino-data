@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">163</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,42 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-466">
+               <persName>Carpenter, Grant</persName>
+               <idno type="GND">https://d-nb.info/gnd/138128529</idno>
+            </person>
+            <person xml:id="ask-person-856">
+               <persName>Fawcett, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
+            </person>
+            <person xml:id="ask-person-884">
+               <persName>Finch, Flora</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018304096</idno>
+            </person>
+            <person xml:id="ask-person-1202">
+               <persName>Harlan, Kenneth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1221510967</idno>
+            </person>
+            <person xml:id="ask-person-1206">
+               <persName>Harrison, James</persName>
+            </person>
+            <person xml:id="ask-person-1995">
+               <persName>Murray, Douglas</persName>
+            </person>
+            <person xml:id="ask-person-2702">
+               <persName>Talmadge, Constance</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013150368</idno>
+            </person>
+            <person xml:id="ask-person-2894">
+               <persName>Webster, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/138290989</idno>
+            </person>
+            <person xml:id="ask-person-2961">
+               <persName>Withey, Chet</persName>
+               <idno type="GND">https://d-nb.info/gnd/1208736582</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">94</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,63 @@ Ankündigung NFP 29.5.1931, S. 13. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-9">
+               <persName>Aalten, Truus van</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031502505</idno>
+            </person>
+            <person xml:id="ask-person-520">
+               <persName>Clauser, Suzanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
+            </person>
+            <person xml:id="ask-person-774">
+               <persName>Ehrlich, Max</persName>
+            </person>
+            <person xml:id="ask-person-1620">
+               <persName>Lederer, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/130217492</idno>
+            </person>
+            <person xml:id="ask-person-1675">
+               <persName>Lilien, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/143330365</idno>
+            </person>
+            <person xml:id="ask-person-2046">
+               <persName>Nikolaus, Paul</persName>
+            </person>
+            <person xml:id="ask-person-2123">
+               <persName>Parker, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057117625</idno>
+            </person>
+            <person xml:id="ask-person-2137">
+               <persName>Paulig, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/116065109</idno>
+            </person>
+            <person xml:id="ask-person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="ask-person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-2205">
+               <persName>Pollaczek, Magdalena</persName>
+               <idno type="GND">https://d-nb.info/gnd/132915251</idno>
+            </person>
+            <person xml:id="ask-person-2583">
+               <persName>Söneland, Senta</persName>
+               <idno type="GND">https://d-nb.info/gnd/117459488</idno>
+            </person>
+            <person xml:id="ask-person-2693">
+               <persName>Szakall, Szöke</persName>
+               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
+            </person>
+            <person xml:id="ask-person-2730">
+               <persName>Thiele, Eugen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061660400</idno>
+            </person>
+            <person xml:id="ask-person-2944">
+               <persName>Wilhelm, Wolfgang</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

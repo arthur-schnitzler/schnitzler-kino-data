@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">102</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,65 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-53">
+               <persName>Alten, Ferdinand von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
+            </person>
+            <person xml:id="ask-person-523">
+               <persName>Clever, Willy</persName>
+               <idno type="GND">https://d-nb.info/gnd/138638470</idno>
+            </person>
+            <person xml:id="ask-person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="ask-person-1276">
+               <persName>Heuberger, Edmund</persName>
+               <idno type="GND">https://d-nb.info/gnd/1045250465</idno>
+            </person>
+            <person xml:id="ask-person-1282">
+               <persName>Hildebrandt, Hilde</persName>
+               <idno type="GND">https://d-nb.info/gnd/11680419X</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1602">
+               <persName>Langenscheidt, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116708131</idno>
+            </person>
+            <person xml:id="ask-person-1973">
+               <persName>Mosheim, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/116939966</idno>
+            </person>
+            <person xml:id="ask-person-1985">
+               <persName>Müller-Linke, Anna</persName>
+               <idno type="GND">https://d-nb.info/gnd/1147019428</idno>
+            </person>
+            <person xml:id="ask-person-2025">
+               <persName>Nestor, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019425067</idno>
+            </person>
+            <person xml:id="ask-person-2452">
+               <persName>Schlee, Walter</persName>
+            </person>
+            <person xml:id="ask-person-2603">
+               <persName>Spira, Lotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/1015128955</idno>
+            </person>
+            <person xml:id="ask-person-2874">
+               <persName>Wangel, Hedwig</persName>
+               <idno type="GND">https://d-nb.info/gnd/117136964</idno>
+            </person>
+            <person xml:id="ask-person-2888">
+               <persName>Wassermann, Walter</persName>
+            </person>
+            <person xml:id="ask-person-2958">
+               <persName>Winterstein, Eduard von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">436</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,43 @@ Nachgewiesener Spielort neben dem Flieger-Freiluft-Kino: Maria-Theresien-Kino (N
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-540">
+               <persName>Collough, Phil Mac</persName>
+               <idno type="GND">https://d-nb.info/gnd/13285905X</idno>
+            </person>
+            <person xml:id="ask-person-868">
+               <persName>Fellowes, Rockliffe</persName>
+               <idno type="GND">https://d-nb.info/gnd/1147771707</idno>
+            </person>
+            <person xml:id="ask-person-998">
+               <persName>Garvin, Anitta</persName>
+               <idno type="GND">https://d-nb.info/gnd/1027645550</idno>
+            </person>
+            <person xml:id="ask-person-1257">
+               <persName>Herbert, Holmes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062353846</idno>
+            </person>
+            <person xml:id="ask-person-1455">
+               <persName>Kascon, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118727079</idno>
+            </person>
+            <person xml:id="ask-person-1694">
+               <persName>Livingston, Margaret</persName>
+               <idno type="GND">https://d-nb.info/gnd/117143502</idno>
+            </person>
+            <person xml:id="ask-person-1881">
+               <persName>Meford, George</persName>
+            </person>
+            <person xml:id="ask-person-2464">
+               <persName>Schmutzer, Alice</persName>
+               <idno type="GND">https://d-nb.info/gnd/116816902</idno>
+            </person>
+            <person xml:id="ask-person-2465">
+               <persName>Schmutzer, Susanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061879321</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

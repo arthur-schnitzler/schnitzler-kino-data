@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">314</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,44 @@ Besprechung und Anzeige NFP 29.10.1926, S. 16. Ein »Edison Kino / Michelbeuernk
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-36">
+               <persName>Alechina, R.</persName>
+            </person>
+            <person xml:id="ask-person-770">
+               <persName>Eggert, Konstantin W.</persName>
+            </person>
+            <person xml:id="ask-person-990">
+               <persName>Gardin, Vladimir</persName>
+               <idno type="GND">https://d-nb.info/gnd/122229436</idno>
+            </person>
+            <person xml:id="ask-person-1101">
+               <persName>Grebner, Georgiy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061810658</idno>
+            </person>
+            <person xml:id="ask-person-1454">
+               <persName>Karzeff, B. M.</persName>
+               <idno type="GND">https://d-nb.info/gnd/125062184</idno>
+            </person>
+            <person xml:id="ask-person-1740">
+               <persName>Lunacharsky, Anatoli</persName>
+               <idno type="GND">https://d-nb.info/gnd/139747214</idno>
+            </person>
+            <person xml:id="ask-person-1793">
+               <persName>Malonowskaja, Vera</persName>
+               <idno type="GND">https://d-nb.info/gnd/1272339971</idno>
+            </person>
+            <person xml:id="ask-person-1900">
+               <persName>Merimée, Prosper</persName>
+            </person>
+            <person xml:id="ask-person-2379">
+               <persName>Rosenel, Natalya</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062486064</idno>
+            </person>
+            <person xml:id="ask-person-3002">
+               <persName>Zavadsky, Juri</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

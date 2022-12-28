@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">507</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,99 @@ Nachgewiesene Spielorte: Kärntner-Kino (NFP 23.10.1930, S. 19) und Mozart-Ton-K
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-28">
+               <persName>Alberti, Fritz</persName>
+            </person>
+            <person xml:id="ask-person-172">
+               <persName>Bassermann, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
+            </person>
+            <person xml:id="ask-person-276">
+               <persName>Bildt, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11618051X</idno>
+            </person>
+            <person xml:id="ask-person-324">
+               <persName>Bonn, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/118625543</idno>
+            </person>
+            <person xml:id="ask-person-715">
+               <persName>Dreyfus, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/140761950</idno>
+            </person>
+            <person xml:id="ask-person-938">
+               <persName>Frankl, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-1013">
+               <persName>George, Heinrich</persName>
+            </person>
+            <person xml:id="ask-person-1055">
+               <persName>Goetzke, Bernhard</persName>
+            </person>
+            <person xml:id="ask-person-1058">
+               <persName>Goldberg, Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116748508</idno>
+            </person>
+            <person xml:id="ask-person-1208">
+               <persName>Hart, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013305035</idno>
+            </person>
+            <person xml:id="ask-person-1252">
+               <persName>Henckels, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
+            </person>
+            <person xml:id="ask-person-1272">
+               <persName>Herzog, Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/1157987575</idno>
+            </person>
+            <person xml:id="ask-person-1321">
+               <persName>Homolka, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/116976586</idno>
+            </person>
+            <person xml:id="ask-person-1435">
+               <persName>Kaiser, Erwin</persName>
+            </person>
+            <person xml:id="ask-person-1442">
+               <persName>Kampers, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/120558424</idno>
+            </person>
+            <person xml:id="ask-person-1543">
+               <persName>Kortner, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-1619">
+               <persName>Ledebur, Leopold von</persName>
+               <idno type="GND">https://d-nb.info/gnd/116851503</idno>
+            </person>
+            <person xml:id="ask-person-1973">
+               <persName>Mosheim, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/116939966</idno>
+            </person>
+            <person xml:id="ask-person-2092">
+               <persName>Oswald, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118787322</idno>
+            </person>
+            <person xml:id="ask-person-2274">
+               <persName>Rasp, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-2287">
+               <persName>Rehfisch, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116392401</idno>
+            </person>
+            <person xml:id="ask-person-2900">
+               <persName>Weil, Bruno</persName>
+            </person>
+            <person xml:id="ask-person-2916">
+               <persName>Wendhausen, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/117284904</idno>
+            </person>
+            <person xml:id="ask-person-3013">
+               <persName>Ziener, Bruno</persName>
+               <idno type="GND">https://d-nb.info/gnd/116989084</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

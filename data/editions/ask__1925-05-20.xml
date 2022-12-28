@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">245</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-489">
+               <persName>Champreux, Maurice</persName>
+               <idno type="GND">https://d-nb.info/gnd/1082014192</idno>
+            </person>
+            <person xml:id="ask-person-738">
+               <persName>Duvernois, Henry</persName>
+               <idno type="GND">https://d-nb.info/gnd/10233272X</idno>
+            </person>
+            <person xml:id="ask-person-1950">
+               <persName>Montel, Blanche</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062468317</idno>
+            </person>
+            <person xml:id="ask-person-2064">
+               <persName>Nox, André</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062445228</idno>
+            </person>
+            <person xml:id="ask-person-2242">
+               <persName>Provost, Jeanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1028090757</idno>
+            </person>
+            <person xml:id="ask-person-2972">
+               <persName>Wolff, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/117443018</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">46</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,51 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-89">
+               <persName>Arno, Siegfried</persName>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-822">
+               <persName>Esterházy, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
+            </person>
+            <person xml:id="ask-person-878">
+               <persName>Ferrari, Angelo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057598798</idno>
+            </person>
+            <person xml:id="ask-person-1023">
+               <persName>Gerron, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
+            </person>
+            <person xml:id="ask-person-1427">
+               <persName>Juttke, Herbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117243841</idno>
+            </person>
+            <person xml:id="ask-person-1503">
+               <persName>Klaren, Georg C.</persName>
+               <idno type="GND">https://d-nb.info/gnd/135014549</idno>
+            </person>
+            <person xml:id="ask-person-2092">
+               <persName>Oswald, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/118787322</idno>
+            </person>
+            <person xml:id="ask-person-2156">
+               <persName>Petersen, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062300017</idno>
+            </person>
+            <person xml:id="ask-person-2677">
+               <persName>Stüwe, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/11736293X</idno>
+            </person>
+            <person xml:id="ask-person-2970">
+               <persName>Wolff, Ludwig</persName>
+               <idno type="GND">https://d-nb.info/gnd/117443018</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

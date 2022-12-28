@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">736</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -92,6 +93,84 @@ Abends in einem Kino („zehn Gebote“), Schweizerhof gen.
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-424">
+               <persName>Burton, Clarence</persName>
+               <idno type="GND">https://d-nb.info/gnd/1250716292</idno>
+            </person>
+            <person xml:id="ask-person-433">
+               <persName>Butt, Lawson</persName>
+               <idno type="GND">https://d-nb.info/gnd/173761127</idno>
+            </person>
+            <person xml:id="ask-person-496">
+               <persName>Chapman, Edythe</persName>
+               <idno type="GND">https://d-nb.info/gnd/1261072367</idno>
+            </person>
+            <person xml:id="ask-person-658">
+               <persName>DeMille, Cecil B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119244012</idno>
+            </person>
+            <person xml:id="ask-person-687">
+               <persName>Dix, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019705922</idno>
+            </person>
+            <person xml:id="ask-person-759">
+               <persName>Edeson, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1227955766</idno>
+            </person>
+            <person xml:id="ask-person-857">
+               <persName>Faye, Julia</persName>
+               <idno type="GND">https://d-nb.info/gnd/1016013884</idno>
+            </person>
+            <person xml:id="ask-person-1404">
+               <persName>Johnson, Noble</persName>
+               <idno type="GND">https://d-nb.info/gnd/113128559X</idno>
+            </person>
+            <person xml:id="ask-person-1419">
+               <persName>Joy, Leatrice</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274108438</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1773">
+               <persName>Macpherson, Jeanie</persName>
+               <idno type="GND">https://d-nb.info/gnd/141223421</idno>
+            </person>
+            <person xml:id="ask-person-1955">
+               <persName>Moore, Pat</persName>
+               <idno type="GND">https://d-nb.info/gnd/1114761710</idno>
+            </person>
+            <person xml:id="ask-person-2011">
+               <persName>Naldi, Nita</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061771024</idno>
+            </person>
+            <person xml:id="ask-person-2021">
+               <persName>Neill, James</persName>
+               <idno type="GND">https://d-nb.info/gnd/137016913</idno>
+            </person>
+            <person xml:id="ask-person-2352">
+               <persName>Roberts, Theodore</persName>
+               <idno type="GND">https://d-nb.info/gnd/1208535803</idno>
+            </person>
+            <person xml:id="ask-person-2359">
+               <persName>Rochefort, Charles de</persName>
+               <idno type="GND">https://d-nb.info/gnd/1042356122</idno>
+            </person>
+            <person xml:id="ask-person-2361">
+               <persName>Rocque, Rod La</persName>
+               <idno type="GND">https://d-nb.info/gnd/140894314</idno>
+            </person>
+            <person xml:id="ask-person-2712">
+               <persName>Taylor, Estelle</persName>
+               <idno type="GND">https://d-nb.info/gnd/1248913833</idno>
+            </person>
+            <person xml:id="ask-person-2974">
+               <persName>Wolfradt, Willi</persName>
+               <idno type="GND">https://d-nb.info/gnd/117437018</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Bern</placeName>

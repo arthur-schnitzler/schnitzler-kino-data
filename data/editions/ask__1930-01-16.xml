@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">460</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-148">
+               <persName>Barbusse, Henri</persName>
+               <idno type="GND">https://d-nb.info/gnd/11850651X</idno>
+            </person>
+            <person xml:id="ask-person-872">
+               <persName>Ferdiandow, B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/139711775</idno>
+            </person>
+            <person xml:id="ask-person-1123">
+               <persName>Grubinak, K.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1056138556</idno>
+            </person>
+            <person xml:id="ask-person-1142">
+               <persName>Gurniak, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/117072486</idno>
+            </person>
+            <person xml:id="ask-person-1548">
+               <persName>Kracauer, Siegfried</persName>
+               <idno type="GND">https://d-nb.info/gnd/1251917062</idno>
+            </person>
+            <person xml:id="ask-person-2372">
+               <persName>Room, Abram</persName>
+               <idno type="GND">https://d-nb.info/gnd/11892382X</idno>
+            </person>
+            <person xml:id="ask-person-2451">
+               <persName>Schiznewa, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/1038087732</idno>
+            </person>
+            <person xml:id="ask-person-2661">
+               <persName>Strauch, Maxim</persName>
+               <idno type="GND">https://d-nb.info/gnd/118951807</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

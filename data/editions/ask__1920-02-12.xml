@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">613</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-255">
+               <persName>Bernède, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/121064905</idno>
+            </person>
+            <person xml:id="ask-person-583">
+               <persName>Cresté, René</persName>
+            </person>
+            <person xml:id="ask-person-620">
+               <persName>Dario, Yvonne</persName>
+               <idno type="GND">https://d-nb.info/gnd/130890804</idno>
+            </person>
+            <person xml:id="ask-person-880">
+               <persName>Feuillade, Louis</persName>
+               <idno type="GND">https://d-nb.info/gnd/118956574</idno>
+            </person>
+            <person xml:id="ask-person-1845">
+               <persName>Mathé, Édouard</persName>
+            </person>
+            <person xml:id="ask-person-1911">
+               <persName>Michel, Gaston</persName>
+               <idno type="GND">https://d-nb.info/gnd/1058721798</idno>
+            </person>
+            <person xml:id="ask-person-2000">
+               <persName>Musidora</persName>
+               <idno type="GND">https://d-nb.info/gnd/114588279</idno>
+            </person>
+            <person xml:id="ask-person-2228">
+               <persName>Poyen, René</persName>
+               <idno type="GND">https://d-nb.info/gnd/122794567</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">116</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie mÃ¼ssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -90,6 +91,32 @@ Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als Â
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-941">
+               <persName>Franz Josef I.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1034541528</idno>
+            </person>
+            <person xml:id="ask-person-1099">
+               <persName>Gray, Eve</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061875628</idno>
+            </person>
+            <person xml:id="ask-person-1851">
+               <persName>Maude, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/137402198</idno>
+            </person>
+            <person xml:id="ask-person-2739">
+               <persName>Thomas, Jameson</persName>
+               <idno type="GND">https://d-nb.info/gnd/138596859</idno>
+            </person>
+            <person xml:id="ask-person-2751">
+               <persName>Tod, Malcolm</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061946347</idno>
+            </person>
+            <person xml:id="ask-person-2917">
+               <persName>Werbezirk, Gisela</persName>
+               <idno type="GND">https://d-nb.info/gnd/130178527</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Marienbad</placeName>

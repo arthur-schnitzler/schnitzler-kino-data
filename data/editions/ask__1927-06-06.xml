@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">3</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,48 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-172">
+               <persName>Bassermann, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-1252">
+               <persName>Henckels, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
+            </person>
+            <person xml:id="ask-person-1423">
+               <persName>Jungk, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/117238600</idno>
+            </person>
+            <person xml:id="ask-person-1588">
+               <persName>Land, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116669888</idno>
+            </person>
+            <person xml:id="ask-person-1904">
+               <persName>Meszaros, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031959890</idno>
+            </person>
+            <person xml:id="ask-person-2127">
+               <persName>Parry, Lee</persName>
+               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
+            </person>
+            <person xml:id="ask-person-2436">
+               <persName>Sauer, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
+            </person>
+            <person xml:id="ask-person-2693">
+               <persName>Szakall, Szöke</persName>
+               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
+            </person>
+            <person xml:id="ask-person-2884">
+               <persName>Wasa, Elsa</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061926184</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

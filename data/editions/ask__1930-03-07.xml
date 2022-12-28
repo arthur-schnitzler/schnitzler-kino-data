@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">466</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,58 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-699">
+               <persName>Dörmann, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/119020874</idno>
+            </person>
+            <person xml:id="ask-person-832">
+               <persName>Eysler, Edmund</persName>
+               <idno type="GND">https://d-nb.info/gnd/11868289X</idno>
+            </person>
+            <person xml:id="ask-person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="ask-person-1020">
+               <persName>Gerhardt, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1160217408</idno>
+            </person>
+            <person xml:id="ask-person-1076">
+               <persName>Götz, Karl</persName>
+            </person>
+            <person xml:id="ask-person-1107">
+               <persName>Greiner, Fritz</persName>
+            </person>
+            <person xml:id="ask-person-1163">
+               <persName>Haid, Liane</persName>
+               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
+            </person>
+            <person xml:id="ask-person-1252">
+               <persName>Henckels, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
+            </person>
+            <person xml:id="ask-person-1327">
+               <persName>Hörbiger, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118552155</idno>
+            </person>
+            <person xml:id="ask-person-2186">
+               <persName>Platen, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
+            </person>
+            <person xml:id="ask-person-2454">
+               <persName>Schlettow, Hans Adalbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117326747</idno>
+            </person>
+            <person xml:id="ask-person-2794">
+               <persName>Ucicky, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/119070812</idno>
+            </person>
+            <person xml:id="ask-person-2904">
+               <persName>Weiss, Ferdl</persName>
+               <idno type="GND">https://d-nb.info/gnd/11864324X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

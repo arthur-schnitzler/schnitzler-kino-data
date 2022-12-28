@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">778</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,52 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-121">
+               <persName>Ayres, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/141176423</idno>
+            </person>
+            <person xml:id="ask-person-144">
+               <persName>Banky, Vilma</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031195645</idno>
+            </person>
+            <person xml:id="ask-person-856">
+               <persName>Fawcett, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
+            </person>
+            <person xml:id="ask-person-893">
+               <persName>Fitzmaurice, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/139520767</idno>
+            </person>
+            <person xml:id="ask-person-1108">
+               <persName>Gresac, Fred De</persName>
+               <idno type="GND">https://d-nb.info/gnd/135581486</idno>
+            </person>
+            <person xml:id="ask-person-1348">
+               <persName>Hull, Edith Maude</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061715485</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1727">
+               <persName>Love, Montague</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062212312</idno>
+            </person>
+            <person xml:id="ask-person-1816">
+               <persName>Marion, Frances</persName>
+               <idno type="GND">https://d-nb.info/gnd/119542080</idno>
+            </person>
+            <person xml:id="ask-person-1818">
+               <persName>Marion, George Jr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
+            </person>
+            <person xml:id="ask-person-2805">
+               <persName>Valentino, Rudolph</persName>
+               <idno type="GND">https://d-nb.info/gnd/118625918</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

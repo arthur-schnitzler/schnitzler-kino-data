@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">164</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,39 @@ Anzeige und Besprechung NFP 18.1.1924, S. 19, dort nachgewiesene Spielorte von 2
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-348">
+               <persName>Brandt, Dr.</persName>
+            </person>
+            <person xml:id="ask-person-408">
+               <persName>Buchowetzki, Dimitri</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062126793</idno>
+            </person>
+            <person xml:id="ask-person-768">
+               <persName>Egede-Nissen, Aud</persName>
+               <idno type="GND">https://d-nb.info/gnd/142174769</idno>
+            </person>
+            <person xml:id="ask-person-866">
+               <persName>Fekete, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116438851</idno>
+            </person>
+            <person xml:id="ask-person-965">
+               <persName>Fryland, Alphons</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019855827</idno>
+            </person>
+            <person xml:id="ask-person-1383">
+               <persName>Janssen, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
+            </person>
+            <person xml:id="ask-person-2222">
+               <persName>Potechina, Lydia</persName>
+               <idno type="GND">https://d-nb.info/gnd/1043652914</idno>
+            </person>
+            <person xml:id="ask-person-2223">
+               <persName>Pottier, Waldemar</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061464466</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

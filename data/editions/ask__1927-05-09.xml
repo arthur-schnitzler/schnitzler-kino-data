@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">787</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-377">
+               <persName>Brignone, Guido</persName>
+               <idno type="GND">https://d-nb.info/gnd/141403926</idno>
+            </person>
+            <person xml:id="ask-person-746">
+               <persName>D’Annunzio, Gabriele</persName>
+            </person>
+            <person xml:id="ask-person-1085">
+               <persName>Grandi, Oreste</persName>
+               <idno type="GND">https://d-nb.info/gnd/1060866951</idno>
+            </person>
+            <person xml:id="ask-person-1112">
+               <persName>Grey, Dolly</persName>
+               <idno type="GND">https://d-nb.info/gnd/135806186</idno>
+            </person>
+            <person xml:id="ask-person-1155">
+               <persName>Habay, Andrea</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061679713</idno>
+            </person>
+            <person xml:id="ask-person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="ask-person-1741">
+               <persName>Lunda, Elena</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062269756</idno>
+            </person>
+            <person xml:id="ask-person-2107">
+               <persName>Pagano, Bartolomeo (Maciste)</persName>
+               <idno type="GND">https://d-nb.info/gnd/138977674</idno>
+            </person>
+            <person xml:id="ask-person-2190">
+               <persName>Poggioli, Augusto</persName>
+               <idno type="GND">https://d-nb.info/gnd/1157732852</idno>
+            </person>
+            <person xml:id="ask-person-2532">
+               <persName>Serventi, Luigi</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062245261</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

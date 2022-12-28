@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">246</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-542">
+               <persName>Colman, Ronald</persName>
+            </person>
+            <person xml:id="ask-person-1036">
+               <persName>Gish, Lillian</persName>
+               <idno type="GND">https://d-nb.info/gnd/119019876</idno>
+            </person>
+            <person xml:id="ask-person-1294">
+               <persName>Hobart, George B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1161037640</idno>
+            </person>
+            <person xml:id="ask-person-1444">
+               <persName>Kane, Gail</persName>
+            </person>
+            <person xml:id="ask-person-1495">
+               <persName>King, Henry</persName>
+               <idno type="GND">https://d-nb.info/gnd/118933272</idno>
+            </person>
+            <person xml:id="ask-person-2141">
+               <persName>Pavoni, Giuseppe</persName>
+               <idno type="GND">https://d-nb.info/gnd/11933576X</idno>
+            </person>
+            <person xml:id="ask-person-2701">
+               <persName>Talli, Carloni</persName>
+               <idno type="GND">https://d-nb.info/gnd/1096485753</idno>
+            </person>
+            <person xml:id="ask-person-2933">
+               <persName>Whittaker, Charles E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062098781</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

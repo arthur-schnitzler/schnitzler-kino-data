@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">322</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,72 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-282">
+               <persName>Birinski, Leo</persName>
+               <idno type="GND">https://d-nb.info/gnd/116189851</idno>
+            </person>
+            <person xml:id="ask-person-698">
+               <persName>Doraine, Lucy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061312542</idno>
+            </person>
+            <person xml:id="ask-person-776">
+               <persName>Eichberg, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/13327358X</idno>
+            </person>
+            <person xml:id="ask-person-803">
+               <persName>Engers, Adolphe</persName>
+               <idno type="GND">https://d-nb.info/gnd/11650367X</idno>
+            </person>
+            <person xml:id="ask-person-956">
+               <persName>Fritsch, Willy</persName>
+               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
+            </person>
+            <person xml:id="ask-person-1442">
+               <persName>Kampers, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/120558424</idno>
+            </person>
+            <person xml:id="ask-person-1619">
+               <persName>Ledebur, Leopold von</persName>
+               <idno type="GND">https://d-nb.info/gnd/116851503</idno>
+            </person>
+            <person xml:id="ask-person-1652">
+               <persName>Lerchenfeld, Sybille von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061480925</idno>
+            </person>
+            <person xml:id="ask-person-2136">
+               <persName>Paul, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1092204741</idno>
+            </person>
+            <person xml:id="ask-person-2137">
+               <persName>Paulig, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/116065109</idno>
+            </person>
+            <person xml:id="ask-person-2167">
+               <persName>Picha, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116177578</idno>
+            </person>
+            <person xml:id="ask-person-2476">
+               <persName>Scholz, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
+            </person>
+            <person xml:id="ask-person-2479">
+               <persName>Schönfeld, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116867906</idno>
+            </person>
+            <person xml:id="ask-person-2527">
+               <persName>Serda, Julia</persName>
+               <idno type="GND">https://d-nb.info/gnd/117257753</idno>
+            </person>
+            <person xml:id="ask-person-2649">
+               <persName>Stock, Valeska</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062201590</idno>
+            </person>
+            <person xml:id="ask-person-2684">
+               <persName>Susa, Charlotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/117381683</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

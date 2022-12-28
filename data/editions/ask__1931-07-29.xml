@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">845</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,59 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-199">
+               <persName>Behrendt, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/11611083X</idno>
+            </person>
+            <person xml:id="ask-person-359">
+               <persName>Brausewetter, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116430249</idno>
+            </person>
+            <person xml:id="ask-person-1136">
+               <persName>Gülstorff, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/116909730</idno>
+            </person>
+            <person xml:id="ask-person-1330">
+               <persName>Horn, Camilla</persName>
+            </person>
+            <person xml:id="ask-person-1663">
+               <persName>Ley, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="ask-person-1689">
+               <persName>Lion, Marga</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062345274</idno>
+            </person>
+            <person xml:id="ask-person-1712">
+               <persName>Loos, Theodor</persName>
+               <idno type="GND">https://d-nb.info/gnd/116850345</idno>
+            </person>
+            <person xml:id="ask-person-2091">
+               <persName>Ostyn, Berthe</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062133439</idno>
+            </person>
+            <person xml:id="ask-person-2557">
+               <persName>Sima, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/130872091</idno>
+            </person>
+            <person xml:id="ask-person-2598">
+               <persName>Speyer, Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/117493236</idno>
+            </person>
+            <person xml:id="ask-person-2639">
+               <persName>Sterler, Hermine</persName>
+               <idno type="GND">https://d-nb.info/gnd/117273627</idno>
+            </person>
+            <person xml:id="ask-person-2971">
+               <persName>Wolff, Peter</persName>
+               <idno type="GND">https://d-nb.info/gnd/117443018</idno>
+            </person>
+            <person xml:id="ask-person-3006">
+               <persName>Zerlett, Hans Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116983191</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

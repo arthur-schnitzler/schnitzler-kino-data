@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">861</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -91,6 +92,53 @@ Ich habe jetzt ein paar Stunden ganz gut gearbeitet und gehe jetzt zur letzten V
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-189">
+               <persName>Bedford, Barbara</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062335406</idno>
+            </person>
+            <person xml:id="ask-person-454">
+               <persName>Carewe, Arthur Edmund</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061706370</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-887">
+               <persName>Fischer, Hedwig</persName>
+            </person>
+            <person xml:id="ask-person-889">
+               <persName>Fischer, Samuel</persName>
+            </person>
+            <person xml:id="ask-person-908">
+               <persName>Foelds, Emeric</persName>
+               <idno type="GND">https://d-nb.info/gnd/137490917</idno>
+            </person>
+            <person xml:id="ask-person-1531">
+               <persName>Kohner, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116308869</idno>
+            </person>
+            <person xml:id="ask-person-1888">
+               <persName>Melford, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/141176261</idno>
+            </person>
+            <person xml:id="ask-person-2062">
+               <persName>Nowak, Hr. (NFP)</persName>
+            </person>
+            <person xml:id="ask-person-2209">
+               <persName>Pollak, Frieda </persName>
+               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
+            </person>
+            <person xml:id="ask-person-2284">
+               <persName>Reed, Tom</persName>
+               <idno type="GND">https://d-nb.info/gnd/1187005037</idno>
+            </person>
+            <person xml:id="ask-person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

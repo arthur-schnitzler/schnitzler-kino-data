@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">85</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -92,6 +93,42 @@ Premierennotiz NFP 1.5.1931, S. 14, für 5.5.1931 Ur- und Alleinaufführung Schw
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-193">
+               <persName>Beer-Hofmann, Paula</persName>
+               <idno type="GND">https://d-nb.info/gnd/119044994</idno>
+            </person>
+            <person xml:id="ask-person-331">
+               <persName>Bourdelle, Thomy</persName>
+               <idno type="GND">https://d-nb.info/gnd/173938957</idno>
+            </person>
+            <person xml:id="ask-person-1642">
+               <persName>Leitner, ? </persName>
+               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
+            </person>
+            <person xml:id="ask-person-1702">
+               <persName>Loeb, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1229925457</idno>
+            </person>
+            <person xml:id="ask-person-1812">
+               <persName>Marfeld, ?</persName>
+               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
+            </person>
+            <person xml:id="ask-person-2194">
+               <persName>Poirier, Léon</persName>
+               <idno type="GND">https://d-nb.info/gnd/1058603582</idno>
+            </person>
+            <person xml:id="ask-person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="ask-person-2208">
+               <persName>Pollak, Egon</persName>
+               <idno type="GND">https://d-nb.info/gnd/11626330X</idno>
+            </person>
+            <person xml:id="ask-person-2264">
+               <persName>Rama-Tahé</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

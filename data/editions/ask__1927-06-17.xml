@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">345</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -89,6 +90,39 @@ Nachgewiesene Spielorte: Kärntner- und Löwen-Kino sowie Kino Schäffer (NZG 17
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-10">
+               <persName>Abel, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
+            </person>
+            <person xml:id="ask-person-771">
+               <persName>Ehler, E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/124396989X</idno>
+            </person>
+            <person xml:id="ask-person-792">
+               <persName>Elson, Isabel</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061540537</idno>
+            </person>
+            <person xml:id="ask-person-795">
+               <persName>Elvey, Maurice</persName>
+               <idno type="GND">https://d-nb.info/gnd/1012082318</idno>
+            </person>
+            <person xml:id="ask-person-2317">
+               <persName>Richard, Frida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
+            </person>
+            <person xml:id="ask-person-2322">
+               <persName>Richter, Paul</persName>
+            </person>
+            <person xml:id="ask-person-2823">
+               <persName>Verebes, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/135294959</idno>
+            </person>
+            <person xml:id="ask-person-2958">
+               <persName>Winterstein, Eduard von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

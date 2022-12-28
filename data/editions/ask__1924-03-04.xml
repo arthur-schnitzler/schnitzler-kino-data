@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">168</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-174">
+               <persName>Baston, Thornton</persName>
+               <idno type="GND">https://d-nb.info/gnd/139964320</idno>
+            </person>
+            <person xml:id="ask-person-637">
+               <persName>Dawley, J. Searle</persName>
+               <idno type="GND">https://d-nb.info/gnd/1116649861</idno>
+            </person>
+            <person xml:id="ask-person-763">
+               <persName>Edwards, Alan</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061324443</idno>
+            </person>
+            <person xml:id="ask-person-788">
+               <persName>Elliot, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1157557902</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1855">
+               <persName>Maxim, Hiram Percy</persName>
+            </person>
+            <person xml:id="ask-person-2929">
+               <persName>White, Pearl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1042649693</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

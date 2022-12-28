@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">165</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,7 +55,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text type="letter">
@@ -88,6 +89,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-110">
+               <persName>Auen, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116376805</idno>
+            </person>
+            <person xml:id="ask-person-978">
+               <persName>Galaor, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057048461</idno>
+            </person>
+            <person xml:id="ask-person-1152">
+               <persName>Haack, Käthe</persName>
+               <idno type="GND">https://d-nb.info/gnd/118543997</idno>
+            </person>
+            <person xml:id="ask-person-1312">
+               <persName>Hollay, Camilla von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
+            </person>
+            <person xml:id="ask-person-1566">
+               <persName>Kühne, Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-1658">
+               <persName>Lettinger, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
+            </person>
+            <person xml:id="ask-person-2337">
+               <persName>Rippert, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062445198</idno>
+            </person>
+            <person xml:id="ask-person-2811">
+               <persName>Vanloo, Rolf E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013990633</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>
