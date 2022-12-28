@@ -58,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>Zitat Arthur Schnitzler aus: Tagebuch: 1879-1931 Arthur Schnitzler. Unter Mitw. von Peter Michael Braunwarth hrsg. von d. Kommission für Literarische Gebrauchsformen d. Österreichischen Akademie d. Wissenschaften. Wien: Verl. d. Österr. Akad. d. Wiss. 1987-2000</ab></div>
          <div type="ckp"><ab>Zitat Clara Katharina Pollaczek aus: Arthur Schnitzler und ich. Unveröff. Typoskript mit handschriftlichen Ergänzungen, Wienbibliothek (vormals Wr. Stadt- und Landesbibliothek) H.I.N. 155550 unter Angabe von Band- und Blattnummer. </ab></div>

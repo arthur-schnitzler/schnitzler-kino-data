@@ -58,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <change who="pandorfer" when="{{ current_date }}">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>{{ zitatas|safe }}</ab></div>{% if zitatckp %}
          <div type="ckp"><ab>{{ zitatckp|safe }}</ab></div>{% endif %}

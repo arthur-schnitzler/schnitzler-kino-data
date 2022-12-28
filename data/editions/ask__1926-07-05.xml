@@ -58,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>5/7 […] Mit C. P. Kino (Puppenkönigin).</ab></div>
          <div type="anmerkung"><ab>„Das süße Lächeln, Ritterlichkeit und ein zur rechten Zeit verspritztes Parfum verfehlen niemals die Wirkung auf das Publikum“ (SK I, S. 362).</ab></div>

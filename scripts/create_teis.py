@@ -47,11 +47,20 @@ for g, ndf in personen_df.groupby('id'):
     item['besuch_ids'] = sorted(list(pd.read_sql(query, con=db_connection).id_besuch.unique()))
     data[int(g)] = item
 
+
 print("writing a besuche-personen dict")
+query = f"SELECT id, datum FROM synopse"
+besuch_datum = pd.read_sql(query, con=db_connection)
 besuche = defaultdict(list)
+besuch_datum_dict = {}
+for i, row in besuch_datum.iterrows():
+    besuch_datum_dict[row['id']] = f"{row['datum']}"
 for key, value in data.items():
+    value['besuchstage'] = []
     for x in value['besuch_ids']:
+        value['besuchstage'].append(besuch_datum_dict[x])
         besuche[x].append(value)
+    value['besuchstage'] = sorted(value['besuchstage'])
 
 query = "SELECT * FROM synopse"
 df = pd.read_sql(query, con=db_connection)
@@ -97,3 +106,14 @@ for i, row in tqdm(df.head(N).iterrows(), total=N):
     file_name = os.path.join(out_dir, f"ask__{context['datum']}.xml")
     with open(file_name.lower(), 'w') as f:
         f.write(template.render(**context).replace('&', '&amp;').replace('<u>', '<hi>').replace('</u>', '</hi>'))
+
+template = templateEnv.get_template('tei_person.xml')
+
+personen = {}
+for _, value in besuche.items():
+    for x in value:
+        personen[x['id']] = x
+
+context['personen'] = [value for key, value in personen.items()]
+with open("./data/indices/listperson.xml", 'w') as f:
+    f.write(template.render(**context).replace('&', '&amp;'))

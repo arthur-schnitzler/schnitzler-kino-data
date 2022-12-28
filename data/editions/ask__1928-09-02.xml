@@ -58,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab></ab></div>
          <div type="ckp"><ab>2.9. Herrliches Wetter. Bei den Kindern im Garten. Sehr gemütlich. Abend allein im Kino. [II, 143]</ab></div>

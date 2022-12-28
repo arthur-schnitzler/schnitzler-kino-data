@@ -58,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>31/10 […] Abends mit C. P. im Gersthofer Kino.</ab></div>
          <div type="anmerkung"><ab>Das Programm des Gersthofer Kinos ist in den hier berücksichtigten Tageszeitungen nicht erhalten, der Filmtitel ist daher nicht erschließbar.</ab></div>
