@@ -20015,8 +20015,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <note type="mention" target="ask__1926-08-14.xml">1926-08-14</note>
                 </person>
                 <person xml:id="ask-person-2163">
-                  <persName>Pfanz, Herman</persName>
+                  <persName>Pfanz, Hermann</persName>
                   <note type="mention" target="ask__1926-08-14.xml">1926-08-14</note>
+                  <idno type="GND">https://d-nb.info/gnd/106887404X</idno>
+                  <idno type="PMB">https://pmb.acdh.oeaw.ac.at/entity/121620/</idno>
                 </person>
                 <person xml:id="ask-person-2934">
                   <persName>Wieck, Dorothea</persName>
