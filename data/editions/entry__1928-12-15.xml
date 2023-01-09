@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Rote Tänzerin«, 1928-12-15, Wien</title>
-            <title type="alternative" when-iso="1928-12-15"/>
+            <title type="alternative" when-iso="1928-12-15">Samstag, 15. Dezember 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 14.12.1928, S. 12. Nachgewiesene Spielorte: Flieger- und Kruger-Kino sowie Kino Handl, Kammerlichtspiele (NZG 15.12.1928).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Rote Tänzerin von Moskau“ [Ot. „The Red Dance“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -138,7 +138,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__37" type="wirt">
+            <place xml:id="ask_wirt__37" type="wirt">
                <placeName>Zur Linde</placeName>
                <location>
                   <address>

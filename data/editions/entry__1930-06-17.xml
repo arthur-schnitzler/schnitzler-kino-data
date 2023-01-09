@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Sehnsucht Jeder Frau«, 1930-06-17, Wien</title>
-            <title type="alternative" when-iso="1930-06-17"/>
+            <title type="alternative" when-iso="1930-06-17">Dienstag, 17. Juni 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Nachgewiesene Spielorte: Elite-, Maria-Theresien- und Kolosseum-Ton-Kino (NFP 17.6.1930, S. 17). Im August 1930 wird der Film wiederaufgenommen, dazu Premierennotiz und Anzeige NFP 15.8.1930, S. 7 (Tuchlauben- und Rotenturm-Kino sowie Kino Schäffer). Die in PFL erwähnte frühere Verfilmung sah Schnitzler gemeinsam mit Hedy Kempny am 23. November 1926.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Sehnsucht jeder Frau“ („A Lady to Love“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

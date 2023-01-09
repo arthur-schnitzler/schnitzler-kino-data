@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Alraune«, 1931-01-27, Wien</title>
-            <title type="alternative" when-iso="1931-01-27"/>
+            <title type="alternative" when-iso="1931-01-27">Dienstag, 27. Januar 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -76,8 +76,8 @@ Keine Lust zum arbeiten u. fühle wie die Zeit vergeht – kostbare Zeit. Der Br
 „Die etwas falschen Schauer im Text sind von der Ufa und ihrem Regisseur Henrik Galeen weidlich ausgenützt worden“ (SK II, S. 31). Ankündigung NFP 30.12.1930, S. 10. Premierennotiz NFP 20.2.1931, S. 12. Anzeige NFP 23.1.1931, S. 2. Besprechung von Kurt Sonnenfeld in NFP 227.1.1931, S. 10f.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Alraune“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Circus Wolfson«, 1928-09-28, Wien</title>
-            <title type="alternative" when-iso="1928-09-28"/>
+            <title type="alternative" when-iso="1928-09-28">Freitag, 28. September 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -79,8 +79,8 @@ Kino mit A. „Wings“, famoser Fliegerfilm. [II, 147f.]</ab>
 Notiz NFP 28.9.1928, S. 11. Nachgewiesene Spielorte: Gartenbau-, Haydn-, Palast-, Heimat-, Kolosseum- und Theater-Kino sowie Lustspieltheater und Kino Handl (NFP 28.9.1928, S. 10).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Letzte Galavorstellung des Zirkus Wolfson“ („Zirkus Wolfsons’s letzte Galavorstellung – Neue Bearbeitung“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927/28]</date>

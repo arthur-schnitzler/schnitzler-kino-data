@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Leidenschaft«, 1928-02-23, Wien</title>
-            <title type="alternative" when-iso="1928-02-23"/>
+            <title type="alternative" when-iso="1928-02-23">Donnerstag, 23. Februar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung NFP 17.2.1928, S. 19. Ermittelter Spielort NFP 23.2.1928, S. 17: Palast-Kino. Auch im Zirkus Busch-Kino nachgewiesen, angekündigt zusammen mit „Löwenjäger wider Willen.“</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Leidenschaft“ („Das Gewissen der Männer“; Ot. „The Dove“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -116,7 +116,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

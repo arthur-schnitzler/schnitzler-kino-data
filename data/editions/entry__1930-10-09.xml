@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wie Werd Ich Reich Und Glücklich«, 1930-10-09, Wien</title>
-            <title type="alternative" when-iso="1930-10-09"/>
+            <title type="alternative" when-iso="1930-10-09">Donnerstag, 09. Oktober 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Abends mit A. bei einem noch öderen Tonfilm: „Wie werde ich reich und glückl
 Ankündigung NFP 12.9.1930, S. 10. Notiz NFP 19.9.1930, S. 14. Premierennotiz NFP 26.9.1930, S. 9, für 3.10.1930. Notiz NFP 3.10., S. 11. Nachgewiesene Spielorte: Flieger-Kino und Kino Schäffer (NZG 9.10.1930, S. 9).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Wie werde ich reich und glücklich?“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Irrgarten Der Liebe«, 1926-07-09, Wien</title>
-            <title type="alternative" when-iso="1926-07-09"/>
+            <title type="alternative" when-iso="1926-07-09">Freitag, 09. Juli 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Ein Irrgarten ist es gerade nicht, der in diesem Film sich auftut“ (SK I, 221). Siegfried Kracauer bemerkt: »Der ursprüngliche Titel des Films: ›Pleasure Garden‹ / ›Der Garten der Lust‹ wurde von der Münchener Filmprüfstelle verboten und in ›Irrgarten der Leidenschaft‹ umbenannt« (SK I, S. 221). Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Kino (RPT 9.7.1926, S. 12).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Irrgarten der Leidenschaft“ („Der Garten der Lust“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

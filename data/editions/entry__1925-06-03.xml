@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Durchgegangene Frau«, 1925-06-03, Wien</title>
-            <title type="alternative" when-iso="1925-06-03"/>
+            <title type="alternative" when-iso="1925-06-03">Mittwoch, 03. Juni 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Einige Tage früher nachgewiesen für das Imperial-Kino (NFP 29.5.1925, S. 16).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Seine durchgegangene Frau“ („Excitement“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

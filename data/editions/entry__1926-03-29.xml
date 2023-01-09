@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Goldrausch«, 1926-03-29, Wien</title>
-            <title type="alternative" when-iso="1926-03-29"/>
+            <title type="alternative" when-iso="1926-03-29">Montag, 29. März 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Charlie Chaplin, der den ‚Goldrausch‘ gedichtet hat, geht durch seine Dichtung als eine Darstellung des Menschlichen, die aus fast verschütteten Quellen geschöpft ist […]. Seine Ohnmacht ist Dynamit, seine Komik bezwingt die Lacher und erweckt mehr als Rührung, denn sie rührt an den Bestand der Welt“ (SK I, S. 269 f.). Premierennotiz NFP 5.3.1926, S. 16, gibt an, dass Opern- und Rotenturm-Kino den Film exklusiv zeigten.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Goldrausch“ [Ot. „The Gold Rush“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

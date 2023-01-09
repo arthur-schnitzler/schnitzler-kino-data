@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Zwillingsbrüder«, 1928-10-24, Wien</title>
-            <title type="alternative" when-iso="1928-10-24"/>
+            <title type="alternative" when-iso="1928-10-24">Mittwoch, 24. Oktober 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Nachgewiesene Spielorte: Opern-Kino, Kino Schäffer, Löwen-Kino und Tuchlauben Lichtspiele (NZG 24.10.1928, S. 9, NFP 24.10.1928, S. 19). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Zwillingsbrüder“ („Adam and Evil“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -128,7 +128,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__37" type="wirt">
+            <place xml:id="ask_wirt__37" type="wirt">
                <placeName>Zur Linde</placeName>
                <location>
                   <address>

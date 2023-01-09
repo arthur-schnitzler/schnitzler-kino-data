@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Wüstling«, 1927-05-07, Wien</title>
-            <title type="alternative" when-iso="1927-05-07"/>
+            <title type="alternative" when-iso="1927-05-07">Samstag, 07. Mai 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 6.5.1927, S. 20, dort nachgewiesene Spielorte (bis 9.5.): Gartenbau-, Imperial-, Opern-, Busch-, Haydn-, Palast-, Kolosseum- und Theater-Kino. Besprechung von nd in NFP 13.5.1927, S. 21: »Verhältnismäßig am heitersten sind die Szenen, da Reginald Jones (Reginald Denny) unfreiwillig die Rolle eines Pfarrers spielt und als solcher in die Lage kommt, seine eigene Verlobte mit dem Nebenbuhler trauen zu sollen […]. Die deutschen Zwischentitel sind schwerfällig, ungrammatikalisch (›Sie braucht den Trost eines Mannes wie mir (!)‹) und bedien[en] sich, namens des Dienstmädchens, eines frei erfundenden Dialekts.«</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Wüstling“ („What happened to Jones“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -126,7 +126,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

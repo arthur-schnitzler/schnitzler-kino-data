@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Konzert«, 1931-09-11, Wien</title>
-            <title type="alternative" when-iso="1931-09-11"/>
+            <title type="alternative" when-iso="1931-09-11">Freitag, 11. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 18.8.1931, S. 10. Notiz NFP 21.8.1931, S. 10. Premierennotiz NFP 25.8.1931, S. 10, für 28.8.1931. Anzeige und Premierennotiz NFP 28.8.1931, S. 7 bzw. 9. Besprechung von Felix Cleve in NFP 30.8.1931, S. 15.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Konzert“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -144,7 +144,7 @@ Ankündigung NFP 18.8.1931, S. 10. Notiz NFP 21.8.1931, S. 10. Premierennotiz NF
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__52" type="kino">
+            <place xml:id="ask_kino__52" type="kino">
                <placeName>Michelbeuerntheater</placeName>
                <location>
                   <address>

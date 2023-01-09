@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Pension Groonen; Verwehte Spuren«, 1925-02-26, Wien</title>
-            <title type="alternative" when-iso="1925-02-26"/>
+            <title type="alternative" when-iso="1925-02-26">Donnerstag, 26. Februar 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Zu »Pension Groonen« vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 22, S. 4f., Besprechung in NFP 20.2.1925, S. 16. Ebd. auch Anzeige und Premierennotiz zu »Auf verwehten Spuren«, dazu Besprechung von Lilly Klaudy in NFP 27.2.1925, S. 16. NAB 26.2.1925, S. 8, weist »Pension Groonen« an diesem Tag für Burg-, Rotenturm-, Schottenring- und Central-Kino nach, »Auf verwehten Spuren« für das Kruger-Kino.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Pension Groonen“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

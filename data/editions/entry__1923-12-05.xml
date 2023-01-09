@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Scheik«, 1923-12-05, Wien</title>
-            <title type="alternative" when-iso="1923-12-05"/>
+            <title type="alternative" when-iso="1923-12-05">Mittwoch, 05. Dezember 1923</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Ein schöner Spielfilm mit wunderhübschen Originalaufnahmen aus der Wüste Sahara, der sehr viel Interessantes und Sehenswertes bietet. In der Hauptrolle Rudolf Valentino, ›der schönste Mann der Welt‹, der darin mehr als eine Gelegenheit [hat], seinen Ruf zu rechtfertigen.« (Rosa Wachtel in Filmwelt, Jg. 1923, Nr. 26, S. 4).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Scheik“ [Ot. „The Sheik“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1921]</date>

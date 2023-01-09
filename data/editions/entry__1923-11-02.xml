@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Spatz Von Paris«, 1923-11-02, Wien</title>
-            <title type="alternative" when-iso="1923-11-02"/>
+            <title type="alternative" when-iso="1923-11-02">Freitag, 02. November 1923</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Titel erschlossen nach NFP 2.11.1923, S. 13, dort als Spielort Votivpark-Kino. Das ist insofern plausibel, als Pilsenetzer / Hotel Regina dem Kino direkt gegenüber liegt. Besprechung von –e. in NFP 6.11.1923, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Spatz von Paris“ [Ot. „Le Petit moineau de Paris“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>
@@ -108,7 +108,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__38" type="kino">
+            <place xml:id="ask_kino__38" type="kino">
                <placeName>Votivparkkino</placeName>
                <location>
                   <address>
@@ -117,7 +117,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1912. Tonfilm ab 12.1929. Fassungsraum: Galerie. 1914: 371 Sitzplätze (davon 37 Logenplätze), 1922: 399 (37).</note>
             </place>
-            <place  xml:id="ask_wirt__18" type="wirt">
+            <place xml:id="ask_wirt__18" type="wirt">
                <placeName>Alt-Pilsenetzer-Restaurant im Hotel Regina</placeName>
                <location>
                   <address>

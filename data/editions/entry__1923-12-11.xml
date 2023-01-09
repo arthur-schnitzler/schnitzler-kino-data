@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Geld, Geld Und Wiederum Geld«, 1923-12-11, Wien</title>
-            <title type="alternative" when-iso="1923-12-11"/>
+            <title type="alternative" when-iso="1923-12-11">Dienstag, 11. Dezember 1923</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Ein echtes amerikanisches Gesellschaftsbild, das einen guten Einblick in die rücksichtslose Art zeigt, mit der manche amerikanische Geschäftsleute ihre finanziellen Transaktionen betreiben.« (C. F. P. in Filmwelt, Jg. 1923, Nr. 28, S. 3).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Geld, Geld und wieder Geld“ [Ot. „ Money Money Money“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>
@@ -130,7 +130,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__36" type="kino">
+            <place xml:id="ask_kino__36" type="kino">
                <placeName>Tuchlaubenkino</placeName>
                <location>
                   <address>

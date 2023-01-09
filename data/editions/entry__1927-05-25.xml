@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Hochzeitsnacht«, 1927-05-25, Wien</title>
-            <title type="alternative" when-iso="1927-05-25"/>
+            <title type="alternative" when-iso="1927-05-25">Mittwoch, 25. Mai 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 20.5.1927, S. 20 (13 Spielorte). Besprechung von Lilly Klaudy in NFP 27.5.1927, S. 10: „In gewissem Sinn ein Film der Ueberraschung. Unter dem spekulativ anlockenden Titel erwartet man ein Kapitel Pikanterie und findet gepackt, aus einer Kette prächtiger Bilder sich entschälend, einen tragischen Kern, unter Tändelei und lockendem Gepräge tiefes, zermalmendes Menschenleid.“</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Hochzeitsnacht“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -134,7 +134,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

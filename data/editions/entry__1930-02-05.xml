@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Dame Von Moskau«, 1930-02-05, Wien</title>
-            <title type="alternative" when-iso="1930-02-05"/>
+            <title type="alternative" when-iso="1930-02-05">Mittwoch, 05. Februar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige und Premierennotiz NFP 31.1.1930, S. 7, mit Angabe zweier Spielorte: Maria-Theresien-Kino und Tuchlauben-Lichtspiele.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Dame aus Moskau“ („Fédora“, [Ot. „The Woman From Moscow“])</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

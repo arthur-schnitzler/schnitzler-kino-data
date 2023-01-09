@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Drei Tage Liebe«, 1931-03-02, Wien</title>
-            <title type="alternative" when-iso="1931-03-02"/>
+            <title type="alternative" when-iso="1931-03-02">Montag, 02. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „Das verlogene und ambitiöse Zeug schmeckt ranzig wie eine verdorbene Speise“ (SK II, S. 461). Ankündigung NFP 17.2.1931, S. 9. Anzeige und Premierennotiz NFP 24.2.1931, S. 7 bzw. 9, Besprechung von Eduard Siebrecht NFP 28.2.1931, S. 11. Nachgewiesene Spielorte: Gartenbau-, Stafa- und Kolosseum-Kino (NFP 2.3.1931, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Drei Tage Liebe“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>

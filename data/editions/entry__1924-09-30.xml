@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ihr Schlechter Ruf«, 1924-09-30, Wien</title>
-            <title type="alternative" when-iso="1924-09-30"/>
+            <title type="alternative" when-iso="1924-09-30">Dienstag, 30. September 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Belegt in Filmbote, Jg. 1924, Nr. 33, S. 40 (Anzeige der Interessentenvorführung des österreichischen Verleihs).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ihr schlechter Ruf“ („The Notorious Miss Lisle“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1920]</date>

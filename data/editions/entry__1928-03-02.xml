@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Fürst Der Gasse«, 1928-03-02, Wien</title>
-            <title type="alternative" when-iso="1928-03-02"/>
+            <title type="alternative" when-iso="1928-03-02">Freitag, 02. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Mit C. P. Opernrest. </ab>
             <ab>Besprechung von Felix Cleve in NFP 4.3.1928, S. 17. Spielorte nicht nachgewiesen.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Fürst der Gasse“ („Der Bettelpoet“, „The beloved Rogue“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -121,7 +121,7 @@ Mit C. P. Opernrest. </ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

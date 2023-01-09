@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frauen Die Anders Fühlen.«, 1928-11-07, Wien</title>
-            <title type="alternative" when-iso="1928-11-07"/>
+            <title type="alternative" when-iso="1928-11-07">Mittwoch, 07. November 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Film und Kino sind nicht ermittelt. NZG 7.11.1928, S. 8, nennt lediglich als eventuell in Frage kommenden Film »Frauen, denen man nachts begegnet« in den Raimund-Lichtspielen. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel"/>
                   <cell role="data" ana="Jahr">
                      <date/>
@@ -108,7 +108,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__44" type="kino">
+            <place xml:id="ask_kino__44" type="kino">
                <placeName>Universum</placeName>
                <location>
                   <address>
@@ -117,7 +117,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1912. Fassungsraum: 1914 und 1922: 390 Sitzplätze.</note>
             </place>
-            <place  xml:id="ask_wirt__8" type="wirt">
+            <place xml:id="ask_wirt__8" type="wirt">
                <placeName>Restaurant Auge Gottes</placeName>
                <location>
                   <address>

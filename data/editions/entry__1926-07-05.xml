@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Puppenkönigin«, 1926-07-05, Wien</title>
-            <title type="alternative" when-iso="1926-07-05"/>
+            <title type="alternative" when-iso="1926-07-05">Montag, 05. Juli 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Das süße Lächeln, Ritterlichkeit und ein zur rechten Zeit verspritztes Parfum verfehlen niemals die Wirkung auf das Publikum“ (SK I, S. 362).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Puppenkönigin“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Rote Laterne«, 1928-09-25, Wien</title>
-            <title type="alternative" when-iso="1928-09-25"/>
+            <title type="alternative" when-iso="1928-09-25">Dienstag, 25. September 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Nachgewiesene Spielorte: Schottenring-, Tuchlauben- und Flieger-Kino sowie Kino Wienzeile und Kino Handl (NFP 25.9.1928, S. 19 und NZG 25.9.1928, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Haus zur roten Laterne“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -145,7 +145,7 @@ Nachgewiesene Spielorte: Schottenring-, Tuchlauben- und Flieger-Kino sowie Kino 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__17" type="wirt">
+            <place xml:id="ask_wirt__17" type="wirt">
                <placeName>Meissl und Schadn</placeName>
                <location>
                   <address>

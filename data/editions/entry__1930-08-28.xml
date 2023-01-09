@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ketten«, 1930-08-28, Marienbad</title>
-            <title type="alternative" when-iso="1930-08-28"/>
+            <title type="alternative" when-iso="1930-08-28">Donnerstag, 28. August 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Der Film lief in Wien einige Monate früher: Premierennotiz NFP 11.4.1930, S. 11
 </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ketten“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

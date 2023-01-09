@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Dirnenschiff«, 1928-01-28, Wien</title>
-            <title type="alternative" when-iso="1928-01-28"/>
+            <title type="alternative" when-iso="1928-01-28">Samstag, 28. Januar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Vorlage des Films war Abbé Prevosts Roman »Manon Lescaut« (1731). Weitere Titel: »Die Abenteuer einer schönen Kurtisane« und »When a man loves«. „Die einzelnen Episoden reihen sich mehr oder weniger frei nach der Romanvorlage aneinander, ohne filmisch durchdrungen zu sein“ (SK II, S. 208). Anzeige und Notiz NFP 27.1.1928, S. 19, dort nachgewiesene Spielorte u. a. ab 27.1.1928 im Heimat-Kino. Besprechung von Lilly Klaudy in NFP 28.1.1928, S. 8.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Frauen der Liebe“ („Das Dirnenschiff“, „Sein Weib – Wenn ein Mann liebt…“) [Ot. „When a Man Loves“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -134,7 +134,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__17" type="kino">
+            <place xml:id="ask_kino__17" type="kino">
                <placeName>Heimatkino</placeName>
                <location>
                   <address>
@@ -143,7 +143,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Gründung 7.3.1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914: 593 Sitzplätze (davon 4 Logenplätze), 1922: 617 (60).</note>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

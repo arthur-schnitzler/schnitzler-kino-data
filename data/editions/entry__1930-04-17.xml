@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Teufel Von Alaska; Weib Und Hampelmann«, 1930-04-17, Wien</title>
-            <title type="alternative" when-iso="1930-04-17"/>
+            <title type="alternative" when-iso="1930-04-17">Donnerstag, 17. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Der Teufel von Alaska« ist in der Tagespresse nicht nachgewiesen. Zu »Weib und Hampelmann« vgl. Anzeige und Notiz NFP 4.4.1930, S. 10, sowie die kurze Kritik von –nd– in NFP 11.4.1930, S. 11. Der zweitgenannte Titel erfuhr eine Neuverfilmung durch Luis Buñuel u. d. T. »Dieses obskure Objekt der Begierde« (F/ES 1977).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Teufel von Alaska“ („Der blinde Wolf“, Ot. „The Man From Hell’s River“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922]</date>

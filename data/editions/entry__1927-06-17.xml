@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tragödie Einer Ehe«, 1927-06-17, Wien</title>
-            <title type="alternative" when-iso="1927-06-17"/>
+            <title type="alternative" when-iso="1927-06-17">Freitag, 17. Juni 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Nachgewiesene Spielorte: Kärntner- und Löwen-Kino sowie Kino Schäffer (NZG 17.6.1927, S. 8). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Tragödie einer Ehe“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -132,7 +132,7 @@ Nachgewiesene Spielorte: Kärntner- und Löwen-Kino sowie Kino Schäffer (NZG 17
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__27" type="wirt">
+            <place xml:id="ask_wirt__27" type="wirt">
                <placeName>Schweizerhaus Karl Kolarik</placeName>
                <location>
                   <address>

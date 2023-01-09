@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frau Ilse’s Scheidung«, 1930-09-03, Marienbad</title>
-            <title type="alternative" when-iso="1930-09-03"/>
+            <title type="alternative" when-iso="1930-09-03">Mittwoch, 03. September 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Abends. Nach einer wundervollen Liebesstunde noch in meinen Armen sagt er: „Ir
             <ab>Zahlreiche Titelvarianten erschließbar über die genannten Darsteller. Vgl. Marienbader Zeitung, 3.9.1930, S. 3: »Bio Globus. Mittwoch, den 3., und Donnerstag, den 4. September, der neueste Film mit Brigitte Helm: ›Frau Irenes Scheidung‹ (›Krisen der Ehe‹).«</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Abwege“ („Begierde“ / „Krise“ / „Abwehr“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

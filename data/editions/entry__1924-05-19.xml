@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Glas Wasser«, 1924-05-19, Wien</title>
-            <title type="alternative" when-iso="1924-05-19"/>
+            <title type="alternative" when-iso="1924-05-19">Montag, 19. Mai 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 25.4.1924, S. 18. Besprechung von Kurt Sonnenfeld in NFP 2.5.1924, S. 13, wo der Rezensent Vergleiche zwischen dem Bühnenstück und der Filmversion zieht: »In der Verfilmung ist jene vornehme Burgtheateratmosphäre gewahrt, in der das graziöse Werk heimisch ist«. Vgl. Hätte ich das Kino 1976, S. 358.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ein Glas Wasser“ [Ut. „Das Spiel der Königin“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922/23]</date>

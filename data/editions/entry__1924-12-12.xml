@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Pratertraum«, 1924-12-12, Wien</title>
-            <title type="alternative" when-iso="1924-12-12"/>
+            <title type="alternative" when-iso="1924-12-12">Freitag, 12. Dezember 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>NFP 14.11.1924, S. 22: »Der anläßlich des letzten Besuches Henny Portens in Wien aufgenommene Film ›Pratertraum‹ ist jetzt fertiggestellt worden und erscheint Freitag den 21. d. in den Wiener Kinotheatern. Außer Henny Porten wirken in diesem Film, dessen Freiaufnahmen in Wien, Baden und in der Wachau gemacht wurden, Johannes Riemann, Karl de Vogt, Claire Lotto und andere bekannte österreichische Filmkünstler mit.« Anzeige und Besprechung von –e. in NFP 21.11.1924, S. 22 mit Angaben zu Spielorten von 21.–27.11.1924, keine Spielorte ermittelt für 12.12.1924.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Pratertraum“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

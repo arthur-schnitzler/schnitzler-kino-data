@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Stern Vom Broadway«, 1924-09-15, Wien</title>
-            <title type="alternative" when-iso="1924-09-15"/>
+            <title type="alternative" when-iso="1924-09-15">Montag, 15. September 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Laut NFP 12.9.1924, S. 25, »ab heute« im Votivpark-Kino.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Stern vom Broadway“ („Die Rose vom Broadway“) [Ot. „ Broadway Rose“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922]</date>
@@ -112,7 +112,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__38" type="kino">
+            <place xml:id="ask_kino__38" type="kino">
                <placeName>Votivparkkino</placeName>
                <location>
                   <address>

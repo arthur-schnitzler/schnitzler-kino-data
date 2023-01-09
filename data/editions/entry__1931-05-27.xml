@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Dreigroschenoper«, 1931-05-27, Wien</title>
-            <title type="alternative" when-iso="1931-05-27"/>
+            <title type="alternative" when-iso="1931-05-27">Mittwoch, 27. Mai 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 10, für 26.5.1931. Anzeige und Besprechung von Felix Cleve in NFP 27.5.1931, S. 7f. Spielort bestätigt auch NFP 27.5.1931, S. 17. Das ehemalige Eos-Kino war um- und ausgebaut worden zum Sascha-Palast. Beschreibung des neu eröffneten Spielorts in NFP 31.3.1931, S. 7.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Drei-Groschen-Oper“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -147,7 +147,7 @@ Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__24" type="kino">
+            <place xml:id="ask_kino__24" type="kino">
                <placeName>Eos Lichtspiele / Sascha Palast</placeName>
                <location>
                   <address>
@@ -156,7 +156,7 @@ Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 
                </location>
                <note type="info"> Eröffnet 1921. Umbenennung 1931. Tonfilm ab 1931. Fassungsraum: Galerie. 1922: 1088 Sitzplätze (davon 122 Logenplätze). Das Kino wurde in der ehemaligen Winterreitschule eingerichtet. – Beschreibung von Architektur und Ausstattung anläßlich der Eröffnung in „Die Filmwelt“ Jg. 1922, Nr. 3, S. 3f. Nicht ident mit dem späteren Eos-Kino in der Landstraßer Hauptstraße. </note>
             </place>
-            <place  xml:id="ask_wirt__6" type="wirt">
+            <place xml:id="ask_wirt__6" type="wirt">
                <placeName>Prochaska</placeName>
                <location>
                   <address>

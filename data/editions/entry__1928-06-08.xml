@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frauen Am Abgrund«, 1928-06-08, Wien</title>
-            <title type="alternative" when-iso="1928-06-08"/>
+            <title type="alternative" when-iso="1928-06-08">Freitag, 08. Juni 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Spieglers haben gekündigt. Was für neue Sorgen! [II, 124]</ab>
 Wohl irrige Datierung bei Pollaczek. Anzeige NFP 8.6.1928, S. 7 (Alleinaufführung im Gartenbau- und Kolosseum-Kino).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Frauen im Abgrund“ („Der goldene Abgrund – Rapi-Nui“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -141,7 +141,7 @@ Wohl irrige Datierung bei Pollaczek. Anzeige NFP 8.6.1928, S. 7 (Alleinaufführu
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__9" type="wirt">
+            <place xml:id="ask_wirt__9" type="wirt">
                <placeName>Meinl Churhaus-Restaurant</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Phantom Der Oper«, 1926-01-13, Wien</title>
-            <title type="alternative" when-iso="1926-01-13"/>
+            <title type="alternative" when-iso="1926-01-13">Mittwoch, 13. Januar 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz und Anzeige NFP 8.1.1926, S. 17f., Besprechung NFP 15.1.1926, S. 16f.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Phantom der Oper“ [Ot. „The Phantom of the Opera“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Auferstehung«, 1928-03-10, Wien</title>
-            <title type="alternative" when-iso="1928-03-10"/>
+            <title type="alternative" when-iso="1928-03-10">Samstag, 10. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „Dieser amerikanische Großfilm […] macht aus dem Tolstoi-Roman einen immerhin groß angelegten Film“ (SK I, S. 406). Premierennotiz NFP 2.3.1928, S. 19, für 8.3.1928.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Auferstehung“ [Ot. „Resurrection“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -119,7 +119,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

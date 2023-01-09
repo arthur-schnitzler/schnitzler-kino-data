@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Trag. Der Liebe 4. Theil«, 1923-10-06, Wien</title>
-            <title type="alternative" when-iso="1923-10-06"/>
+            <title type="alternative" when-iso="1923-10-06">Samstag, 06. Oktober 1923</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 »Das ist der Fluch des Joe May, daß er bei seinen guten Filmen fortzeugend immer neue Teile muß gebären« (Der Kinematograph, Nr. 874/75, 25.11.1923). »Die austriakische Variante von Nr. 391 ›Birth of a Nation‹ « (Riccardo Concetti, Udine). Nachgewiesene Spielorte für »Tragödie der Liebe« lt. Kinoprogramm der NFP vom 21.9.1923, S. 14, ab 25.9.1923: Rotenturm-, Central-, Votivpark-, und Währinger Bürger-Kino. Das Central-Kino kommt für einen Besuch nicht in Frage, da Schnitzler am 5. November 1926 schreibt, er sei das erste Mal in diesem Kino gewesen.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Tragödie der Liebe“</cell>
                   <cell role="data" ana="Jahr">
                      <date/>

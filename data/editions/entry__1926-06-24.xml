@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Indische Grabmal Ii«, 1926-06-24, Wien</title>
-            <title type="alternative" when-iso="1926-06-24"/>
+            <title type="alternative" when-iso="1926-06-24">Donnerstag, 24. Juni 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Nachgewiesen für das Imperial-Kino ab 25.6.1926 (NFP 24.6.1926, S. 15).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Indische Grabmal“ („2.T.: Der Tiger von Eschnapur“)</cell>
                   <cell role="data" ana="Jahr">
                      <date/>
@@ -109,7 +109,7 @@ Nachgewiesen für das Imperial-Kino ab 25.6.1926 (NFP 24.6.1926, S. 15).</ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__14" type="wirt">
+            <place xml:id="ask_wirt__14" type="wirt">
                <placeName>Johann Kratzer jun.</placeName>
                <location>
                   <address>

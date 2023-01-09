@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Nacht In London«, 1929-08-02, Wien</title>
-            <title type="alternative" when-iso="1929-08-02"/>
+            <title type="alternative" when-iso="1929-08-02">Freitag, 02. August 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„ein Vaudevillestück, das Lupu Pick ganz nett arrangiert hat“ (SK II, S: 197). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Eine Nacht in London“ [Ot. GB „A Knight in London“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -138,7 +138,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__2" type="kino">
+            <place xml:id="ask_kino__2" type="kino">
                <placeName>Admiralkino</placeName>
                <location>
                   <address>
@@ -147,7 +147,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1913. Tonfilm ab 1931. Fassungsraum: 1922 und 1934: 186 Sitzplätze (davon 14 Logenplätze).</note>
             </place>
-            <place  xml:id="ask_wirt__54" type="wirt">
+            <place xml:id="ask_wirt__54" type="wirt">
                <placeName>Hotel Westbahn</placeName>
                <location>
                   <address>

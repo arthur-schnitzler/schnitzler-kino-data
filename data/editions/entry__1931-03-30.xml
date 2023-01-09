@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Karamasow«, 1931-03-30, Wien</title>
-            <title type="alternative" when-iso="1931-03-30"/>
+            <title type="alternative" when-iso="1931-03-30">Montag, 30. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Ein wahrer Blutrausch scheint sich der Filmindustrie bemächtigt zu haben“ (SK II, S. 453). Ankündigung NFP 17.2.1931, S. 9. Besprechung von Lilly Klaudy in NFP 18.2.1931, S. 10. Premierennotiz NFP 20.3.1931, S. 7, für sieben Wiener Tonkinos, zuvor Alleinaufführung im Tuchlauben-Kino (NFP 6.3.1931, S. 11). Eine weitere Verfilmung des Stoffes stammt aus dem Jahr 1920. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Mörder Dimitri Karamasoff“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>
@@ -139,7 +139,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__40" type="kino">
+            <place xml:id="ask_kino__40" type="kino">
                <placeName>Währinger Bürgertheater</placeName>
                <location>
                   <address>

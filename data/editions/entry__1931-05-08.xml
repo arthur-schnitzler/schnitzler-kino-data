@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Caïn«, 1931-05-08, Wien</title>
-            <title type="alternative" when-iso="1931-05-08"/>
+            <title type="alternative" when-iso="1931-05-08">Freitag, 08. Mai 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Mittag Harry. Heute weniger unausstehlich. Nachmittag bei Hagenbunderöffnung. F
 Premierennotiz NFP 1.5.1931, S. 14, für 5.5.1931 Ur- und Alleinaufführung Schweden-Kino. Anzeige und Notiz NFP 5.5.1931, S. 5 bzw. 9. Bestätigung des Spielorts NFP 8.5.1931, S. 19.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Cain“ [Ot. „Caïn, aventures des mers exotiques“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -140,7 +140,7 @@ Premierennotiz NFP 1.5.1931, S. 14, für 5.5.1931 Ur- und Alleinaufführung Schw
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__10" type="kino">
+            <place xml:id="ask_kino__10" type="kino">
                <placeName>Ferdinandskino / Ifa Palast Kino / Schwedenkino</placeName>
                <location>
                   <address>

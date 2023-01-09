@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Große Gabbo«, 1930-09-26, Wien</title>
-            <title type="alternative" when-iso="1930-09-26"/>
+            <title type="alternative" when-iso="1930-09-26">Freitag, 26. September 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -76,8 +76,8 @@ A. von grosser Beflissenheit und Aufmerksamkeit, hinter der bestimmt irgend eine
 Besprechung von Manfred Georg in NFP 15.8.1930, S. 7. Premierennotiz NFP 5.9.1930, S. 8, für 8.9.1930. Anzeige NFP 16.9.1930, S. 2. Nachgewiesene Spielorte: Imperial-Kino und Kammerlichtspiele (NZG 26.9.1930, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Große Gabbo“ („The Great Gabbo“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

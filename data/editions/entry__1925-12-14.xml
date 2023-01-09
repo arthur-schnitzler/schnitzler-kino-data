@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Pariser Maitressen«, 1925-12-14, Wien</title>
-            <title type="alternative" when-iso="1925-12-14"/>
+            <title type="alternative" when-iso="1925-12-14">Montag, 14. Dezember 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Umfangreiche Besprechung von Felix Cleve in NFP 11.12.1925, S. 17, Anzeige „Prolongiert!“ NFP 18.12.1925, S. 18. Premierennotiz NFP 27.11.1925 für 7.12.1925, dort als Exklusivspielorte genannt Rotenturm- und Maria-Theresien-Kino.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Pariser Maitressen“ („Women of Paris“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

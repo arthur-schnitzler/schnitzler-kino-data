@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Große Abenteurerin«, 1928-11-06, Wien</title>
-            <title type="alternative" when-iso="1928-11-06"/>
+            <title type="alternative" when-iso="1928-11-06">Dienstag, 06. November 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotizen NFP 19.10.1928, S. 9 und NFP 26.10.1928, S. 8. Anzeige NFP 2.11.1928, S. 7. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Große Abenteuerin“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -122,7 +122,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__37" type="wirt">
+            <place xml:id="ask_wirt__37" type="wirt">
                <placeName>Zur Linde</placeName>
                <location>
                   <address>

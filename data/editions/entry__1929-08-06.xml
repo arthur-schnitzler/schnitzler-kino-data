@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Fahrendes Volk«, 1929-08-06, Wien</title>
-            <title type="alternative" when-iso="1929-08-06"/>
+            <title type="alternative" when-iso="1929-08-06">Dienstag, 06. August 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -76,8 +76,8 @@ Von der Presse endlich Bescheid. Ich soll 1000 S. Vorschuss auf meinen Roman beh
 Keine nachgewiesenen Spielorte für 6.8.1929; das Kinoprogramm der NZG erwähnt »Fahrendes Volk« in der selben Woche nur einige Tage später für das Johann-Strauß-Kino (NZG 9.8.1929, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„The Barker“ („Fahrendes Volk“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Harakiri«, 1929-10-05, Wien</title>
-            <title type="alternative" when-iso="1929-10-05"/>
+            <title type="alternative" when-iso="1929-10-05">Samstag, 05. Oktober 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz NFP 20.9.1929, S. 9, für 4.10.1929. Notiz und Anzeige NFP 4.10.1929, S. 8/9, dort nachgewiesene Spielorte: Kärntner-, Lux-Palast-, Gartenbau- und Flieger-Kino, Erdberger Lichtspiele, Raimund-Lichtspiele, Lichtspiele Wienzeile und Lichtspieltheater Hernals. Besprechung von f. in NFP 8.10.1929., S. 12.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Harakiri“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

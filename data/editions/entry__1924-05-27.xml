@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Vampyre Der Rennbahn«, 1924-05-27, Wien</title>
-            <title type="alternative" when-iso="1924-05-27"/>
+            <title type="alternative" when-iso="1924-05-27">Dienstag, 27. Mai 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Der Clou des Films ist ein großes Hindernisrennen, das wieder einmal die Meisterschaft der amerikanischen Regie, die sie in derartigen Genres immer zu entfalten versteht, in vollem Ausmaße zeigt. An dieses Rennen schließt sich dann die atemberaubende Verfolgung eines flüchtig gewordenen Schurken an, die reich an nervenaufpeitschenden Sensationen ist.« (Filmwelt, Jg. 1924, Nr. 17, S. 5). Anzeige und Besprechung von Lilly Klaudy in NFP 19.4.1924, S. 17: (»Einen Sportfilm nennt es sich … Je nun, der Begriff ›Sport‹ scheint da ein bißchen weit gezogen«), dort unter anderen Titeln nachgewiesene Spielorte: Löwen- (»Der Wettlauf mit dem Express«), Zirkus Busch-Kino (weiterer Untertitel »Liebe mit Hindernissen«).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Vampyre der Rennbahn“ („Der Pacific-Expreß“ / „Der Postschnellzug“) [Ot. „The Fast Mail“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922]</date>

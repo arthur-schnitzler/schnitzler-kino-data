@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Pilgrim«, 1928-07-05, Wien</title>
-            <title type="alternative" when-iso="1928-07-05"/>
+            <title type="alternative" when-iso="1928-07-05">Donnerstag, 05. Juli 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „The Pilgrim steht am Übergang von den Grotesken zu den großen Werken“ (SK II, S. 312). Der Film wurde von 3.–8.8.1928 in zahlreichen weiteren Wiener Kinos gespielt (NFP 3.8.1928, S. 15).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Pilgrim“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>
@@ -123,7 +123,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__41" type="kino">
+            <place xml:id="ask_kino__41" type="kino">
                <placeName>Zirkus Busch Kino</placeName>
                <location>
                   <address>
@@ -132,7 +132,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1920. Tonfilm ab November 1929. Fassungsraum: In drei Etagen. 1922: insgesamt 1767 Sitzplätze.</note>
             </place>
-            <place  xml:id="ask_wirt__6" type="wirt">
+            <place xml:id="ask_wirt__6" type="wirt">
                <placeName>Prochaska</placeName>
                <location>
                   <address>

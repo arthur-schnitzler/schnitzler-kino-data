@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»None«, 1928-08-12, Wien</title>
-            <title type="alternative" when-iso="1928-08-12"/>
+            <title type="alternative" when-iso="1928-08-12">Sonntag, 12. August 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Quälende telefonische Gespräche mit Frieda. Sie wollte durchaus, dass ich mit 
             <ab/>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Flirten verboten!“ („Schwüle Nächte“; Ot. „Buck Privates)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

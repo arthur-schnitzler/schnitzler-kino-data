@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Gesellschaftsskandal«, 1925-03-28, Wien</title>
-            <title type="alternative" when-iso="1925-03-28"/>
+            <title type="alternative" when-iso="1925-03-28">Samstag, 28. März 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Im Spielplan der Filmwelt, Jg. 1925, Nr. 7 (Programme von 37 Kinos), belegt für 27.–30.3.1925 ausschließlich im Votivpark-Kino. Auch nachgewiesen für das Opern-Kino ein Monat später NFP 21.4.1925, S. 17.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Gesellschaftsskandal“ [Ot. „A Society Scandal“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

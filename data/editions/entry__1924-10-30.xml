@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Harold Lloyds Höchste Leistung«, 1924-10-30, Wien</title>
-            <title type="alternative" when-iso="1924-10-30"/>
+            <title type="alternative" when-iso="1924-10-30">Donnerstag, 30. Oktober 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 10.10.1924, S. 25. Die dortigen Spielortangaben reichen nur bis 23.10.1924, für 30.10. kein Spielort ermittelt. Besprechung von M. in NFP 14.10.1924, S. 8.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Seine höchste Leistung“ [Ot. „Safety Last!“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

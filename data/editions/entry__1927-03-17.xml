@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Lebende Maske«, 1927-03-17, Wien</title>
-            <title type="alternative" when-iso="1927-03-17"/>
+            <title type="alternative" when-iso="1927-03-17">Donnerstag, 17. März 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Veidt hat große Szenen, seine Erscheinung ist faszinierend, sein Gang von sonderbarer Bedeutung. In den Großaufnahmen übertreibt er die Ironie“ (SK I, S. 376). »Wie verhält sich der Darsteller zu den von ihm verkörperten Persönlichkeiten? Ganz präzise: die sogenannten Bösewichte sind im Grund genommen nicht so schlecht, und wenn ich sie gerne spiele, so ist es nicht darum, weil mir das Zerstörende ihres Wesens liegt, sondern weil ich den Zipfel Menschentum, der im bösesten Böse­wicht verborgen ist, zeigen will« (Conrad Veidt an B. Z. am Mittag, 1928, zit. nach Hätte ich das Kino 1976, S. 293. Besprechung NFP 18.3.1927, S. 18.   </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Lebende Maske“ („Die Flucht in die Nacht“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -132,7 +132,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

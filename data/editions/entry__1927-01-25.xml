@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Königin Der Riviera«, 1927-01-25, Wien</title>
-            <title type="alternative" when-iso="1927-01-25"/>
+            <title type="alternative" when-iso="1927-01-25">Dienstag, 25. Januar 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 21.1.1927, S. 17. Nachgewiesene Spielorte: Burg- und Votivpark-Kino sowie Kammerlichtspiele Schwarzenbergplatz (NFP 25.1.1927, S. 18).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Königin der Riviera“ („Good and Naughty“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -141,7 +141,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

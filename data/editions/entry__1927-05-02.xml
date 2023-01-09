@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Sadismus«, 1927-05-02, Wien</title>
-            <title type="alternative" when-iso="1927-05-02"/>
+            <title type="alternative" when-iso="1927-05-02">Montag, 02. Mai 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von Lilly Klaudy in NFP 6.5.1927, S. 20: „[…] Der Film schwelgt geradezu in der Diabolik dieses grausamen Vernichters, in dessen unheilvollem Stirnrunzeln, in seinem lauernden Ränkeblick. […] Von Hugette Duflos wäre zu sagen, daß sie eine hübsche Blondine mit etwas zu wenig Eigenart ist. Ihre Blondheit, ihre Liebe, ihre Freude und ihr Schmerz sind gut und schön, rechtschaffen und brav, aber zu unpersönlich, zu konventionell, um wirklich zu packen. Was diesem Film dagegen entschieden Glanzlichter aufsetzt, ist eine Reihe wunderschöner Naturaufnahmen, die den Zauber der südfranzösischen Küste und die Schönheiten von Bordeaux zu eindrucksvoller Geltung bringen.“ Anzeige NFP 29.4.1927, S. 18. Dort nachgewiesene Spielorte: Elite-, Rotenturm-, Flotten-, Heimat- und Votivpark-Kino sowie Lichtspiele Wienzeile.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Sadismus“ („L’homme à l’Hispano“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -122,7 +122,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__3" type="wirt">
+            <place xml:id="ask_wirt__3" type="wirt">
                <placeName>Wohnung Pollaczek</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Vergiftete Ehen«, 1924-03-27, Wien</title>
-            <title type="alternative" when-iso="1924-03-27"/>
+            <title type="alternative" when-iso="1924-03-27">Donnerstag, 27. März 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von N–. in NFP 8.2.1924, S. 16. Die Kritik in Filmwelt, Jg. 1924, Nr. 7/8, S. 11 nimmt die Thematik der zahlreichen Paralleltitel auf: »Sein Schutzengel oder Vergiftete Ehen oder Das Kind des Goldsuchers.«</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Vergiftete Ehen“ („Sein Schutzengel“, [„Moonshine Valley“])</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922]</date>
@@ -123,7 +123,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__54" type="kino">
+            <place xml:id="ask_kino__54" type="kino">
                <placeName>Gersthofer Elitetheater</placeName>
                <location>
                   <address>

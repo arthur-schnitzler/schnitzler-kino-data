@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Hochstapler«, 1930-04-07, Wien</title>
-            <title type="alternative" when-iso="1930-04-07"/>
+            <title type="alternative" when-iso="1930-04-07">Montag, 07. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Kein Originaltitel erschließbar, weil es sich um einen Zusammenschnitt handelt. Premierennotiz NFP 28.3.1930, S. 10, für 4.4.1930. Anzeige NFP 4.4.1930, S. 10. Nachgewiesene Spielorte: Kruger- und Löwen-Kino (NZG 7.4.1930, S. 4).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Hochstapler“ („Charlie als Hochstapler“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

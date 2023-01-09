@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Faust«, 1926-11-05, Wien</title>
-            <title type="alternative" when-iso="1926-11-05"/>
+            <title type="alternative" when-iso="1926-11-05">Freitag, 05. November 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notiz NFP 29.10.1926, S. 16 kündigt Premiere für 5.11.1926 an. Besprechung NFP 17.9.1926, S. 18. Premierennotiz „Der ‚Faust‘-Film der Ufa. – Heute erscheint der ‚Faust‘-Film, den die Berliner Ufa unter der Regie Murnaus herstellen ließ, in den Wiener Kinos. Wir verweisen unsere Leser auf den in der ‚Filmrubrik‘ vom 17. September erschienenen Artikel ‚Eine optische Oper‘, in dem diesem bedeutsamen Filmwerke anläßlich einer Pressevorführung eine eingehende, vielbeachtete Würdigung zuteil geworden ist.“ und Anzeige NFP 5.11.1926, S. 18: Der Film läuft der Anzeige zufolge an diesem Tag in nicht weniger als zwölf Wiener Kinos gleichzeitig an.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Faust“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -160,7 +160,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__8" type="kino">
+            <place xml:id="ask_kino__8" type="kino">
                <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
                <location>
                   <address>
@@ -169,7 +169,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1916. Umbenennung 1929. Tonfilm ab 1929.  Fassungsraum: Ehemalige Singspielhalle, Galerie. 1922: insgesamt 1008 Sitzplätze (davon 110 Logenplätze), 1923: 984 (128). – Schwarz 1992, S. 208 nennt außerdem noch ein „Wiedner Zentralkino“, 04., Favoritenplatz 5.</note>
             </place>
-            <place  xml:id="ask_wirt__24" type="wirt">
+            <place xml:id="ask_wirt__24" type="wirt">
                <placeName>Tonello beim Dianabad</placeName>
                <location>
                   <address>

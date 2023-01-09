@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Kongress Tanzt«, 1931-10-07, Wien</title>
-            <title type="alternative" when-iso="1931-10-07"/>
+            <title type="alternative" when-iso="1931-10-07">Mittwoch, 07. Oktober 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -78,8 +78,8 @@ Da der Folgeeintrag bei Pollaczek auf den 8. Oktober datiert ist, wurde entweder
 Ankündigung NFP 11.8.1931, S. 9, mit der Angabe, daß damit das Scala-Kino neu eröffnet werde, spezifiziert auf den Eröffnungstermin 29.9.1931 in NFP 15.9.1931, S. 11. Zum »Scala Tonfilmpalast« vgl. auch NFP 30.9.1931, S. 9. Besprechung NFP 29.9.1931, S. 9. Anzeige NFP 30.9.1931, S. 3. Auszug aus einem Gespräch mit Lilian Harvey in NFP 30.9.1931, S. 7. Spielort nachgewiesen NFP 7.10.1931, S. 15.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Kongreß tanzt“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -170,7 +170,7 @@ Ankündigung NFP 11.8.1931, S. 9, mit der Angabe, daß damit das Scala-Kino neu 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__49" type="kino">
+            <place xml:id="ask_kino__49" type="kino">
                <placeName>Scala</placeName>
                <location>
                   <address>

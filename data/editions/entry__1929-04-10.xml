@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Spion Der Pompadour«, 1929-04-10, Wien</title>
-            <title type="alternative" when-iso="1929-04-10"/>
+            <title type="alternative" when-iso="1929-04-10">Mittwoch, 10. April 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Illustrierte Anzeige NFP 19.3.1929, S. 16. Besprechung von Eduard Siebrecht in NFP 23.3.1929, S. 10. Spielorte nicht nachgewiesen.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Spion der Pompadour“ („Marquis d’Eon“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

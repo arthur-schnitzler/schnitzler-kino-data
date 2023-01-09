@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Liebe Und Champagner«, 1930-10-29, Wien</title>
-            <title type="alternative" when-iso="1930-10-29"/>
+            <title type="alternative" when-iso="1930-10-29">Mittwoch, 29. Oktober 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Novelle«: vermutlich »Mütter« (siehe kommentierte Bibliographie). Der Film wurde als Wiederholung gezeigt, der Ort des Kinobesuchs ist nicht ermittelbar, da die Programme der Tageszeitungen keine Vorführung des Films verzeichnen (das ist für Wiederholungen allerdings nicht außergewöhnlich). Notiz NFP 3.10.1930, S. 17. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Liebe und Champagner“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

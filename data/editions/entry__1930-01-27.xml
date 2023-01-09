@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tiger«, 1930-01-27, Wien</title>
-            <title type="alternative" when-iso="1930-01-27"/>
+            <title type="alternative" when-iso="1930-01-27">Montag, 27. Januar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Die Spielfilmlänge von »Der Weiße Tiger« (etwa 75 Minuten) läßt vermuten, daß es sich bei dem von Pollaczek angegebenen Titel um eine Verschreibung handelt. Allerdings ist auch ein Film mit dem Titel »Wenn der weiße Flieder wieder blüht« (D 1929, R: Robert Wohlmut, Länge unbekannt) überliefert, der eine Aufführung von zwei Filmen denkbar macht. Dafür spricht auch die Ankündigung in der »Film-Rundschau« der NFP vom 24.1.1930, wo es zu »Der weiße Tiger« heißt: »Der Film ist im Kolosseum-Kino zu sehen, das auch ein ausgezeichnetes Tonfilmbeiprogramm zur Vorführung bringt.« Notiz NFP 10.1.1930, S. 12f. Anzeige NFP 14.1.1930, S. 16. Nachgewiesener Spielort: Kolosseum-Kino (NFP 27.1.1930, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Weiße Tiger“ („Where East is East“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

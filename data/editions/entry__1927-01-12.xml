@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Zimmerkellner«, 1927-01-12, Wien</title>
-            <title type="alternative" when-iso="1927-01-12"/>
+            <title type="alternative" when-iso="1927-01-12">Mittwoch, 12. Januar 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung NFP 14.1.1927, S. 16f. Anzeige NFP 7.1.1927, S. 15 mit Angabe von Spielorten. Nachgewiesene Spielorte: Imperial-, Opern- und Votivpark-Kino (NFP 12.1.1927, S. 17). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Großfürstin und der Kellner“ („Grandduchess and the Waiter“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -139,7 +139,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Va Banque«, 1930-12-21, Wien</title>
-            <title type="alternative" when-iso="1930-12-21"/>
+            <title type="alternative" when-iso="1930-12-21">Sonntag, 21. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 31.10.1930, S. 10. Notiz NFP 4.11.1930, S. 11. Dies ist der letzte Besuch im Eos-Kino vor dessen Umbau. Das Programm dieses Kinos ist in den hier berücksichtigten Tageszeitungen nicht nachgewiesen. Ein Film gleichen Titels mit Fritz Kortner und Willy Kayser wurde bereits 1922 im Burg-Kino und im Kärntner-Kino gezeigt (NFP 22.2.1921, S. 12).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Va banque“ („Alles oder nichts“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -139,7 +139,7 @@ Ankündigung NFP 31.10.1930, S. 10. Notiz NFP 4.11.1930, S. 11. Dies ist der let
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__24" type="kino">
+            <place xml:id="ask_kino__24" type="kino">
                <placeName>Eos Lichtspiele / Sascha Palast</placeName>
                <location>
                   <address>

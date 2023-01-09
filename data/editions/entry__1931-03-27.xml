@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Monte Carlo«, 1931-03-27, Wien</title>
-            <title type="alternative" when-iso="1931-03-27"/>
+            <title type="alternative" when-iso="1931-03-27">Freitag, 27. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Abend mit A. bei dummen Film, da es das Einzige ist, was ihn zerstreut. Dann bei
             <ab>Ankündigung NFP 17.2.1931, S. 9. Ankündigung und Premierennotiz NFP 24.2.1931, S. 5/9, für 23.2.1931 im Imperial- und Opern-Kino, Besprechung von Eduard Siebrecht in NFP 3.3.1931, S. 11.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Monte Carlo“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Dolly Macht Carrière«, 1930-10-26, Wien</title>
-            <title type="alternative" when-iso="1930-10-26"/>
+            <title type="alternative" when-iso="1930-10-26">Sonntag, 26. Oktober 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Der von Schnitzler erwähnte »Ariane«-Film Paul Czinners sollte im März 1931 
 Ankündigung NFP 10.10.1930, S. 14. Besprechung von Eduard Siebrecht in NFP 24.10.1930, S. 12. Nachgewiesene Spielorte: Burg-, Flieger- und Ufa-Ton-Kino (NZG 26.10.1930, S. 16). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Dolly macht Karriere“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

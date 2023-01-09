@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Hose«, 1928-10-02, Wien</title>
-            <title type="alternative" when-iso="1928-10-02"/>
+            <title type="alternative" when-iso="1928-10-02">Dienstag, 02. Oktober 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Vgl. Hätte ich das Kino, S. 304ff; vgl. SK II, S. 151.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Hose“ („Skandal in einer kleinen Residenz“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -135,7 +135,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__17" type="kino">
+            <place xml:id="ask_kino__17" type="kino">
                <placeName>Heimatkino</placeName>
                <location>
                   <address>
@@ -144,7 +144,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Gründung 7.3.1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914: 593 Sitzplätze (davon 4 Logenplätze), 1922: 617 (60).</note>
             </place>
-            <place  xml:id="ask_wirt__37" type="wirt">
+            <place xml:id="ask_wirt__37" type="wirt">
                <placeName>Zur Linde</placeName>
                <location>
                   <address>

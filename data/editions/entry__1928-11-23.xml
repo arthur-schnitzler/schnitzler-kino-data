@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Moulin Rouge«, 1928-11-23, Wien</title>
-            <title type="alternative" when-iso="1928-11-23"/>
+            <title type="alternative" when-iso="1928-11-23">Freitag, 23. November 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Anzeigen und Notiz 19.10.1928, S. 8f. Nochmals Anzeige und Notiz NFP 23.11.1928, S. 9 unter Angabe von neun Spielorten.  </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Moulin Rouge“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -135,7 +135,7 @@ Anzeigen und Notiz 19.10.1928, S. 8f. Nochmals Anzeige und Notiz NFP 23.11.1928,
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__37" type="wirt">
+            <place xml:id="ask_wirt__37" type="wirt">
                <placeName>Zur Linde</placeName>
                <location>
                   <address>

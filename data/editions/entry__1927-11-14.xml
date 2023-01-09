@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Napoleon«, 1927-11-14, Wien</title>
-            <title type="alternative" when-iso="1927-11-14"/>
+            <title type="alternative" when-iso="1927-11-14">Montag, 14. November 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in NFP 12.11.1927, S. 21. Nachgewiesene Spielorte: Burg-, Kärntner-, Schottenring-, Central-, Löwen- und Maria-Theresien-Kino (NFP 11.11.1927, S. 23).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Napoleon“ [„Napoléon vu par Abel Gance“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>
@@ -158,7 +158,7 @@ Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in N
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__24" type="wirt">
+            <place xml:id="ask_wirt__24" type="wirt">
                <placeName>Tonello beim Dianabad</placeName>
                <location>
                   <address>

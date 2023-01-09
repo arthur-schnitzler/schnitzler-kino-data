@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Jazzkönig«, 1930-10-21, Wien</title>
-            <title type="alternative" when-iso="1930-10-21"/>
+            <title type="alternative" when-iso="1930-10-21">Dienstag, 21. Oktober 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Fragliche Datierung bei Pollaczek. Notiz und Premierennotiz NFP 26.9.1930, S. 9, für 2.10.1930. Besprechung von Felix Cleve in NFP 7.10.1930, S. 9. Spielort bestätigt NFP 21.10.1930, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Jazzkönig“ (Ot. „The King of Jazz“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -138,7 +138,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__11" type="kino">
+            <place xml:id="ask_kino__11" type="kino">
                <placeName>Apollo</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Im Palast Der Freude«, 1926-06-12, Wien</title>
-            <title type="alternative" when-iso="1926-06-12"/>
+            <title type="alternative" when-iso="1926-06-12">Samstag, 12. Juni 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Spielort Kammerlichtspiele bestätigt NZG 12.6.1926, S. 8: „Ein Filmspiel der Liebe und Romantik mit Betty Compson und Edmund Lowe.“</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Im Palast der Freude“ („The Palace of Pleasure“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -136,7 +136,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__32" type="kino">
+            <place xml:id="ask_kino__32" type="kino">
                <placeName>Kammerlichtspiele</placeName>
                <location>
                   <address>
@@ -145,7 +145,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1916. Tonfilm ab 1930. Fassungsraum: 1916: 394 Sitzplätze, 1922: 375 Sitzplätze (davon 68 Logenplätze). – In „Die Filmwelt“, Jg. 1923, Nr. 16 wird unter dem Titel „Das vornehmste Lichtspieltheater Wiens“ anlässlich des Saisonbeginns das Kino, seine Architektur und technische Ausstattung besprochen. („[…] ein molliges Logenfoyer im reinsten Barock, mit lauschigen Nischen und farbenprächtigen Beleuchtungseffekten […]“)</note>
             </place>
-            <place  xml:id="ask_wirt__30" type="wirt">
+            <place xml:id="ask_wirt__30" type="wirt">
                <placeName>Zum Hirschen</placeName>
                <location>
                   <address>

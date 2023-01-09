@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wera Mirzewa«, 1928-11-28, Wien</title>
-            <title type="alternative" when-iso="1928-11-28"/>
+            <title type="alternative" when-iso="1928-11-28">Mittwoch, 28. November 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Anzeige und Notiz NFP 23.11.1928, S. 9, dort nachgewiesene Spielorte: Imperial-, Opern-, Schottenring-, Phönix- und Schönbrunner Schloßkino. Besprechung von Felix Cleve in NFP 25.11.1928, S. 20.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Wera Mirzewa“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927/28]</date>
@@ -132,7 +132,7 @@ Anzeige und Notiz NFP 23.11.1928, S. 9, dort nachgewiesene Spielorte: Imperial-,
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__8" type="wirt">
+            <place xml:id="ask_wirt__8" type="wirt">
                <placeName>Restaurant Auge Gottes</placeName>
                <location>
                   <address>

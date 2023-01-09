@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Praesident«, 1928-12-01, Wien</title>
-            <title type="alternative" when-iso="1928-12-01"/>
+            <title type="alternative" when-iso="1928-12-01">Samstag, 01. Dezember 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Ein […] Film, der amüsante Teilstücke enthält, wenn er sich auch zu Unrecht satirisch nennt“ (SK II, S. 125). Notiz NFP 23.11.1928, S. 9. Nachgewiesene Spielorte: Kärntner- und Votivpark-Kino sowie Kino Wienzeile (NFP 1.12.1928, S. 23). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Präsident“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927/28]</date>

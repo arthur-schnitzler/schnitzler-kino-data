@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1925-03-15, Wien</title>
-            <title type="alternative" when-iso="1925-03-15"/>
+            <title type="alternative" when-iso="1925-03-15">Sonntag, 15. März 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab/>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„North of the Hudson Bay“ („Unter den Wölfen von Alaska“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

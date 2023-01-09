@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wiener Mädl«, 1925-10-06, Wien</title>
-            <title type="alternative" when-iso="1925-10-06"/>
+            <title type="alternative" when-iso="1925-10-06">Dienstag, 06. Oktober 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 »Olaf Fönss« ist in den Quellen zum Film nicht nachgewiesen, allerdings kommt aufgrund der Kinoprogramme nur dieser Film in Frage. Premierennotiz und Anzeige NFP 2.10.1925, S. 20. Dort nachgewiesene Spielorte ab 6.10.1925: Wiedner Grand-, Bellaria- und Votivpark-Kino, Raimund- und Künstler-Lichtspiele. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Mädel aus Wien“ [Ot. „Wienerbarnet“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

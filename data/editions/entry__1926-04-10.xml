@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Schwarze Engel«, 1926-04-10, Wien</title>
-            <title type="alternative" when-iso="1926-04-10"/>
+            <title type="alternative" when-iso="1926-04-10">Samstag, 10. April 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Premierennotiz, Anzeige und Besprechung NFP 26.3.1926, S. 17.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Schwarze Engel“ („The dark Angel“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -145,7 +145,7 @@ Premierennotiz, Anzeige und Besprechung NFP 26.3.1926, S. 17.</ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__7" type="kino">
+            <place xml:id="ask_kino__7" type="kino">
                <placeName>Kolosseum</placeName>
                <location>
                   <address>

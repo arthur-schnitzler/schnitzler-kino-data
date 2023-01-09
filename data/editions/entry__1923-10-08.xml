@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»New York Bei Nacht«, 1923-10-08, Wien</title>
-            <title type="alternative" when-iso="1923-10-08"/>
+            <title type="alternative" when-iso="1923-10-08">Montag, 08. Oktober 1923</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Der Filmtitel ist erschlossen nach NFP 8.10.1923, S. 10: »Flieger-Kino […] Newyork bei Nacht.«</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„New-York bei Nacht“ („The lights of New York“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922]</date>
@@ -126,7 +126,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__23" type="kino">
+            <place xml:id="ask_kino__23" type="kino">
                <placeName>Fliegerkino</placeName>
                <location>
                   <address>
@@ -135,7 +135,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1921. Tonfilm ab 1930. Freiluftkino ab 1927 (Im Garten des Palais Clam-Gallas. Betrieb auf den Sommer beschränkt.). Fassungsraum: 1922: 659 Sitzplätze (davon 68 Logenplätze), 1927: 15 Stehplätze bewilligt.</note>
             </place>
-            <place  xml:id="ask_wirt__3" type="wirt">
+            <place xml:id="ask_wirt__3" type="wirt">
                <placeName>Wohnung Pollaczek</placeName>
                <location>
                   <address>

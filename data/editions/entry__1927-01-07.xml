@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Pratermizzi«, 1927-01-07, Wien</title>
-            <title type="alternative" when-iso="1927-01-07"/>
+            <title type="alternative" when-iso="1927-01-07">Freitag, 07. Januar 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Die Angaben zur Regie widersprechen einander: PFL gibt sich unsicher und nennt als Regisseur den Produzenten (und Gründer der Sascha) „und seine Mitarbeiter“, Büttner/Dewald 2002, S. 451 geben Ucicky an, filmportal.de Karl Hans Leiter. Der Rezensent der NFP „S. B.“ (7.1.1929, S. 15) hätte Schnitzler wohl widersprochen: „Endlich wieder einmal ein Wiener Film, der Beachtung verdient. Vor allem: Ein ausgezeichnetes Manuskript, logisch unterbaut, mit einer straffen, spannungsreichen Handlung, die den Zuschauer in Atem hält. […]“</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Pratermizzi“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -135,7 +135,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

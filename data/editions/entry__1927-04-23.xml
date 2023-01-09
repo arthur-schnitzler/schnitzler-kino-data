@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Bohême / Bohème«, 1927-04-23, Venedig</title>
-            <title type="alternative" when-iso="1927-04-23"/>
+            <title type="alternative" when-iso="1927-04-23">Samstag, 23. April 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab/>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Hohelied der Liebe“ („La Bohème“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Eine Von Vielen«, 1926-05-29, Wien</title>
-            <title type="alternative" when-iso="1926-05-29"/>
+            <title type="alternative" when-iso="1926-05-29">Samstag, 29. Mai 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz NFP 21.5.1926, S. 18. Besprechung NFP 28.5.1926, S. 18. »Eine von vielen/Eine von den Vielen« ist vermutlich der österreichische Verleihtitel. Nachgewiesener Spielort laut NZG 29.5.1926, S. 8: Radetzky-Kino.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Eine von den Vielen“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Drei Leidenschaften«, 1930-09-07, Marienbad</title>
-            <title type="alternative" when-iso="1930-09-07"/>
+            <title type="alternative" when-iso="1930-09-07">Sonntag, 07. September 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Abend Kino, unbeträchtlich, aber spannend, A. viel wärmer und sehr lieb zu mir
             <ab>Marienbader Zeitung, 7.9.1930, S. 3, nennt Spielort Bio Globus. In Wien lief der Film bereits im Jänner 1930: Premierennotiz NFP 17.1.1930, S. 15, für 31.1.1930. Anzeige NFP 31.1.1930, S. 7.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Drei Leidenschaften“ („The three Passions“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

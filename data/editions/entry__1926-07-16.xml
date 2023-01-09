@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Gösta Berling«, 1926-07-16, Wien</title>
-            <title type="alternative" when-iso="1926-07-16"/>
+            <title type="alternative" when-iso="1926-07-16">Freitag, 16. Juli 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Premierennotiz und Anzeige NFP 11.12.1925, S. 17. Robert Walser über den Film in: Hätte ich das Kino, S. 269f.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Gösta Berling“ [Ot. „Gösta Berlings saga“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>
@@ -155,7 +155,7 @@ Premierennotiz und Anzeige NFP 11.12.1925, S. 17. Robert Walser über den Film i
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__9" type="wirt">
+            <place xml:id="ask_wirt__9" type="wirt">
                <placeName>Meinl Churhaus-Restaurant</placeName>
                <location>
                   <address>

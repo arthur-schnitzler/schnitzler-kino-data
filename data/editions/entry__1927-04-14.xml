@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Liebschaften Der Gräfin Sonja«, 1927-04-14, Wien</title>
-            <title type="alternative" when-iso="1927-04-14"/>
+            <title type="alternative" when-iso="1927-04-14">Donnerstag, 14. April 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung NFP 25.3.1927, S. 18, für 1.4.1927. Anzeige NFP 8.4.1927, S. 19. Dort nachgewiesene Spielorte: Imperial-, Opern-, Kolosseum-Kino, Münstedts Kinopalast, Kino Mariahilf und Raimund-Lichtspiele.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Liebschaften der Gräfin Sonja“ („Sonja – Natascha“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

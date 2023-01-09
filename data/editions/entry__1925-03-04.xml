@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Letzte Mann«, 1925-03-04, Wien</title>
-            <title type="alternative" when-iso="1925-03-04"/>
+            <title type="alternative" when-iso="1925-03-04">Mittwoch, 04. März 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 »Dieser Film […] ist das zur seltenen Einheit gewordene Werk des Bilddichters, der Regie und der Darsteller. Carl Mayer, der Dichter, hat eine Handlung ersonnen, die nicht ins Optische erst übersetzt werden muß, sondern aus ihm heraus sich gebiert« (SK I, S. 120). Besprechung von Kurt Sonnenfeld in NFP 27.2.1925, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Letzte Mann“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

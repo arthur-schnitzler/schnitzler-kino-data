@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Land Des Lächelns«, 1930-11-25, Wien</title>
-            <title type="alternative" when-iso="1930-11-25"/>
+            <title type="alternative" when-iso="1930-11-25">Dienstag, 25. November 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Ankündigung NFP 3.10.1930, S. 11. Premierennotiz NFP 31.10.1930, S. 10, für 7.
 </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Land des Lächelns“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

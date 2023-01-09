@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Prozess Johanna Von Orleans«, 1929-05-04, Wien</title>
-            <title type="alternative" when-iso="1929-05-04"/>
+            <title type="alternative" when-iso="1929-05-04">Samstag, 04. Mai 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Am Abend etwas melancholischer Spaziergang mit A. Wundervolles Wetter. Dieser pl
 Notizen NFP 26.4.1929, S. 10, und NFP 3.5.1929, S. 11, dort Angabe der Uraufführung im Central-Kino (bestätigt laut Kinoprogramm NFP 4.5.1929, S. 23).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Prozess der Johanna von Orléans“ (Ot. „La Passion de Jeanne d'Arc“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

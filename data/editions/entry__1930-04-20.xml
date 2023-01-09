@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Scapa Flow«, 1930-04-20, Wien</title>
-            <title type="alternative" when-iso="1930-04-20"/>
+            <title type="alternative" when-iso="1930-04-20">Sonntag, 20. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -76,8 +76,8 @@ Ostern. Von A. riesigen wundervollen Fliederbaum. Sehr lieb, sehr schön, aber w
 Premierennotiz NFP 11.4.1930, S. 11, für 19.4.1930. Nachgewiesene Spielorte: Imperial-, Kalvarienberg- und Olympia-Kino (NFP 20.4.1930, S. 46 und NZG 20.4.1930, S. 16).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Scapa Flow“ („Der Untergang der deutschen Flotte“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

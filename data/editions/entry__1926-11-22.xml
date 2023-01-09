@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Geiger Von Florenz«, 1926-11-22, Wien</title>
-            <title type="alternative" when-iso="1926-11-22"/>
+            <title type="alternative" when-iso="1926-11-22">Montag, 22. November 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Nicht von dem Spiel allein geht hier die Bezauberung aus; vielmehr von dem Wesen, das ist“ (SK I, S. 239). Besprechung NFP 19.11.1926, S. 19. Nachgewiesene Spielorte: Imperial-Kino, Kammerlichtspiele (NFP 22.11.1926, S. 10). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Geiger von Florenz“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -124,7 +124,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__11" type="wirt">
+            <place xml:id="ask_wirt__11" type="wirt">
                <placeName>Hotel Imperial</placeName>
                <location>
                   <address>

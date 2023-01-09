@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Weg Allen Fleisches«, 1928-03-12, Wien</title>
-            <title type="alternative" when-iso="1928-03-12"/>
+            <title type="alternative" when-iso="1928-03-12">Montag, 12. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung NFP 2.3.1928, S. 19 (Ur- und Alleinaufführung im Schwedenkino). Der Filmstart am 6.3.1928 ist wohl Aufhänger für die beiden Artikel, die die »Filmrundschau« der NFP vom 16.3.1928 dominieren: Emil Jannings schreibt vier kurze Absätze zum Thema »Ich filme mit Kindern«, der Beitrag der Chanteuse Gussy Holl-Jannings trägt den einfachen Titel »Mein Mann« und berichtet Anekdotisches von den Dreharbeiten in Hollywood.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Weg allen Fleisches“ („Way of all Flesh“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -127,7 +127,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__10" type="kino">
+            <place xml:id="ask_kino__10" type="kino">
                <placeName>Ferdinandskino / Ifa Palast Kino / Schwedenkino</placeName>
                <location>
                   <address>
@@ -137,7 +137,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <note type="info"> Eröffnet 1919. Umbenennung 1927. Fassungsraum: Galerie. 1922: 702 Sitzplätze (davon 120 Logenplätze).
 </note>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

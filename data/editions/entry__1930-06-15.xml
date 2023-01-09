@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Phantome Des Glücks«, 1930-06-15, Wien</title>
-            <title type="alternative" when-iso="1930-06-15"/>
+            <title type="alternative" when-iso="1930-06-15">Sonntag, 15. Juni 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung NFP 6.6.1930, S. 16. Anzeige und Premierennotiz NFP 13.6.1930, S. 12 (Lustspieltheater, Flotten-Kino). Besprechung von f. in NFP 17.6.1930, S. 9. Besprechung von Eugen Szatmari in BTB 5.1.1930, 9. Beiblatt, S. 1. Nachgewiesene Spielorte: Lustspieltheater, Flotten-Kino (NFP 15.6.1930, S. 27, und NZG 15.6.1930, S. 16).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Phantome des Glücks“ („Der Mann in Fesseln“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -138,7 +138,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__6" type="wirt">
+            <place xml:id="ask_wirt__6" type="wirt">
                <placeName>Prochaska</placeName>
                <location>
                   <address>

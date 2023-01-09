@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1930-11-27, Wien</title>
-            <title type="alternative" when-iso="1930-11-27"/>
+            <title type="alternative" when-iso="1930-11-27">Donnerstag, 27. November 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Zu »Geld auf der Straße« vgl. die Eintragung vom 23.11.1930, in der Schnitzler den Besuch notiert. Der Film ist allerdings für den 27.11.1930 nachgewiesen im Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 27.11.1930, S. 21, NZG 27.11.1930, S. 9). Sollte sich Schnitzlers Formulierung »ins Kino mit ihr« jedoch auf den Besuch eines anderen Films beziehen, so ist dieser nicht ermittelbar.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel"/>
                   <cell role="data" ana="Jahr">
                      <date/>

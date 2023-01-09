@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ihre Majestät Die Liebe«, 1931-03-08, Wien</title>
-            <title type="alternative" when-iso="1931-03-08"/>
+            <title type="alternative" when-iso="1931-03-08">Sonntag, 08. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Abend mit A. im Kino (der darauf bestand), dann in einem Beisel genachtmahlt. Me
 „ein Schwank aus der Fabrik von Bernauer, Oesterreicher usw.“ (SK II, S. 442). Ankündigung NFP 17.2.1931, S. 9. Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 9, für 25.3.1931 mit zwei weiteren Spielorten. Besprechung von –nd– in NFP 27.2.1931, S. 17. Spielort nachgewiesen laut Kinoprogramm NFP 8.3.1931, S. 51.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ihre Majestät die Liebe“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -170,7 +170,7 @@ Abend mit A. im Kino (der darauf bestand), dann in einem Beisel genachtmahlt. Me
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__1" type="kino">
+            <place xml:id="ask_kino__1" type="kino">
                <placeName>Lustspieltheater</placeName>
                <location>
                   <address>

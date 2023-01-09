@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Liebe«, 1927-04-12, Wien</title>
-            <title type="alternative" when-iso="1927-04-12"/>
+            <title type="alternative" when-iso="1927-04-12">Dienstag, 12. April 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Ein Film, für die Bergner geplant, gegen die Bergner ausgeführt« (Herbert Ihering, Berliner Börsen-Courier, 25.1.1927). UA in Berlin 24.1.1927. Ankündigung NFP 25.3.1927, S. 18. Anzeige NFP 1.4.1927, S. 20 (Spielorte nur bis 7.4.1927).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Liebe“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -140,7 +140,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__3" type="wirt">
+            <place xml:id="ask_wirt__3" type="wirt">
                <placeName>Wohnung Pollaczek</placeName>
                <location>
                   <address>

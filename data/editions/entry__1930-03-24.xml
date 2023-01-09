@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Liebeswalzer«, 1930-03-24, Wien</title>
-            <title type="alternative" when-iso="1930-03-24"/>
+            <title type="alternative" when-iso="1930-03-24">Montag, 24. März 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Der deutsche Tonfilm macht rasche Fortschritte. Dieser neue, hundertprozentige kann sich schon sehen und hören lassen. Er experimentiert nicht nur, er beginnt sich in der Bildklangwelt häuslich einzurichten« (SK II, S. 340). Besprechung von E. G. in NFP 11.2.1930, S. 9, und von Hans Müller in NFP 21.2.1930, S. 10. Premierennotiz zur Uraufführung im Apollo-Kino NFP 7.3.1930, S. 10, für 10.3.1930. Nachgewiesener Spielort: Apollo-Kino (NFP 24.3.1930, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Liebeswalzer“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -140,7 +140,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__11" type="kino">
+            <place xml:id="ask_kino__11" type="kino">
                <placeName>Apollo</placeName>
                <location>
                   <address>

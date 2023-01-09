@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Moderne Liebesabenteuer; Wie Heirate Ich Meinen Chef«, 1928-03-14, Wien</title>
-            <title type="alternative" when-iso="1928-03-14"/>
+            <title type="alternative" when-iso="1928-03-14">Mittwoch, 14. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Mit C. P. silb. Brunnen.– </ab>
             <ab>1. Nachgewiesene Spielorte: Kino Wienzeile, Kammerlichtspiele und Kino Schäffer (NFP 14.3.1928, S. 21, NZG 14.3.1928, S. 8). Für 2. keine Spielorte nachgewiesen. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Klingelfee“ („Herr oder Diener“, „Moderne Liebesabenteuer“; Ot. „Orchids and Hermine“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -147,7 +147,7 @@ Mit C. P. silb. Brunnen.– </ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

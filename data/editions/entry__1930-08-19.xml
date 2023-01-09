@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ein Tango Für Dich«, 1930-08-19, Wien</title>
-            <title type="alternative" when-iso="1930-08-19"/>
+            <title type="alternative" when-iso="1930-08-19">Dienstag, 19. August 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Es ist mir heute ganz klar, dass die Wühlarbeit verschiedener Weiber nach unser
 Premierennotiz NFP 8.8.1930, S. 11, für 14.8.1930. Nachgewiesener Spielort: Lustspieltheater (NZG 19.8.1930, S. 8). „Die Tonfilmoperetten beginnen eine Plage zu werden“ (SK II, S. 390).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ein Tango für dich“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -134,7 +134,7 @@ Premierennotiz NFP 8.8.1930, S. 11, für 14.8.1930. Nachgewiesener Spielort: Lus
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__1" type="kino">
+            <place xml:id="ask_kino__1" type="kino">
                <placeName>Lustspieltheater</placeName>
                <location>
                   <address>
@@ -144,7 +144,7 @@ Premierennotiz NFP 8.8.1930, S. 11, für 14.8.1930. Nachgewiesener Spielort: Lus
                <note type="info"> Eröffnet 1927. Tonfilm ab 1929
 Fassungsraum: ehemaliges Theater, 3 Ränge. 1927: 1065 Sitzplätze.</note>
             </place>
-            <place  xml:id="ask_wirt__6" type="wirt">
+            <place xml:id="ask_wirt__6" type="wirt">
                <placeName>Prochaska</placeName>
                <location>
                   <address>

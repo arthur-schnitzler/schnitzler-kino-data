@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Olympia«, 1930-12-26, Wien</title>
-            <title type="alternative" when-iso="1930-12-26"/>
+            <title type="alternative" when-iso="1930-12-26">Freitag, 26. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 28.11.1930, S. 10. Premierennotiz NFP 2.12.1930, S. 10, für 1.12.1930. Besprechung von Felix Cleve in NFP 5.12.1930, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Olympia“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

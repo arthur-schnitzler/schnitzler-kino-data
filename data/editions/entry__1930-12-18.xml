@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Kiebitz«, 1930-12-18, Wien</title>
-            <title type="alternative" when-iso="1930-12-18"/>
+            <title type="alternative" when-iso="1930-12-18">Donnerstag, 18. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Es ist vielleicht wirklich vertrottelt von mir misstrauisch gegen diesen müden 
 Premierennotiz NFP 16.12.1930, S. 13. Besprechung von Philipp Winter in NFP 19.12.1930, S. 11. Nachgewiesene Spielorte: Burg-, Ufa-Ton- und Schottenring-Kino (NFP 16.12.1930, S. 13 und NZG 18.12.1930, S. 7).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Kiebitz“ [Ot. „The Kibitzer“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Expresszug 13 Hat Verspätung«, 1931-05-31, Wien</title>
-            <title type="alternative" when-iso="1931-05-31"/>
+            <title type="alternative" when-iso="1931-05-31">Sonntag, 31. Mai 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Notizen NFP 19.5.1931, S. 10, NFP 22.5.1931, S. 12, und NFP 29.5.1931, S. 13. Besprechung von Fritz Frankl in NFP 31.5.1931, S. 21. Spielort bestätigt NZG 31.5.1931, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„D-Zug 13 hat Verspätung“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -146,7 +146,7 @@ Notizen NFP 19.5.1931, S. 10, NFP 22.5.1931, S. 12, und NFP 29.5.1931, S. 13. Be
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__8" type="kino">
+            <place xml:id="ask_kino__8" type="kino">
                <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
                <location>
                   <address>

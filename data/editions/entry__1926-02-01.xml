@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Madame Sans-Gêne«, 1926-02-01, Wien</title>
-            <title type="alternative" when-iso="1926-02-01"/>
+            <title type="alternative" when-iso="1926-02-01">Montag, 01. Februar 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Ein historisches Ausstattungsstück, wie man dergleichen schon sah […] man ergänzt sein kunstgeschichtliches Wissen“ (SK I, 233). Premierennotiz und Anzeige NFP 29.1.1926, S. 18, Besprechung NFP 5.2.1926, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Madame Sans-Gêne“</cell>
                   <cell role="data" ana="Jahr">
                      <date>1924</date>

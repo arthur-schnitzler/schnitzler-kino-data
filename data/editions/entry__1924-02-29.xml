@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wetterwart«, 1924-02-29, Wien</title>
-            <title type="alternative" when-iso="1924-02-29"/>
+            <title type="alternative" when-iso="1924-02-29">Freitag, 29. Februar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Besprechung von –e. in NFP, 29.1.1924, S. 16: »Die Regie verdient höchstes Lob. Die Bilder der Gletscherwelt und besonders die Aufnahmen aus dem Flugzeug sind unerhört, sind überwältigend.«</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Wetterwart“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>
@@ -136,7 +136,7 @@ Besprechung von –e. in NFP, 29.1.1924, S. 16: »Die Regie verdient höchstes L
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__54" type="kino">
+            <place xml:id="ask_kino__54" type="kino">
                <placeName>Gersthofer Elitetheater</placeName>
                <location>
                   <address>

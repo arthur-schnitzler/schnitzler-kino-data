@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Gardeoffizier«, 1926-01-15, Wien</title>
-            <title type="alternative" when-iso="1926-01-15"/>
+            <title type="alternative" when-iso="1926-01-15">Freitag, 15. Januar 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Premierennotiz und Anzeige NFP 15.1.1926, S. 16/17, Besprechung von Kurt Sonnenfeld in NFP 22.1.1926, S. 17.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Gardeoffizier“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

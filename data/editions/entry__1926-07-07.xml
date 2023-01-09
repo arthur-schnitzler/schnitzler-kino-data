@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Mißrathene Eltern«, 1926-07-07, Wien</title>
-            <title type="alternative" when-iso="1926-07-07"/>
+            <title type="alternative" when-iso="1926-07-07">Mittwoch, 07. Juli 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Möglicher Spielort: Opern-Kino (NZG 5.7.1926, S. 4).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Mißratene Eltern“ („Are Parents people?“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -143,7 +143,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__9" type="wirt">
+            <place xml:id="ask_wirt__9" type="wirt">
                <placeName>Meinl Churhaus-Restaurant</placeName>
                <location>
                   <address>

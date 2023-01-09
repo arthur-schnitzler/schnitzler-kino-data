@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Aufruhr Der Geschlechter«, 1930-12-10, Wien</title>
-            <title type="alternative" when-iso="1930-12-10"/>
+            <title type="alternative" when-iso="1930-12-10">Mittwoch, 10. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ A. war bei Dr. D. rief mich nachher an. Das Herz „angeblich“ ganz in Ordnung
             <ab>Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Kino (NFP 10.12.1930, S. 19).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Menschen im Sturm“ („Ein Mädel von der Reeperbahn“, „Geschlecht in Aufruhr“)</cell>
                   <cell role="data" ana="Jahr">
                      <date/>

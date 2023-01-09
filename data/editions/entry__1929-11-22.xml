@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Fliegende Flotte«, 1929-11-22, Wien</title>
-            <title type="alternative" when-iso="1929-11-22"/>
+            <title type="alternative" when-iso="1929-11-22">Freitag, 22. November 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notizen und Anzeigen NFP 15.11.1929, S. 11, und NFP 22.11.1929, S. 11, exklusiv für das Kolosseum-Kino. Besprechung von Emo Descovich in NFP 17.11.1929, S. 23.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Fliegende Flotte“ („Flying Fleet“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

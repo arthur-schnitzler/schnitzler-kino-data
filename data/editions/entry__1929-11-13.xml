@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Sünden Der Väter«, 1929-11-13, Wien</title>
-            <title type="alternative" when-iso="1929-11-13"/>
+            <title type="alternative" when-iso="1929-11-13">Mittwoch, 13. November 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»ein richtiges Volksstück, ein Propagandafilm zugunsten der Prohibition« (SK II, S. 327). Premierennotiz NFP 8.11.1929, S. 8, für 15.11.1929. Anzeige und Notiz NFP 15.11.1929, S. 11. Besprechung von Philipp Winter in NFP 21.11.1929, S. 10.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Sünden der Väter“ („Sins of Fathers“)</cell>
                   <cell role="data" ana="Jahr">
                      <date/>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Daemon Weib«, 1927-02-25, Wien</title>
-            <title type="alternative" when-iso="1927-02-25"/>
+            <title type="alternative" when-iso="1927-02-25">Freitag, 25. Februar 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Fred Niblo, der ‚Ben Hur‘-Regisseur, hat dem mit dramatischer Dynamik gefül
 Greta Garbo ist wunderschön; deshalb findet man sich damit ab, daß ihre nordische Madonnenhaftigkeit absolut nicht für die Rolle einer Verführerin geeignet ist. […] Man darf ‚Dämon Weib‘ als einen der interessantesten der neuen Filme bezeichnen.“</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Dämon Weib“ („Die Versucherin“, „The Temptress“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -119,7 +119,7 @@ Greta Garbo ist wunderschön; deshalb findet man sich damit ab, daß ihre nordis
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__16" type="wirt">
+            <place xml:id="ask_wirt__16" type="wirt">
                <placeName>Vermutlich Gastwirtschaft Alfred Leupold</placeName>
                <location>
                   <address>

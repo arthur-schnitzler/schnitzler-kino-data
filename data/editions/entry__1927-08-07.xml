@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tagebuch Einer Verlorenen«, 1927-08-07, Wien</title>
-            <title type="alternative" when-iso="1927-08-07"/>
+            <title type="alternative" when-iso="1927-08-07">Sonntag, 07. August 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab/>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Tagebuch einer Verlorenen“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1918]</date>
@@ -107,7 +107,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

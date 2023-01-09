@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ehre Deine Mutter«, 1924-01-04, Wien</title>
-            <title type="alternative" when-iso="1924-01-04"/>
+            <title type="alternative" when-iso="1924-01-04">Freitag, 04. Januar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Vgl. die ganzseitige Kritik in Filmwelt, Jg. 1924, Nr.1, S. 5. Anzeige und Besprechung von –e. in NFP 4.1.1924, S. 16f. Erwähnung auch in der Artikelreihe »Filmästhetik in Zahlen« Teil 1 in NFP 27.1.1928 und Teil 2 in NFP 3.2.1928, S. 18. Anzeige NFP 13.5.1927, S. 21.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ehre deine Mutter!“ [Ot. „Over the Hill to the Poorhouse“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1920]</date>
@@ -134,7 +134,7 @@ Vgl. die ganzseitige Kritik in Filmwelt, Jg. 1924, Nr.1, S. 5. Anzeige und Bespr
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__23" type="kino">
+            <place xml:id="ask_kino__23" type="kino">
                <placeName>Fliegerkino</placeName>
                <location>
                   <address>

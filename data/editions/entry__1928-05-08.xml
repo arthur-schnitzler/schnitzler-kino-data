@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»André Cornélis«, 1928-05-08, Wien</title>
-            <title type="alternative" when-iso="1928-05-08"/>
+            <title type="alternative" when-iso="1928-05-08">Dienstag, 08. Mai 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -71,8 +71,8 @@ Pollaczek notiert für diesen Abend: »Opernbesuch. Manon. (Opera comique Gastsp
 Besprechung von H. Sch. in NFP 6.5.1928, S. 17f.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„André Cornélis“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -138,7 +138,7 @@ Besprechung von H. Sch. in NFP 6.5.1928, S. 17f.</ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

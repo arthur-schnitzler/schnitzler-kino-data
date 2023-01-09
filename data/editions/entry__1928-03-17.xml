@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frau Die Man Begehrt«, 1928-03-17, Wien</title>
-            <title type="alternative" when-iso="1928-03-17"/>
+            <title type="alternative" when-iso="1928-03-17">Samstag, 17. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 16.3.1928, S. 27. Besprechung von Lilly Klaudy in NFP 17.3.1928, S.10.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau die man begehrt“ (Ot. „Die berühmte Frau“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -126,7 +126,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__24" type="wirt">
+            <place xml:id="ask_wirt__24" type="wirt">
                <placeName>Tonello beim Dianabad</placeName>
                <location>
                   <address>

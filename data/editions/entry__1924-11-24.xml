@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Sklavenkönigin«, 1924-11-24, Wien</title>
-            <title type="alternative" when-iso="1924-11-24"/>
+            <title type="alternative" when-iso="1924-11-24">Montag, 24. November 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Der Film wurde bereits am 24. Oktober uraufgeführt (Anzeige und Kurzbesprechung in NFP 24.10.1924, S. 14). Eine Tonfilmfassung wurde am 29. Juli 1932 in Wien uraufgeführt.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Sklavenkönigin“ (Ut. „The Moon of Israel“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Unterwelt«, 1928-10-31, Wien</title>
-            <title type="alternative" when-iso="1928-10-31"/>
+            <title type="alternative" when-iso="1928-10-31">Mittwoch, 31. Oktober 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung NFP 12.10.1928, S. 9. Anzeige und Notiz NFP 19.10.1928, S. 8/9, dort acht nachgewiesene Spielorte bis 25. Oktober. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Apachen“ („Moderne Apachen“, „Unterwelt“; Ot. „Underworld“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -135,7 +135,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__8" type="wirt">
+            <place xml:id="ask_wirt__8" type="wirt">
                <placeName>Restaurant Auge Gottes</placeName>
                <location>
                   <address>

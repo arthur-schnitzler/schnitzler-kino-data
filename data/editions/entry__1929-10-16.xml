@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Hochverrat«, 1929-10-16, Wien</title>
-            <title type="alternative" when-iso="1929-10-16"/>
+            <title type="alternative" when-iso="1929-10-16">Mittwoch, 16. Oktober 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notiz und Anzeige NFP 11.10.1929, S. 10/11, dort nachgewiesene Spielorte ab 15.10.1929: Schottenring-, Flieger- und Hindenburg-Kino sowie Kino Eisenbahnerheim, Lichtspiele Wienzeile, Weltbiograph und Raimund-Lichtspiele. Besprechung von Lilly Klaudy in NFP 15.10.1929, S. 10.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Hochverrat“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

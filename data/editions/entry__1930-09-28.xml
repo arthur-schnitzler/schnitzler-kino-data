@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Greifer «, 1930-09-28, Wien</title>
-            <title type="alternative" when-iso="1930-09-28"/>
+            <title type="alternative" when-iso="1930-09-28">Sonntag, 28. September 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 19.9.1930, S. 14. Premierennotiz NFP 26.9.1930, S. 9, für 27.9.1930. Besprechung von Fritz Frankl in NFP 30.9.1930, S. 8. Anzeige NFP 17.10.1930, S. 14. Nachgewiesene Spielorte: Gartenbau- und  Kolosseum-Kino (NZG 28.9.1930, S. 10).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Greifer“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

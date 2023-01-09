@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Vier Teufel«, 1918-04-23, Wien</title>
-            <title type="alternative" when-iso="1918-04-23"/>
+            <title type="alternative" when-iso="1918-04-23">Dienstag, 23. April 1918</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab/>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die vier Teufel“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1912]</date>
@@ -104,7 +104,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__38" type="kino">
+            <place xml:id="ask_kino__38" type="kino">
                <placeName>Votivparkkino</placeName>
                <location>
                   <address>

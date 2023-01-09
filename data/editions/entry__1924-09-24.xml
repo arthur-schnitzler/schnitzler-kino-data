@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Insel Der Tränen«, 1924-09-24, Wien</title>
-            <title type="alternative" when-iso="1924-09-24"/>
+            <title type="alternative" when-iso="1924-09-24">Mittwoch, 24. September 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von Kurt Sonnenfeld in NFP 16.9.1924, S. 10f. Vgl. Hätte ich das Kino 1976, S. 243ff.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Insel der Tränen“ („S.O.S.“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

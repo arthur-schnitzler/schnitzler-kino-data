@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Nacht Gehört Uns«, 1930-04-30, Wien</title>
-            <title type="alternative" when-iso="1930-04-30"/>
+            <title type="alternative" when-iso="1930-04-30">Mittwoch, 30. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Schnitzler sah den Film in anderer Begleitung bereits am 31. Dezember 1929 in Berlin. Der Film ist in den tagesaktuellen Kinoprogrammen nicht gelistet, vermutlich weil es sich um eine Wiederaufnahme handelte. Anläßlich der Uraufführung wurden im Februar große Inserate für den Film geschaltet, der zumindest zwei Monate vor dem Besuch von Pollaczek und Schnitzler in den drei Kinos Elite, Lustspieltheater und Flotten gezeigt wurde. Vgl. außerdem Notizen NFP 10.1.1930, S. 13, und NFP 11.4.1930, S. 11, wo sechs Spielorte angeführt sind.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Nacht gehört uns“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

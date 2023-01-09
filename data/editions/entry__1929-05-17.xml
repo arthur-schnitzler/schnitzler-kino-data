@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Robert Und Bertram«, 1929-05-17, Wien</title>
-            <title type="alternative" when-iso="1929-05-17"/>
+            <title type="alternative" when-iso="1929-05-17">Freitag, 17. Mai 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dort nachgewiesene Spielorte: Gartenbau-, Löwen-, Haydn-, Palast-, Flieger-, Kolosseum-, Schönbrunner Schloß- und Theater-Kino sowie Kino Handl. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Robert und Bertram“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

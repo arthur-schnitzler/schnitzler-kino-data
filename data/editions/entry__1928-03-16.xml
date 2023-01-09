@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Baker Revue Schwarz-Weiss«, 1928-03-16, Wien</title>
-            <title type="alternative" when-iso="1928-03-16"/>
+            <title type="alternative" when-iso="1928-03-16">Freitag, 16. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Höchstwahrscheinlich sehen Pollaczek und Schnitzler eine späte Aufführung des Revue-Films »Die Königin von Paris«. Illustrierte Anzeige in NFP 24.2.1928, S. 20.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Königin von Paris“ [Ot. „La Revue des Revues“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -128,7 +128,7 @@ Höchstwahrscheinlich sehen Pollaczek und Schnitzler eine späte Aufführung des
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__30" type="wirt">
+            <place xml:id="ask_wirt__30" type="wirt">
                <placeName>Zum Hirschen</placeName>
                <location>
                   <address>

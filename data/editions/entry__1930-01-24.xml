@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Atlantic Film«, 1930-01-24, Wien</title>
-            <title type="alternative" when-iso="1930-01-24"/>
+            <title type="alternative" when-iso="1930-01-24">Freitag, 24. Januar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Ich kann nicht, ich kann [n]icht, kann nicht. Heute soll ich mit ihm ins Kino. S
             <ab>„Kortner und Vallentin verstehen mitunter schon, richtig zu sprechen“ (SK II, S. 305). Notiz NFP 3.1.1930, S. 13. Premierennotiz der Uraufführung im Apollo-Kino und Anzeige NFP 10.1.1930, S. 12/13. Besprechung von Manfred Georg in NFP, 1.11.1929, S. 9, in der auch auf den Aspekt des Tonfilms eingegangen wird (»Atlantic« wurde parallel in englischer und deutscher Sprache gedreht). Ebenfalls wird dort der Konflikt zwischen der europäischen und der US-amerikanischen Filmindustrie thematisiert.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Atlantic“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -183,7 +183,7 @@ Ich kann nicht, ich kann [n]icht, kann nicht. Heute soll ich mit ihm ins Kino. S
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__11" type="kino">
+            <place xml:id="ask_kino__11" type="kino">
                <placeName>Apollo</placeName>
                <location>
                   <address>

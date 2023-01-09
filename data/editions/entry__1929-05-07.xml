@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Kleine Sklavin«, 1929-05-07, Wien</title>
-            <title type="alternative" when-iso="1929-05-07"/>
+            <title type="alternative" when-iso="1929-05-07">Dienstag, 07. Mai 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Abend Kino mit der Moosheim. [II, 234f.]</ab>
 Premierennotiz NFP 26.4.1929, S. 10. Nachgewiesene Spielorte: Zirkus Busch- und Weltspiegel-Kino (NFP 7.5.1929, S. 18).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die kleine Sklavin“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Annette«, 1930-09-19, Wien</title>
-            <title type="alternative" when-iso="1930-09-19"/>
+            <title type="alternative" when-iso="1930-09-19">Freitag, 19. September 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Gegen Abend kleiner einsamer Spaziergang. Ging auch an A.’s Haus vorbei. Das F
 Ankündigung NFP 12.9.1930, S. 10. Nachgewiesene Spielorte: Rotenturm-Kino, Tuchlauben-Lichtspiele und Kino Schäffer (NFP 19.9.1930, S. 19, NZG 19.9.1930, S. 8, NFP 12.9.1930, S. 10).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau, von der man nicht spricht“ („Seine Freundin Annette“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

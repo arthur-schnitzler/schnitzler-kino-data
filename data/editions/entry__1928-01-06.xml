@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ich Hab Mein Herz In Kritzendorf Verloren«, 1928-01-06, Wien</title>
-            <title type="alternative" when-iso="1928-01-06"/>
+            <title type="alternative" when-iso="1928-01-06">Freitag, 06. Januar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung und Notiz NFP 6.1.1928, S. 20. Besprechung von Philipp Winter in NFP 7.1.1928, S. 9. Nachgewiesene Spielorte: Gartenbau-, Opern-, Rotenturm-, Wiedner Grand-, Haydn-, Palast-, Heimat-, Kolosseum-, Schönbrunner Schloß-, Abbazia- und Theater-Kino sowie Kino Handl.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ich hab mein Herz in Kritzendorf verloren“ („Wochenendzauber“)</cell>
                   <cell role="data" ana="Jahr">
                      <date/>
@@ -143,7 +143,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

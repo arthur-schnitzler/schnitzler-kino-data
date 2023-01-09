@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Gelber Pass«, 1929-01-26, Wien</title>
-            <title type="alternative" when-iso="1929-01-26"/>
+            <title type="alternative" when-iso="1929-01-26">Samstag, 26. Januar 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„etwas weitschweifiger Russenfilm“ (SK II, S. 91). Illustrierte Anzeige NFP 25.1.1929, S. 7. Besprechung von Felix Cleve in NFP 27.1.1929, S. 18.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Gelbe Paß“ [Ot. „Zemlya v plenu“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

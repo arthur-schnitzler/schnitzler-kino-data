@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Eine Schwache Stunde«, 1930-08-24, Wien</title>
-            <title type="alternative" when-iso="1930-08-24"/>
+            <title type="alternative" when-iso="1930-08-24">Sonntag, 24. August 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Ankündigung NFP 8.8.1930, S. 11, mit den Spielorten Imperial-, Kolosseum- und L
 „Ein Schwank […] in dem viel mehr Worte gemacht werden, als man über ihn verlieren kann“ (SK II, S. 395).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Eine Schwache Stunde“ („Zweimal Hochzeit“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

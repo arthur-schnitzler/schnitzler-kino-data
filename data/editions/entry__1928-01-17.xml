@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Stacheldraht«, 1928-01-17, Wien</title>
-            <title type="alternative" when-iso="1928-01-17"/>
+            <title type="alternative" when-iso="1928-01-17">Dienstag, 17. Januar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Der Krieg ist die eigentliche Hauptperson; er widerlegt in dem Film sich selbst« (SK I, S. 395). Notiz NFP 6.1.1928, S. 21. Anzeige und Ankündigung NFP 13.1.1928, S. 18/19. (15 Spielorte). Besprechung von Lilly Klaudy in NFP 14.1.1928, S. 8f.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Stacheldraht“ („Barbed Wire“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -108,7 +108,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__1" type="wirt">
+            <place xml:id="ask_wirt__1" type="wirt">
                <placeName>Wohnung Schnitzler</placeName>
                <location>
                   <address>

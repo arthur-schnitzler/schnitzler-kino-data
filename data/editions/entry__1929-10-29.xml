@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Vier Teufel«, 1929-10-29, Wien</title>
-            <title type="alternative" when-iso="1929-10-29"/>
+            <title type="alternative" when-iso="1929-10-29">Dienstag, 29. Oktober 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „vorzüglich gemacht“ (SK II, S. 302). Notiz NFP 1.11.1929, S. 9. Anzeige NFP 23.10.1929, S. 7. Besprechung von Eduard Siebrecht in NFP 24.10.1929, S. 13.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Vier Teufel“ („Four Devils“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -137,7 +137,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__11" type="kino">
+            <place xml:id="ask_kino__11" type="kino">
                <placeName>Apollo</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Es War«, 1929-06-10, Wien</title>
-            <title type="alternative" when-iso="1929-06-10"/>
+            <title type="alternative" when-iso="1929-06-10">Montag, 10. Juni 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»In ›The Flesh and the Devil‹, einem nach Sudermanns Roman ES WAR gedrehten Film, ist der Typus der femme fatale zur vollen Reife gediehen« (SK III, S. 279). Offenbar Reprise: Anzeige NFP 28.10.1927, S. 18. Besprechung NFP 29.10.1927, S. 10. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Es war…“ (Ot. „Flesh and the Devil“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

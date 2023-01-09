@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Czardas«, 1929-10-26, Wien</title>
-            <title type="alternative" when-iso="1929-10-26"/>
+            <title type="alternative" when-iso="1929-10-26">Samstag, 26. Oktober 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeigen und Notiz NFP 25.10.1929, S. 9, dort nachgewiesene Spielorte: Gartenbau-, Opern-, Rotenturm-, Schottenring-, Busch-, Löwen-, Maria-Theresien-, Palast-, Heimat-, Kolosseum-, Schönbrunner Schloß-, Park-, Abbazia- und Theater-Kino sowie Kammerlichtspiele, Kino Schäffer und Kino Handl. Besprechung von Lilly Klaudy in NFP 26.10.1929, S. 13.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Es flüstert die Nacht…“ („Csardas“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

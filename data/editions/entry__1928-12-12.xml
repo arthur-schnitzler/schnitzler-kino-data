@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tri-Ergon«, 1928-12-12, Wien</title>
-            <title type="alternative" when-iso="1928-12-12"/>
+            <title type="alternative" when-iso="1928-12-12">Mittwoch, 12. Dezember 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Mit ihr „Auge Gottes“ soup. […] </ab>
             <ab>Notiz am Tag der Premiere NFP 8.6.1928, S. 7.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der ‚sprechende Film‘“ („Tri-Ergon“) [Ot. „Lautensänger Hans in der Gand“; „Opel-Film“; „Medizinischer Film“; „Ein Tag auf Bauernhof“ u.a.]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923-1928]</date>
@@ -109,7 +109,7 @@ Mit ihr „Auge Gottes“ soup. […] </ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__8" type="wirt">
+            <place xml:id="ask_wirt__8" type="wirt">
                <placeName>Restaurant Auge Gottes</placeName>
                <location>
                   <address>

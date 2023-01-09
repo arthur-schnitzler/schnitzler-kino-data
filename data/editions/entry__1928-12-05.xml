@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Record- Und Herzensbrecherin«, 1928-12-05, Wien</title>
-            <title type="alternative" when-iso="1928-12-05"/>
+            <title type="alternative" when-iso="1928-12-05">Mittwoch, 05. Dezember 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von Philipp Winter in NFP 2.12.1928, S. 21f. Nachgewiesene Spielorte: Kammerlichtspiele Schwarzenbergplatz und Kärntner-Kino (NZG 5.12.1928, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Rekord- und Herzensbrecherin“ („Swim, Girl, swim“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -133,7 +133,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__37" type="wirt">
+            <place xml:id="ask_wirt__37" type="wirt">
                <placeName>Zur Linde</placeName>
                <location>
                   <address>

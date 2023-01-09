@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tolle Hochzeitsnacht«, 1925-04-01, Wien</title>
-            <title type="alternative" when-iso="1925-04-01"/>
+            <title type="alternative" when-iso="1925-04-01">Mittwoch, 01. April 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Der ausführliche Spielplan der Filmwelt, Jg. 1925, Nr. 7, S.15, belegt den Film für 31.3.–2.4.1925 in zwei Lichtspieltheatern: Bellaria- und Währinger Bürger-Kino.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Eine tolle Hochzeitsnacht“ [Ot. „The Girl in the Limousine“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

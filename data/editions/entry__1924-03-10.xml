@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Über Den Wolken«, 1924-03-10, Wien</title>
-            <title type="alternative" when-iso="1924-03-10"/>
+            <title type="alternative" when-iso="1924-03-10">Montag, 10. März 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige und Besprechung von N–. in NFP 7.3.1924, S. 16, dort nachgewiesener Spielort ab 10.3.1924: Opern-Kino. »Der ritterliche unvergleichliche Tom Mix […] vollbringt im Grenzdienst Leistungen der Tapferkeit und Geschicklichkeit, die an Old Shatterhand erinnern und Karl May nachträglich noch rehabilitieren« (SK I, S. 128).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Höher als die Wolken“ [Ot. „Sky High“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922]</date>
@@ -126,7 +126,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__34" type="kino">
+            <place xml:id="ask_kino__34" type="kino">
                <placeName>Opernkino</placeName>
                <location>
                   <address>

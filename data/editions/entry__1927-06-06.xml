@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wenn Das Herz Der Jugend Spricht«, 1927-06-06, Wien</title>
-            <title type="alternative" when-iso="1927-06-06"/>
+            <title type="alternative" when-iso="1927-06-06">Montag, 06. Juni 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung NFP 10.6.1927, S. 18 von Felix Cleve: „Um Bassermanns Willen sieht man sich diesen Film an, der übrigens auch sonst nicht schlecht ist. […] Es ist unerhört, wie dieser Künstler, ohne auch nur im geringsten feminin zu werden, mit durchaus männlichen, fast harten Ausdrucksmitteln zu erschüttern und zu Tränen zu rühren vermag. […]“</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Wenn das Herz der Jugend spricht“ („Die Ehe des Arthur Imhoff“, „Arthur Imhoff“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

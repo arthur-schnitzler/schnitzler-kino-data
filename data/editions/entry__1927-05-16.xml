@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Harem Von Buchara«, 1927-05-16, Wien</title>
-            <title type="alternative" when-iso="1927-05-16"/>
+            <title type="alternative" when-iso="1927-05-16">Montag, 16. Mai 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Die »Goskino«, gegründet 1922, war die erste staatliche Filmproduktion und -distribution der UdSSR. Aufgrund der knappen finanziellen Mittel konnte die Produktion die an sie gestellten Erwartungen nicht erfüllen, so daß sie nur drei Jahre später durch die »Sowkino« ersetzt wurde. Vgl. den Eintrag zum 15. Februar 1928 und Taylor 2000, S. 223. Besprechung von Lilly Klaudy in NFP 20.5.1927, S. 20.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Harem von Buchara“ [Ot. „Minaret Smerty“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -121,7 +121,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

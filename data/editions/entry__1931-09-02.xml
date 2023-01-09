@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Lächelnde Lieutenant«, 1931-09-02, Wien</title>
-            <title type="alternative" when-iso="1931-09-02"/>
+            <title type="alternative" when-iso="1931-09-02">Mittwoch, 02. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 25.8.1931, S. 9. Premierennotiz NFP 28.8.1931, S. 9, unter Angabe mehrerer Spielorte. Besprechung von Fritz Frankl in NFP 29.8.1931, S. 7. Nachgewiesene Spielorte: Imperial- und Opern-Kino sowie Kammerlichtspiele Schwarzenbergplatz (NFP 2.9.1931, S. 15).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der lächelnde Leutnant“ (Ot. „The Smiling Lieutenant“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

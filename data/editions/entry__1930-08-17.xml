@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Lied Der Freiheit«, 1930-08-17, Wien</title>
-            <title type="alternative" when-iso="1930-08-17"/>
+            <title type="alternative" when-iso="1930-08-17">Sonntag, 17. August 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Spielort bestätigt NZG 17.8.1930, S. 12.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Lied der Freiheit“ („Die Marseillaise“, „The Capt. of Guard“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -128,7 +128,7 @@ Spielort bestätigt NZG 17.8.1930, S. 12.</ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__8" type="kino">
+            <place xml:id="ask_kino__8" type="kino">
                <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
                <location>
                   <address>

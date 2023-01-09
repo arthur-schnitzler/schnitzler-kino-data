@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Singende Stadt«, 1930-11-07, Wien</title>
-            <title type="alternative" when-iso="1930-11-07"/>
+            <title type="alternative" when-iso="1930-11-07">Freitag, 07. November 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -77,8 +77,8 @@ Gallones erster Tonfilm, der in einer deutschen und einer englischen Sprachversi
 Ankündigung NFP 17.10.1930, S. 14. Anzeige und Premierennotiz NFP 28.10.1930, S. 6 bzw. 11. Spielort bestätigt NFP 7.11.1930, S. 17. Eine Reprise gab das Kino Wienzeile im März 1931 (NFP 17.3.1931, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Singende Stadt“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -159,7 +159,7 @@ Ankündigung NFP 17.10.1930, S. 14. Anzeige und Premierennotiz NFP 28.10.1930, S
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__11" type="kino">
+            <place xml:id="ask_kino__11" type="kino">
                <placeName>Apollo</placeName>
                <location>
                   <address>

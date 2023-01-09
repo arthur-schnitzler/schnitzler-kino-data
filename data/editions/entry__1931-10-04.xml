@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Entehrt«, 1931-10-04, Wien</title>
-            <title type="alternative" when-iso="1931-10-04"/>
+            <title type="alternative" when-iso="1931-10-04">Sonntag, 04. Oktober 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung NFP 15.9.1931, S. 10. Notizen NFP 23.9.1931, S. 10, und NFP 25.9.1931, S. 10. Besprechung im Feuilleton von Ernst Lothar in NFP 30.9.1931, S. 1f. Spielort bestätigt NFP 4.10.1931, S. 27.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Entehrt“ (Ot. „Dishonored“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -140,7 +140,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__31" type="kino">
+            <place xml:id="ask_kino__31" type="kino">
                <placeName>Imperialkino</placeName>
                <location>
                   <address>

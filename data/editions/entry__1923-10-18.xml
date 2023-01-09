@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Idiot«, 1923-10-18, Wien</title>
-            <title type="alternative" when-iso="1923-10-18"/>
+            <title type="alternative" when-iso="1923-10-18">Donnerstag, 18. Oktober 1923</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Dostojewskis Romane sind in den frühen 1920er Jahren vielfach verfilmt worden (vgl. SK II, S. 423). Als Spielort nachgewiesen NFP 18.10.1923, S. 17: Flieger-Kino.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Irrende Seelen“ („Der Idiot“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

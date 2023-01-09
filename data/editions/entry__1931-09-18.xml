@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Privatsekretärin«, 1931-09-18, Wien</title>
-            <title type="alternative" when-iso="1931-09-18"/>
+            <title type="alternative" when-iso="1931-09-18">Freitag, 18. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 13.3.1931, S. 9. Notizen NFP 20.3.1931, S. 7, NFP 3.3.1931, S. 11. Besprechung von Felix Cleve in NFP 9.4.1931, S. 10. Spielort bestätigt NFP 18.9.1931, S. 15.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Privatsekretärin“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>
@@ -127,7 +127,7 @@ Ankündigung NFP 13.3.1931, S. 9. Notizen NFP 20.3.1931, S. 7, NFP 3.3.1931, S. 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__17" type="kino">
+            <place xml:id="ask_kino__17" type="kino">
                <placeName>Heimatkino</placeName>
                <location>
                   <address>

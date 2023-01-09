@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Zehn Jahre Und Ein Tag«, 1930-01-16, Wien</title>
-            <title type="alternative" when-iso="1930-01-16"/>
+            <title type="alternative" when-iso="1930-01-16">Donnerstag, 16. Januar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 »Eine unmoralische Schwarzweißmalerei, die mit dem Gewissen des Publikums Schindluder treibt« (SK II, S. 293f). Kracauer nennt auch einen weiteren, direkt übersetzten, Titel: »Das Gespenst, das nicht wiederkehrt«.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ein Tag der Qualen“ („Menschenarsenal“) [Ot. „Prividenie, kotoroje ne woswraschtschajetsja“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

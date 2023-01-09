@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Rosen Von Ravensberg; Wenn Die Stadt Schläft«, 1929-11-18, Wien</title>
-            <title type="alternative" when-iso="1929-11-18"/>
+            <title type="alternative" when-iso="1929-11-18">Montag, 18. November 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 2. Konnte in der Tagespresse nicht ermittelt werden.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Weißen Rosen von Ravensberg“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -168,7 +168,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__35" type="kino">
+            <place xml:id="ask_kino__35" type="kino">
                <placeName>Rochuskino</placeName>
                <location>
                   <address>

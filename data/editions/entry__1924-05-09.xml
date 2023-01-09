@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Geheimnisvolle Nacht«, 1924-05-09, Wien</title>
-            <title type="alternative" when-iso="1924-05-09"/>
+            <title type="alternative" when-iso="1924-05-09">Freitag, 09. Mai 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von –e. NFP 1.2.1924, S. 16: „Eine sehr spannend gebaute Detektivgeschichte, die in Afrika beginnt und etwa zwanzig Jahre später in Amerika endet, und zwar gerade noch rechtzeitig in eben der Nacht, die jenem Tag vorangeht, an dem, wenn nicht alles bis dahin aufgeklärt gewesen wäre, das Riesenerbe der hierüber ahnungslosen Heldin anderwertig hätte aufgeteilt werden müssen. […] Farblos und nichtssagend M. Wallace als Gentleman, der sich als Häuptling einer Schmugglerbande und als mehrfacher Mörder entpuppt. – Technisch tadellos.“ </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Eine geheimnisvolle Nacht“ [Ot. „One Exciting Night“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

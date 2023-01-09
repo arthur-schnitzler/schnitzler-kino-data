@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Im Prater Blüh’n Wieder Die Bäume«, 1930-04-13, Wien</title>
-            <title type="alternative" when-iso="1930-04-13"/>
+            <title type="alternative" when-iso="1930-04-13">Sonntag, 13. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -71,8 +71,8 @@ Weder NFP noch NZG weisen ein Kino namens »Palast« in ihren Programmen aus. Sc
 Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterstraße besucht (Übereinstimmung des Filmtitels mit dem Kinoprogramm). Etwas unsicherer hingegen ist ein Besuch im Münstedt-Kino am 20. Mai 1925. Vorläufig steht also zu vermuten, daß dieses »1. Mal« das Kino in der Alserstraße meint.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Im Prater blüh’n wieder die Bäume“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -138,7 +138,7 @@ Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterst
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__51" type="kino">
+            <place xml:id="ask_kino__51" type="kino">
                <placeName>Palast Kino / Arkadenlichtspiele</placeName>
                <location>
                   <address>

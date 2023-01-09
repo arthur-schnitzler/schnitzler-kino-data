@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1927-12-15, Wien</title>
-            <title type="alternative" when-iso="1927-12-15"/>
+            <title type="alternative" when-iso="1927-12-15">Donnerstag, 15. Dezember 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Ostbahn. Lili und Arnoldo kommen aus Venedig an.</ab>
 Ein Kinobesuch an diesem Tag ist nur bei Pollaczek notiert und ist möglicherweise eine Verwechslung mit dem von Schnitzler am 17. Dezember 1927 notierten Besuch.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel"/>
                   <cell role="data" ana="Jahr">
                      <date/>
@@ -113,7 +113,7 @@ Ein Kinobesuch an diesem Tag ist nur bei Pollaczek notiert und ist möglicherwei
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

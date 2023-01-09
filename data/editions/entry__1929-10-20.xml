@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Fräulein Else«, 1929-10-20, Wien</title>
-            <title type="alternative" when-iso="1929-10-20"/>
+            <title type="alternative" when-iso="1929-10-20">Sonntag, 20. Oktober 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Vgl. Anmerkung zum 13.3.1929. Anzeigen und Notiz NFP 18.10.1929, S. 10/11, dort neben dem Kolosseum-Kino 18 weitere Spielorte.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Fräulein Else“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -136,7 +136,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__7" type="kino">
+            <place xml:id="ask_kino__7" type="kino">
                <placeName>Kolosseum</placeName>
                <location>
                   <address>

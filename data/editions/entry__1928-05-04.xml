@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Ausgestoßene«, 1928-05-04, Wien</title>
-            <title type="alternative" when-iso="1928-05-04"/>
+            <title type="alternative" when-iso="1928-05-04">Freitag, 04. Mai 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Nachgewiesener Spielort: Weltspiegel-Kino, u. d. T. »Ausgestoßen«. In der »Filmrundschau« der NFP vom 27.4.1928 Titel ebenfalls »Ausgestoßen«. Für die Woche nach dem gemeinsamen Besuch ist der Film in einem Inserat in NFP 4.5.1928, S. 23, für zwölf Kinos angekündigt.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Ausgestoßenen“ („Die Heimkehr des Herzens“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -133,7 +133,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

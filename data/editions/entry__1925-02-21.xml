@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Oberst Redl«, 1925-02-21, Wien</title>
-            <title type="alternative" when-iso="1925-02-21"/>
+            <title type="alternative" when-iso="1925-02-21">Samstag, 21. Februar 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notiz zum Beginn der Dreharbeiten in NFP 14.11.1924, S. 22. Notiz »Seltsame Wahlpropaganda« berichtet anläßlich der Berliner Aufführungen im April 1925 von der Verbindung mit dem Wahlkampf Hindenburgs (NFP 24.4.1925, S. 16). Anzeigen und Premierennotiz NFP 20.2.1925, S. 16, dort nachgewiesene Spielorte: Burg-, Kärntner-, Opern-, Rotenturm-, Central-, Maria Theresien-, Heimat-, Votivpark-, Park- und Abbazia-Kino, Münstedts Kinopalast, Schönbrunner Schloßkino und Raimund-Lichtspiele.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Oberst Redl“ („Der Totengräber der Monarchie“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

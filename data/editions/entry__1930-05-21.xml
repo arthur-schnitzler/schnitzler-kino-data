@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Erzh. Otto Und Wäschermädl«, 1930-05-21, Wien</title>
-            <title type="alternative" when-iso="1930-05-21"/>
+            <title type="alternative" when-iso="1930-05-21">Mittwoch, 21. Mai 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Erzherzog Otto und das Wäschermädel“ („Wiener Herzen“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

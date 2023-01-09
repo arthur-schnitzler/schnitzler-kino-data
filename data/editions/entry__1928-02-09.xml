@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Frau, Die Nicht Nein Sagen Kann«, 1928-02-09, Wien</title>
-            <title type="alternative" when-iso="1928-02-09"/>
+            <title type="alternative" when-iso="1928-02-09">Donnerstag, 09. Februar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Dr. Beer«: Rudolf Beer, Direktor des Volkstheaters; Pollaczek Volksstück „Hausgeister“ (nicht mehr ermittelbar) hatte den Volkstheaterpreis 1927 gewonnen (vgl. CKP II, 69, 86, 89), wurde aber nicht in den Spielplan genommen; »mit ihrem Sohn«: Clara Pollaczeks jüngerer Sohn Karl (später Karl Frederick Michael Pole) war als Mediziner und Bakteriologe tätig, der Verwandte »Str.« konnte nicht ermittelt werden.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau, die nicht ‚nein‘ sagen kann…“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -131,7 +131,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__9" type="kino">
+            <place xml:id="ask_kino__9" type="kino">
                <placeName>Invalidendankkino / Bellariakino</placeName>
                <location>
                   <address>
@@ -140,7 +140,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1911. Fassungsraum: 1927: 248 Sitzplätze, 1934: 247.</note>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

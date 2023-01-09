@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Sinfonie Einer Großstadt«, 1928-06-02, Wien</title>
-            <title type="alternative" when-iso="1928-06-02"/>
+            <title type="alternative" when-iso="1928-06-02">Samstag, 02. Juni 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 »Dieser Film ›Berlin‹ ist eine schlimme Enttäuschung« (SK I, S. 411). Das Kinoprogramm der NFP vermerkt die »Ur- und Alleinaufführung des großen Meisterwerkes ›Sinfonie der Großstadt‹« im Central-Kino, 2., Taborstraße 8. Der bis heute ikonische Film wurde dort mit »Begleitmusik von Edmund Meisel« unter der »Musikalischen Leitung von Kapellmeister J. Hermann« aufgeführt, wie die »Filmrundschau« der NFP 1.6.1928, S. 12, in einer Anzeige belegt. Besprechung von Felix Cleve in NFP 2.6.1928, S. 9.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Berlin. Die Sinfonie einer Großstadt“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -124,7 +124,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__9" type="wirt">
+            <place xml:id="ask_wirt__9" type="wirt">
                <placeName>Meinl Churhaus-Restaurant</placeName>
                <location>
                   <address>

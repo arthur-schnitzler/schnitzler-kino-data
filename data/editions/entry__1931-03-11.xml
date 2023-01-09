@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Geheimnis Der Drei«, 1931-03-11, Wien</title>
-            <title type="alternative" when-iso="1931-03-11"/>
+            <title type="alternative" when-iso="1931-03-11">Mittwoch, 11. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notiz NFP 20.2.1931, S. 12. Ankündigung NFP 24.2.1931, S. 10. Premierennotiz NFP 3.3.1931, S. 11, für 6.3.1931. Anzeige mit Angabe von vier weiteren Spielorten NFP 6.3.1931, S. 7. Besprechung von Eduard Siebrecht in NFP 10.3.1931, S. 13. Spielort nachgewiesen NZG 11.3.1931, S. 8.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Geheimnis der Drei“ („Schachmatt“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -126,7 +126,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__23" type="kino">
+            <place xml:id="ask_kino__23" type="kino">
                <placeName>Fliegerkino</placeName>
                <location>
                   <address>

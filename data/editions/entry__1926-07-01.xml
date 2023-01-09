@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wachsfigurenkabinett«, 1926-07-01, Wien</title>
-            <title type="alternative" when-iso="1926-07-01"/>
+            <title type="alternative" when-iso="1926-07-01">Donnerstag, 01. Juli 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -71,8 +71,8 @@ Mit C. P. Pohl genachtm. Las das 1. Capitel eines Romans von C. P., den sie eben
 Kracauer beschreibt den Film in seinem Buch »Von Caligari zu Hitler« (Kap. 6). Vgl. auch Hätte ich das Kino 1976, S. 324ff. Besprechung in Filmbote, Jg. 1924, Nr. 18, S. 20f. Nachgewiesener Spielort: Flieger-Kino (NZG 1.7.1926, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Wachsfigurenkabinett“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>
@@ -149,7 +149,7 @@ Kracauer beschreibt den Film in seinem Buch »Von Caligari zu Hitler« (Kap. 6).
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__19" type="wirt">
+            <place xml:id="ask_wirt__19" type="wirt">
                <placeName>Josef Pohl</placeName>
                <location>
                   <address>

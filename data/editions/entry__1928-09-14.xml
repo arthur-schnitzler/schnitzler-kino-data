@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Schmutziges Geld«, 1928-09-14, Wien</title>
-            <title type="alternative" when-iso="1928-09-14"/>
+            <title type="alternative" when-iso="1928-09-14">Freitag, 14. September 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -77,8 +77,8 @@ Abend mit A. Konversation. Nachtmahl in der Heumühle. Ich fühle, es geht etwas
 Notiz in der »Filmrundschau« der 14.9.1928, S. 9, dort 13 Spielorte verzeichnet. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Schmutziges Geld“ (Ot. D „Song“) [Ot. GB „Show Life“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -145,7 +145,7 @@ Notiz in der »Filmrundschau« der 14.9.1928, S. 9, dort 13 Spielorte verzeichne
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__42" type="kino">
+            <place xml:id="ask_kino__42" type="kino">
                <placeName>Mariahilfer Zentralpalast / Stafakino</placeName>
                <location>
                   <address>
@@ -154,7 +154,7 @@ Notiz in der »Filmrundschau« der 14.9.1928, S. 9, dort 13 Spielorte verzeichne
                </location>
                <note type="info"> Eröffnet 1920. Umbenennung 1930. Tonfilm ab 1930. Fassungsraum: 1920: 600 Sitzplätze (davon 48 Logenplätze), 1922: 640.</note>
             </place>
-            <place  xml:id="ask_wirt__30" type="wirt">
+            <place xml:id="ask_wirt__30" type="wirt">
                <placeName>Zum Hirschen</placeName>
                <location>
                   <address>

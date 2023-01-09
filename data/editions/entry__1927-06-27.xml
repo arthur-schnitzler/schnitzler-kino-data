@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Mord In Der Villa«, 1927-06-27, Wien</title>
-            <title type="alternative" when-iso="1927-06-27"/>
+            <title type="alternative" when-iso="1927-06-27">Montag, 27. Juni 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab/>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Mord in der Villa“ [Ot. „The Girl on the Stairs“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

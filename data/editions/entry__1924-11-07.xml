@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Helena«, 1924-11-07, Wien</title>
-            <title type="alternative" when-iso="1924-11-07"/>
+            <title type="alternative" when-iso="1924-11-07">Freitag, 07. November 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 »Die mythische Welt bedarf zu ihrer Gestaltung des Worts, denn das Wort allein schöpft die Wirklichkeit ganz aus, die der Geist bestimmt. Jeder Versuch, sich dieser Welt in einer Folge bloßer Bilder zu bemächtigen, ist darum von vornherein vergeblich« (SK I, S. 79f.). Vgl. die doppelseitige Besprechung in Filmwelt, Jg. 1924, Nr. 31, S. 6f. Besprechung NFP 7.11.1924, S. 13, dort auch Angabe folgender in Frage kommender Spielorte: Gartenbau-, Imperial-, Central-, Busch-, Eos-, Haydn-, Bellaria-, Flieger-Kino und Lichtspiele Wienzeile.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Helena“ (1. Teil: „Helena, der Untergang Trojas“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923/24]</date>

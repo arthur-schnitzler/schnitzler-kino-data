@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Dreyfus«, 1930-10-23, Wien</title>
-            <title type="alternative" when-iso="1930-10-23"/>
+            <title type="alternative" when-iso="1930-10-23">Donnerstag, 23. Oktober 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -71,8 +71,8 @@ Ankündigung NFP 15.8.1930, S. 7. Premierennotiz für Apollo-Kino und Artikel NF
 Nachgewiesene Spielorte: Kärntner-Kino (NFP 23.10.1930, S. 19) und Mozart-Ton-Kino (NZG 23.10.1930, S. 9).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Dreyfus“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

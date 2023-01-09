@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Heiliger Berg«, 1926-11-13, Wien</title>
-            <title type="alternative" when-iso="1926-11-13"/>
+            <title type="alternative" when-iso="1926-11-13">Samstag, 13. November 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„[…] eine gigantische Komposition aus Körperkultur-Phantasien, Sonnentrottelei und kosmischem Geschwöge. Selbst der härteste Routinier, den die alltäglichen Gefühlsfaseleien nicht mehr berühren, findet sich hier aus seinem Gleichgewicht gebracht“ (SK I, S. 298). Anzeige NFP 5.11.1926, S. 18. Besprechung NFP 12.11.1926, S. 28. Nachgewiesener Spielort: Kärntner-Kino (NZG 13.11.1926, S. 4). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Heiliger Berg“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925/26]</date>
@@ -122,7 +122,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__3" type="wirt">
+            <place xml:id="ask_wirt__3" type="wirt">
                <placeName>Wohnung Pollaczek</placeName>
                <location>
                   <address>

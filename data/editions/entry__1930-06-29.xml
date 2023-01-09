@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Helene Willfüer«, 1930-06-29, Wien</title>
-            <title type="alternative" when-iso="1930-06-29"/>
+            <title type="alternative" when-iso="1930-06-29">Sonntag, 29. Juni 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Zwischen diesem gemeinsamen Kinobesuch und dem nächsten liegen die Ferienreisen von Pollaczek und Schnitzler. Pollaczek hielt sich vom 1. Juli 1930 bis zum Ende des Monats allein in Karlsbad auf (sie schrieb dort einen Artikel für die NFP über die internationale Kunstausstellung, vgl. kommentierte Bibliographie), Schnitzler war von 16. Juli bis 11. August in St. Moritz. Pollaczek schreibt nach ihrer Rückkehr über den Sommer in Wien: »Von meinem Alltag ist nichts zu sagen, als dass das Wetter auch hier elend ist, alle Bekannten fort, die Kinos geschlossen oder im Umbau, die Stadt verödet.« (CKP III, 83).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Stud. chem. Helene Willfüer“ („Das Kind der Liebe“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Bruder Von St. Bernhard«, 1929-11-19, Wien</title>
-            <title type="alternative" when-iso="1929-11-19"/>
+            <title type="alternative" when-iso="1929-11-19">Dienstag, 19. November 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Premierennotiz NFP 8.11.1929, S. 8, u. d. T. »Hinter Klostermauern«. Nachgewiesene Spielorte: Kino Schwarzenbergplatz und Kino Wienzeile (NFP 19.11.1929, S. 15).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Brüder von St. Bernhard“ („Hinter Klostermauern“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

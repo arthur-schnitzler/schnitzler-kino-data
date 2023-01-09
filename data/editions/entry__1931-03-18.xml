@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Stürme Auf Dem Montblanc«, 1931-03-18, Wien</title>
-            <title type="alternative" when-iso="1931-03-18"/>
+            <title type="alternative" when-iso="1931-03-18">Mittwoch, 18. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Besprechung von Philipp Winter in NFP 21.1.1931, S. 10. Premierennotiz NFP 27.2.1931, S. 14. Spielort bestätigt NFP 11.3.1931, S. 21.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Stürme über dem Montblanc“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -137,7 +137,7 @@ Besprechung von Philipp Winter in NFP 21.1.1931, S. 10. Premierennotiz NFP 27.2.
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__3" type="kino">
+            <place xml:id="ask_kino__3" type="kino">
                <placeName>Wallensteinkino</placeName>
                <location>
                   <address>

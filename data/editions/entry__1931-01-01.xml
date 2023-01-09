@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Annie Christie«, 1931-01-01, Wien</title>
-            <title type="alternative" when-iso="1931-01-01"/>
+            <title type="alternative" when-iso="1931-01-01">Donnerstag, 01. Januar 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -78,8 +78,8 @@ Das Tonfilmdebüt von Greta Garbo mit ihrem berühmten ersten Satz: »Gimme a Wh
 Verfilmung bereits 1923, vgl. NFP 13.2.1925, S. 23. Ankündigung NFP 12.12.1930, S. 11. Besprechung von Felix Cleve in NFP 1.1.1931, S. 18. Nachgewiesene Spielorte: Imperial- und Opern-Kino (NFP 1.1.1931, S. 36).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Anna Christie“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -156,7 +156,7 @@ Verfilmung bereits 1923, vgl. NFP 13.2.1925, S. 23. Ankündigung NFP 12.12.1930,
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__31" type="kino">
+            <place xml:id="ask_kino__31" type="kino">
                <placeName>Imperialkino</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Mädchen Von Der Straße«, 1928-05-17, Wien</title>
-            <title type="alternative" when-iso="1928-05-17"/>
+            <title type="alternative" when-iso="1928-05-17">Donnerstag, 17. Mai 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>NZG 17.5.1928, S. 10, belegt den Titel »Ein Kind der Straße« in den Kammerlichtspielen am Schwarzenbergplatz. Ein mit dem Notat von Schnitzler übereinstimmender Titel »Das Mädchen von der Straße« (»Scampolo«) scheint erst in PFL vom 22.6.1928 auf. Als Premierendatum wird dort der 25.12.1928 genannt.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ein Kind der Straße“ („London“, [At. „Limehouse“])</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -137,7 +137,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__32" type="wirt">
+            <place xml:id="ask_wirt__32" type="wirt">
                <placeName>Kaffee-Restaurant Vindobona</placeName>
                <location>
                   <address>

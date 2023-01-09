@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Therese Raquin«, 1928-07-03, Wien</title>
-            <title type="alternative" when-iso="1928-07-03"/>
+            <title type="alternative" when-iso="1928-07-03">Dienstag, 03. Juli 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Feyder hat mit Recht der Entwicklung des Milieus einen großen Raum gewährt“ (SK II S. 54). Das Flieger-Kino bespielte in den Sommermonaten eine Freiluftexpositur im Garten des Palais Clam-Callas. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Therese Raquin“ („Die Ehebrecherin“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -132,7 +132,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__23" type="kino">
+            <place xml:id="ask_kino__23" type="kino">
                <placeName>Fliegerkino</placeName>
                <location>
                   <address>
@@ -141,7 +141,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1921. Tonfilm ab 1930. Freiluftkino ab 1927 (Im Garten des Palais Clam-Gallas. Betrieb auf den Sommer beschränkt.). Fassungsraum: 1922: 659 Sitzplätze (davon 68 Logenplätze), 1927: 15 Stehplätze bewilligt.</note>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

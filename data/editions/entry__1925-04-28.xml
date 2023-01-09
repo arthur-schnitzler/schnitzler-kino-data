@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Paradies Der Reichen, Chaplin Als Hirtenknabe«, 1925-04-28, Wien</title>
-            <title type="alternative" when-iso="1925-04-28"/>
+            <title type="alternative" when-iso="1925-04-28">Dienstag, 28. April 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung zu 2.) NFP 28.4.1925, S.14. Das Kärntner-Kino spielte beide Filme gemeinsam (Anzeige NFP 24.4.1925, S. 16).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Im Paradies der Reichen“ (Ot. „Miami“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tänzerin Orchidee«, 1929-05-31, Wien</title>
-            <title type="alternative" when-iso="1929-05-31"/>
+            <title type="alternative" when-iso="1929-05-31">Freitag, 31. Mai 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Premierennotiz NFP 24.5.1929, S. 12, für 31.5.1929. Notiz und Anzeige NFP 31.5.1929, S. 12, dort nachgewiesene Spielorte: Kärntner-, Johann-Strauss-, Palast-, Heimat- und Theater-Kino sowie Raimund-Lichtspiele.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Tänzerin Orchidee“ (Ot. „La Danseuse Orchidée“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

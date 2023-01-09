@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Windstärke 9«, 1925-10-26, Wien</title>
-            <title type="alternative" when-iso="1925-10-26"/>
+            <title type="alternative" when-iso="1925-10-26">Montag, 26. Oktober 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>In den Kinoprogrammen nicht nachgewiesen ab September 1925. Der Film lief in Deutschland bereits am 21. November 1924 an, so daß eine Wiederholung am wahrscheinlichsten ist. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Windstärke 9“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

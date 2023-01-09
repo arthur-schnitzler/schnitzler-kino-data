@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Republik Befiehlt«, 1931-03-29, Wien</title>
-            <title type="alternative" when-iso="1931-03-29"/>
+            <title type="alternative" when-iso="1931-03-29">Sonntag, 29. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Abend mit A. im Kino „Liebe auf Befehl“, saudumm, dann bei ihm. Matte, verle
             <ab>Premierennotiz NFP 10.3.1931, S. 13. Spielort bestätigt in der Ankündigung der Alleinaufführung im Schweden-Kino NFP 20.3.1931, S. 7, und auch in NZG 29.3.1931, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Liebe auf Befehl“ (At. „The Boudoir Diplomat“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -147,7 +147,7 @@ Abend mit A. im Kino „Liebe auf Befehl“, saudumm, dann bei ihm. Matte, verle
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__10" type="kino">
+            <place xml:id="ask_kino__10" type="kino">
                <placeName>Ferdinandskino / Ifa Palast Kino / Schwedenkino</placeName>
                <location>
                   <address>

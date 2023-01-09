@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Aschenbrödel«, 1925-02-07, Wien</title>
-            <title type="alternative" when-iso="1925-02-07"/>
+            <title type="alternative" when-iso="1925-02-07">Samstag, 07. Februar 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung und Anzeige NFP 9.1.1925, S. 16. „Das alte Aschenputtel-Märchen, durchflochten mit Motiven von E.T.A. Hoffmann und Brentano, nimmt hier Gestalt an“ (SK I, 51f). Ausführliche Besprechung von Willi Wolfradt NFP 18.1.1924, S. 18: „[…] ‚Der verlorene Schuh‘ (Ufa-Decla-Film) berücksichtigt ausgezeichnet die realistische Bedingtheit des Filmmärchens, indem es nicht das Märchenhafte, sondern das Leben, die Wirklichkeit, das gesellschaftliche Milieu vorherrschen läßt, und das Phantastische nur in dieser Grundlage hineinflicht, so daß es immer wieder aufschimmert und als eine das menschliche Geschehen durchsetzende geheimnisvolle zweite Sphäre nur um so romantischer erscheint. […] Nur eine Enttäuschung erlebt man: als es aus ist.“ – dort auch Vergleich mit Bergers Film „Ein Glas Wasser“, den Pollaczek und Schnitzler am 19.5.1924 gesehen hatten. Nachgewiesene Spielorte nur bis 19.1.1925. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der verlorene Schuh“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

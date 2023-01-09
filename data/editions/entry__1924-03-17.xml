@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Straße«, 1924-03-17, Wien</title>
-            <title type="alternative" when-iso="1924-03-17"/>
+            <title type="alternative" when-iso="1924-03-17">Montag, 17. März 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „Der Film: ‚Die Strasse‘ […] stellt das Zusammentreffen von schmachtender Seele und existenzlosem Geschiebe lautlos und schauerlich dar. […] Filmwerken dieser Gattung gehört die Zukunft“ (SK I, 54-56, vgl. ebd. 56-58). Vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 12/13, S. 4f. Besprechung von Willi Wolfradt anläßlich der Berliner Premiere in NFP 4.1.1924, S. 17. Anzeige und Besprechung NFP 14.3.1924, S. 17. Nachgewiesener Spielort: Kammerlichtspiele am Schwarzenbergplatz. (NAB, 17.3.1924, S. 10).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Geschichte einer Nacht“ („Die Straße“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

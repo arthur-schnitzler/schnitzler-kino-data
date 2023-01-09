@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Brüder Schellenberg«, 1926-10-12, Wien</title>
-            <title type="alternative" when-iso="1926-10-12"/>
+            <title type="alternative" when-iso="1926-10-12">Dienstag, 12. Oktober 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „Dieser neue Großfilm der UFA […] ist ein einziger Kampf des Regisseurs mit dem Stoff“ (SK I, 229). Anzeige NFP 8.10.1926, S. 17. Besprechung NFP 15.10.1926, S. 17. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Brüder Schellenberg“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -152,7 +152,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__53" type="wirt">
+            <place xml:id="ask_wirt__53" type="wirt">
                <placeName>Hotel Südbahn</placeName>
                <location>
                   <address>

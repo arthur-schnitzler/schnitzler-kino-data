@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Dich Hab Ich Geliebt«, 1930-01-18, Wien</title>
-            <title type="alternative" when-iso="1930-01-18"/>
+            <title type="alternative" when-iso="1930-01-18">Samstag, 18. Januar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Mady Christians’ erster Tonfilm. Besprechung von Felix Cleve in NFP 10.12.1929, S. 10. Anzeige und Notiz NFP 3.1.1930, S. 12/13.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Dich hab’ ich geliebt“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -151,7 +151,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__13" type="kino">
+            <place xml:id="ask_kino__13" type="kino">
                <placeName>Haydnkino</placeName>
                <location>
                   <address>

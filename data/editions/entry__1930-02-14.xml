@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Brennende Herz«, 1930-02-14, Wien</title>
-            <title type="alternative" when-iso="1930-02-14"/>
+            <title type="alternative" when-iso="1930-02-14">Freitag, 14. Februar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Seine Übersetzerin Suzanne Clauser ist Schnitzlers letzte Liebe. Er registriert
 »Das ist eine Art von Liebesromanze, in der die Musik nicht nur inhaltlich eine Rolle spielt, sondern beinahe die Inhalte gebiert. « (SK II, S. 230f). Anzeige NFP 28.1.1930, S. 16. Notiz NFP 31.1.1930, S. 7, nennt als Spielorte Elite- und Flotten-Kino (die mit dem Lustspieltheater kooperierten). Besprechung von E. G. anläßlich der Berliner Erstaufführung in NFP 23.2.1929, S. 11. Nachgewiesener Spielort: Lustspieltheater (NFP 14.2.1930, S. 19). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Brennende Herz“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928/29]</date>

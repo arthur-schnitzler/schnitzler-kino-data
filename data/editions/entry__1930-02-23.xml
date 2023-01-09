@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Hochzeit In Hollywood«, 1930-02-23, Wien</title>
-            <title type="alternative" when-iso="1930-02-23"/>
+            <title type="alternative" when-iso="1930-02-23">Sonntag, 23. Februar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notiz NFP 7.2.1930, S. 8. Anzeige NFP 18.2.1930, S. 2. Besprechung von L. HM. in NFP 21.2.1930, S. 10. Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Ton-Kino (NFP 23.2.1930, S. 39).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Hochzeit in Hollywood“ („Married in Hollywood“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

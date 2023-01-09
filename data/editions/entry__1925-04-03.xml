@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Nju«, 1925-04-03, Wien</title>
-            <title type="alternative" when-iso="1925-04-03"/>
+            <title type="alternative" when-iso="1925-04-03">Freitag, 03. April 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Notiz und Anzeige (dort Haupttitel »Einmal kommt der Tag …«) NFP 20.3.1925, S. 16. Der Spielplan der Filmwelt, Jg. 1925, Nr. 7, belegt den Film für 3.–6.4.1925 im Rochus-Kino und im Währinger Bürger-Kino. »Nju, die ›unverstandene Frau‹, ein undefinierbares Gemisch aus Hedda, Nora und Lulu […]« (SK I, 107).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Nju“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

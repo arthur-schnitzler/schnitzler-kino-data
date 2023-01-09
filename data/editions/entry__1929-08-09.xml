@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Scharlatan«, 1929-08-09, Wien</title>
-            <title type="alternative" when-iso="1929-08-09"/>
+            <title type="alternative" when-iso="1929-08-09">Freitag, 09. August 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Nachgewiesener Spielort neben dem Flieger-Freiluft-Kino: Maria-Theresien-Kino (NFP 9.8.1929, S. 18). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Scharlatan“ („Charlatan“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -139,7 +139,7 @@ Nachgewiesener Spielort neben dem Flieger-Freiluft-Kino: Maria-Theresien-Kino (N
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__23" type="kino">
+            <place xml:id="ask_kino__23" type="kino">
                <placeName>Fliegerkino</placeName>
                <location>
                   <address>

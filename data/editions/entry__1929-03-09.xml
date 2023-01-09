@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Jazzsänger«, 1929-03-09, Wien</title>
-            <title type="alternative" when-iso="1929-03-09"/>
+            <title type="alternative" when-iso="1929-03-09">Samstag, 09. März 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Abend mit A. im Kino. Seine Abreise nach Berlin für den 12. festgesetzt. Mir gr
 „Am 21.d. findet im Zentral-Kino die Uraufführung eines der erfolgreichsten amerikanischen Filme, ‚Der Jazzsänger‘, mit dem berühmtesten und höchstbezahlten Darsteller Amerikas Al Jolson in der Hauptrolle statt. Al Jolsons Spezialität ist der Niggersong, den er in unnachahmlicher Weise zum Vortrag bringt. Er ist heute der gesuchteste Varietéstar Amerikas.“ (NFP 11.1.1929, S. 11). Illustrierte Anzeige NFP 22.1.1929, S. 18. Besprechung von Kurt Sonnenfeld in NFP 23.1.1929, S. 9.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Jazzsänger“ („Das Lied der Väter“, Ot. „The Jazz Singer“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

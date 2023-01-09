@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Café Paradiso«, 1931-10-19, Wien</title>
-            <title type="alternative" when-iso="1931-10-19"/>
+            <title type="alternative" when-iso="1931-10-19">Montag, 19. Oktober 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -76,8 +76,8 @@ Heute Abend um ½7 rief A. mich an (obwol er gesagt hatte dass er zu Hause bleib
 Deutsche Version von »Les amants de minuit« von Marc Allégret und Augusto Genina. Ankündigung NFP 7.8.1931, S. 10. Premierennotiz der Uraufführung im Burg- und Schweden-Kino NFP 11.8.1931, S. 9, für 15.8.1931. Besprechung von f. in NFP 15.8.1931, S. 13.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Café Paradies“ („Sünden um Mitternacht“, [Ot. „Mitternachtsliebe“])</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>
@@ -166,7 +166,7 @@ Deutsche Version von »Les amants de minuit« von Marc Allégret und Augusto Gen
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__5" type="kino">
+            <place xml:id="ask_kino__5" type="kino">
                <placeName>Schubertkino</placeName>
                <location>
                   <address>

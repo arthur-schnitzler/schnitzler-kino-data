@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Weibes Erwachen«, 1928-03-27, Wien</title>
-            <title type="alternative" when-iso="1928-03-27"/>
+            <title type="alternative" when-iso="1928-03-27">Dienstag, 27. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Zu Pollaczeks Tätigkeit als Übersetzerin Paul Géraldys vgl. CKP I, 56f.: »12
 Anzeige NFP 23.3.1928, S. 19, dort nachgewiesene Spielorte: Schottenring-, Löwen-, Johann-Strauss-, Phönix-, Heimat- und Theater-Kino sowie Münstedts Kinopalast, Kino Handl und Kino Universum.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Erwachen des Weibes“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -194,7 +194,7 @@ Anzeige NFP 23.3.1928, S. 19, dort nachgewiesene Spielorte: Schottenring-, Löwe
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

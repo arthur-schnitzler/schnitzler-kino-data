@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Blaue Express«, 1931-04-15, Wien</title>
-            <title type="alternative" when-iso="1931-04-15"/>
+            <title type="alternative" when-iso="1931-04-15">Mittwoch, 15. April 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Regisseur Ilja Trauberg hat bei Eisenstein gelernt, der Film erinnert also nicht von ungefähr an »Panzerkreuzer Potemkin«. „Traubergs Regiekunst ist virtuos im Kleinen, enträt aber der großen Linie“ (SK II S. 408). Kinoprogramm des Gloria-Kinos nicht in den Tageszeitungen. Der Film wurde aber auch in anderen Kinos gespielt, so etwa im Sandleiten-Ton-Kino (DKB 15.4.1931, S. 16).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Blaue Expreß“ [Ot. „Goluboi express“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -140,7 +140,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__12" type="kino">
+            <place xml:id="ask_kino__12" type="kino">
                <placeName>Apollokino / Gloriakino</placeName>
                <location>
                   <address>

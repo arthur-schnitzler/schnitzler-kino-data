@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Lied Des Lebens«, 1931-06-26, Wien</title>
-            <title type="alternative" when-iso="1931-06-26"/>
+            <title type="alternative" when-iso="1931-06-26">Freitag, 26. Juni 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -76,8 +76,8 @@ Pollaczek und Schnitzler waren Gäste bei der Pressevorführung des Films. Vgl. 
 Ankündigung NFP 22.5.1931, S. 12. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP 16.6.1931, S. 7, unter Angabe von zwei weiteren Spielorten. Besprechung NFP 26.6.1931, S. 12. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Lied vom Leben“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>
@@ -166,7 +166,7 @@ Ankündigung NFP 22.5.1931, S. 12. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__31" type="kino">
+            <place xml:id="ask_kino__31" type="kino">
                <placeName>Imperialkino</placeName>
                <location>
                   <address>

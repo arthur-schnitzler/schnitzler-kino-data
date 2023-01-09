@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Unsterbliche Lump«, 1930-03-07, Wien</title>
-            <title type="alternative" when-iso="1930-03-07"/>
+            <title type="alternative" when-iso="1930-03-07">Freitag, 07. März 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung für Ufa- und Maria-Theresien-Kino NFP 28.2.1930, S. 8. Nachgewiesene Spielorte: Ufa-Ton- und Maria-Theresien-Kino (NFP 7.3.1930, S. 21).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der unsterbliche Lump“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

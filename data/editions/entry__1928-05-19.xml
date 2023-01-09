@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Höhere Töchter«, 1928-05-19, Wien</title>
-            <title type="alternative" when-iso="1928-05-19"/>
+            <title type="alternative" when-iso="1928-05-19">Samstag, 19. Mai 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Cary, Magdi«: Pollaczeks jüngerer Sohn Karl und seine Frau Magda, geb. Wellesz. »Prandau«: Nicht ermittelbar. Besprechung von Felix Cleve in NFP 20.5.1928, S. 19. Nachgewiesene Spielorte: Zirkus Busch-Kino und Votivpark-Kino (NFP 19.5.1928, S. 23).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Höhere Töchter“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -167,7 +167,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Gottlose Mädchen«, 1929-11-05, Wien</title>
-            <title type="alternative" when-iso="1929-11-05"/>
+            <title type="alternative" when-iso="1929-11-05">Dienstag, 05. November 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Leider entwickelt es sich zum Sensationsdrama“ (SK II, S. 149). Besprechung von Eduard Siebrecht in NFP 11.9.1929, S. 8.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Gottlose Mädchen“ („The godless Girl“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -121,7 +121,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__12" type="kino">
+            <place xml:id="ask_kino__12" type="kino">
                <placeName>Apollokino / Gloriakino</placeName>
                <location>
                   <address>

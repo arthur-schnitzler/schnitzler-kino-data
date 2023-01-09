@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Purpur Und Waschblau«, 1931-10-12, Wien</title>
-            <title type="alternative" when-iso="1931-10-12"/>
+            <title type="alternative" when-iso="1931-10-12">Montag, 12. Oktober 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notiz zu den Aufnahmen NFP 5.6.1931, S. 14. Notizen NFP 21.8.1931, S. 10, und 25.8.1931, S. 9. Premierennotiz NFP 28.8.1931, S. 9, für 4.9.1931. Anzeige und Notiz NFP 4.9.1931, S. 3 bzw. 7, letztere mit der Angabe, daß die Niese bei der Premiere persönlich anwesend sein werde. Besprechung von Felix Cleve in NFP 5.9.1931, S. 14. Neuankündigung für zehn Tonkinos NFP 6.10.1931, S. 12, für 9.10.1931. Spielort bestätigt NZG 12.10.1931, S. 6.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Purpur und Waschblau“ („Durchlaucht die Wäscherin“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -138,7 +138,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__23" type="kino">
+            <place xml:id="ask_kino__23" type="kino">
                <placeName>Fliegerkino</placeName>
                <location>
                   <address>

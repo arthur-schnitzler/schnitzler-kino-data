@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Göttliche Weib«, 1929-05-05, Wien</title>
-            <title type="alternative" when-iso="1929-05-05"/>
+            <title type="alternative" when-iso="1929-05-05">Sonntag, 05. Mai 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz NFP 26.4.1929, S. 10. Anzeige und Notiz NFP 3.5.1929, S. 11, dort nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Schottenring-, Löwen-, Haydn-, Palast-, Flieger-, Kolosseum-, Park- und Theater-Kino sowie Kino Handl. Besprechung von Eduard Siebrecht in NFP 5.5.1929, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Göttliche Weib“ („Die Frau auf der Folter“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

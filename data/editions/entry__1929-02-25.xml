@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ein Gentleman Schweigt«, 1929-02-25, Wien</title>
-            <title type="alternative" when-iso="1929-02-25"/>
+            <title type="alternative" when-iso="1929-02-25">Montag, 25. Februar 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von a. b. in NFP 26.2.1929, S. 8f. U. d. T. »Wer ist der Mörder?« im Kino Schäffer sowie u. d. T. »Ein Kavalier schweigt« in den Tuchlauben Lichtspielen (NZG 25.2.1929, S. 4, und NFP 25.2.1929, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ein Kavalier schweigt“ („Ferreol“, „Wer ist der Mörder?“, Ot. „A Night of Mystery“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

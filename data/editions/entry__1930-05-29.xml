@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Nackte Mädchen«, 1930-05-29, Wien</title>
-            <title type="alternative" when-iso="1930-05-29"/>
+            <title type="alternative" when-iso="1930-05-29">Donnerstag, 29. Mai 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>In den Programmen der Tagespresse nicht nachgewiesen. Der Film wurde bei der ersten Zensurprüfung (2024m) am 2. Oktober 1929 verboten und nach einer zweiten Prüfung acht Tage darauf und mit einer Kürzung auf 1960m unter Jugendverbot zugelassen. Das Verbot wurde begründet mit »Bildfolgen« wie der Darstellung vom »zweimaligen Versuch dem Mädchen das Kleid zu heben«, einem Bauchtanz, dem lüsternen Verhalten der Männer sowie einem  Vergewaltigungsversuch (vgl. http://www.deutsches-filminstitut.de/filme/f015087.htm). „Dieser Film ist das Produkt einer etwas peinlichen Phantasie […] Eine Spekulation auf Publikumsinstinkte, die so transparent ist wie der Schleier“ (SK II, S. 303).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Nackte Mädchen“ („Die Schleiertänzerin“) [Ot. „Le meneur de joies“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

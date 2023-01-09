@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Karussell Des Lebens«, 1924-01-28, Wien</title>
-            <title type="alternative" when-iso="1924-01-28"/>
+            <title type="alternative" when-iso="1924-01-28">Montag, 28. Januar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Anzeige und Besprechung NFP 18.1.1924, S. 19, dort nachgewiesene Spielorte von 22.–24.1.: Tuchlauben-Lichtspiele, Imperial-Kino, Kruger-Kino, Kammerlichtspiele, Münstedt-Kino.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Karussell des Lebens“ („Aus dem Leben eines Artisten“) [Ot. „Karusellen“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

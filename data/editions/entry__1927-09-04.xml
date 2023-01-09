@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1927-09-04, Verona</title>
-            <title type="alternative" when-iso="1927-09-04"/>
+            <title type="alternative" when-iso="1927-09-04">Sonntag, 04. September 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Der Film taucht unter diesem Titel nicht in den einschlägigen Filmographien und Filmlexika auf, er wird aber in einem Veroneser Kinoprogramm vom 2. September 1927 genannt: „Bionda o Bruna, con Raymond Griffith“. Die Titelvariante „La bionda e la bruna“ führt weiter zum angegebenen Film. Als Spielort nachgewiesen: Cinema Calzoni (Auskünfte aus der Stadtbibliothek Verona, Laura Rebonato/Edoardo Ferrari, 15.1.2010). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„La bionda e la bruna“ (Ot.: „Hands up!“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>1926</date>

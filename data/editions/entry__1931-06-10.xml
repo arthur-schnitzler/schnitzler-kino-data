@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Suzanne Macht Ordnung«, 1931-06-10, Wien</title>
-            <title type="alternative" when-iso="1931-06-10"/>
+            <title type="alternative" when-iso="1931-06-10">Mittwoch, 10. Juni 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 29.5.1931, S. 13. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP 5.6.1931, S. 14. Besprechung von Lilly Klaudy in NFP 11.6.1931, S. 10. Nachgewiesene Spielorte: Schottenring- und Ufa-Ton-Kino (NFP 10.6.1931, S. 17, und NZG 10.6.1931, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Susanne macht Ordnung“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -159,7 +159,7 @@ Ankündigung NFP 29.5.1931, S. 13. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__8" type="kino">
+            <place xml:id="ask_kino__8" type="kino">
                <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
                <location>
                   <address>

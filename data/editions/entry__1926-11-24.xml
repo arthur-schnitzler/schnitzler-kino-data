@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ben Hur«, 1926-11-24, Wien</title>
-            <title type="alternative" when-iso="1926-11-24"/>
+            <title type="alternative" when-iso="1926-11-24">Mittwoch, 24. November 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Es ist in der Tat ein Monstrefilmwerk, in dem durch Regiekunst, unerhörtes Massenaufgebot, Großbauten und Hintergründe die Handlung des bekannten Romans nicht ohne Großartigkeit vergegenwärtigt wird« (SK I, S. 263). Premierennotiz NFP 5.11.1926, S. 18. Anzeige NFP 12.11.1926, S. 28. Besprechung NFP 19.11.1926, S. 19, Eine Anzeige in NFP 26.11.1926, S. 19 gibt bekannt, daß sich das Central-Kino die Alleinaufführungsrechte gesichert hatte.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ben Hur“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -156,7 +156,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__3" type="wirt">
+            <place xml:id="ask_wirt__3" type="wirt">
                <placeName>Wohnung Pollaczek</placeName>
                <location>
                   <address>

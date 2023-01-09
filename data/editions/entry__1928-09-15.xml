@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Herr Mit Dem Monokel«, 1928-09-15, Wien</title>
-            <title type="alternative" when-iso="1928-09-15"/>
+            <title type="alternative" when-iso="1928-09-15">Samstag, 15. September 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Vgl. Notat Pollaczeks vom 18.9.1928 zu den Kinobesuchen am 14. und 15.9.1928. Der Film ist als Premiere für die kommende Woche angekündigt in der »Filmrundschau« der NFP 31.8.1928, S. 8.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Herr mit dem Monokel“ [Ot. „En perfekt gentleman“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -124,7 +124,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__56" type="kino">
+            <place xml:id="ask_kino__56" type="kino">
                <placeName>Margaretner Bürger-Kino</placeName>
                <location>
                   <address>
@@ -133,7 +133,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Schwarz 1992 S. 214 gibt den Bestand eines „Kinematographentheater[s]“ an diesem Standort lediglich bis 1919 an. Die „Kino-Premierentafel“, eine bezahlte Einschaltung in NFP 24.2.1922 S. 13 sowie eine Anzeige ebd. S. 12 nennen hingegen das „Marg[aretner] Bürger-Kino“ mit dieser Anschrift als Spielort des Films „Unter Räubern und Bestien“.</note>
             </place>
-            <place  xml:id="ask_wirt__30" type="wirt">
+            <place xml:id="ask_wirt__30" type="wirt">
                <placeName>Zum Hirschen</placeName>
                <location>
                   <address>

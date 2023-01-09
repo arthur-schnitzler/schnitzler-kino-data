@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Heimliche Sünder«, 1926-08-14, Bern</title>
-            <title type="alternative" when-iso="1926-08-14"/>
+            <title type="alternative" when-iso="1926-08-14">Samstag, 14. August 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsy
             <ab>Der Spielort in Bern wurde nicht ermittelt. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Heimliche Sünder“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

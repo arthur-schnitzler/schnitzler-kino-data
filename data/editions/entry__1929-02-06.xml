@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Untersee«, 1929-02-06, Wien</title>
-            <title type="alternative" when-iso="1929-02-06"/>
+            <title type="alternative" when-iso="1929-02-06">Mittwoch, 06. Februar 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„eine Enttäuschung“ (SK II, S. 257). Illustrierte Anzeige NFP 1.2.1929, S. 8. Besprechung von E. D. in NFP 2.2.1929, S. 10. Zahlreiche nachgewiesene Spielorte: Gartenbau-, Kärntner-, Haydn-, Zirkus-Busch-, Palast-, Kolosseum- und Theater-Kino sowie Eos-Lichtspiele (NFP 6.2.1929, S. 17).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Untersee“ (Ot. „Submarine“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

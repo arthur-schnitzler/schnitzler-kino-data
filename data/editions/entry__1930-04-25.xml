@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Blauer Engel«, 1930-04-25, Wien</title>
-            <title type="alternative" when-iso="1930-04-25"/>
+            <title type="alternative" when-iso="1930-04-25">Freitag, 25. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 14.3.1930, S. 10. Notizen NFP 4.4.1930, S. 10, und NFP 16.5.1930, S. 13, dort Spielort wieder bestätigt. »Ein Musterbeispiel der gemeinten Substanzlosigkeit, das sich zu analysieren verlohnt, ist der in der Presse bejubelte Film […] Leider merkt das Publikum nicht, daß der Vorhang nie hochgezogen wird« (SK II, S. 375 f.).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Blaue Engel“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -169,7 +169,7 @@ Ankündigung NFP 14.3.1930, S. 10. Notizen NFP 4.4.1930, S. 10, und NFP 16.5.193
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__11" type="kino">
+            <place xml:id="ask_kino__11" type="kino">
                <placeName>Apollo</placeName>
                <location>
                   <address>

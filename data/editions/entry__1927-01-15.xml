@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Student Von Prag«, 1927-01-15, Wien</title>
-            <title type="alternative" when-iso="1927-01-15"/>
+            <title type="alternative" when-iso="1927-01-15">Samstag, 15. Januar 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Pollaczek und Schnitzler sehen die Neuverfilmung des Stoffes von Henrik Galeen (1926), die Verfilmung Stellan Ryes hatte er am 10. September 1913 in München gesehen. 1921 hatte Galeen (dessen bürgerlicher Name Heinrich Wiesenberg lautet) für Murnaus »Nosferatu« das Drehbuch geschrieben. »Haben die Autoren so versagt, daß man offen auf dieselben Motive zurückgreifen muß?« fragte Willy Haas (Film-Kurier, Nr. 251, 26.10.1926). Die Besprechung von Felix Cleve in NFP 21.2.1927, S. 17 bezieht sich auf jene Version, die i. J. 1913 schon Franz Kafka gesehen hatte: »Die neue Verfilmung wirkt merkwürdigerweise einigermaßen schwächer. Woran das liegen mag, ist schwer zu sagen. Denn zumal die Leistung Conrad Veidts in der Rolle, die einst Wegener spielte, ist meisterlich.«</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Student von Prag“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -145,7 +145,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Salto Mortale«, 1931-06-13, Wien</title>
-            <title type="alternative" when-iso="1931-06-13"/>
+            <title type="alternative" when-iso="1931-06-13">Samstag, 13. Juni 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Arthur Schnitzler besucht den Film am 14. September des Jahres ein zweites Mal.
 Premierennotiz der Uraufführung im Apollo-Kino NFP 9.6.1931, S. 9 für 12.6.1931. Anzeige und Notiz NFP 12.6.1931, S. 5 bzw. 14. Besprechung von Felix Cleve in NFP 13.6.1931, S. 10. Spielort bestätigt auch NFP 13.6.1931, S. 19.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Salto mortale“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -152,7 +152,7 @@ Premierennotiz der Uraufführung im Apollo-Kino NFP 9.6.1931, S. 9 für 12.6.193
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__11" type="kino">
+            <place xml:id="ask_kino__11" type="kino">
                <placeName>Apollo</placeName>
                <location>
                   <address>

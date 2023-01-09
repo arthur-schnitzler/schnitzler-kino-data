@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Gelbe Lilie«, 1929-02-14, Wien</title>
-            <title type="alternative" when-iso="1929-02-14"/>
+            <title type="alternative" when-iso="1929-02-14">Donnerstag, 14. Februar 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Anzeige NFP 8.2.1929, S. 7, dort genannte Spielorte ab 12.2.1929: Flotten-, Schäfer- und Flieger-Kino, Kammerlichtspiele, Lichtspiele Wienzeile, Raimund-Lichtspiele. Besprechung von Kurt Sonnenfeld in NFP 10.2.1929, S. 17. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Gelbe Lilie“ (Ot. „The Yellow Lily“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

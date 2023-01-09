@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Weiße Hölle Von Piz Palü«, 1929-10-14, Wien</title>
-            <title type="alternative" when-iso="1929-10-14"/>
+            <title type="alternative" when-iso="1929-10-14">Montag, 14. Oktober 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Notiz und Anzeige NFP 11.10.1929, S. 11. Dort nachgewiesene Spielorte bis 14.10.1929: Elite-, Imperial-, Kruger-, Schottenring-, Busch-, Maria-Theresien-, Phönix-, Flieger-, Schönbrunner Schloß- und Theater-Kino sowie Eos-Lichtspiele, Lichtspiele Wienzeile und Kino Handl. Besprechung von Philipp Winter in NFP 13.10.1929, S. 17.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Weiße Hölle vom Piz-Palü“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

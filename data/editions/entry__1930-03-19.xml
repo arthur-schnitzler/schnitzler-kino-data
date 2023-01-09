@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Training Zur Ehe«, 1930-03-19, Wien</title>
-            <title type="alternative" when-iso="1930-03-19"/>
+            <title type="alternative" when-iso="1930-03-19">Mittwoch, 19. März 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ NZG vom 19.3.1930, S. 8, nennt für das Kino Schäffer »Liebschaften einer Scha
 2. Notiz mit Bestätigung des Spielorts NFP 14.3.1930, S. 10.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Training zur Ehe“ („The Duke Steps out“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -162,7 +162,7 @@ NZG vom 19.3.1930, S. 8, nennt für das Kino Schäffer »Liebschaften einer Scha
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__15" type="kino">
+            <place xml:id="ask_kino__15" type="kino">
                <placeName>Kino Schäffer</placeName>
                <location>
                   <address>

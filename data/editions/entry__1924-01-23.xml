@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frau Mit Den Millionen, 2. Theil«, 1924-01-23, Wien</title>
-            <title type="alternative" when-iso="1924-01-23"/>
+            <title type="alternative" when-iso="1924-01-23">Mittwoch, 23. Januar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Vermutlich ebenfalls im „Währinger Bürgerkino“, da Schnitzler den 1. Teil am letzten Spieltag besuchte. Vgl. „Die Filmwelt“, Jg. 1923, Nr. 2, S. 6. Der dritte Teil des Films, »Konstantinopel – Paris« (D 1922/23), wurde am 8.3.1923 in Berlin uraufgeführt. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau mit den Millionen“ (2.Teil: „Der Prinz ohne Land“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922/23]</date>

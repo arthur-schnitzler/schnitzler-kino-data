@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Oberst Redl«, 1931-04-17, Wien</title>
-            <title type="alternative" when-iso="1931-04-17"/>
+            <title type="alternative" when-iso="1931-04-17">Freitag, 17. April 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,8 +74,8 @@ Habe heute Früh endlich Clausers eingeladen für Mittwoch oder Freitag Abend (w
 Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 10, für 6.3.1931. Anzeige und Notiz NFP 10.3.1931, S. 10/13, für fünf Wiener Kinos. Besprechung von f. in NFP 11.3.1931, S. 11.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Oberst Redl“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>
@@ -160,7 +160,7 @@ Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 10, für 6.3.1931. 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__50" type="kino">
+            <place xml:id="ask_kino__50" type="kino">
                <placeName>Phönixkino</placeName>
                <location>
                   <address>

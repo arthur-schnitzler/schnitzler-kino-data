@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Schwarze Lu«, 1929-11-08, Wien</title>
-            <title type="alternative" when-iso="1929-11-08"/>
+            <title type="alternative" when-iso="1929-11-08">Freitag, 08. November 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„die paar Entgleisungen beeinträchtigen kaum die leibhafte Gewalt, die von den Szenen ausströmt“ (SK II, S. 274). Anzeige und Notiz NFP 1.11.1929, S. 9, dort fünf nachgewiesene Spielorte bis 7.11.1929.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Razzia“ (Ut. „Die Schwarze Lu“, Ot. „The Dragnet“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

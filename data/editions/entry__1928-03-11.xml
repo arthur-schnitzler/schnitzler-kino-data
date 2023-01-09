@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Hochzeitsreise«, 1928-03-11, Wien</title>
-            <title type="alternative" when-iso="1928-03-11"/>
+            <title type="alternative" when-iso="1928-03-11">Sonntag, 11. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„In jedem seiner Filme – so auch in dem neuesten: ‚Mein Freund Harry‘ – bezwingt Harry Liedtke das Herz einer reichen Erbin; er muß sich schon Millionen auf diese Weise erworben haben“ (SK II, S. 23). Ankündigung NFP 2.3.1928, S. 19 für 9.3.1928. Nachgewiesene Spielorte: Opern- und Zirkus Busch-Kino (NFP 11.3.1928, S. 26).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Hochzeitsreise“ („Mein Freund Harry – Harry Mc.Gills geheime Sendung“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>
@@ -127,7 +127,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__1" type="wirt">
+            <place xml:id="ask_wirt__1" type="wirt">
                <placeName>Wohnung Schnitzler</placeName>
                <location>
                   <address>

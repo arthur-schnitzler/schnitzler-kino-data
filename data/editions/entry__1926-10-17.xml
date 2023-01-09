@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Dieb Von Bagdad«, 1926-10-17, Wien</title>
-            <title type="alternative" when-iso="1926-10-17"/>
+            <title type="alternative" when-iso="1926-10-17">Sonntag, 17. Oktober 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „In dem ‚Dieb von Bagdad‘ war noch ein Orient aus erster Hand geschaffen“ (SK I, S. 363). Sammelbesprechung von Ann Tizia Leitich u. d. T. »Die besten Filme der Newyorker Saison« in NFP 5.8.1924, S. 9. Premierennotiz NFP 8.10.1926, S. 18. Besprechung NFP 15.10.1926, S. 16.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Dieb von Bagdad“ (Ot. „The [T]hief of Bagdad“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>
@@ -159,7 +159,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__7" type="kino">
+            <place xml:id="ask_kino__7" type="kino">
                <placeName>Kolosseum</placeName>
                <location>
                   <address>
@@ -168,7 +168,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </location>
                <note type="info"> Eröffnet 1925. Tonfilm ab 1929. Fassungsraum: 1926: 688 Sitzplätze (davon 188 Logenplätze).</note>
             </place>
-            <place  xml:id="ask_wirt__3" type="wirt">
+            <place xml:id="ask_wirt__3" type="wirt">
                <placeName>Wohnung Pollaczek</placeName>
                <location>
                   <address>

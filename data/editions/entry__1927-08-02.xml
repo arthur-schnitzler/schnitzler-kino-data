@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Zirkus Renz«, 1927-08-02, Wien</title>
-            <title type="alternative" when-iso="1927-08-02"/>
+            <title type="alternative" when-iso="1927-08-02">Dienstag, 02. August 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -70,8 +70,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Einziger nachgewiesener Spielort: Kepler-Kino (NZG 2.8.1927, S. 8). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Zirkus Renz“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -137,7 +137,7 @@ Einziger nachgewiesener Spielort: Kepler-Kino (NZG 2.8.1927, S. 8). </ab>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__6" type="wirt">
+            <place xml:id="ask_wirt__6" type="wirt">
                <placeName>Prochaska</placeName>
                <location>
                   <address>

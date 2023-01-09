@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Geld Auf Der Straße«, 1930-11-23, Wien</title>
-            <title type="alternative" when-iso="1930-11-23"/>
+            <title type="alternative" when-iso="1930-11-23">Sonntag, 23. November 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Premierennotiz NFP 7.11.1930, S. 9, für 11.11.1930. Besprechung von f.s. [Felix
 Nachgewiesene Spielorte: Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 23.11.1930, S. 36, und NZG 23.11.1930, S. 16).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Geld auf der Straße“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

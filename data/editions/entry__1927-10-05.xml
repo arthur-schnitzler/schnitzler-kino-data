@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Strecke«, 1927-10-05, Wien</title>
-            <title type="alternative" when-iso="1927-10-05"/>
+            <title type="alternative" when-iso="1927-10-05">Mittwoch, 05. Oktober 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung der Pressevorführung von Lilly Klaudy in NFP 8.7.1927, S. 16. Premierennotiz NFP 23.9.1927, S. 19, für 30.9.1927. Anzeige und Notiz NFP 30.9.1927, S. 16/17, dort nachgewiesene Spielorte: Schottenring-, Löwen-, (Margaretner) Bürger-, Gudrun-, Apollo-, Astoria- und  Kalvarienberg-Kino sowie Kino Mariahilf und Arkaden-Lichtspiel-Bühne.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Strecke“ („Die große und die kleine Welt“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -146,7 +146,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

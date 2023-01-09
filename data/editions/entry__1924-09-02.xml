@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Große Chef«, 1924-09-02, Zürich</title>
-            <title type="alternative" when-iso="1924-09-02"/>
+            <title type="alternative" when-iso="1924-09-02">Dienstag, 02. September 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von Rosa Wachtel in Filmwelt, Jg. 1922, Nr. 5, S. 4.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Große Chef“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1920/21]</date>

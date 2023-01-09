@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Sünde - Ruhm«, 1925-10-22, Wien</title>
-            <title type="alternative" when-iso="1925-10-22"/>
+            <title type="alternative" when-iso="1925-10-22">Donnerstag, 22. Oktober 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Der Film ist in PFL (und in der IMDB) auch nachgewiesen als „Der Demütige und die Tänzerin“. Vgl. SK I, 135f. Inserat NFP 16.10.1928, S. 20, das folgende Spielorte nennt: Elite-, Löwen-, Flotten-, Flieger-Kino. Besprechung von Felix Cleve in NFP 23.10.1925, S. 20. NAB 22.10.1925, S. 8 hat das Imperial-Kino als einzigen nachgewiesenen Spielort für den Tag.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Demütige und die Sängerin“ (At. „Durch Sünde zum Ruhm“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924/25]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»„frau Mit Den Millionen“ I«, 1924-01-21, Wien</title>
-            <title type="alternative" when-iso="1924-01-21"/>
+            <title type="alternative" when-iso="1924-01-21">Montag, 21. Januar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -71,8 +71,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Besprechung von –e. in NFP 18.1.1924, S. 19. NFP, 11.1.1924, S. 17, gibt von 18.–21.1.1924 das Währinger Bürgerkino als Spielort an.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau mit den Millionen“ (1.Teil: „Der Schuß in der Pariser Oper“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922/23]</date>
@@ -157,7 +157,7 @@ Besprechung von –e. in NFP 18.1.1924, S. 19. NFP, 11.1.1924, S. 17, gibt von 1
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__40" type="kino">
+            <place xml:id="ask_kino__40" type="kino">
                <placeName>Währinger Bürgertheater</placeName>
                <location>
                   <address>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Frau Für 24 Stunden«, 1926-01-02, Wien</title>
-            <title type="alternative" when-iso="1926-01-02"/>
+            <title type="alternative" when-iso="1926-01-02">Samstag, 02. Januar 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz NFP 25.12.1925, S. 30. Premierennotiz und Anzeige NFP 1.1.1926, S. 28, dort nachgewiesene Spielorte bis 4.1.1926: Elite-, Imperial-, Flotten-, Flieger-Kino und Lichtspiele Wienzeile.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau für vierundzwanzig Stunden“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

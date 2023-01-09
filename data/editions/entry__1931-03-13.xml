@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Grock«, 1931-03-13, Wien</title>
-            <title type="alternative" when-iso="1931-03-13"/>
+            <title type="alternative" when-iso="1931-03-13">Freitag, 13. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Ich habe selten etwas Läppischeres gesehen« (SK II, S. 467). Ankündigungen NFP 17.2.1931, S. 9, NFP 20.2.1931, S. 12, und NFP 24.2.1931, S. 10. Anzeige NFP 6.3.1931, S. 11. Premierennotiz NFP 10.3.1931, S. 13, für Gartenbau-, Kolosseum- und Stafa-Kino, dieselben Spielorte nachgewiesen NFP 13.3.1931, S. 20. Besprechung von L. HM. in NFP 11.3.1931, S. 11.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Grock“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

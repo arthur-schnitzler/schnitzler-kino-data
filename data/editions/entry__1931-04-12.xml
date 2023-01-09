@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Million«, 1931-04-12, Wien</title>
-            <title type="alternative" when-iso="1931-04-12"/>
+            <title type="alternative" when-iso="1931-04-12">Sonntag, 12. April 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „René Clair ist in Gefahr, ein Publikumsliebling zu werden. Sein zweiter […] Großfilm zeigt zufällige Dinge, die niemand in Unruhe versetzen“ (SK II, S. 510). Premierennotiz NFP 3.4.1931, S. 9, unter Angabe eines Zitats von Berta Zuckerkandl: »vollkommene Einheit von Wort, Musik, Bild, Geräusch«. Besprechung von Lilly Klaudy in NFP 8.4.1931, S. 8. Spielort bestätigt NFP 12.4.1931, S. 32.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Million“ (Ot. „Le Million“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>
@@ -163,7 +163,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__10" type="kino">
+            <place xml:id="ask_kino__10" type="kino">
                <placeName>Ferdinandskino / Ifa Palast Kino / Schwedenkino</placeName>
                <location>
                   <address>

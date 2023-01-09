@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Verführte«, 1929-06-14, Wien</title>
-            <title type="alternative" when-iso="1929-06-14"/>
+            <title type="alternative" when-iso="1929-06-14">Freitag, 14. Juni 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -75,8 +75,8 @@ Am Abend im Kino und bei der „Linde“ genachtmahlt. A. sehr liebevoll. [II, 2
 Premierennotiz NFP 7.6.1929, S. 12, für 14.6.1929. Anzeigen und Notiz NFP 14.6.1929, S. 7, dort nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Busch-, Flotten-, Heimat-, Kolosseum- und Theater-Kino sowie Eos-Lichtspiele. Besprechung von Felix Cleve in NFP 16.6.1929, S. 13.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Angst“ (Ut. „Die Verführte“ / „Die schwache Stunde einer Frau“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

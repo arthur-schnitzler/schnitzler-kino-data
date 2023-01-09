@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Unmögliche Frau«, 1924-02-12, Wien</title>
-            <title type="alternative" when-iso="1924-02-12"/>
+            <title type="alternative" when-iso="1924-02-12">Dienstag, 12. Februar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -71,8 +71,8 @@ Im Kino („Unmögliche Frau“) mit C. P., die sehr verstimmt gegen mich, dass 
 Besprechung von Lilly Klaudy in NFP 8.2.1924, S. 16..</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Unmögliche Frau“ [Ot. „The Impossible Mrs. Bellew“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Mary Dugan«, 1931-02-15, Wien</title>
-            <title type="alternative" when-iso="1931-02-15"/>
+            <title type="alternative" when-iso="1931-02-15">Sonntag, 15. Februar 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -79,8 +79,8 @@ Ich fühle mich physisch nicht sehr wohl. [III, 152]</ab>
 Nachgewiesene Spielorte: Imperial- und Opernkino (NFP 15.2.1931, S. 30). Ankündigung NFP 6.2.1931, S. 12.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Mordprozeß Mary Dugan“ („Der Fall Mary Dugan“) [Engl. At. „The Trial of Mary Dugan“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

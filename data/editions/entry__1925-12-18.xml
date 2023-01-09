@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ihre Liebesgeschichte«, 1925-12-18, Wien</title>
-            <title type="alternative" when-iso="1925-12-18"/>
+            <title type="alternative" when-iso="1925-12-18">Freitag, 18. Dezember 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 18.12.1925, S. 8, dort genannte Spielorte: Tuchlauben-, Burg-, Central- und Votivpark-Kino sowie Münstedts Kinopalast. Central-Kino kommt nicht in Frage (Schnitzler schreibt am 5.11.1926, er sei das erste Mal in diesem Kino gewesen, siehe dort).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ihre Liebesgeschichte“ („Her love story“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Das Verbotene Land«, 1924-03-29, Wien</title>
-            <title type="alternative" when-iso="1924-03-29"/>
+            <title type="alternative" when-iso="1924-03-29">Samstag, 29. März 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>In den Kinoprogrammen werden die Schnitzler persönlich bekannten Drehbuchschreiber nicht genannt. Anzeige NFP 28.3.1924, S. 19. Besprechung von –e. in NFP 1.4.1924, S. 17: „Dieser Film ist trotz der großen Summe von glänzenden Einzelleistungen im ganzen großen ‚verhaut‘. Sein Hauptfehler: Es fehlt den disparaten Parallelhandlungen jeder innere Zusammenhang. Die Nebenhandlung, in der die Glässner die Hauptrolle spielt, hört einfach auf, ohne auch nur die leiseste Tendenz zur Vereinigung mit der übrigen, gleichfalls immer dürftiger werdenden Handlung zu verraten. Bedrängt von der Einfallslosigkeit des Autors, verschwindet der Expeditionsgenosse des Helden ganz einfach sang- und klanglos von der Bildfläche. Enttäuscht geht man nach Hause.« Nachgewiesene Spielorte laut NFP 29.3.1924, S. 19, für 28.–31.3.: Gartenbau-, Rotenturm-, Flieger-, Eos-, Haydn-, Votivpark-Kino und Lichtspiele Wienzeile.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Verbotene Land“ („Die Liebe des Dalai Lama“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frauenhaus Von Rio«, 1927-12-21, Wien</title>
-            <title type="alternative" when-iso="1927-12-21"/>
+            <title type="alternative" when-iso="1927-12-21">Mittwoch, 21. Dezember 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung und Anzeige in NFP 16.12.1927, S. 19 (direkt über Pollaczeks Fortsetzungsroman »Der Aufstieg«, 62. Teil), dort nachgewiesene Spielorte: Kärntner-, Rotenturm-, Schweden-, Heimat- und Votivpark-Kino sowie Eos-Lichtspiele, Kino Handl und Kino Weltspiegel. Besprechung NFP 18.12.1927, S. 20.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Frauenhaus von Rio“ („Plüsch und Plümowski“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -131,7 +131,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__1" type="wirt">
+            <place xml:id="ask_wirt__1" type="wirt">
                <placeName>Wohnung Schnitzler</placeName>
                <location>
                   <address>

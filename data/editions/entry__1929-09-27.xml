@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Erotikon«, 1929-09-27, Wien</title>
-            <title type="alternative" when-iso="1929-09-27"/>
+            <title type="alternative" when-iso="1929-09-27">Freitag, 27. September 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „Regie und Darstellung halten sich in den üblichen Grenzen“ (SK II, S. 290). Premierennotiz NFP 20.9.1929, S. 9, für 27.9.1929. Anzeige und Notiz NFP 27.9.1929, S. 10, unter Angabe von sieben weiteren Spielorten.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Erotikon“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>
@@ -135,7 +135,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_kino__23" type="kino">
+            <place xml:id="ask_kino__23" type="kino">
                <placeName>Fliegerkino</placeName>
                <location>
                   <address>

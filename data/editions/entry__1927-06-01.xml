@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Zorro«, 1927-06-01, Wien</title>
-            <title type="alternative" when-iso="1927-06-01"/>
+            <title type="alternative" when-iso="1927-06-01">Mittwoch, 01. Juni 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Illustrierte Anzeige zur Uraufführung NFP 6.10.1925, S. 16. Besprechung (Pressevorführung) von ss in ebd., S. 12. Anzeige NFP 27.5.1927, S. 10. Nachgewiesene Spielorte vom 31.5.–2.6.: Schottenring-, Flieger- und Kolosseum-Kino sowie Lichtspiele Wienzeile.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Zorro, der Rächer“ [Ot. „The Mark of Zorro“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1920]</date>
@@ -119,7 +119,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__26" type="wirt">
+            <place xml:id="ask_wirt__26" type="wirt">
                <placeName>Kursalon</placeName>
                <location>
                   <address>

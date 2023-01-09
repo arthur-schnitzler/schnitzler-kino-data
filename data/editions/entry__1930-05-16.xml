@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Diane«, 1930-05-16, Wien</title>
-            <title type="alternative" when-iso="1930-05-16"/>
+            <title type="alternative" when-iso="1930-05-16">Freitag, 16. Mai 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„In der russischen Kälte erwärmen sich sich die Hauptakteure durch eine Unmenge von Liebe, Sinnlichkeit, Eifersucht – alle geblendet von Tschechowa, die in der Tat die Aufregung lohnt“ (SK II, S. 260). Premierennotiz NFP 9.5.1930, S. 13. Nachgewiesener Spielort: Münstedts Kino (NFP, 16.5.1930, S. 23).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Diane“ („Die Geschichte einer Pariserin“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

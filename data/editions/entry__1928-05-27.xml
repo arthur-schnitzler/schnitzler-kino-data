@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Vielgeliebte«, 1928-05-27, Wien</title>
-            <title type="alternative" when-iso="1928-05-27"/>
+            <title type="alternative" when-iso="1928-05-27">Sonntag, 27. Mai 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Besprechung von Eduard Siebrecht in NFP 26.5.1928, S. 8. »Der« bzw. »Die Vielgeliebte«: (PFL führen den Titel mit generischem Femininum, die Kinoprogramme mit Maskulinum) wurde auch im Burg-Kino gespielt, der Hinweis »am Schwarzenbergbrunnen vorbei« deutet aber auf die Kammerlichtspiele am Schwarzenbergplatz hin (NFP 27.5.1928, S. 43).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Vielgeliebte“ („Brautnacht mit Hindernissen“, Ot. „The Gay Deceiver“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>
@@ -171,7 +171,7 @@ Besprechung von Eduard Siebrecht in NFP 26.5.1928, S. 8. »Der« bzw. »Die Viel
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__25" type="wirt">
+            <place xml:id="ask_wirt__25" type="wirt">
                <placeName>Klara Wimberger Opernrestaurant</placeName>
                <location>
                   <address>

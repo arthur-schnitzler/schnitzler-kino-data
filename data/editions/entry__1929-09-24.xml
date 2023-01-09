@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Weiße Schatten«, 1929-09-24, Wien</title>
-            <title type="alternative" when-iso="1929-09-24"/>
+            <title type="alternative" when-iso="1929-09-24">Dienstag, 24. September 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von M. F. B. in NFP 8.9.1929, S. 17. Nachgewiesener Spielort: Schweden-Kino (NFP 24.9.1929, S. 16). Notiz NFP 3.8.1929, S. 8, vermerkt, daß es sich um den ersten Tonfilm handelt, der in Wien gezeigt wurde (Premiere am 23.8.1929). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Weiße Schatten“ (Ot. „White Shadows in the South Seas“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

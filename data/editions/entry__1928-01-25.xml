@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Weber«, 1928-01-25, Wien</title>
-            <title type="alternative" when-iso="1928-01-25"/>
+            <title type="alternative" when-iso="1928-01-25">Mittwoch, 25. Januar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „Ein guter Film, gewiß. Dennoch erreicht er seine Muster nicht, und gerade das Wenige, das ihm fehlt, ist entscheidend. Hinter den Ansammlungen der armen schlesischen Hungerkünstler ist das Walten des geschulten Regisseurs zu spüren, der die Gruppen effektvoll stellt. Unentwickelt ist die Kunst der Raumbeherrschung, die den Russen eignet (wenn sie Militär marschieren lassen, dröhnt der Platz, während in dem deutschen Film die Soldaten nur marschieren). […] Diese formalen Unsicherheiten sind das Merkmal einer Schwäche, die tiefer liegt. Man hat, überschwenglich genug, dem Film den Ehrentitel des ‚deutschen Potemkin‘ verliehen. Er ist es nicht, denn er betrifft uns nicht mehr unmittelbar. Der Schiffsarzt aus dem ‚Potemkin‘ lebt noch heute, und der Fabrikant in dem Film ‚Mutter‘ stammt aus der Maschinenzeit. Die Empörung wider die durch beide Gestalten bezeichneten Herrschaftsverhältnisse greift in die Gegenwart“ (SK I, 351). „Aber das Ganze ist wirklich ein Ganzes, durchpulst von großer sozialer wie regiefilmischer Bewegung“ (Kurt Pinthus, In: Das Tagebuch, Jg. 8, 1927, S. 842). Vgl. Hätte ich das Kino, S. 174ff. Ankündigung NFP 6.1.1928, S. 21, weitere Ankündigung und Anzeige NFP 13.1.1928, S. 18/19.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Weber“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

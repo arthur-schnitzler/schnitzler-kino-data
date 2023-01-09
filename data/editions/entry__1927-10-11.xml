@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frau Ohne Namen«, 1927-10-11, Wien</title>
-            <title type="alternative" when-iso="1927-10-11"/>
+            <title type="alternative" when-iso="1927-10-11">Dienstag, 11. Oktober 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Dieser Film […] ermöglicht auf bequeme Art eine Reise um die Welt“ (SK I 342). Anzeige NFP 9.9.1927, S. 16, dort nachgewiesene Spielorte: Imperial-, Schottenring-, Flieger-, Kolosseum-, Schönbrunner Schloß- und Apollo-Kino sowie Eos-Lichtspiele: „Die Frau ohne Namen / nach einer aufregenden Jagd durch alle Weltteile / heute gefunden und zu sehen / in nachstehenden Kinos […] Sie werden durch diesen Großfilm kennenlernen: San Francisco, Arizona, China (Shanghai), Japan, Honolulu (Hawai), Newyork, Australien etc. […]“ </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau ohne Namen“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926/27]</date>
@@ -135,7 +135,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__22" type="wirt">
+            <place xml:id="ask_wirt__22" type="wirt">
                <placeName>Zum silbernen Brunnen</placeName>
                <location>
                   <address>

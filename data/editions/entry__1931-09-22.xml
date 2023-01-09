@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tabu«, 1931-09-22, Wien</title>
-            <title type="alternative" when-iso="1931-09-22"/>
+            <title type="alternative" when-iso="1931-09-22">Dienstag, 22. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Ankündigung NFP 4.8.1931, S. 10. Notiz NFP 7.8.1931, S. 10. Anzeige und Premierennotiz NFP 14.8.1931, S. 7f.: Imperial- und Opern-Kino. Notiz NFP 31.7.1931, S. 10. Besprechung NFP 18.8.1931, S. 10. Keine genaue namentliche Übereinstimmung mit bekannten Kinonamen. Zu Kinos, die »Währing« im Namen tragen, vgl. den Kommentar zum Eintrag vom 25.3.1931. Nachgewiesener Spielort für den Tag: Kalvarienberg-Kino (NZG 22.9.1931, S. 8).</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Tabu“ (Ut. „Verbotene Liebe im Südseeparadies“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

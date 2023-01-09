@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Komödiantin«, 1929-07-27, Wien</title>
-            <title type="alternative" when-iso="1929-07-27"/>
+            <title type="alternative" when-iso="1929-07-27">Samstag, 27. Juli 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -73,8 +73,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „nett erzählt und filmisch reizend entwickelt“ (SK II, S. 209). Nachgewiesener Spielort: Flieger-Kino (NZG 27.7.1929, S. 8). In PFL ist der Kinostart erst für die neue Saison angegeben.</ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Komödiantin“ („The Actress“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

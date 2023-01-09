@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Warschauer Citadelle«, 1930-05-03, Wien</title>
-            <title type="alternative" when-iso="1930-05-03"/>
+            <title type="alternative" when-iso="1930-05-03">Samstag, 03. Mai 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -72,8 +72,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz NFP 11.4.1930, S. 11, für 19.4.1930. Nachgewiesener Spielort: Uhu-Kino (NZG 3.5.1930, S. 7). </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Warschauer Zitadelle“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

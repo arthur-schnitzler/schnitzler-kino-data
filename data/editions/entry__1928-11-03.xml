@@ -9,7 +9,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Alraune«, 1928-11-03, Wien</title>
-            <title type="alternative" when-iso="1928-11-03"/>
+            <title type="alternative" when-iso="1928-11-03">Samstag, 03. November 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -69,8 +69,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Die etwas falschen Schauer im Text sind von der Ufa und ihrem Regisseur Henrik Galeen weidlich ausgenutzt worden“ (SK I, S. 31). Schnitzler und Pollaczek sehen eine Tonfilmversion am 27. Januar 1931. Anzeige und Ankündigung NFP 2.11.1928, S. 7, unter Angabe von zehn Spielorten. Besprechung NFP 3.11.1928, S. 9f. Nachgewiesene Spielorte: Imperial-, Opern- und Palast-Kino sowie Lustspieltheater. </ab>
          </div>
          <div type="film">
-            <table  type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+            <table type="movies">
+               <row>
                   <cell role="data" ana="Filmtitel">„Alraune“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
@@ -136,7 +136,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-            <place  xml:id="ask_wirt__37" type="wirt">
+            <place xml:id="ask_wirt__37" type="wirt">
                <placeName>Zur Linde</placeName>
                <location>
                   <address>
