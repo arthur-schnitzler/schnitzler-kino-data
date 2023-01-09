@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-05-29.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-05-29.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>29/5 […] Mit C. P. Kino „Das nackte Mädchen“ (Ev. Holt), dann Meissl soup.– […]</ab></div>
-         <div type="anmerkung"><ab>In den Programmen der Tagespresse nicht nachgewiesen. Der Film wurde bei der ersten Zensurprüfung (2024m) am 2. Oktober 1929 verboten und nach einer zweiten Prüfung acht Tage darauf und mit einer Kürzung auf 1960m unter Jugendverbot zugelassen. Das Verbot wurde begründet mit »Bildfolgen« wie der Darstellung vom »zweimaligen Versuch dem Mädchen das Kleid zu heben«, einem Bauchtanz, dem lüsternen Verhalten der Männer sowie einem  Vergewaltigungsversuch (vgl. http://www.deutsches-filminstitut.de/filme/f015087.htm). „Dieser Film ist das Produkt einer etwas peinlichen Phantasie […] Eine Spekulation auf Publikumsinstinkte, die so transparent ist wie der Schleier“ (SK II, S. 303).</ab></div>
+         <div type="as">
+            <ab>29/5 […] Mit C. P. Kino „Das nackte Mädchen“ (Ev. Holt), dann Meissl soup.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>In den Programmen der Tagespresse nicht nachgewiesen. Der Film wurde bei der ersten Zensurprüfung (2024m) am 2. Oktober 1929 verboten und nach einer zweiten Prüfung acht Tage darauf und mit einer Kürzung auf 1960m unter Jugendverbot zugelassen. Das Verbot wurde begründet mit »Bildfolgen« wie der Darstellung vom »zweimaligen Versuch dem Mädchen das Kleid zu heben«, einem Bauchtanz, dem lüsternen Verhalten der Männer sowie einem  Vergewaltigungsversuch (vgl. http://www.deutsches-filminstitut.de/filme/f015087.htm). „Dieser Film ist das Produkt einer etwas peinlichen Phantasie […] Eine Spekulation auf Publikumsinstinkte, die so transparent ist wie der Schleier“ (SK II, S. 303).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Nackte Mädchen“ („Die Schleiertänzerin“) [Ot. „Le meneur de joies“]</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>C. Burguet</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Franco-Maxim-Film</orgName></cell>
-                  <cell role="data">Evelyn Holt, Edith Meinhardt, Maria Forescu, René Navarre, André Mattoni, Harry Hardt, Carl de Vogt, Paul Grätz, Max Maximilian</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Nackte Mädchen“ („Die Schleiertänzerin“) [Ot. „Le meneur de joies“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>C. Burguet</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Franco-Maxim-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Evelyn Holt, Edith Meinhardt, Maria Forescu, René Navarre, André Mattoni, Harry Hardt, Carl de Vogt, Paul Grätz, Max Maximilian</cell>
                </row>
             </table>
          </div>
@@ -133,7 +138,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

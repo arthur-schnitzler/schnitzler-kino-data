@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-09-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-09-18.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>18/9 […] Mit C. P. (Heimat) Kino „Privatsecretärin“;– dann mit ihr bei mir zu Haus genachtm.– […]</ab></div>
-         <div type="anmerkung"><ab>Ein Film, „in dem wieder einmal die Stenotypistin ausgerechnet den Bankdirektor bekommt“ (SK II, S. 442). 
-Ankündigung NFP 13.3.1931, S. 9. Notizen NFP 20.3.1931, S. 7, NFP 3.3.1931, S. 11. Besprechung von Felix Cleve in NFP 9.4.1931, S. 10. Spielort bestätigt NFP 18.9.1931, S. 15.</ab></div>
+         <div type="as">
+            <ab>18/9 […] Mit C. P. (Heimat) Kino „Privatsecretärin“;– dann mit ihr bei mir zu Haus genachtm.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Ein Film, „in dem wieder einmal die Stenotypistin ausgerechnet den Bankdirektor bekommt“ (SK II, S. 442). 
+Ankündigung NFP 13.3.1931, S. 9. Notizen NFP 20.3.1931, S. 7, NFP 3.3.1931, S. 11. Besprechung von Felix Cleve in NFP 9.4.1931, S. 10. Spielort bestätigt NFP 18.9.1931, S. 15.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Privatsekretärin“</cell>
-                  <cell role="data"><date>[1930/31]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Wilhelm Thiele</persName></cell>
-                  <cell role="data"><persName>Franz Schulz</persName></cell>
-                  <cell role="data"><orgName>Greenbaum-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Renate Müller, Hermann Thimig, Felix Bressart, Ludwig Stössel u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Privatsekretärin“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930/31]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Wilhelm Thiele</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Franz Schulz</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Greenbaum-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Renate Müller, Hermann Thimig, Felix Bressart, Ludwig Stössel u.a.</cell>
                </row>
             </table>
          </div>
@@ -122,15 +127,16 @@ Ankündigung NFP 13.3.1931, S. 9. Notizen NFP 20.3.1931, S. 7, NFP 3.3.1931, S. 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__17" type="kino">
-               <orgName>Heimatkino</orgName>
-               <location><address><addrLine>09., Porzellangasse 19</addrLine></address></location>
+            <place  xml:id="ask_kino__17" type="kino">
+               <placeName>Heimatkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Porzellangasse 19</addrLine>
+                  </address>
+               </location>
                <note type="info"> Gründung 7.3.1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914: 593 Sitzplätze (davon 4 Logenplätze), 1922: 617 (60).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-05-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-05-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/5 […] Mit C. P. Kino, „Robert und Bertram“, bei mir mit ihr genachtm.</ab></div>
-         <div type="ckp"><ab>16.5. […] Am Abend mit ihm im Kino, harmloser Film mit Liedtke „Robert und Bertram“ Dann bei ihm Worterraten gespielt. Trotzdem sehr zärtlich. [II, 240]</ab></div>
-         <div type="anmerkung"><ab>Fragliche Datierung Pollaczeks: Der Eintrag vom 16. Mai 1929 ist sehr lang und beginnt mit der Beschreibung des Geburtstags von Schnitzler tags zuvor sowie der Schilderung eines Gesprächs mit Dr. Ferdinand Donath über den Gesundheitszustand des Jubilars und Pollaczeks Verantwortung für ihn. Erwähnung einer von der NFP gegen ein Honorar von 1000 Schilling angenommenen Novelle (vermutlich »Die Tochter des Hauses«). Darauf folgt die Schilderung des Kinobesuchs.
-Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dort nachgewiesene Spielorte: Gartenbau-, Löwen-, Haydn-, Palast-, Flieger-, Kolosseum-, Schönbrunner Schloß- und Theater-Kino sowie Kino Handl. </ab></div>
+         <div type="as">
+            <ab>17/5 […] Mit C. P. Kino, „Robert und Bertram“, bei mir mit ihr genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>16.5. […] Am Abend mit ihm im Kino, harmloser Film mit Liedtke „Robert und Bertram“ Dann bei ihm Worterraten gespielt. Trotzdem sehr zärtlich. [II, 240]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Fragliche Datierung Pollaczeks: Der Eintrag vom 16. Mai 1929 ist sehr lang und beginnt mit der Beschreibung des Geburtstags von Schnitzler tags zuvor sowie der Schilderung eines Gesprächs mit Dr. Ferdinand Donath über den Gesundheitszustand des Jubilars und Pollaczeks Verantwortung für ihn. Erwähnung einer von der NFP gegen ein Honorar von 1000 Schilling angenommenen Novelle (vermutlich »Die Tochter des Hauses«). Darauf folgt die Schilderung des Kinobesuchs.
+Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dort nachgewiesene Spielorte: Gartenbau-, Löwen-, Haydn-, Palast-, Flieger-, Kolosseum-, Schönbrunner Schloß- und Theater-Kino sowie Kino Handl. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Robert und Bertram“</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Rudolf Walther-Fein</persName></cell>
-                  <cell role="data"><persName>[Gustav] Raeder (Vorlage gleichnamiges Bühnenstück)</persName></cell>
-                  <cell role="data"><orgName>Aafa-Film</orgName></cell>
-                  <cell role="data">Harry Liedtke, Fritz Kampers, Karl Geppert, Hermann Picha, Dolly Grey, Elizza la Porta</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Robert und Bertram“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Rudolf Walther-Fein</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Gustav] Raeder (Vorlage gleichnamiges Bühnenstück)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Aafa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harry Liedtke, Fritz Kampers, Karl Geppert, Hermann Picha, Dolly Grey, Elizza la Porta</cell>
                </row>
             </table>
          </div>
@@ -134,7 +141,6 @@ Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dor
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

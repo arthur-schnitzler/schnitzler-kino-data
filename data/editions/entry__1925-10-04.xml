@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-10-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-10-04.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>4/10 […] C. P. abgeholt; Kino (Großstadtkavaliere); Nachtmahlen bei Pohl […].– […].</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz und Anzeige NFP 11.9.1925, S. 20, unter dem ursprünglichen Titel »Das Warenhausmädel«.</ab></div>
+         <div type="as">
+            <ab>4/10 […] C. P. abgeholt; Kino (Großstadtkavaliere); Nachtmahlen bei Pohl […].– […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz und Anzeige NFP 11.9.1925, S. 20, unter dem ursprünglichen Titel »Das Warenhausmädel«.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Großstadtkavaliere“ („Das Warenhausmädel“ / „Die Kleine aus der Konfektion“)</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>[Wolfgang Neff]</persName></cell>
-                  <cell role="data"><persName>[Ruth Goetz]</persName></cell>
-                  <cell role="data"><orgName>Nivo-Film</orgName></cell>
-                  <cell role="data">Reinhold Schünzel, Carl Beckersachs, Henry Peters-[Arnolds], Evi Eva, Lilly Flohr, Margarete Kupfer, Olga Engl, Claire [Rommer] u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Großstadtkavaliere“ („Das Warenhausmädel“ / „Die Kleine aus der Konfektion“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Wolfgang Neff]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Ruth Goetz]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Nivo-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Reinhold Schünzel, Carl Beckersachs, Henry Peters-[Arnolds], Evi Eva, Lilly Flohr, Margarete Kupfer, Olga Engl, Claire [Rommer] u.a.</cell>
                </row>
             </table>
          </div>
@@ -134,7 +139,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

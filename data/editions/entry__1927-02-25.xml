@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-02-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-02-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/2 […] Mit C. P. Kino („Daemon Weib“) – dann beim Leupold (neue Wirthin) genachtm.</ab></div>
-         <div type="anmerkung"><ab>»Leupold«: Vermutlich Gastwirtschaft Alfred Leupold, Wien 1., Schottengasse 3
+         <div type="as">
+            <ab>25/2 […] Mit C. P. Kino („Daemon Weib“) – dann beim Leupold (neue Wirthin) genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Leupold«: Vermutlich Gastwirtschaft Alfred Leupold, Wien 1., Schottengasse 3
 Besprechung von H. Sch. in NFP 11.3.1927, S. 16: „Ursprünglich war es im amerikanischen Original eine ‚Temptress‘, eine Versucherin und Verführerin, eine Circe, eine Schwester des dort drüben im Film heimischen ‚Vamp‘, des weiblichen Vampires. Beide verdanken ihre Existenz wohl nur der Phantasie der Szenarioautoren, die sie die gewagtesten psychologischen Kapriolen ausführen lassen, ohne sich an die Wirklichkeit des Lebens gebunden zu fühlen. Auch dieser ‚Dämon Weib‘ ist eine reinblütige literatische Konstruktion: eine schöne Frau, der die Männer zu Füßen liegen und für sie zugrunde gehen und die doch in Anwandlungen amerikanisierter Lulu-Stimmungen an allem schuldlos ist. Bis auch dieser Dämon seinen Bezwinger findet: einen Mann, dem das Weib – siegend – besiegt verfallen ist und der es sich erst erkämpfen muß. […] 
 Fred Niblo, der ‚Ben Hur‘-Regisseur, hat dem mit dramatischer Dynamik gefüllten Sujet von Ibanez durch seine Regie starke filmische Wirkungen abgewonnen. Er verwandelt die oft nur dichterisch-mathematischen Konstruktionen des Autors in wirkliches Leben, ohne dabei allerdings, wie bei der Peitschenduellszene, vor sehr krassen Bildern zurückzuschrecken. Jeder Auftritt hat bei Niblo seinen dramatischen Höhe- und Kontrapunkt und das Spiel einen gigantischen Hintergrund, der uns auch das Geschehen im Vordergrund großartig erscheinen läßt. Dabei spart Niblo nicht mit der Ausstattung und schafft Bilder von eindringlichster Wirkung. 
-Greta Garbo ist wunderschön; deshalb findet man sich damit ab, daß ihre nordische Madonnenhaftigkeit absolut nicht für die Rolle einer Verführerin geeignet ist. […] Man darf ‚Dämon Weib‘ als einen der interessantesten der neuen Filme bezeichnen.“</ab></div>
+Greta Garbo ist wunderschön; deshalb findet man sich damit ab, daß ihre nordische Madonnenhaftigkeit absolut nicht für die Rolle einer Verführerin geeignet ist. […] Man darf ‚Dämon Weib‘ als einen der interessantesten der neuen Filme bezeichnen.“</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Dämon Weib“ („Die Versucherin“, „The Temptress“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Fred Niblo</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Metro-Goldwyn-Film</orgName></cell>
-                  <cell role="data">Greta Garbo, Antonio Moreno, Roy d’Arcy</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Dämon Weib“ („Die Versucherin“, „The Temptress“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fred Niblo</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Goldwyn-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Greta Garbo, Antonio Moreno, Roy d’Arcy</cell>
                </row>
             </table>
          </div>
@@ -114,13 +119,15 @@ Greta Garbo ist wunderschön; deshalb findet man sich damit ab, daß ihre nordis
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__16" type="wirt">
+               <placeName>Vermutlich Gastwirtschaft Alfred Leupold</placeName>
+               <location>
+                  <address>
+                     <addrLine>Schottengasse 3, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__16" type="wirt">
-               <orgName>Vermutlich Gastwirtschaft Alfred Leupold</orgName>
-               <location><address><addrLine>Schottengasse 3, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

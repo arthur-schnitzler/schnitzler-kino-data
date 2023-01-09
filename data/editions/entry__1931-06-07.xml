@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-06-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-06-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/6 […] Mit C. P. (Imperial) Kino „General“ (Conrad Veidt) dann im Deutschen Haus genachtm. (im Freien) dann Metrophon (Schallplatten). Heimfahrt wie gewöhnlich; Thränen C. P.</ab></div>
-         <div type="ckp"><ab>8.6. Gestern Mittag bei A. mit Heini und dem alten Schwarzkopf. Es war nicht sehr heiter, trotzdem ich sehr gesprächig war. Abend mit A. im Kino. „Der General“ mit Veidt und Tschechowa. Recht guter Film. Nachher im Hof vom Deutschen Haus genachtmahlt und zum Schluss wieder Pathephonkonzert. Auf der Heimfahrt bekam ich einen Weinkrampf, den A. einfach ignorierte. Diese Abende machen mich krank. Unaufrichtigkeit, Lüge, Kälte zwischen uns. Heute Abend will er zu Hagenbeck gehen, obwohl ich ihm direkt sagte, es hätte nur einen Sinn, wenn <hi>er</hi> Wert darauf legt. <hi>Ich</hi> brauche diese Abende nicht mehr.
-Nach Tisch recht rasch abklingende Gallenschmerzen, die ich durch Papeverin koupierte. Harrys Plan nach Südamerika zu gehen gewinnt festere Formen – –. [III, 184]</ab></div>
-         <div type="anmerkung"><ab>»zu Hagenbeck«: Pollaczek und Schnitzler besuchten am Folgetag den Zirkus Hagenbeck im Prater.
-Notizen NFP 19.5.1931, S. 10, und 29.5.1931, S. 13. Anzeige und Premierennotiz für Opern- und Imperial-Kino NFP 5.6.1931, S. 5/14. Spielort bestätigt NFP 7.6.1931, S. 26. Besprechung von f. in NFP 7.6.1931, S. 20.</ab></div>
+         <div type="as">
+            <ab>7/6 […] Mit C. P. (Imperial) Kino „General“ (Conrad Veidt) dann im Deutschen Haus genachtm. (im Freien) dann Metrophon (Schallplatten). Heimfahrt wie gewöhnlich; Thränen C. P.</ab>
+         </div>
+         <div type="ckp">
+            <ab>8.6. Gestern Mittag bei A. mit Heini und dem alten Schwarzkopf. Es war nicht sehr heiter, trotzdem ich sehr gesprächig war. Abend mit A. im Kino. „Der General“ mit Veidt und Tschechowa. Recht guter Film. Nachher im Hof vom Deutschen Haus genachtmahlt und zum Schluss wieder Pathephonkonzert. Auf der Heimfahrt bekam ich einen Weinkrampf, den A. einfach ignorierte. Diese Abende machen mich krank. Unaufrichtigkeit, Lüge, Kälte zwischen uns. Heute Abend will er zu Hagenbeck gehen, obwohl ich ihm direkt sagte, es hätte nur einen Sinn, wenn <hi>er</hi> Wert darauf legt. <hi>Ich</hi> brauche diese Abende nicht mehr.
+Nach Tisch recht rasch abklingende Gallenschmerzen, die ich durch Papeverin koupierte. Harrys Plan nach Südamerika zu gehen gewinnt festere Formen – –. [III, 184]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»zu Hagenbeck«: Pollaczek und Schnitzler besuchten am Folgetag den Zirkus Hagenbeck im Prater.
+Notizen NFP 19.5.1931, S. 10, und 29.5.1931, S. 13. Anzeige und Premierennotiz für Opern- und Imperial-Kino NFP 5.6.1931, S. 5/14. Spielort bestätigt NFP 7.6.1931, S. 26. Besprechung von f. in NFP 7.6.1931, S. 20.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der General“ („Die Nacht der Entscheidung“)</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Dimitri Buchowetzki</persName></cell>
-                  <cell role="data"><persName>L. Zilahy (Vorlage); [Martin Brown, Louise Long]</persName></cell>
-                  <cell role="data"><orgName>Paramount-Movietone-Film (franz. Negativ)</orgName></cell>
-                  <cell role="data">Olga Tschechowa, Conrad Veidt, Peter Voß, Trude Hesterberg u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der General“ („Die Nacht der Entscheidung“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Dimitri Buchowetzki</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>L. Zilahy (Vorlage); [Martin Brown, Louise Long]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Movietone-Film (franz. Negativ)</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Olga Tschechowa, Conrad Veidt, Peter Voß, Trude Hesterberg u.a.</cell>
                </row>
             </table>
          </div>
@@ -144,15 +151,16 @@ Notizen NFP 19.5.1931, S. 10, und 29.5.1931, S. 13. Anzeige und Premierennotiz f
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__31" type="kino">
-               <orgName>Imperialkino</orgName>
-               <location><address><addrLine>01., Rothgasse 3</addrLine></address></location>
+            <place  xml:id="ask_kino__31" type="kino">
+               <placeName>Imperialkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>01., Rothgasse 3</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1911. Tonfilm ab 1930. Fassungsraum: 1914: Ca. 480 Sitzplätze, 1922: 486 Sitzplätze (davon 58 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-10-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-10-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,37 +62,42 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/10 […] Mit C. P. Scala Kino (neu), Congress tanzt (Charell), mit ihr Meissl soup.–</ab></div>
-         <div type="ckp"><ab>6ten Okt. Abend Otto u. Emmy bei mir. A bei Schmiedl. 
+         <div type="as">
+            <ab>7/10 […] Mit C. P. Scala Kino (neu), Congress tanzt (Charell), mit ihr Meissl soup.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>6ten Okt. Abend Otto u. Emmy bei mir. A bei Schmiedl. 
 Schönes Herbst-Wetter. 
 V. Mittag. A. zufällig Türkenschanzstr. allein begegnet. Er hatte etwas Nasen-Bluten. Ich bin ängstlich.
-Dann war ich beim Zahn-Arzt, u. in der Stadt. Abend mit A. Bei „Der Congress tanzt“ im neuen Scala-Kino Gute Regie. A. etwas netter zu mir. [III, 249]</ab></div>
-         <div type="anmerkung"><ab>»bei Schmiedl«: Paula Schmiedl, geb. Speyer (1874–1966)
+Dann war ich beim Zahn-Arzt, u. in der Stadt. Abend mit A. Bei „Der Congress tanzt“ im neuen Scala-Kino Gute Regie. A. etwas netter zu mir. [III, 249]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»bei Schmiedl«: Paula Schmiedl, geb. Speyer (1874–1966)
 Da der Folgeeintrag bei Pollaczek auf den 8. Oktober datiert ist, wurde entweder bei der Abschrift des Tagebuchs die Datumsangabe übersehen oder die Bezeichnung der Tageszeit am Beginn der neuen Zeile gilt als Markierung eines neuen Eintrags.
 „Wenn es aufs Arrangement und die Versiertheit ankäme, wäre [der Film] in der Tat perfekt“ (SK II, S. 551). 
-Ankündigung NFP 11.8.1931, S. 9, mit der Angabe, daß damit das Scala-Kino neu eröffnet werde, spezifiziert auf den Eröffnungstermin 29.9.1931 in NFP 15.9.1931, S. 11. Zum »Scala Tonfilmpalast« vgl. auch NFP 30.9.1931, S. 9. Besprechung NFP 29.9.1931, S. 9. Anzeige NFP 30.9.1931, S. 3. Auszug aus einem Gespräch mit Lilian Harvey in NFP 30.9.1931, S. 7. Spielort nachgewiesen NFP 7.10.1931, S. 15.</ab></div>
+Ankündigung NFP 11.8.1931, S. 9, mit der Angabe, daß damit das Scala-Kino neu eröffnet werde, spezifiziert auf den Eröffnungstermin 29.9.1931 in NFP 15.9.1931, S. 11. Zum »Scala Tonfilmpalast« vgl. auch NFP 30.9.1931, S. 9. Besprechung NFP 29.9.1931, S. 9. Anzeige NFP 30.9.1931, S. 3. Auszug aus einem Gespräch mit Lilian Harvey in NFP 30.9.1931, S. 7. Spielort nachgewiesen NFP 7.10.1931, S. 15.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Kongreß tanzt“</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Eric Charell</persName></cell>
-                  <cell role="data"><persName>[Norbert] Falk, [Robert] Liebmann</persName></cell>
-                  <cell role="data"><orgName>Ufa-Klangfilm</orgName></cell>
-                  <cell role="data">Lilian Harvey, Lil Dagover, Adele Sandrock, Margarete Kupfer, Willy Fritsch (Doppelrolle), Conrad Veidt, [Carl-Heinz] Schroth, Otto Wallburg, Paul Hörbiger, Julius Falkenstein u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Kongreß tanzt“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Eric Charell</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Norbert] Falk, [Robert] Liebmann</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lilian Harvey, Lil Dagover, Adele Sandrock, Margarete Kupfer, Willy Fritsch (Doppelrolle), Conrad Veidt, [Carl-Heinz] Schroth, Otto Wallburg, Paul Hörbiger, Julius Falkenstein u.a.</cell>
                </row>
             </table>
          </div>
@@ -163,15 +170,16 @@ Ankündigung NFP 11.8.1931, S. 9, mit der Angabe, daß damit das Scala-Kino neu 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__49" type="kino">
-               <orgName>Scala</orgName>
-               <location><address><addrLine>04., Favoritenstraße 8</addrLine></address></location>
+            <place  xml:id="ask_kino__49" type="kino">
+               <placeName>Scala</placeName>
+               <location>
+                  <address>
+                     <addrLine>04., Favoritenstraße 8</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnung/Schließung: 1931-1933. Tonfilm ab 1931. Fassungsraum: Ehemaliges Johann Strauß Theater. Zwei Ränge. 1931: 1360 Sitzplätze.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

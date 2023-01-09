@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-02-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-02-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/2 […] Mit C. P. Kino (Glanz und Elend der Kurtisanen) – mit ihr bei mir genachtm. Das Gespräch zuerst ganz lahm; dann bitter. Ihre Enttäuschung, wo wir im 6. Jahre seien; wieder mit besonderm Bezug auf O.;– […] Ich verkrampfte mich natürlich immer mehr und brachte kein versöhnliches Wort heraus. – Was sie richtig empfindet – dass ich sie „eigentlich“ nicht liebe;– dumm, nicht nur ungeschickt ihre Eifersucht auf O. (und nicht nur auf die). […]</ab></div>
-         <div type="anmerkung"><ab>»Sämtliche Romanmotive sind verändert; zu ihrem Nachteil, wie sich versteht« (SK I, S. 392). Ankündigung NFP 10.2.1928, S. 19. Besprechung von Lilly Klaudy in NFP 12.2.1928, S. 18. Besprechung »Balzac-Filme« von Max Messer (gemeinsam mit »Der Landarzt«) in der »Film-Rundschau« der NFP 24.2.1928, S. 20.</ab></div>
+         <div type="as">
+            <ab>14/2 […] Mit C. P. Kino (Glanz und Elend der Kurtisanen) – mit ihr bei mir genachtm. Das Gespräch zuerst ganz lahm; dann bitter. Ihre Enttäuschung, wo wir im 6. Jahre seien; wieder mit besonderm Bezug auf O.;– […] Ich verkrampfte mich natürlich immer mehr und brachte kein versöhnliches Wort heraus. – Was sie richtig empfindet – dass ich sie „eigentlich“ nicht liebe;– dumm, nicht nur ungeschickt ihre Eifersucht auf O. (und nicht nur auf die). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Sämtliche Romanmotive sind verändert; zu ihrem Nachteil, wie sich versteht« (SK I, S. 392). Ankündigung NFP 10.2.1928, S. 19. Besprechung von Lilly Klaudy in NFP 12.2.1928, S. 18. Besprechung »Balzac-Filme« von Max Messer (gemeinsam mit »Der Landarzt«) in der »Film-Rundschau« der NFP 24.2.1928, S. 20.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Glanz und Elend der Kurtisanen“</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Manfred Noa</persName></cell>
-                  <cell role="data"><persName>Honorée de Balzac (Vorlage Roman „Splendeurs et misères des courtisanes“); [Josef Than (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Noa-Film</orgName></cell>
-                  <cell role="data">Paul Wegener, Werner Fütterer, Kurt Gerron, Ferdinand von Alten, Eugen Burg, Andrée La Fayette, Helene [von] Münchhofen u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Glanz und Elend der Kurtisanen“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Manfred Noa</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Honorée de Balzac (Vorlage Roman „Splendeurs et misères des courtisanes“); [Josef Than (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Noa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Paul Wegener, Werner Fütterer, Kurt Gerron, Ferdinand von Alten, Eugen Burg, Andrée La Fayette, Helene [von] Münchhofen u.a.</cell>
                </row>
             </table>
          </div>
@@ -146,13 +151,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__1" type="wirt">
+               <placeName>Wohnung Schnitzler</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__1" type="wirt">
-               <orgName>Wohnung Schnitzler</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

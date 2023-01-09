@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-03-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-03-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/3 […] Mit C. P. Kino (die lebende Maske – Heinrich IV., Pirandello) Conrad Veidt;– unwahrscheinlich dumm.– Mit C. P. silb. Brunnen soup. </ab></div>
-         <div type="anmerkung"><ab>„Veidt hat große Szenen, seine Erscheinung ist faszinierend, sein Gang von sonderbarer Bedeutung. In den Großaufnahmen übertreibt er die Ironie“ (SK I, S. 376). »Wie verhält sich der Darsteller zu den von ihm verkörperten Persönlichkeiten? Ganz präzise: die sogenannten Bösewichte sind im Grund genommen nicht so schlecht, und wenn ich sie gerne spiele, so ist es nicht darum, weil mir das Zerstörende ihres Wesens liegt, sondern weil ich den Zipfel Menschentum, der im bösesten Böse­wicht verborgen ist, zeigen will« (Conrad Veidt an B. Z. am Mittag, 1928, zit. nach Hätte ich das Kino 1976, S. 293. Besprechung NFP 18.3.1927, S. 18.   </ab></div>
+         <div type="as">
+            <ab>17/3 […] Mit C. P. Kino (die lebende Maske – Heinrich IV., Pirandello) Conrad Veidt;– unwahrscheinlich dumm.– Mit C. P. silb. Brunnen soup. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Veidt hat große Szenen, seine Erscheinung ist faszinierend, sein Gang von sonderbarer Bedeutung. In den Großaufnahmen übertreibt er die Ironie“ (SK I, S. 376). »Wie verhält sich der Darsteller zu den von ihm verkörperten Persönlichkeiten? Ganz präzise: die sogenannten Bösewichte sind im Grund genommen nicht so schlecht, und wenn ich sie gerne spiele, so ist es nicht darum, weil mir das Zerstörende ihres Wesens liegt, sondern weil ich den Zipfel Menschentum, der im bösesten Böse­wicht verborgen ist, zeigen will« (Conrad Veidt an B. Z. am Mittag, 1928, zit. nach Hätte ich das Kino 1976, S. 293. Besprechung NFP 18.3.1927, S. 18.   </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Lebende Maske“ („Die Flucht in die Nacht“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Amleto Palmeri</persName></cell>
-                  <cell role="data"><persName>[Luigi] Pirandello (Vorlage Bühnenstück „Heinrich IV“)</persName></cell>
-                  <cell role="data"><orgName>Nero-Film</orgName></cell>
-                  <cell role="data">Conrad Veidt, Angelo Ferrari, Robert Scholz, Hermann Vallentin, Agnes Esterházy, Henriette Fantis</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Lebende Maske“ („Die Flucht in die Nacht“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Amleto Palmeri</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Luigi] Pirandello (Vorlage Bühnenstück „Heinrich IV“)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Nero-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conrad Veidt, Angelo Ferrari, Robert Scholz, Hermann Vallentin, Agnes Esterházy, Henriette Fantis</cell>
                </row>
             </table>
          </div>
@@ -127,13 +132,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-11-23.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-11-23.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>23/11 […] Mit C. P. Kino, „Geld auf der Straße“. Jammervoll. Sie nachtm. bei mir.– </ab></div>
-         <div type="ckp"><ab>23.11. Im Kino mit A., dann bei ihm. Zum Sterben langweilig. [III, 124]</ab></div>
-         <div type="anmerkung"><ab>Datierung bei Pollaczek fraglich, sie notiert den Besuch des Films am 27. November.
+         <div type="as">
+            <ab>23/11 […] Mit C. P. Kino, „Geld auf der Straße“. Jammervoll. Sie nachtm. bei mir.– </ab>
+         </div>
+         <div type="ckp">
+            <ab>23.11. Im Kino mit A., dann bei ihm. Zum Sterben langweilig. [III, 124]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Datierung bei Pollaczek fraglich, sie notiert den Besuch des Films am 27. November.
 Premierennotiz NFP 7.11.1930, S. 9, für 11.11.1930. Besprechung von f.s. [Felix Salten?] in NFP 14.11.1930, S.11. 
 „Wer glaubt, daß es mit dieser Tonfilmproduktion nicht mehr so weiter gehen könne, ist in einem Irrtum befangen: es geht doch so weiter“ (SK II, S. 439). 
-Nachgewiesene Spielorte: Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 23.11.1930, S. 36, und NZG 23.11.1930, S. 16).</ab></div>
+Nachgewiesene Spielorte: Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 23.11.1930, S. 36, und NZG 23.11.1930, S. 16).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Geld auf der Straße“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>Ö</placeName></cell>
-                  <cell role="data"><persName>Georg Jacoby, Julius Urgiß</persName></cell>
-                  <cell role="data"><persName>[Rudolf] Bernauer, [Rudolf] Österreicher (Vorlage); [Friedrich] Raff</persName></cell>
-                  <cell role="data"><orgName>Sascha-Tobis</orgName></cell>
-                  <cell role="data">Georg Alexander, Leopold Kramer, Hans Moser, Hugo Thimig, Hans Thimig, Ernst Arnold, Arnold Ziegler, Lydia Potechina, Rosa Albach-Retty</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Geld auf der Straße“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Georg Jacoby, Julius Urgiß</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Rudolf] Bernauer, [Rudolf] Österreicher (Vorlage); [Friedrich] Raff</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Sascha-Tobis</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Georg Alexander, Leopold Kramer, Hans Moser, Hugo Thimig, Hans Thimig, Ernst Arnold, Arnold Ziegler, Lydia Potechina, Rosa Albach-Retty</cell>
                </row>
             </table>
          </div>
@@ -157,7 +164,6 @@ Nachgewiesene Spielorte: Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 23.11.1930
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

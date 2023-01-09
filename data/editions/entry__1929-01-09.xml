@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-01-09.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-01-09.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>9/1 […] Mit C. P. Schwarzenbergplatz Kammerspiele – den Film „Freiwild“ ansehn;– Hugo und Gerty waren zufällig auch dort – der Film ist leidlich; aber in eine ganz falsche Landschaft mit falschem Milieu verlegt – Winter; eigentlich kleine deutsche Garnison. Evelyn Holt recht gut, langweilig; Kastner (Karinski) monoton; sonst alles gutes Mittelmass.– Sonderbar, als an irgend einer Stelle Musik zu Ariadne tönte. Wir dachten und sprachen davon (Hugo und ich) – wenn uns jemand vor 30 Jahren dieses Bild, diese Situation gezeigt hätte – ohne dass wir von „Film“ noch was ahnten.– Worin mag die Unlogik des Sujets begründet sein – ? Oder besser: worin dass das Stück unlogisch wirkt – ?– Mit C. P. genachtm. Rest. Hartmann. </ab></div>
-         <div type="ckp"><ab>10.1. Gestern im Kino „Freiwild“-Film. Hugo H. und Gerty zufällig getroffen. Dem Film fehlt die Atmosphäre, aber der Sinn des Stückes kommt doch zum Ausdruck. Im Restaurant Hartmann genachtmahlt. [II, 191]</ab></div>
-         <div type="anmerkung"><ab>»Hugo H. und Gerty«: Hugo von Hofmannsthal und Gattin
+         <div type="as">
+            <ab>9/1 […] Mit C. P. Schwarzenbergplatz Kammerspiele – den Film „Freiwild“ ansehn;– Hugo und Gerty waren zufällig auch dort – der Film ist leidlich; aber in eine ganz falsche Landschaft mit falschem Milieu verlegt – Winter; eigentlich kleine deutsche Garnison. Evelyn Holt recht gut, langweilig; Kastner (Karinski) monoton; sonst alles gutes Mittelmass.– Sonderbar, als an irgend einer Stelle Musik zu Ariadne tönte. Wir dachten und sprachen davon (Hugo und ich) – wenn uns jemand vor 30 Jahren dieses Bild, diese Situation gezeigt hätte – ohne dass wir von „Film“ noch was ahnten.– Worin mag die Unlogik des Sujets begründet sein – ? Oder besser: worin dass das Stück unlogisch wirkt – ?– Mit C. P. genachtm. Rest. Hartmann. </ab>
+         </div>
+         <div type="ckp">
+            <ab>10.1. Gestern im Kino „Freiwild“-Film. Hugo H. und Gerty zufällig getroffen. Dem Film fehlt die Atmosphäre, aber der Sinn des Stückes kommt doch zum Ausdruck. Im Restaurant Hartmann genachtmahlt. [II, 191]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Hugo H. und Gerty«: Hugo von Hofmannsthal und Gattin
 Pollaczek berichtet Schnitzler am 4. Januar 1929 nach Berlin vom Wiener Kinostart des Films: »Jetzt ist ›Freiwild‹ überall angeschlagen als ›Meisterfilmwerk‹ von A. S., was ich saudumm finde. Es wäre richtiger gewesen nach einem ›Jugendwerk von A. S.‹, Meisterwerk kann man bei der ›Else‹ sagen. Ich warte mit dem ›Freiwild‹ natürlich bis Du da bist. Jetzt sind es noch drei lange Tage!« (CKP II, 187f.)
-Die fünfte Schnitzler-Verfilmung. Uraufführung am 21.2.1928. Vgl. Tatsachen 2006, S. 333 und Wolf 2006, S. 80–84. „Holger Madsen, der Regisseur, ist der Bühnenentwicklung auf der Leinwand zu ausführlich gefolgt, hat aber, vor allem bei der Behandlung des Requisits, anständige Arbeit geleistet“ (SK II, S. 42). Kurt Sonnenfeld schreibt in seiner »Schnitzlers ›Freiwild‹ im Film« betitelten Rezension: »Die ehrfurchtsvolle Treue, mit der sich diese Verfilmung um Schnitzlers unverwelkliches und weder durch den politischen noch durch den künstlerischen Umsturz in seinen Wirkungen beeinträchtigtes Schauspiel bemüht, ist überaus rühmenswert. Warum aus dem sommerlichen Badeort in Schnitzlers Drama die winterliche Garnisonsstadt des Films werden mußte, ist freilich nicht recht einzusehen. Die von straffem Rhythmus erfüllten Szenen im Offizierskasino und die prachtvollen Landschaftsbilder aus dem verschneiten Wald sind kein vollwertiger Ersatz für den spezifisch österreichischen, durch sein feines Aroma unvergleichlichen Stimmungsreiz des Schnitzlerischen Kurortes. […] Dieser Film ist wohl nur ein Widerschein des Schnitzlerschen Werkes, aber selbst dieser Widerschein flammt wie eine Feuersbrunst.« (NFP 5.1.1929, S. 9)</ab></div>
+Die fünfte Schnitzler-Verfilmung. Uraufführung am 21.2.1928. Vgl. Tatsachen 2006, S. 333 und Wolf 2006, S. 80–84. „Holger Madsen, der Regisseur, ist der Bühnenentwicklung auf der Leinwand zu ausführlich gefolgt, hat aber, vor allem bei der Behandlung des Requisits, anständige Arbeit geleistet“ (SK II, S. 42). Kurt Sonnenfeld schreibt in seiner »Schnitzlers ›Freiwild‹ im Film« betitelten Rezension: »Die ehrfurchtsvolle Treue, mit der sich diese Verfilmung um Schnitzlers unverwelkliches und weder durch den politischen noch durch den künstlerischen Umsturz in seinen Wirkungen beeinträchtigtes Schauspiel bemüht, ist überaus rühmenswert. Warum aus dem sommerlichen Badeort in Schnitzlers Drama die winterliche Garnisonsstadt des Films werden mußte, ist freilich nicht recht einzusehen. Die von straffem Rhythmus erfüllten Szenen im Offizierskasino und die prachtvollen Landschaftsbilder aus dem verschneiten Wald sind kein vollwertiger Ersatz für den spezifisch österreichischen, durch sein feines Aroma unvergleichlichen Stimmungsreiz des Schnitzlerischen Kurortes. […] Dieser Film ist wohl nur ein Widerschein des Schnitzlerschen Werkes, aber selbst dieser Widerschein flammt wie eine Feuersbrunst.« (NFP 5.1.1929, S. 9)</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Freiwild“</cell>
-                  <cell role="data"><date>[1927/28]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Holger Madsen</persName></cell>
-                  <cell role="data"><persName>Arthur Schnitzler (Vorlage gleichnamiges Bühnenstück); [Herbert Juttke, Georg C. Klaren]</persName></cell>
-                  <cell role="data"><orgName>Hegewald-Film</orgName></cell>
-                  <cell role="data">Evelyn Holt, Hilde Maroff, Bruno Kastner, Fred Louis Lerch, Hugo Werner-Kahle, John Loder, Gerd Briese, Max Hansen</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Freiwild“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927/28]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Holger Madsen</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Arthur Schnitzler (Vorlage gleichnamiges Bühnenstück); [Herbert Juttke, Georg C. Klaren]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hegewald-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Evelyn Holt, Hilde Maroff, Bruno Kastner, Fred Louis Lerch, Hugo Werner-Kahle, John Loder, Gerd Briese, Max Hansen</cell>
                </row>
             </table>
          </div>
@@ -150,18 +157,24 @@ Die fünfte Schnitzler-Verfilmung. Uraufführung am 21.2.1928. Vgl. Tatsachen 20
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__32" type="kino">
-               <orgName>Kammerlichtspiele</orgName>
-               <location><address><addrLine>03., Schwarzenbergplatz 6</addrLine></address></location>
+            <place  xml:id="ask_kino__32" type="kino">
+               <placeName>Kammerlichtspiele</placeName>
+               <location>
+                  <address>
+                     <addrLine>03., Schwarzenbergplatz 6</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1916. Tonfilm ab 1930. Fassungsraum: 1916: 394 Sitzplätze, 1922: 375 Sitzplätze (davon 68 Logenplätze). – In „Die Filmwelt“, Jg. 1923, Nr. 16 wird unter dem Titel „Das vornehmste Lichtspieltheater Wiens“ anlässlich des Saisonbeginns das Kino, seine Architektur und technische Ausstattung besprochen. („[…] ein molliges Logenfoyer im reinsten Barock, mit lauschigen Nischen und farbenprächtigen Beleuchtungseffekten […]“)</note>
-            </org>
-            <org xml:id="ask_wirt__34" type="wirt">
-               <orgName>Restaurant Franz Hartmann</orgName>
-               <location><address><addrLine>Kärntnerring 10, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__34" type="wirt">
+               <placeName>Restaurant Franz Hartmann</placeName>
+               <location>
+                  <address>
+                     <addrLine>Kärntnerring 10, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

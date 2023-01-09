@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-01-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-01-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/1 Vm. Dr. Brandt von der Vita; wegen Verfilmung Liebelei (Aff. Nordisk Film), und Einladung zu einer literar. Beiratstelle bei der Vita. […] – Mit C. P. Kino („Karussell des Lebens“); dann Pilsenetzer.</ab></div>
-         <div type="anmerkung"><ab>»Vita«: Vita Filmindustrie A.G., Wien 7., Neubaugasse 1; zum Streit um die Rechte an »Liebelei« mit der Kopenhagener Produktionsfirma Nordisk vgl. Wolf 2006, S. 70–73. 
-Anzeige und Besprechung NFP 18.1.1924, S. 19, dort nachgewiesene Spielorte von 22.–24.1.: Tuchlauben-Lichtspiele, Imperial-Kino, Kruger-Kino, Kammerlichtspiele, Münstedt-Kino.</ab></div>
+         <div type="as">
+            <ab>28/1 Vm. Dr. Brandt von der Vita; wegen Verfilmung Liebelei (Aff. Nordisk Film), und Einladung zu einer literar. Beiratstelle bei der Vita. […] – Mit C. P. Kino („Karussell des Lebens“); dann Pilsenetzer.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Vita«: Vita Filmindustrie A.G., Wien 7., Neubaugasse 1; zum Streit um die Rechte an »Liebelei« mit der Kopenhagener Produktionsfirma Nordisk vgl. Wolf 2006, S. 70–73. 
+Anzeige und Besprechung NFP 18.1.1924, S. 19, dort nachgewiesene Spielorte von 22.–24.1.: Tuchlauben-Lichtspiele, Imperial-Kino, Kruger-Kino, Kammerlichtspiele, Münstedt-Kino.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Karussell des Lebens“ („Aus dem Leben eines Artisten“) [Ot. „Karusellen“]</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>SWE</placeName></cell>
-                  <cell role="data"><persName>Dimitri Buchowetzki</persName></cell>
-                  <cell role="data"><persName>[Alfred Fekete, Dimitri Buchowetzki]</persName></cell>
-                  <cell role="data"><orgName>Svenskafilm</orgName></cell>
-                  <cell role="data">Aud [Egede-Nissen], Walter Janssen, [Alphons] Fryland, Waldemar Pottier, [Lydia Potechina]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Karussell des Lebens“ („Aus dem Leben eines Artisten“) [Ot. „Karusellen“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>SWE</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Dimitri Buchowetzki</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Alfred Fekete, Dimitri Buchowetzki]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Svenskafilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Aud [Egede-Nissen], Walter Janssen, [Alphons] Fryland, Waldemar Pottier, [Lydia Potechina]</cell>
                </row>
             </table>
          </div>
@@ -128,7 +133,6 @@ Anzeige und Besprechung NFP 18.1.1924, S. 19, dort nachgewiesene Spielorte von 2
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

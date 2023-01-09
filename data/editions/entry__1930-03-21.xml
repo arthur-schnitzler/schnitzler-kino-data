@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-03-21.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-03-21.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>21/3 […] Zu C. P.; mit ihr Kino Der Gefangene von St. Helena (Krauss, Bassermann). Mit C. P. genachtm. Hahn.</ab></div>
-         <div type="anmerkung"><ab>Albert Bassermann war Schnitzler persönlich bekannt, siehe Tb 19.3.1913. Premierennotiz NFP 7.3.1930, S. 11, für 21.3.1930. Anzeige NFP 21.3.1930, S. 11. Nachgewiesene Spielorte: Imperial-, Opern- und Schottenring-Kino sowie Münstedts Kino und Kino Wienzeile.
+         <div type="as">
+            <ab>21/3 […] Zu C. P.; mit ihr Kino Der Gefangene von St. Helena (Krauss, Bassermann). Mit C. P. genachtm. Hahn.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Albert Bassermann war Schnitzler persönlich bekannt, siehe Tb 19.3.1913. Premierennotiz NFP 7.3.1930, S. 11, für 21.3.1930. Anzeige NFP 21.3.1930, S. 11. Nachgewiesene Spielorte: Imperial-, Opern- und Schottenring-Kino sowie Münstedts Kino und Kino Wienzeile.
 „Der Film schildert die Leidenszeit des Kaisers auf St. Helena. Nicht, daß er Zustände statt dramatischer Aktionen darstellt, macht ihn so schleppend und handlungsarm, sondern dies: daß er die Zustände nicht in der Sprache des Films auszudrücken weiß“ (SK II, S. 318).
-Bernard von Brentano: Die Gewalt echter Schauspielerei. In: FZ vom 26.11.1929, Nr. 882.</ab></div>
+Bernard von Brentano: Die Gewalt echter Schauspielerei. In: FZ vom 26.11.1929, Nr. 882.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Gefangene von St. Helena“ („Napoleon auf St. Helena“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Lupu Pick</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Ostermayer-Film</orgName></cell>
-                  <cell role="data">Werner Krauß, Albert Bassermann, Philippe Hériat, Hermann Thimig, Paul [Henckels], Lutz Altschul, Hanna Ralph, Suzy Pierson</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Gefangene von St. Helena“ („Napoleon auf St. Helena“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Lupu Pick</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ostermayer-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Werner Krauß, Albert Bassermann, Philippe Hériat, Hermann Thimig, Paul [Henckels], Lutz Altschul, Hanna Ralph, Suzy Pierson</cell>
                </row>
             </table>
          </div>
@@ -136,7 +141,6 @@ Bernard von Brentano: Die Gewalt echter Schauspielerei. In: FZ vom 26.11.1929, N
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

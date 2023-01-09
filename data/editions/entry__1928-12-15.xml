@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-12-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-12-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>15/12 […] Mit C. P. Kino (rothe Tänzerin Rio Dolores) – Linde soup.</ab></div>
-         <div type="anmerkung"><ab>Anzeige NFP 14.12.1928, S. 12. Nachgewiesene Spielorte: Flieger- und Kruger-Kino sowie Kino Handl, Kammerlichtspiele (NZG 15.12.1928).</ab></div>
+         <div type="as">
+            <ab>15/12 […] Mit C. P. Kino (rothe Tänzerin Rio Dolores) – Linde soup.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige NFP 14.12.1928, S. 12. Nachgewiesene Spielorte: Flieger- und Kruger-Kino sowie Kino Handl, Kammerlichtspiele (NZG 15.12.1928).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Rote Tänzerin von Moskau“ [Ot. „The Red Dance“]</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Raoul Walsh</persName></cell>
-                  <cell role="data"><persName>[Henry Leyford Gates (Vorlage Roman „The Red Dancer of Moscow“); James Ashmore Creelman (Drehbuch); Pierre Collings, Philip Klein (Adaption); Eleanor Browne (Story); Malcolm Stuart Boylan (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Fox-Film</orgName></cell>
-                  <cell role="data">Dolores del Rio, Charles Farrell, Iwan Linoff u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Rote Tänzerin von Moskau“ [Ot. „The Red Dance“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Raoul Walsh</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Henry Leyford Gates (Vorlage Roman „The Red Dancer of Moscow“); James Ashmore Creelman (Drehbuch); Pierre Collings, Philip Klein (Adaption); Eleanor Browne (Story); Malcolm Stuart Boylan (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Dolores del Rio, Charles Farrell, Iwan Linoff u.a.</cell>
                </row>
             </table>
          </div>
@@ -133,13 +138,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__37" type="wirt">
+               <placeName>Zur Linde</placeName>
+               <location>
+                  <address>
+                     <addrLine>Rotenturmstraße 12, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__37" type="wirt">
-               <orgName>Zur Linde</orgName>
-               <location><address><addrLine>Rotenturmstraße 12, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

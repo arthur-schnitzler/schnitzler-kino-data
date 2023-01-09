@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1923-10-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1923-10-06.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>6/10 […] Mit C. P. Kino (letzter 4. Theil von Trag. der Liebe – Jannings zu erwähnen) […].</ab></div>
-         <div type="anmerkung"><ab>»Tragödie der Liebe« wurde in zwei Teilen gezeigt und hatte eine (ebenfalls zweiteilige) Fortsetzung mit dem Titel »Die Gräfin von Paris« (vgl. Filmwelt Jg. 1923, Nr. 17, S. 5f.). Angesichts des Kinosbesuchs am 29. September 1923 (»Gräfin von Paris. Drama, I. Teil«) steht zu vermuten, daß Schnitzler die Teile der beiden Filme summarisch meint und somit beide Teile der Fortsetzung (und nicht jeweils nur einen Teil beider Filme) sah. Zur Filmographie siehe Eintrag zum 29. September 1923.
-»Das ist der Fluch des Joe May, daß er bei seinen guten Filmen fortzeugend immer neue Teile muß gebären« (Der Kinematograph, Nr. 874/75, 25.11.1923). »Die austriakische Variante von Nr. 391 ›Birth of a Nation‹ « (Riccardo Concetti, Udine). Nachgewiesene Spielorte für »Tragödie der Liebe« lt. Kinoprogramm der NFP vom 21.9.1923, S. 14, ab 25.9.1923: Rotenturm-, Central-, Votivpark-, und Währinger Bürger-Kino. Das Central-Kino kommt für einen Besuch nicht in Frage, da Schnitzler am 5. November 1926 schreibt, er sei das erste Mal in diesem Kino gewesen.</ab></div>
+         <div type="as">
+            <ab>6/10 […] Mit C. P. Kino (letzter 4. Theil von Trag. der Liebe – Jannings zu erwähnen) […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Tragödie der Liebe« wurde in zwei Teilen gezeigt und hatte eine (ebenfalls zweiteilige) Fortsetzung mit dem Titel »Die Gräfin von Paris« (vgl. Filmwelt Jg. 1923, Nr. 17, S. 5f.). Angesichts des Kinosbesuchs am 29. September 1923 (»Gräfin von Paris. Drama, I. Teil«) steht zu vermuten, daß Schnitzler die Teile der beiden Filme summarisch meint und somit beide Teile der Fortsetzung (und nicht jeweils nur einen Teil beider Filme) sah. Zur Filmographie siehe Eintrag zum 29. September 1923.
+»Das ist der Fluch des Joe May, daß er bei seinen guten Filmen fortzeugend immer neue Teile muß gebären« (Der Kinematograph, Nr. 874/75, 25.11.1923). »Die austriakische Variante von Nr. 391 ›Birth of a Nation‹ « (Riccardo Concetti, Udine). Nachgewiesene Spielorte für »Tragödie der Liebe« lt. Kinoprogramm der NFP vom 21.9.1923, S. 14, ab 25.9.1923: Rotenturm-, Central-, Votivpark-, und Währinger Bürger-Kino. Das Central-Kino kommt für einen Besuch nicht in Frage, da Schnitzler am 5. November 1926 schreibt, er sei das erste Mal in diesem Kino gewesen.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Tragödie der Liebe“</cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Paul Leni</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Mayfilm</orgName></cell>
-                  <cell role="data">Mia May, Erika Glässner, Emil Jannings, Arnold Korff, Wladimir Gaidarow, Hermann Vallentin, Albert Patry</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Tragödie der Liebe“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Leni</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Mayfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Mia May, Erika Glässner, Emil Jannings, Arnold Korff, Wladimir Gaidarow, Hermann Vallentin, Albert Patry</cell>
                </row>
             </table>
          </div>
@@ -128,7 +133,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

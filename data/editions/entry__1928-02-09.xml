@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-02-09.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-02-09.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>9/2 […] Mit C. P. Kino (Bellaria) („Die Frau, die nicht nein sagen kann“). C. P. kam sehr verstimmt von Dr. Beer, der sich nicht entschließen kann, ihr (preisgekröntes) Stück aufzuführen. Außerdem Mißlichkeiten mit ihrem Sohn: er will Medizin, Institut aufgeben – und in ein Unternehmen eintreten (bei Verwandtem, Str.) – oder eine coloniale Stellung (Medizin, Bakteriol.) annehmen;– weil ihm seine Ehe das wichtigste und sie ein Kind haben wollen.–
-– Wir nachtm. im silb. Brunnen.–</ab></div>
-         <div type="anmerkung"><ab>»Dr. Beer«: Rudolf Beer, Direktor des Volkstheaters; Pollaczek Volksstück „Hausgeister“ (nicht mehr ermittelbar) hatte den Volkstheaterpreis 1927 gewonnen (vgl. CKP II, 69, 86, 89), wurde aber nicht in den Spielplan genommen; »mit ihrem Sohn«: Clara Pollaczeks jüngerer Sohn Karl (später Karl Frederick Michael Pole) war als Mediziner und Bakteriologe tätig, der Verwandte »Str.« konnte nicht ermittelt werden.</ab></div>
+         <div type="as">
+            <ab>9/2 […] Mit C. P. Kino (Bellaria) („Die Frau, die nicht nein sagen kann“). C. P. kam sehr verstimmt von Dr. Beer, der sich nicht entschließen kann, ihr (preisgekröntes) Stück aufzuführen. Außerdem Mißlichkeiten mit ihrem Sohn: er will Medizin, Institut aufgeben – und in ein Unternehmen eintreten (bei Verwandtem, Str.) – oder eine coloniale Stellung (Medizin, Bakteriol.) annehmen;– weil ihm seine Ehe das wichtigste und sie ein Kind haben wollen.–
+– Wir nachtm. im silb. Brunnen.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Dr. Beer«: Rudolf Beer, Direktor des Volkstheaters; Pollaczek Volksstück „Hausgeister“ (nicht mehr ermittelbar) hatte den Volkstheaterpreis 1927 gewonnen (vgl. CKP II, 69, 86, 89), wurde aber nicht in den Spielplan genommen; »mit ihrem Sohn«: Clara Pollaczeks jüngerer Sohn Karl (später Karl Frederick Michael Pole) war als Mediziner und Bakteriologe tätig, der Verwandte »Str.« konnte nicht ermittelt werden.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Frau, die nicht ‚nein‘ sagen kann…“</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fred Sauer</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Maximfilm</orgName></cell>
-                  <cell role="data">Lee Parry, Francine Mussay, Gustav Fröhlich, Hans Albers</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Frau, die nicht ‚nein‘ sagen kann…“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fred Sauer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Maximfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lee Parry, Francine Mussay, Gustav Fröhlich, Hans Albers</cell>
                </row>
             </table>
          </div>
@@ -126,18 +131,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__9" type="kino">
-               <orgName>Invalidendankkino / Bellariakino</orgName>
-               <location><address><addrLine>07., Hofstallstraße 5 (Museumstraße 3)</addrLine></address></location>
+            <place  xml:id="ask_kino__9" type="kino">
+               <placeName>Invalidendankkino / Bellariakino</placeName>
+               <location>
+                  <address>
+                     <addrLine>07., Hofstallstraße 5 (Museumstraße 3)</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1911. Fassungsraum: 1927: 248 Sitzplätze, 1934: 247.</note>
-            </org>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-01-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-01-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/1 […] Mit C. P. Kino Juana (Bergner) matter Film.– […] In der „Pilsenetzer“ genachtm. (seitdem C. P. dort gewohnt (Regina) zum 1. Mal). </ab></div>
-         <div type="anmerkung"><ab>„Schönheit ohne Sprengkraft, Kunstgewerbe ohne jede Gewalt – nicht mehr. Schade“ (SK II, S. 27). Ankündigung der »Welt-Uraufführung« am 22.12.1927 (Elite-Kino) in NFP 16.12.1927, S. 19. Anzeige und Ankündigung des Erscheinungstermins am 13.1.1928 in NFP 6.1.1928, S. 18/21, dort elf nachgewiesene Spielorte. Besprechung von Felix Cleve in NFP 15.1.1928, S. 17.</ab></div>
+         <div type="as">
+            <ab>14/1 […] Mit C. P. Kino Juana (Bergner) matter Film.– […] In der „Pilsenetzer“ genachtm. (seitdem C. P. dort gewohnt (Regina) zum 1. Mal). </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Schönheit ohne Sprengkraft, Kunstgewerbe ohne jede Gewalt – nicht mehr. Schade“ (SK II, S. 27). Ankündigung der »Welt-Uraufführung« am 22.12.1927 (Elite-Kino) in NFP 16.12.1927, S. 19. Anzeige und Ankündigung des Erscheinungstermins am 13.1.1928 in NFP 6.1.1928, S. 18/21, dort elf nachgewiesene Spielorte. Besprechung von Felix Cleve in NFP 15.1.1928, S. 17.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Donna Juana“</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Paul Czinner</persName></cell>
-                  <cell role="data"><persName>Tirso [De] Molin[a] (Vorlage Bühnenstück „Don Gil von den grünen Hosen“)</persName></cell>
-                  <cell role="data"><orgName>Poetik-Film</orgName></cell>
-                  <cell role="data">Elisabeth Bergner, Walter Rilla, Hermann Va[l]lentin, Robert Garrison, Fritz Greiner</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Donna Juana“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Czinner</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Tirso [De] Molin[a] (Vorlage Bühnenstück „Don Gil von den grünen Hosen“)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Poetik-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Elisabeth Bergner, Walter Rilla, Hermann Va[l]lentin, Robert Garrison, Fritz Greiner</cell>
                </row>
             </table>
          </div>
@@ -125,13 +130,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__18" type="wirt">
+               <placeName>Alt-Pilsenetzer-Restaurant im Hotel Regina</placeName>
+               <location>
+                  <address>
+                     <addrLine>Freiheitsplatz 16, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__18" type="wirt">
-               <orgName>Alt-Pilsenetzer-Restaurant im Hotel Regina</orgName>
-               <location><address><addrLine>Freiheitsplatz 16, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

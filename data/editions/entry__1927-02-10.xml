@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-02-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-02-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/2 […] Allein ins Kino, um „Meineidbauer“, einen (schlechten) Film der Hegewald Firma zu sehn.</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>10/2 […] Allein ins Kino, um „Meineidbauer“, einen (schlechten) Film der Hegewald Firma zu sehn.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Meineidbauer“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>[Jakob] Fleck, [Louise] Fleck</persName></cell>
-                  <cell role="data"><persName>Ludwig Anzengruber (Vorlage Bühnenstück); [Siegfried Philippi]</persName></cell>
-                  <cell role="data"><orgName>Hegewald-Film</orgName></cell>
-                  <cell role="data">Eduard von Winterstein, Arthur Ranzenhofer, Fritz Hofbauer, Alfred Gerasch, Olaf Storm, Elisabeth Markus, Ingrid Peters[e]n, Gisela Günther</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Meineidbauer“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Jakob] Fleck, [Louise] Fleck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Ludwig Anzengruber (Vorlage Bühnenstück); [Siegfried Philippi]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hegewald-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Eduard von Winterstein, Arthur Ranzenhofer, Fritz Hofbauer, Alfred Gerasch, Olaf Storm, Elisabeth Markus, Ingrid Peters[e]n, Gisela Günther</cell>
                </row>
             </table>
          </div>
@@ -143,7 +148,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

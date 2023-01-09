@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-11-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-11-08.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>8/11 […] Mit C. P. Kino (schwarze Lu) – Weingartl genachtm.</ab></div>
-         <div type="anmerkung"><ab>„die paar Entgleisungen beeinträchtigen kaum die leibhafte Gewalt, die von den Szenen ausströmt“ (SK II, S. 274). Anzeige und Notiz NFP 1.11.1929, S. 9, dort fünf nachgewiesene Spielorte bis 7.11.1929.</ab></div>
+         <div type="as">
+            <ab>8/11 […] Mit C. P. Kino (schwarze Lu) – Weingartl genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„die paar Entgleisungen beeinträchtigen kaum die leibhafte Gewalt, die von den Szenen ausströmt“ (SK II, S. 274). Anzeige und Notiz NFP 1.11.1929, S. 9, dort fünf nachgewiesene Spielorte bis 7.11.1929.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Razzia“ (Ut. „Die Schwarze Lu“, Ot. „The Dragnet“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Ray Enright</persName></cell>
-                  <cell role="data"><persName>(Vorlage Erzählung „Arthur Somers Rache“)</persName></cell>
-                  <cell role="data"><orgName>Warner-Brothers-Film</orgName></cell>
-                  <cell role="data">Conrad Nagel, Carroll Nye, William Russel, Myrna Loy</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Razzia“ (Ut. „Die Schwarze Lu“, Ot. „The Dragnet“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ray Enright</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>(Vorlage Erzählung „Arthur Somers Rache“)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Warner-Brothers-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conrad Nagel, Carroll Nye, William Russel, Myrna Loy</cell>
                </row>
             </table>
          </div>
@@ -116,7 +121,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

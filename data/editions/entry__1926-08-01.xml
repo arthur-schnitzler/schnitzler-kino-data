@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-08-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-08-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab></ab></div>
-         <div type="ckp"><ab>1.8.1926. Unleidliches Wetter. Kopfschmerzen. Nachmittag in der Hauptpost. Dann Frieda P. bei mir. Viel über A. und Lili gesprochen. Dann Kino. Dummer, amerikanischer Film. Mit heftigen Kopfschmerzen nachhause und zu Bett. Carry bei mir. [I, 338]
+         <div type="as">
+            <ab/>
+         </div>
+         <div type="ckp">
+            <ab>1.8.1926. Unleidliches Wetter. Kopfschmerzen. Nachmittag in der Hauptpost. Dann Frieda P. bei mir. Viel über A. und Lili gesprochen. Dann Kino. Dummer, amerikanischer Film. Mit heftigen Kopfschmerzen nachhause und zu Bett. Carry bei mir. [I, 338]
 
 [CP an AS am 2.8.1926:]
-[…] Gestern Vormittag war ich zwischen einem Regenguss und dem andern in der Hauptpost den Brief an Dich aufgeben. Mittag mit Carly, Nachmittag Frieda P. Wir waren zusammen im Kino am Fleischmarkt, „Der Kampf mit dem Schatten“, ein amerikanisches Gesellschaftsdrama, das saudumm war, vorher ein Lustspiel, wo lauter Fische vorkamen, so dass ich nicht einen Augenblick hinschauen konnte. Ausserdem hatte ich solche Kopfschmerzen, dass ich mich zuhause gleich mit Aspirin zu Bett legte. Mässig geschlafen um 6 Uhr schon am Roman geschrieben […] [I, 318]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] Gestern Vormittag war ich zwischen einem Regenguss und dem andern in der Hauptpost den Brief an Dich aufgeben. Mittag mit Carly, Nachmittag Frieda P. Wir waren zusammen im Kino am Fleischmarkt, „Der Kampf mit dem Schatten“, ein amerikanisches Gesellschaftsdrama, das saudumm war, vorher ein Lustspiel, wo lauter Fische vorkamen, so dass ich nicht einen Augenblick hinschauen konnte. Ausserdem hatte ich solche Kopfschmerzen, dass ich mich zuhause gleich mit Aspirin zu Bett legte. Mässig geschlafen um 6 Uhr schon am Roman geschrieben […] [I, 318]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Empty Hearts“ („Der Kampf mit dem Schatten“)</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Alfred Santell</persName></cell>
-                  <cell role="data"><persName>Adele S. Buffington</persName></cell>
-                  <cell role="data"><orgName>Banner Productions</orgName></cell>
-                  <cell role="data">John Bowers, Charles Murray, John Miljan, Clara Bow, Buck Black, Lilian Rich, Joan Standing</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Empty Hearts“ („Der Kampf mit dem Schatten“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alfred Santell</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Adele S. Buffington</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Banner Productions</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">John Bowers, Charles Murray, John Miljan, Clara Bow, Buck Black, Lilian Rich, Joan Standing</cell>
                </row>
             </table>
          </div>
@@ -146,7 +153,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

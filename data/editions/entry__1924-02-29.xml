@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-02-29.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-02-29.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>29/2 […] Nm. schickte mir „Vita“ ein Filmmscrpt., das ich gleich las „Die Welt des Scheins“, und in Schlagworten begutachtete. Mit C. P. Gersthofer Kino „Wetterwart“; worin Albert hervorragend,– und mich, offenbar auch aus persönlichen Gründen ergriff;– dachte an Liesl; über Liesl an O; vergangene Zeiten; […]</ab></div>
-         <div type="anmerkung"><ab>»Albert«: Steinrück. »Liesl«: Elisabeth, dessen 1920 verstorbene erste Frau, geb. Gussmann, Schwester von Schnitzlers seit 1921 geschiedener Frau Olga.
-Besprechung von –e. in NFP, 29.1.1924, S. 16: »Die Regie verdient höchstes Lob. Die Bilder der Gletscherwelt und besonders die Aufnahmen aus dem Flugzeug sind unerhört, sind überwältigend.«</ab></div>
+         <div type="as">
+            <ab>29/2 […] Nm. schickte mir „Vita“ ein Filmmscrpt., das ich gleich las „Die Welt des Scheins“, und in Schlagworten begutachtete. Mit C. P. Gersthofer Kino „Wetterwart“; worin Albert hervorragend,– und mich, offenbar auch aus persönlichen Gründen ergriff;– dachte an Liesl; über Liesl an O; vergangene Zeiten; […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Albert«: Steinrück. »Liesl«: Elisabeth, dessen 1920 verstorbene erste Frau, geb. Gussmann, Schwester von Schnitzlers seit 1921 geschiedener Frau Olga.
+Besprechung von –e. in NFP, 29.1.1924, S. 16: »Die Regie verdient höchstes Lob. Die Bilder der Gletscherwelt und besonders die Aufnahmen aus dem Flugzeug sind unerhört, sind überwältigend.«</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Wetterwart“</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>[Carl Froelich]</persName></cell>
-                  <cell role="data"><persName>[Hugo Huxhol, Curt Lauermann]</persName></cell>
-                  <cell role="data"><orgName>Fröhlich-Film</orgName></cell>
-                  <cell role="data">Mady Christians, Albert Steinrück, Hans Brausewetter, Julius Falkenstein</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Wetterwart“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Carl Froelich]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Hugo Huxhol, Curt Lauermann]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fröhlich-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Mady Christians, Albert Steinrück, Hans Brausewetter, Julius Falkenstein</cell>
                </row>
             </table>
          </div>
@@ -131,15 +136,16 @@ Besprechung von –e. in NFP, 29.1.1924, S. 16: »Die Regie verdient höchstes L
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__54" type="kino">
-               <orgName>Gersthofer Elitetheater</orgName>
-               <location><address><addrLine>18., Gersthoferstraße 73</addrLine></address></location>
+            <place  xml:id="ask_kino__54" type="kino">
+               <placeName>Gersthofer Elitetheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gersthoferstraße 73</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912, Fassungsraum: 1914: 284 Sitzplätze, 1922: 252 Sitzplätze (davon 16 Logenplätze), 1934: 240 (16). – Das einzige Kino im Bezirksteil Gersthof. Schwarz gibt keine Adaption des Kinos für den Tonfilm an, was im Widerspruch zu den letzten 5 bei Schnitzler notierten Besuchen in diesem Kino steht.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-07-31.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-07-31.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>31/7 […] Mit C. P. Kino „der kühne Seefahrer“ – ; mit ihr bei Gruss genachtm.– […]</ab></div>
-         <div type="ckp"><ab>31.7. Abend mit A. im Kino („Mutige Seefahrer“), Schmarrn. A. blass, aber bessere Stimmung. Wetter kühl, bei Gruss genachtmahlt. Heute viel gearbeitet. [II, 252]</ab></div>
-         <div type="anmerkung"><ab>Besprechung von Felix Cleve in NFP 30.1.1929, S. 11. Nachgewiesener Spielort: Weltspiegel-Kino u. d. T. »Der Seefahrer« (DKB 31.7.1929, S. 14).</ab></div>
+         <div type="as">
+            <ab>31/7 […] Mit C. P. Kino „der kühne Seefahrer“ – ; mit ihr bei Gruss genachtm.– […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>31.7. Abend mit A. im Kino („Mutige Seefahrer“), Schmarrn. A. blass, aber bessere Stimmung. Wetter kühl, bei Gruss genachtmahlt. Heute viel gearbeitet. [II, 252]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung von Felix Cleve in NFP 30.1.1929, S. 11. Nachgewiesener Spielort: Weltspiegel-Kino u. d. T. »Der Seefahrer« (DKB 31.7.1929, S. 14).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Hurra! Ich lebe!“ („Der mutige Seefahrer“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Wilhelm Thiele</persName></cell>
-                  <cell role="data"><persName>Georg Kaiser (Vorlage gleichnamiges Bühnenstück); [Julius Urgiß, Friedrich Raff]</persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Nikolai Kolin, Gustav Fröhlich, Georg [Heinrich] Schnell, Max [Gülstorff], Betty Astor, Natalie Lissenko u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Hurra! Ich lebe!“ („Der mutige Seefahrer“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Wilhelm Thiele</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Georg Kaiser (Vorlage gleichnamiges Bühnenstück); [Julius Urgiß, Friedrich Raff]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Nikolai Kolin, Gustav Fröhlich, Georg [Heinrich] Schnell, Max [Gülstorff], Betty Astor, Natalie Lissenko u.a.</cell>
                </row>
             </table>
          </div>
@@ -140,7 +147,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

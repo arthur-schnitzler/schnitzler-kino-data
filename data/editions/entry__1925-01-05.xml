@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-01-05.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-01-05.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>5/1 […] Mit C. P. Kino (Carlos und Elisabeth); in ihrem Zimmer (Regina) genachtm.–</ab></div>
-         <div type="anmerkung"><ab>Anzeige und Besprechung von –e. in NFP 2.1.1925, S. 19: „Historisches Drama in einem Vorspiel und 6 Akten. […] Diesmal sei bloß festgestellt, daß die Regie Oswalds das Zeitkolorit vorzüglich getroffen hat und daß an Darstellung Leistungen geboten werden, die den höchsten beizuzählen sind, die jemals im Film zu sehen waren. Wir denken hiebei vor allem an den genialen Conrad Veidt, dessen Film-Carlos wir ohne Zögern dem Bühnen-Carlos eines Kainz an die Seite stellen. Conrad Veidt ist es übrigens auch, der im Vorspiel des Infanten Großvater, Karl V., spielt. Die Verwandlungsfähigkeit Veidts, der da als verrunzelter, glutäugiger Greis agiert, überschreitet fast die Grenze des Vorstellbaren.“ Nachgewiesene Spielorte: Burg-, Kärntner-, Rotenturm-, Schottenring-, Central-, Eos-, Maria-Theresien-, Flieger-Kino (ebd.). </ab></div>
+         <div type="as">
+            <ab>5/1 […] Mit C. P. Kino (Carlos und Elisabeth); in ihrem Zimmer (Regina) genachtm.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige und Besprechung von –e. in NFP 2.1.1925, S. 19: „Historisches Drama in einem Vorspiel und 6 Akten. […] Diesmal sei bloß festgestellt, daß die Regie Oswalds das Zeitkolorit vorzüglich getroffen hat und daß an Darstellung Leistungen geboten werden, die den höchsten beizuzählen sind, die jemals im Film zu sehen waren. Wir denken hiebei vor allem an den genialen Conrad Veidt, dessen Film-Carlos wir ohne Zögern dem Bühnen-Carlos eines Kainz an die Seite stellen. Conrad Veidt ist es übrigens auch, der im Vorspiel des Infanten Großvater, Karl V., spielt. Die Verwandlungsfähigkeit Veidts, der da als verrunzelter, glutäugiger Greis agiert, überschreitet fast die Grenze des Vorstellbaren.“ Nachgewiesene Spielorte: Burg-, Kärntner-, Rotenturm-, Schottenring-, Central-, Eos-, Maria-Theresien-, Flieger-Kino (ebd.). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Carlos und Elisabeth“</cell>
-                  <cell role="data"><date>[1923/24]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Richard Oswald</persName></cell>
-                  <cell role="data"><persName>Richard Oswald, Ludwig Fulda</persName></cell>
-                  <cell role="data"><orgName>Oswaldfilm</orgName></cell>
-                  <cell role="data">Conrad Veidt, Eugen Klöpfer, Wilhelm Dieterle, Dagny Servaes, Aud Egede Kissen u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Carlos und Elisabeth“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923/24]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Richard Oswald</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Richard Oswald, Ludwig Fulda</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Oswaldfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conrad Veidt, Eugen Klöpfer, Wilhelm Dieterle, Dagny Servaes, Aud Egede Kissen u.a.</cell>
                </row>
             </table>
          </div>
@@ -128,7 +133,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

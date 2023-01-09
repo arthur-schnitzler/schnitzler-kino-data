@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-10-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-10-18.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>18/10 […] Mit C. P. in einem Kino (amerik.; „gefährliche Fahrt“ – ) ohne wesentliches zu sprechen: nicht miteinander genachtm.</ab></div>
-         <div type="anmerkung"><ab>Während eines Aufenthaltes seiner geschiedenen Frau Olga in Wien hatte Schnitzler Pollaczek nie zu sich nach Hause gebeten, was diese am 22.Oktober 1927 brieflich wie folgt kommentierte: „[…] Du findest es wünschenswert dass die O. dich besucht wenn sie in Wien ist, – gut, – aber dann eben <hi>wie ein Gast</hi> den man fallweise gerne spricht, bei <hi>dir zu Hause fühlen</hi>, müsste <hi>ich</hi> mich. […] der Gedanke an eine Ehe mit dir ist mir <hi>nie</hi> gekommen, ist mir immer völlig fern gelegen und ist mir mindestens so widerwärtig wie dir und ebenso ein dauerndes Zusammensein unter einem Dach. Aber wenn ich dir weiter Freundin und Geliebte sein soll, dann muss mir unsere Beziehung endlich eine Art Heimath bedeuten eine Zuflucht aus allen Sorgen und Kümmernissen des Lebens. Du musst mich eben so gerne bei dir sehen wie ich dich bei mir. Ich gehe sehr gerne aus einer guten Stimmung heraus mit dir aus, – ins Theater, ins Kino etc. aber wir sind beide nicht jung genug, unser Zusammensein hauptsächlich darauf einzustellen.“ [CKP II, 64] Dieser Hintergrund erklärt, daß entgegen Pollaczeks und Schnitzlers Gepflogenheit ein gemeinsames Abendessen nicht stattfand.
-Nachgewiesene Spielorte: Tuchlauben-Kino (NZG 18.10.1927, S. 8), Central-, Votivpark-Kino (NFP 28.10.1927, S. 17).</ab></div>
+         <div type="as">
+            <ab>18/10 […] Mit C. P. in einem Kino (amerik.; „gefährliche Fahrt“ – ) ohne wesentliches zu sprechen: nicht miteinander genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Während eines Aufenthaltes seiner geschiedenen Frau Olga in Wien hatte Schnitzler Pollaczek nie zu sich nach Hause gebeten, was diese am 22.Oktober 1927 brieflich wie folgt kommentierte: „[…] Du findest es wünschenswert dass die O. dich besucht wenn sie in Wien ist, – gut, – aber dann eben <hi>wie ein Gast</hi> den man fallweise gerne spricht, bei <hi>dir zu Hause fühlen</hi>, müsste <hi>ich</hi> mich. […] der Gedanke an eine Ehe mit dir ist mir <hi>nie</hi> gekommen, ist mir immer völlig fern gelegen und ist mir mindestens so widerwärtig wie dir und ebenso ein dauerndes Zusammensein unter einem Dach. Aber wenn ich dir weiter Freundin und Geliebte sein soll, dann muss mir unsere Beziehung endlich eine Art Heimath bedeuten eine Zuflucht aus allen Sorgen und Kümmernissen des Lebens. Du musst mich eben so gerne bei dir sehen wie ich dich bei mir. Ich gehe sehr gerne aus einer guten Stimmung heraus mit dir aus, – ins Theater, ins Kino etc. aber wir sind beide nicht jung genug, unser Zusammensein hauptsächlich darauf einzustellen.“ [CKP II, 64] Dieser Hintergrund erklärt, daß entgegen Pollaczeks und Schnitzlers Gepflogenheit ein gemeinsames Abendessen nicht stattfand.
+Nachgewiesene Spielorte: Tuchlauben-Kino (NZG 18.10.1927, S. 8), Central-, Votivpark-Kino (NFP 28.10.1927, S. 17).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Gefährliche Fahrt“ (Ot. „Paradise“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Erwin Willat</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>[Ray Rockett Productions]</orgName></cell>
-                  <cell role="data">Milton Sills, Lloyd Whitlock, Charles Murray, Betty Bronson</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Gefährliche Fahrt“ (Ot. „Paradise“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Erwin Willat</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Ray Rockett Productions]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Milton Sills, Lloyd Whitlock, Charles Murray, Betty Bronson</cell>
                </row>
             </table>
          </div>
@@ -121,7 +126,6 @@ Nachgewiesene Spielorte: Tuchlauben-Kino (NZG 18.10.1927, S. 8), Central-, Votiv
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

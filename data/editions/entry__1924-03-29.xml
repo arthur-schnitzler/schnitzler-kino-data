@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-03-29.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-03-29.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>29/3 […] Mit C. P. Kino (Das verbotene Land, von Feher, und Salten,– recht schlecht), und in der Pilsenetzer. (Ihre ewige Gekränktheit, meine Ungeduld;– früher hätte ich es die Agoniestimmung genannt.–) </ab></div>
-         <div type="anmerkung"><ab>In den Kinoprogrammen werden die Schnitzler persönlich bekannten Drehbuchschreiber nicht genannt. Anzeige NFP 28.3.1924, S. 19. Besprechung von –e. in NFP 1.4.1924, S. 17: „Dieser Film ist trotz der großen Summe von glänzenden Einzelleistungen im ganzen großen ‚verhaut‘. Sein Hauptfehler: Es fehlt den disparaten Parallelhandlungen jeder innere Zusammenhang. Die Nebenhandlung, in der die Glässner die Hauptrolle spielt, hört einfach auf, ohne auch nur die leiseste Tendenz zur Vereinigung mit der übrigen, gleichfalls immer dürftiger werdenden Handlung zu verraten. Bedrängt von der Einfallslosigkeit des Autors, verschwindet der Expeditionsgenosse des Helden ganz einfach sang- und klanglos von der Bildfläche. Enttäuscht geht man nach Hause.« Nachgewiesene Spielorte laut NFP 29.3.1924, S. 19, für 28.–31.3.: Gartenbau-, Rotenturm-, Flieger-, Eos-, Haydn-, Votivpark-Kino und Lichtspiele Wienzeile.</ab></div>
+         <div type="as">
+            <ab>29/3 […] Mit C. P. Kino (Das verbotene Land, von Feher, und Salten,– recht schlecht), und in der Pilsenetzer. (Ihre ewige Gekränktheit, meine Ungeduld;– früher hätte ich es die Agoniestimmung genannt.–) </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>In den Kinoprogrammen werden die Schnitzler persönlich bekannten Drehbuchschreiber nicht genannt. Anzeige NFP 28.3.1924, S. 19. Besprechung von –e. in NFP 1.4.1924, S. 17: „Dieser Film ist trotz der großen Summe von glänzenden Einzelleistungen im ganzen großen ‚verhaut‘. Sein Hauptfehler: Es fehlt den disparaten Parallelhandlungen jeder innere Zusammenhang. Die Nebenhandlung, in der die Glässner die Hauptrolle spielt, hört einfach auf, ohne auch nur die leiseste Tendenz zur Vereinigung mit der übrigen, gleichfalls immer dürftiger werdenden Handlung zu verraten. Bedrängt von der Einfallslosigkeit des Autors, verschwindet der Expeditionsgenosse des Helden ganz einfach sang- und klanglos von der Bildfläche. Enttäuscht geht man nach Hause.« Nachgewiesene Spielorte laut NFP 29.3.1924, S. 19, für 28.–31.3.: Gartenbau-, Rotenturm-, Flieger-, Eos-, Haydn-, Votivpark-Kino und Lichtspiele Wienzeile.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Verbotene Land“ („Die Liebe des Dalai Lama“)</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>Ö</placeName></cell>
-                  <cell role="data"><persName>Friedrich Fehér</persName></cell>
-                  <cell role="data"><persName>Ange de Keranion [(Vorlage „Jeanne qui rit et Jeanne qui pleure“); Felix Salten (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Vita-Film</orgName></cell>
-                  <cell role="data">Erika Glässner, Vilma Banky, Hansi Frühwirth, Maria Gutheil-Schoder, Albert Heine, Oskar Beregi, Hugo Thimig, Victor Kutschera, Viktor Franz, Anton Tiller, Hans Lackner</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Verbotene Land“ („Die Liebe des Dalai Lama“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Friedrich Fehér</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Ange de Keranion [(Vorlage „Jeanne qui rit et Jeanne qui pleure“); Felix Salten (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Vita-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Erika Glässner, Vilma Banky, Hansi Frühwirth, Maria Gutheil-Schoder, Albert Heine, Oskar Beregi, Hugo Thimig, Victor Kutschera, Viktor Franz, Anton Tiller, Hans Lackner</cell>
                </row>
             </table>
          </div>
@@ -151,7 +156,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-04-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-04-04.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>4/4 […] wir gingen ins Kino (Gersthofer) (Zwei Herzen in 3/4 Takt) – auf der Stiege zum Viaduct, verknaxte sie sich;– nach Schluss des Kino, mußte sie im Wagen nach Haus;– ich brachte sie in die Wohnung.</ab></div>
-         <div type="ckp"><ab>Ostersonntag. Gestern Abend in der Beckenbründlgasse am Weg ins Gürtel-Kino gestürzt, Fuss verletzt, ich glaube aus innerer Nervosität; mich noch mit A. ins Kino geschleppt, nachher verdammte Schmerzen. A. brachte mich nachhause. Ich verbiss meinen Schmerz, damit er nur fortging, schlaflose Nacht, Fuss stark geschwollen, Temp. 37.7. A. mit Familie Clauser nach Thalheim. Ich habe ihm mein Befinden verschwiegen, damit er sich nicht bemüssigt fühlt zurück zu bleiben. Anna, Emmy Nachmittag bei mir. [III, 160f.]</ab></div>
-         <div type="anmerkung"><ab>»damit er nur fortging«: Mit Bleistift ausgestrichen. 
-Ankündigung NFP 4.4.1930, S. 10. Anzeige NFP 18.4.1930, S. 18, dort genannt der Name des Tonsetzers: Gottlieb Theodor Pilz. </ab></div>
+         <div type="as">
+            <ab>4/4 […] wir gingen ins Kino (Gersthofer) (Zwei Herzen in 3/4 Takt) – auf der Stiege zum Viaduct, verknaxte sie sich;– nach Schluss des Kino, mußte sie im Wagen nach Haus;– ich brachte sie in die Wohnung.</ab>
+         </div>
+         <div type="ckp">
+            <ab>Ostersonntag. Gestern Abend in der Beckenbründlgasse am Weg ins Gürtel-Kino gestürzt, Fuss verletzt, ich glaube aus innerer Nervosität; mich noch mit A. ins Kino geschleppt, nachher verdammte Schmerzen. A. brachte mich nachhause. Ich verbiss meinen Schmerz, damit er nur fortging, schlaflose Nacht, Fuss stark geschwollen, Temp. 37.7. A. mit Familie Clauser nach Thalheim. Ich habe ihm mein Befinden verschwiegen, damit er sich nicht bemüssigt fühlt zurück zu bleiben. Anna, Emmy Nachmittag bei mir. [III, 160f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»damit er nur fortging«: Mit Bleistift ausgestrichen. 
+Ankündigung NFP 4.4.1930, S. 10. Anzeige NFP 18.4.1930, S. 18, dort genannt der Name des Tonsetzers: Gottlieb Theodor Pilz. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Zwei Herzen im 3/4 Takt“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Géza von Bolváry</persName></cell>
-                  <cell role="data"><persName>Franz Schulz, Walter Reisch</persName></cell>
-                  <cell role="data"><orgName>Super-Tobis-Film</orgName></cell>
-                  <cell role="data">Walter Janssen, Oskar Karlweis, Gretl Theimer, Paul Hörbiger</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Zwei Herzen im 3/4 Takt“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Géza von Bolváry</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Franz Schulz, Walter Reisch</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Super-Tobis-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Walter Janssen, Oskar Karlweis, Gretl Theimer, Paul Hörbiger</cell>
                </row>
             </table>
          </div>
@@ -140,15 +147,16 @@ Ankündigung NFP 4.4.1930, S. 10. Anzeige NFP 18.4.1930, S. 18, dort genannt der
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__54" type="kino">
-               <orgName>Gersthofer Elitetheater</orgName>
-               <location><address><addrLine>18., Gersthoferstraße 73</addrLine></address></location>
+            <place  xml:id="ask_kino__54" type="kino">
+               <placeName>Gersthofer Elitetheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gersthoferstraße 73</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912, Fassungsraum: 1914: 284 Sitzplätze, 1922: 252 Sitzplätze (davon 16 Logenplätze), 1934: 240 (16). – Das einzige Kino im Bezirksteil Gersthof. Schwarz gibt keine Adaption des Kinos für den Tonfilm an, was im Widerspruch zu den letzten 5 bei Schnitzler notierten Besuchen in diesem Kino steht.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

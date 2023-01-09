@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-03-16.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-03-16.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>16/3 Berlin. Dr. Béla Balasz im Hotel; Filmangelegenheiten; Vorschläge.– […] Mit O. Kino „Asphalt“ (Albert Steinrück spielt einen Oberstwachmeister) dummer Film.– […]
+         <div type="as">
+            <ab>16/3 Berlin. Dr. Béla Balasz im Hotel; Filmangelegenheiten; Vorschläge.– […] Mit O. Kino „Asphalt“ (Albert Steinrück spielt einen Oberstwachmeister) dummer Film.– […]
 
 [AS an CP am 16.3.1929:]
-[…] Vormittag kommt Bela Balacz in einer Filmsache zu mir; dann werde ich mit Heini, der Probe hat, in der Staatstheaternähe speisen. Abends wahrscheinlich Michaelis, mit Kino vorher. – […] [II, 209]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] Vormittag kommt Bela Balacz in einer Filmsache zu mir; dann werde ich mit Heini, der Probe hat, in der Staatstheaternähe speisen. Abends wahrscheinlich Michaelis, mit Kino vorher. – […] [II, 209]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Asphalt“</cell>
-                  <cell role="data"><date>[1928/29]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Joe May</persName></cell>
-                  <cell role="data"><persName>[Joe May, Hans Székely, Rolf E. Vanloo]</persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Gustav Fröhlich, Albert Steinrück, Hans Adalbert Schlettow, Betty Amann, Else Heller u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Asphalt“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928/29]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Joe May</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Joe May, Hans Székely, Rolf E. Vanloo]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gustav Fröhlich, Albert Steinrück, Hans Adalbert Schlettow, Betty Amann, Else Heller u.a.</cell>
                </row>
             </table>
          </div>
@@ -153,7 +158,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Berlin</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

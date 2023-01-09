@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-01-11.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-01-11.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>11/1 […] – Mit C. P. Film, „Kampf ums Matterhorn“, bei C. P. genachtm.; auf ihrem neugestimmten Clavier gespielt und sie zu etlichen Schubert begleitet.–</ab></div>
-         <div type="ckp"><ab>11.1. Gestern bei A. zum Abendessen, dann in der Nachtvorstellung Josefstädtertheater. Revue „Es liegt in der Luft“ (Berlin). Hübsche Musik, schreckliche Weiber. Mit Beer-Hofmanns nachhause gefahren. Seit 3 Tagen abnorme Kälte, 14 Grad.
-Heute Vormittag Stadt. Besuch bei Hofrätin Z. Dann zu Tisch bei Otto-Emmy. Am Abend im Kino mit A. „Matterhorn“. Mässig. Dann A. bei mir genachtmahlt, und bis 12 musiziert. Meine Stimme eingerostet. Müsste üben. [II, 191f.]</ab></div>
-         <div type="anmerkung"><ab>Besprechung von Philipp Winter in NFP 10.1.1929, S. 9. Notiz NFP 11.1.1929.</ab></div>
+         <div type="as">
+            <ab>11/1 […] – Mit C. P. Film, „Kampf ums Matterhorn“, bei C. P. genachtm.; auf ihrem neugestimmten Clavier gespielt und sie zu etlichen Schubert begleitet.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>11.1. Gestern bei A. zum Abendessen, dann in der Nachtvorstellung Josefstädtertheater. Revue „Es liegt in der Luft“ (Berlin). Hübsche Musik, schreckliche Weiber. Mit Beer-Hofmanns nachhause gefahren. Seit 3 Tagen abnorme Kälte, 14 Grad.
+Heute Vormittag Stadt. Besuch bei Hofrätin Z. Dann zu Tisch bei Otto-Emmy. Am Abend im Kino mit A. „Matterhorn“. Mässig. Dann A. bei mir genachtmahlt, und bis 12 musiziert. Meine Stimme eingerostet. Müsste üben. [II, 191f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung von Philipp Winter in NFP 10.1.1929, S. 9. Notiz NFP 11.1.1929.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Kampf um das Matterhorn“</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>[Mario] Bonnard, [Nunzio] Malasomma</persName></cell>
-                  <cell role="data"><persName>[Carl Haensel (Vorlage gleichnamiger Roman); Nunzio Malasomma (Bearbeitung); Arnold Fanck]</persName></cell>
-                  <cell role="data"><orgName>Hom-Film</orgName></cell>
-                  <cell role="data">[Luis] Trenker, [Hannes] Schneider, Clifford [McLaglen], Marcella Albani u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Kampf um das Matterhorn“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Mario] Bonnard, [Nunzio] Malasomma</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Carl Haensel (Vorlage gleichnamiger Roman); Nunzio Malasomma (Bearbeitung); Arnold Fanck]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hom-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">[Luis] Trenker, [Hannes] Schneider, Clifford [McLaglen], Marcella Albani u.a.</cell>
                </row>
             </table>
          </div>
@@ -150,7 +157,6 @@ Heute Vormittag Stadt. Besuch bei Hofrätin Z. Dann zu Tisch bei Otto-Emmy. Am A
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

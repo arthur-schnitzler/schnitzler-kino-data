@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-01-24.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-01-24.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>24/1 […] Mit C. P. Kino (Schule der Liebe; Const. Talmadge); in der Pilsenetzer mit ihr genachtm.–</ab></div>
-         <div type="anmerkung"><ab>Nachgewiesener Spielort laut Kinoprogramm RPT 24.1.1924, S. 12: Kino Wienzeile.</ab></div>
+         <div type="as">
+            <ab>24/1 […] Mit C. P. Kino (Schule der Liebe; Const. Talmadge); in der Pilsenetzer mit ihr genachtm.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Nachgewiesener Spielort laut Kinoprogramm RPT 24.1.1924, S. 12: Kino Wienzeile.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Schule der Liebe“ [Ot. „Lessons in Love“]</cell>
-                  <cell role="data"><date>[1921]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>[Chet Withey]</persName></cell>
-                  <cell role="data"><persName>[Douglas Murray (Vorlage Bühnenstück „Perkins“); Grant Carpenter (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Constance Talmadge Productions</orgName></cell>
-                  <cell role="data">Constance Talmadge, Flora Finch, James Harrison, George Fawcett, Franz Webster, Kenneth Harlan</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Schule der Liebe“ [Ot. „Lessons in Love“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1921]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Chet Withey]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Douglas Murray (Vorlage Bühnenstück „Perkins“); Grant Carpenter (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Constance Talmadge Productions</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Constance Talmadge, Flora Finch, James Harrison, George Fawcett, Franz Webster, Kenneth Harlan</cell>
                </row>
             </table>
          </div>
@@ -130,7 +135,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

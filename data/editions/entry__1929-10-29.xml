@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-10-29.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-10-29.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>29/10 Mit C. P. Apolloth. Tonfilm.– „4 Teufel“. Dann Weingartl genachtm. […].</ab></div>
-         <div type="anmerkung"><ab>Am selben Tag Ankündigung von Pollaczeks Roman »Die Schönheit der Konstanze« in NFP 29.10.1929, S. 7.
-„vorzüglich gemacht“ (SK II, S. 302). Notiz NFP 1.11.1929, S. 9. Anzeige NFP 23.10.1929, S. 7. Besprechung von Eduard Siebrecht in NFP 24.10.1929, S. 13.</ab></div>
+         <div type="as">
+            <ab>29/10 Mit C. P. Apolloth. Tonfilm.– „4 Teufel“. Dann Weingartl genachtm. […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Am selben Tag Ankündigung von Pollaczeks Roman »Die Schönheit der Konstanze« in NFP 29.10.1929, S. 7.
+„vorzüglich gemacht“ (SK II, S. 302). Notiz NFP 1.11.1929, S. 9. Anzeige NFP 23.10.1929, S. 7. Besprechung von Eduard Siebrecht in NFP 24.10.1929, S. 13.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Vier Teufel“ („Four Devils“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>F. W. Murnau</persName></cell>
-                  <cell role="data"><persName>Herman Bang (Vorlage gleichnamiger Roman)</persName></cell>
-                  <cell role="data"><orgName>Fox-Film</orgName></cell>
-                  <cell role="data">Janet Gaynor, Mary Duncan, Nancy Drexel, Charles Morton, Barry Norton, J. Farrell MacDonald</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Vier Teufel“ („Four Devils“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>F. W. Murnau</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Herman Bang (Vorlage gleichnamiger Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Janet Gaynor, Mary Duncan, Nancy Drexel, Charles Morton, Barry Norton, J. Farrell MacDonald</cell>
                </row>
             </table>
          </div>
@@ -132,15 +137,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__11" type="kino">
-               <orgName>Apollo</orgName>
-               <location><address><addrLine>06., Gumpendorferstraße 63</addrLine></address></location>
+            <place  xml:id="ask_kino__11" type="kino">
+               <placeName>Apollo</placeName>
+               <location>
+                  <address>
+                     <addrLine>06., Gumpendorferstraße 63</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1929. Tonfilm ab 1929. Ab 1929 1440 Plätze (davon 80 Logenplätze). Zur (Wieder-)Eröffnung des Mariahilfer Apollo-Kinos vgl. auch den Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. – Zur Wiedereröffnung des Mariahilfer Apollo-Kinos Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. Ebd. S. 7 Bericht über Architektur des Kinos sowie eine dreispaltige Anzeige. – Schwarz 1992, S. 266 nennt auch ein „Apollo“ im 15. Bezirk (Schanzstr. 2-4); ein weiteres Kino im 17. Bezirk (Dornerplatz 9) bestand unter diesem Namen nur bis 1927. Dieses dürfte Schnitzler ebenfalls besucht haben, als es später unter dem Namen „Gloriakino“ geführt wurde.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

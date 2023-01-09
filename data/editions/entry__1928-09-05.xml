@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-05.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-09-05.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>5/9 […] Mit C. P. Kino, „Spione“, im Churhauskeller genachtm.–</ab></div>
-         <div type="ckp"><ab>5.9. Mit Magda bei Krupnik, ein einfache[s] Kleid um 24 S. fürs Spital aussuchen geholfen. Telefonisches Gespräch mit Berta Z., dann mit Dr. Horch von der Josefstadt. In den nächsten Tagen geht ein Brief an A. ab. Ich habe genau angegeben, wie er stilisiert sein soll: Man brennt darauf, ein Stück von ihm zu geben. Ob er nicht etwas Neues hat? etc. Ich hoffe so, dass ihm das helfen wird.
+         <div type="as">
+            <ab>5/9 […] Mit C. P. Kino, „Spione“, im Churhauskeller genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>5.9. Mit Magda bei Krupnik, ein einfache[s] Kleid um 24 S. fürs Spital aussuchen geholfen. Telefonisches Gespräch mit Berta Z., dann mit Dr. Horch von der Josefstadt. In den nächsten Tagen geht ein Brief an A. ab. Ich habe genau angegeben, wie er stilisiert sein soll: Man brennt darauf, ein Stück von ihm zu geben. Ob er nicht etwas Neues hat? etc. Ich hoffe so, dass ihm das helfen wird.
 Nachmittag Bruder Otto bei mir, der liebste, beste Mensch, den es gibt.
-Abend mit A. im Kino. War innerlich erstaunt, dass er den Wunsch hatte. Nachher Kurhauskeller. Alle Leute starren uns an. [II, 143]</ab></div>
-         <div type="anmerkung"><ab>»Magda«: Pollaczeks Schwiegertochter; »Berta Z.«: die Journalistin Berta Zuckerkandl (1864–1945); »Dr. Horch«: Franz Horch (1901–1951, Dramaturg, Schriftsteller und Übersetzer). Hintergrund des Versuchs von Pollaczek, ein Stück von Schnitzler auf die Bühne zu bringen, – und des von ihr wahrgenommenen Starrens der Leute im Restaurant – ist, daß dessen Tochter Lili am 28.7.1928 in Venedig an den Folgen einer selbstzugefügten Schußwunde gestorben war. 
-»eine tolle optische Reportage« (SK II, S. 62). Nachgewiesene Spielorte: Central-, Maria-Theresien-Kino.</ab></div>
+Abend mit A. im Kino. War innerlich erstaunt, dass er den Wunsch hatte. Nachher Kurhauskeller. Alle Leute starren uns an. [II, 143]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Magda«: Pollaczeks Schwiegertochter; »Berta Z.«: die Journalistin Berta Zuckerkandl (1864–1945); »Dr. Horch«: Franz Horch (1901–1951, Dramaturg, Schriftsteller und Übersetzer). Hintergrund des Versuchs von Pollaczek, ein Stück von Schnitzler auf die Bühne zu bringen, – und des von ihr wahrgenommenen Starrens der Leute im Restaurant – ist, daß dessen Tochter Lili am 28.7.1928 in Venedig an den Folgen einer selbstzugefügten Schußwunde gestorben war. 
+»eine tolle optische Reportage« (SK II, S. 62). Nachgewiesene Spielorte: Central-, Maria-Theresien-Kino.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Spione“</cell>
-                  <cell role="data"><date>[1927/28]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fritz Lang</persName></cell>
-                  <cell role="data"><persName>Thea von Harbou (Vorlage gleichnamiger Roman); [Fritz Lang, Thea von Harbou]</persName></cell>
-                  <cell role="data"><orgName>Lang-Ufa-Film</orgName></cell>
-                  <cell role="data">Willy Fritsch, Rudolf Klein-Rogge, Louis Ralph, Paul Hörbiger, Lupu Pick, Fritz Rasp, Gerda Maurus, Lien Deyers u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Spione“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927/28]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fritz Lang</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Thea von Harbou (Vorlage gleichnamiger Roman); [Fritz Lang, Thea von Harbou]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Lang-Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Willy Fritsch, Rudolf Klein-Rogge, Louis Ralph, Paul Hörbiger, Lupu Pick, Fritz Rasp, Gerda Maurus, Lien Deyers u.a.</cell>
                </row>
             </table>
          </div>
@@ -155,13 +162,15 @@ Abend mit A. im Kino. War innerlich erstaunt, dass er den Wunsch hatte. Nachher 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__9" type="wirt">
+               <placeName>Meinl Churhaus-Restaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Stephansplatz 3, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__9" type="wirt">
-               <orgName>Meinl Churhaus-Restaurant</orgName>
-               <location><address><addrLine>Stephansplatz 3, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

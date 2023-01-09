@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-10-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-10-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/10 […] – Allein genachtm., dann mit C. P. (Colosseum) Kino; Im Geheimdienst (Helm etc.) –</ab></div>
-         <div type="ckp"><ab><hi>3ten Okt.</hi> Mittag Carry u. Magdy, später Roman dictiert. Abend Kino mit A. Guter Kriminal-Film mit der Brig. Helm. – Sehr lieber Brief von Hery. [III, 248]</ab></div>
-         <div type="anmerkung"><ab>Pollaczek arbeitete vermutlich schon länger an dem umfangreichen Roman »Zwischen den Generationen« (dies der zeitlich einzig passende Roman ab 1931). Hermann »Harry/Hery« Erich Pollaczek, der ältere Sohn, war am 29. Juni d. J. über Hamburg nach Argentinien ausgewandert.
-Ankündigung NFP 11.9.1931, S. 9, für 10.9.1931. Premierennotiz NFP 15.9.1931, S. 10, für 18.9.1931 unter Angabe von drei weiteren Spielorten. Anzeige und Notiz NFP 18.9.1931, S. 2 bzw. 10. Spielort bestätigt NFP 3.10.1931, S. 18.</ab></div>
+         <div type="as">
+            <ab>3/10 […] – Allein genachtm., dann mit C. P. (Colosseum) Kino; Im Geheimdienst (Helm etc.) –</ab>
+         </div>
+         <div type="ckp">
+            <ab>
+               <hi>3ten Okt.</hi> Mittag Carry u. Magdy, später Roman dictiert. Abend Kino mit A. Guter Kriminal-Film mit der Brig. Helm. – Sehr lieber Brief von Hery. [III, 248]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Pollaczek arbeitete vermutlich schon länger an dem umfangreichen Roman »Zwischen den Generationen« (dies der zeitlich einzig passende Roman ab 1931). Hermann »Harry/Hery« Erich Pollaczek, der ältere Sohn, war am 29. Juni d. J. über Hamburg nach Argentinien ausgewandert.
+Ankündigung NFP 11.9.1931, S. 9, für 10.9.1931. Premierennotiz NFP 15.9.1931, S. 10, für 18.9.1931 unter Angabe von drei weiteren Spielorten. Anzeige und Notiz NFP 18.9.1931, S. 2 bzw. 10. Spielort bestätigt NFP 3.10.1931, S. 18.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Im Geheimdienst“ (At. „Geheimdienst“)</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Gustav Ucicky</persName></cell>
-                  <cell role="data"><persName>Walter Reisch</persName></cell>
-                  <cell role="data"><orgName>Ufa-Klangfilm</orgName></cell>
-                  <cell role="data">Brigitte Helm, Willy Fritsch, Oskar Homolka, Theodor Loos, Karl Ludwig Diehl, Ferdinand Hart, Harry Hardt, Eduard von Winterstein</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Im Geheimdienst“ (At. „Geheimdienst“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Gustav Ucicky</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Walter Reisch</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Brigitte Helm, Willy Fritsch, Oskar Homolka, Theodor Loos, Karl Ludwig Diehl, Ferdinand Hart, Harry Hardt, Eduard von Winterstein</cell>
                </row>
             </table>
          </div>
@@ -147,15 +155,16 @@ Ankündigung NFP 11.9.1931, S. 9, für 10.9.1931. Premierennotiz NFP 15.9.1931, 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__7" type="kino">
-               <orgName>Kolosseum</orgName>
-               <location><address><addrLine>09., Nußdorferstraße 4</addrLine></address></location>
+            <place  xml:id="ask_kino__7" type="kino">
+               <placeName>Kolosseum</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Nußdorferstraße 4</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1925. Tonfilm ab 1929. Fassungsraum: 1926: 688 Sitzplätze (davon 188 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

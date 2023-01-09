@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-09-26.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-09-26.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>26/9 […] Nachm. 4 (unerwartet, […]) Suz.;– wir fahren in ein Kino (Gloria);– Mlle. Nitouche (Ondra) – dann ins Rest. Lido;– dann bring ich sie heim. […]</ab></div>
-         <div type="ckp"><ab>„27ten Gestern Abend sagte mir A. er sei so ermattet, dass er meist liege, er habe versucht um ½5 fortzugehen aber er sei gleich umgekehrt, fühle sich am wolsten in der horizontalen Lage. Ich hatte aber zufällig um ½8 angerufen und Minna mir gesagt, er sei nicht zu Hause und es sei unbestimmt ob und wann er komme. Um 9 war er angeblich noch nicht da. Ich bat Minna nichts von meinem Anruf zu sagen. […]“ [III, 247]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>26/9 […] Nachm. 4 (unerwartet, […]) Suz.;– wir fahren in ein Kino (Gloria);– Mlle. Nitouche (Ondra) – dann ins Rest. Lido;– dann bring ich sie heim. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>„27ten Gestern Abend sagte mir A. er sei so ermattet, dass er meist liege, er habe versucht um ½5 fortzugehen aber er sei gleich umgekehrt, fühle sich am wolsten in der horizontalen Lage. Ich hatte aber zufällig um ½8 angerufen und Minna mir gesagt, er sei nicht zu Hause und es sei unbestimmt ob und wann er komme. Um 9 war er angeblich noch nicht da. Ich bat Minna nichts von meinem Anruf zu sagen. […]“ [III, 247]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Mamselle Nitouche“</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D[/F]</placeName></cell>
-                  <cell role="data"><persName>Carl Lama?</persName></cell>
-                  <cell role="data"><persName>[Henri] Meilhac, [Hervé] , [Albert] Millaud (Vorlage gleichnamige Operette); [Hans Heinz Zerlett (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Vandor-Ondra-Lamac-Movieton</orgName></cell>
-                  <cell role="data">Anny Ondra, Juli[a] Serda, Yvonne Albinus, Oskar Karlweis, Georg Alexander, Hans Junkermann, Karl [Forest]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Mamselle Nitouche“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D[/F]</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Carl Lama?</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Henri] Meilhac, [Hervé] , [Albert] Millaud (Vorlage gleichnamige Operette); [Hans Heinz Zerlett (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Vandor-Ondra-Lamac-Movieton</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Anny Ondra, Juli[a] Serda, Yvonne Albinus, Oskar Karlweis, Georg Alexander, Hans Junkermann, Karl [Forest]</cell>
                </row>
             </table>
          </div>
@@ -155,15 +162,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__12" type="kino">
-               <orgName>Apollokino / Gloriakino</orgName>
-               <location><address><addrLine>17., Dornerplatz 9</addrLine></address></location>
+            <place  xml:id="ask_kino__12" type="kino">
+               <placeName>Apollokino / Gloriakino</placeName>
+               <location>
+                  <address>
+                     <addrLine>17., Dornerplatz 9</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912. Umbenennung 1927. Tonfilm ab 1930. Fassungsraum: 1914: 320 Sitzplätze, 1922: 520 Sitzplätze (davon 22 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

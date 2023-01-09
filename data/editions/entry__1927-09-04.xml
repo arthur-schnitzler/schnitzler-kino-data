@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-09-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-09-04.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>4/9 Verona. […] Nm. mit C. P. Kino (Raym. Griffith the blonde and the brunette). […]</ab></div>
-         <div type="anmerkung"><ab>Der Film taucht unter diesem Titel nicht in den einschlägigen Filmographien und Filmlexika auf, er wird aber in einem Veroneser Kinoprogramm vom 2. September 1927 genannt: „Bionda o Bruna, con Raymond Griffith“. Die Titelvariante „La bionda e la bruna“ führt weiter zum angegebenen Film. Als Spielort nachgewiesen: Cinema Calzoni (Auskünfte aus der Stadtbibliothek Verona, Laura Rebonato/Edoardo Ferrari, 15.1.2010). </ab></div>
+         <div type="as">
+            <ab>4/9 Verona. […] Nm. mit C. P. Kino (Raym. Griffith the blonde and the brunette). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Der Film taucht unter diesem Titel nicht in den einschlägigen Filmographien und Filmlexika auf, er wird aber in einem Veroneser Kinoprogramm vom 2. September 1927 genannt: „Bionda o Bruna, con Raymond Griffith“. Die Titelvariante „La bionda e la bruna“ führt weiter zum angegebenen Film. Als Spielort nachgewiesen: Cinema Calzoni (Auskünfte aus der Stadtbibliothek Verona, Laura Rebonato/Edoardo Ferrari, 15.1.2010). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„La bionda e la bruna“ (Ot.: „Hands up!“)</cell>
-                  <cell role="data"><date>1926</date></cell>
-                  <cell role="data">Komödie</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Clarence Badger</persName></cell>
-                  <cell role="data"><persName>Monte Brice, Lloyd Corrigan, Reggie Morris</persName></cell>
-                  <cell role="data"><orgName>Famous Players-Lasky</orgName></cell>
-                  <cell role="data">George A. Billings, Virginia Lee Corbin, Charles K. French, Raymond Griffith, Noble Johnson, Montagu Love, Marian Nixon, Mack Swain</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„La bionda e la bruna“ (Ot.: „Hands up!“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>1926</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komödie</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Clarence Badger</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Monte Brice, Lloyd Corrigan, Reggie Morris</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Famous Players-Lasky</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">George A. Billings, Virginia Lee Corbin, Charles K. French, Raymond Griffith, Noble Johnson, Montagu Love, Marian Nixon, Mack Swain</cell>
                </row>
             </table>
          </div>
@@ -150,7 +155,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Verona</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

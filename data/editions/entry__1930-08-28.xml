@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-08-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-08-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/8 Marienbad. […] Mit C. P. Kino, „Ketten“ (Kortner), Teplerhaus genachtm. […]</ab></div>
-         <div type="anmerkung"><ab>Notiz in der Marienbader Zeitung, 28.8.1930, S. 2: »Dr. Arthur Schnitzler in Marienbad. Wie wir erfahren, ist auch heuer wieder der Wiener Schriftsteller und praktische Arzt Dr. Arthur Schnitzler zum Kurgebrauch in Marienbad eingetroffen«. Auf der nächsten Seite folgt eine Besprechung des Films »Ketten«: 
+         <div type="as">
+            <ab>28/8 Marienbad. […] Mit C. P. Kino, „Ketten“ (Kortner), Teplerhaus genachtm. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Notiz in der Marienbader Zeitung, 28.8.1930, S. 2: »Dr. Arthur Schnitzler in Marienbad. Wie wir erfahren, ist auch heuer wieder der Wiener Schriftsteller und praktische Arzt Dr. Arthur Schnitzler zum Kurgebrauch in Marienbad eingetroffen«. Auf der nächsten Seite folgt eine Besprechung des Films »Ketten«: 
 „Bio Globus. Donnerstag, den 28., und Freitag, den 29. August, Fritz Kortner, der deutsche Meister-Darsteller, in seiner neuen Rolle im russischen Großfilm ‚In Ketten‘, Drama aus dem zaristischen Rußland voll atemberaubender Spannung […]. Fron – Fron – Fron! An endlosen Schienensträngen schuften Sträflinge, Knechtschaft, Kosakenwärter! Im nahen Buchenwald knallen zwei Schüsse. ‚Auf der Flucht Nr. 40 und Nr. 130 erschossen‘, sagt der Rapport. Wer prüft die Wahrheit? – Es sind nur Hunde, Hunde! Ketten klirren, Zungen keuchen, Augen funkeln in Fieber und Haß – Sklavengehirne wälzen nur einen Gedanken tagaus, tagein: Flucht – Flucht – Flucht!! In diesem trostlosen Milieu der transsibirischen Bahn helfen mongolische Bauern den verbannten Sträflingen. Aus dieser Verschwörung dampft die wuchtige Tragik dieses monumentalen Filmes empor, in der Mitte die Gestalt des Militärgouverneurs: Fürst Wagarin, welche Rolle von Fritz Kortner meisterhaft und unvergleichlich verkörpert wird. Ein Film, der zu den auserwähltesten Filmschöpfungen gehört und deswegen jedermann zur Besichtigung wärmstens empfohlen wird. Außerdem das erstklassige Beiprogramm mit Wochenberichterstattung.“ Im Zentral-Kino: „Die Nacht nach dem Verrat“ sowie „als Ergänzung ‚Eine verhängnisvolle Hochzeit.‘ Lustspiel in zwei Akten und die ‚Emelka-Woche Nr. 32‘“. 
 
 Der Film lief in Wien einige Monate früher: Premierennotiz NFP 11.4.1930, S. 11, für 25.4.1930, Anzeige und Premierennotiz NFP 25.4.1930, S. 13. Besprechung von Lilly Klaudy in NFP 29.4.1930, S. 10.
-</ab></div>
+</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Ketten“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Gennaro Righelli</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Erda-Greenbaum-Film</orgName></cell>
-                  <cell role="data">Fritz Kortner, Theodor Loos, William Freshman, Alexandre Bernard, Renée Héribel</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Ketten“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Gennaro Righelli</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Erda-Greenbaum-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Fritz Kortner, Theodor Loos, William Freshman, Alexandre Bernard, Renée Héribel</cell>
                </row>
             </table>
          </div>
@@ -124,7 +129,6 @@ Der Film lief in Wien einige Monate früher: Premierennotiz NFP 11.4.1930, S. 11
                <placeName>Marienbad</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

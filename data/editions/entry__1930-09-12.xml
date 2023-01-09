@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-09-12.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-09-12.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>12/9 Früh. Dr. Hoffmann. Juridisches. Tonfilmangelegenheiten etc.– Allerlei enervantes.– […] – Abends mit C. P. Kino „Ungleiche Moral“ (Garbo) – bei der „Linde“ mit ihr genachtm.</ab></div>
-         <div type="ckp"><ab>13.9. Gestern Abend Kino (Zweierlei Moral mit Greta Garbo), wundervoll.
+         <div type="as">
+            <ab>12/9 Früh. Dr. Hoffmann. Juridisches. Tonfilmangelegenheiten etc.– Allerlei enervantes.– […] – Abends mit C. P. Kino „Ungleiche Moral“ (Garbo) – bei der „Linde“ mit ihr genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>13.9. Gestern Abend Kino (Zweierlei Moral mit Greta Garbo), wundervoll.
 A. starrt wieder vor sich hin und an mir vorbei. 
-Heute Vormittag Schneiderin ein Herbstkleid bestellt. Otto zu Tisch, wie immer lieb und gut und erfrischend. Abschriften Corday durchgesehen. Ich <hi>glaube</hi> an dieses Stück. [III, 96]</ab></div>
-         <div type="anmerkung"><ab>Interessanterweise gibt es aus demselben Jahr einen Film mit dem Titel »Zweierlei Moral« (D 1930, Klangfilm GmbH. Regie: Gerhard Lamprecht). Da Greta Garbo eine der wenigen Darstellerinnen war, von denen sich Pollaczek (genauso wie Schnitzler) in ihren Notaten begeistert zeigt, scheint eine Namensverwechslung jedoch ausgeschlossen. Auch Schnitzler nennt die Darstellerin, allerdings lautet der Filmtitel bei ihm »Ungleiche Moral« (Tb 12.9.1930).
-Ankündigung NFP 29.8.1930, S. 10. Nachgewiesene Spielorte: Rotenturm- und Flieger-Kino sowie Tuchlauben Lichtspiele (NFP 12.9.1930, S. 17, und NZG 12.9.1930, S. 7).</ab></div>
+Heute Vormittag Schneiderin ein Herbstkleid bestellt. Otto zu Tisch, wie immer lieb und gut und erfrischend. Abschriften Corday durchgesehen. Ich <hi>glaube</hi> an dieses Stück. [III, 96]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Interessanterweise gibt es aus demselben Jahr einen Film mit dem Titel »Zweierlei Moral« (D 1930, Klangfilm GmbH. Regie: Gerhard Lamprecht). Da Greta Garbo eine der wenigen Darstellerinnen war, von denen sich Pollaczek (genauso wie Schnitzler) in ihren Notaten begeistert zeigt, scheint eine Namensverwechslung jedoch ausgeschlossen. Auch Schnitzler nennt die Darstellerin, allerdings lautet der Filmtitel bei ihm »Ungleiche Moral« (Tb 12.9.1930).
+Ankündigung NFP 29.8.1930, S. 10. Nachgewiesene Spielorte: Rotenturm- und Flieger-Kino sowie Tuchlauben Lichtspiele (NFP 12.9.1930, S. 17, und NZG 12.9.1930, S. 7).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Gleiche Moral“ („The Single Standard“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>John S. Robertson</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Metro-Vitaphone-Film</orgName></cell>
-                  <cell role="data">Greta Garbo, Kathleen Williams, Dorothy Sebastian, Nils Asther, John Mac Brown, Fred Solm</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Gleiche Moral“ („The Single Standard“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>John S. Robertson</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Vitaphone-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Greta Garbo, Kathleen Williams, Dorothy Sebastian, Nils Asther, John Mac Brown, Fred Solm</cell>
                </row>
             </table>
          </div>
@@ -141,7 +148,6 @@ Ankündigung NFP 29.8.1930, S. 10. Nachgewiesene Spielorte: Rotenturm- und Flieg
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

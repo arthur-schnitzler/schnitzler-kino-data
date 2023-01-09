@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-12-02.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-12-02.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>2/12 […] Mit H. K. Kino („Flammende Jugend“). […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>2/12 […] Mit H. K. Kino („Flammende Jugend“). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Flaming Youth“ („Flammende Jugend“)</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>John Francis Dillon</persName></cell>
-                  <cell role="data"><persName>Harry O. Hoyt</persName></cell>
-                  <cell role="data"><orgName>Associated First National Pictures</orgName></cell>
-                  <cell role="data">Colleen Moore, Milton Sills, Elliott Dexter, Sylvia Breamer, Myrtle Stedman, Betty Francisco, Phillips Smalley, Walter McGrail, Ben Lyon, George Barraud, John Patrick, Gino Corrado, Gertrude Astor, Michael Dark</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Flaming Youth“ („Flammende Jugend“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>John Francis Dillon</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Harry O. Hoyt</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Associated First National Pictures</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Colleen Moore, Milton Sills, Elliott Dexter, Sylvia Breamer, Myrtle Stedman, Betty Francisco, Phillips Smalley, Walter McGrail, Ben Lyon, George Barraud, John Patrick, Gino Corrado, Gertrude Astor, Michael Dark</cell>
                </row>
             </table>
          </div>
@@ -161,7 +166,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

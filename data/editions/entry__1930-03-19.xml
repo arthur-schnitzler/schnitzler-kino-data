@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-03-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-03-19.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>19/3 […] Mit C. P. Kino (Schäffer, zum 1. Mal) (Training zur Ehe u. a.), mit ihr „Weingartl“ soup.–</ab></div>
-         <div type="anmerkung"><ab>Schnitzler erwähnt nur den ersten Teil des Programms. 
+         <div type="as">
+            <ab>19/3 […] Mit C. P. Kino (Schäffer, zum 1. Mal) (Training zur Ehe u. a.), mit ihr „Weingartl“ soup.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Schnitzler erwähnt nur den ersten Teil des Programms. 
 NZG vom 19.3.1930, S. 8, nennt für das Kino Schäffer »Liebschaften einer Schauspielerin« mit Pola Negri. NFP und RPT haben kein Programm des Kinos. Vermutlich wurden mehrere Filme gezeigt und der Hauptfilm war »Die Liebschaften einer Schauspielerin«. 
 1. Premierennotiz NFP 28.2.1930, S. 8. Anzeige NFP 28.2.1930, S. 9. 
-2. Notiz mit Bestätigung des Spielorts NFP 14.3.1930, S. 10.</ab></div>
+2. Notiz mit Bestätigung des Spielorts NFP 14.3.1930, S. 10.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Training zur Ehe“ („The Duke Steps out“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>James Cruze</persName></cell>
-                  <cell role="data"><persName>[Raymond Schrock, Dale Van Every (Adaption); Lucian Cary (Story); Jo[seph] Farnham (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Metro-Film</orgName></cell>
-                  <cell role="data">William Haines, Karl Dane, Joan Crawford u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Training zur Ehe“ („The Duke Steps out“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>James Cruze</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Raymond Schrock, Dale Van Every (Adaption); Lucian Cary (Story); Jo[seph] Farnham (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">William Haines, Karl Dane, Joan Crawford u.a.</cell>
                </row>
             </table>
          </div>
@@ -157,15 +162,16 @@ NZG vom 19.3.1930, S. 8, nennt für das Kino Schäffer »Liebschaften einer Scha
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__15" type="kino">
-               <orgName>Kino Schäffer</orgName>
-               <location><address><addrLine>06., Mariahilferstraße 37</addrLine></address></location>
+            <place  xml:id="ask_kino__15" type="kino">
+               <placeName>Kino Schäffer</placeName>
+               <location>
+                  <address>
+                     <addrLine>06., Mariahilferstraße 37</addrLine>
+                  </address>
+               </location>
                <note type="info"> Unbekanntes Eröffnungsdatum. Ab 1922 465 Plätze (davon 78 Logenplätze). Tonfilm ab 1930.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

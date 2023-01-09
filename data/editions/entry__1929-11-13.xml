@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-11-13.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-11-13.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>13/11 […] Mit C. P. Kino „Sünden der Väter“ (Jannings),– dann mit C. P. „Palmensaal“ (erstes Mal), […].</ab></div>
-         <div type="anmerkung"><ab>»ein richtiges Volksstück, ein Propagandafilm zugunsten der Prohibition« (SK II, S. 327). Premierennotiz NFP 8.11.1929, S. 8, für 15.11.1929. Anzeige und Notiz NFP 15.11.1929, S. 11. Besprechung von Philipp Winter in NFP 21.11.1929, S. 10.</ab></div>
+         <div type="as">
+            <ab>13/11 […] Mit C. P. Kino „Sünden der Väter“ (Jannings),– dann mit C. P. „Palmensaal“ (erstes Mal), […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»ein richtiges Volksstück, ein Propagandafilm zugunsten der Prohibition« (SK II, S. 327). Premierennotiz NFP 8.11.1929, S. 8, für 15.11.1929. Anzeige und Notiz NFP 15.11.1929, S. 11. Besprechung von Philipp Winter in NFP 21.11.1929, S. 10.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Sünden der Väter“ („Sins of Fathers“)</cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Ludwig Berger</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Paramount-Film</orgName></cell>
-                  <cell role="data">Emil Jannings, Barry Norton, Jack Luden, Ruth Chatterton, Zasu Pitts</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Sünden der Väter“ („Sins of Fathers“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ludwig Berger</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Emil Jannings, Barry Norton, Jack Luden, Ruth Chatterton, Zasu Pitts</cell>
                </row>
             </table>
          </div>
@@ -123,7 +128,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-12-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-12-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,37 +62,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/12 Vm. packen u. dgl.–
+         <div type="as">
+            <ab>25/12 Vm. packen u. dgl.–
 Telef. mit O. Berlin.
 Vor Tisch zu C. P., wo auch Karl mit Magda.
 Allein zu Hause gegessen.– 
 Nm. tel. und sonst nichts rechtes.
 Zu C. P.; die mir einen kleinen Artikel vorlas, gegen die Generalproben (durch meine neuesten Erfahrungen, und den Beschluss der Direktoren veranlaßt, keine oeffentlichen Generalproben mehr zu veranstalten).
 Mit ihr Kino „Frau im Mond“; nach einem guten crimin. Anfang von unergründlicher Praetentiosität und Dummheit.
-Mit C. P. bei ihr genachtm.; mühselige Conversation; begleite sie heim, in schlechter Stimmung auseinander, wie allzuoft.– </ab></div>
-         <div type="anmerkung"><ab>»Wann wird man endlich bei uns auf die Erde niedersteigen?« (SK II, S. 238). Premierennotiz NFP 15.11.1929, S. 11, für 18.11.1929. Nachgewiesene Spielorte: Capitol-, Atlantis-, Eisenbahnerheim-, Margaretner Bürger-, Arkaden-, Flieger-, Olympia- und Weltspiegel-Kino sowie Kino Wienzeile und  Weltbiograph (NFP 25.12.1929, S. 43).</ab></div>
+Mit C. P. bei ihr genachtm.; mühselige Conversation; begleite sie heim, in schlechter Stimmung auseinander, wie allzuoft.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Wann wird man endlich bei uns auf die Erde niedersteigen?« (SK II, S. 238). Premierennotiz NFP 15.11.1929, S. 11, für 18.11.1929. Nachgewiesene Spielorte: Capitol-, Atlantis-, Eisenbahnerheim-, Margaretner Bürger-, Arkaden-, Flieger-, Olympia- und Weltspiegel-Kino sowie Kino Wienzeile und  Weltbiograph (NFP 25.12.1929, S. 43).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Frau im Mond“</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fritz Lang</persName></cell>
-                  <cell role="data"><persName>Thea von Harbou (Vorlage Roman)</persName></cell>
-                  <cell role="data"><orgName>Lang-Ufa-Film</orgName></cell>
-                  <cell role="data">Gerda Maurus, Margarete Kupfer, Tilla Durieux, Willy Fritsch, Gustav von Wangenheim, Klaus Pohl, Fritz Rasp, Gustl Stark-Gstettenbauer</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Frau im Mond“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fritz Lang</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Thea von Harbou (Vorlage Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Lang-Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gerda Maurus, Margarete Kupfer, Tilla Durieux, Willy Fritsch, Gustav von Wangenheim, Klaus Pohl, Fritz Rasp, Gustl Stark-Gstettenbauer</cell>
                </row>
             </table>
          </div>
@@ -153,7 +158,6 @@ Mit C. P. bei ihr genachtm.; mühselige Conversation; begleite sie heim, in schl
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

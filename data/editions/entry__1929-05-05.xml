@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-05-05.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-05-05.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>5/5 […] Abds. C. P. bei mir, vorher mit ihr Kino „das göttliche Weib“.</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz NFP 26.4.1929, S. 10. Anzeige und Notiz NFP 3.5.1929, S. 11, dort nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Schottenring-, Löwen-, Haydn-, Palast-, Flieger-, Kolosseum-, Park- und Theater-Kino sowie Kino Handl. Besprechung von Eduard Siebrecht in NFP 5.5.1929, S. 16.</ab></div>
+         <div type="as">
+            <ab>5/5 […] Abds. C. P. bei mir, vorher mit ihr Kino „das göttliche Weib“.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz NFP 26.4.1929, S. 10. Anzeige und Notiz NFP 3.5.1929, S. 11, dort nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Schottenring-, Löwen-, Haydn-, Palast-, Flieger-, Kolosseum-, Park- und Theater-Kino sowie Kino Handl. Besprechung von Eduard Siebrecht in NFP 5.5.1929, S. 16.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Göttliche Weib“ („Die Frau auf der Folter“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Felsom-Film</orgName></cell>
-                  <cell role="data">Lily Damita, Vivian Gibson, Wladimir Gaidarow, Arthur Pussy, Johannes Riemann</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Göttliche Weib“ („Die Frau auf der Folter“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Felsom-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lily Damita, Vivian Gibson, Wladimir Gaidarow, Arthur Pussy, Johannes Riemann</cell>
                </row>
             </table>
          </div>
@@ -119,7 +124,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

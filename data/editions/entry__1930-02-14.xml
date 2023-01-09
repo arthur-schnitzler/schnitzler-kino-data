@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-02-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-02-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/2 […] Mit C. P. in der Secession. Flämische (Bilder) Ausstellung (bis 17. Jahrhundert). […] Dann zu C. P., mit ihr ins Kino. „Das brennende Herz“, (Hans Müller), (Mady Christians); – im Imperial mit ihr genachtm.; […] </ab></div>
-         <div type="ckp"><ab>14.2. Gisela Berger, Lotte Menasse und Frau Clauser zur Jause bei mir. Besonders gemütlich, dann mit A. im Kino. Nachher im Imperial. Vormittag auch mit A. in der Secession. [III, 28]</ab></div>
-         <div type="anmerkung"><ab>»Lotte Menasse«: Charlotte De Menasce, geb. Dirsztay (1883–1942)
+         <div type="as">
+            <ab>14/2 […] Mit C. P. in der Secession. Flämische (Bilder) Ausstellung (bis 17. Jahrhundert). […] Dann zu C. P., mit ihr ins Kino. „Das brennende Herz“, (Hans Müller), (Mady Christians); – im Imperial mit ihr genachtm.; […] </ab>
+         </div>
+         <div type="ckp">
+            <ab>14.2. Gisela Berger, Lotte Menasse und Frau Clauser zur Jause bei mir. Besonders gemütlich, dann mit A. im Kino. Nachher im Imperial. Vormittag auch mit A. in der Secession. [III, 28]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Lotte Menasse«: Charlotte De Menasce, geb. Dirsztay (1883–1942)
 Seine Übersetzerin Suzanne Clauser ist Schnitzlers letzte Liebe. Er registriert in seinem Tagebucheintrag auch deren erstes Erscheinen bei Pollaczek.
-»Das ist eine Art von Liebesromanze, in der die Musik nicht nur inhaltlich eine Rolle spielt, sondern beinahe die Inhalte gebiert. « (SK II, S. 230f). Anzeige NFP 28.1.1930, S. 16. Notiz NFP 31.1.1930, S. 7, nennt als Spielorte Elite- und Flotten-Kino (die mit dem Lustspieltheater kooperierten). Besprechung von E. G. anläßlich der Berliner Erstaufführung in NFP 23.2.1929, S. 11. Nachgewiesener Spielort: Lustspieltheater (NFP 14.2.1930, S. 19). </ab></div>
+»Das ist eine Art von Liebesromanze, in der die Musik nicht nur inhaltlich eine Rolle spielt, sondern beinahe die Inhalte gebiert. « (SK II, S. 230f). Anzeige NFP 28.1.1930, S. 16. Notiz NFP 31.1.1930, S. 7, nennt als Spielorte Elite- und Flotten-Kino (die mit dem Lustspieltheater kooperierten). Besprechung von E. G. anläßlich der Berliner Erstaufführung in NFP 23.2.1929, S. 11. Nachgewiesener Spielort: Lustspieltheater (NFP 14.2.1930, S. 19). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Brennende Herz“</cell>
-                  <cell role="data"><date>[1928/29]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Ludwig Berger</persName></cell>
-                  <cell role="data"><persName>[Hans Müller]</persName></cell>
-                  <cell role="data"><orgName>Länder-Terra-Film</orgName></cell>
-                  <cell role="data">Mady Christians, Frida Richard, Lena Malena, Ida Wüst, Rosa Valetti, Gustav Fröhlich, Anton Edthofer, Friedrich Kayssler, Anton Pointner</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Brennende Herz“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928/29]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ludwig Berger</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Hans Müller]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Länder-Terra-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Mady Christians, Frida Richard, Lena Malena, Ida Wüst, Rosa Valetti, Gustav Fröhlich, Anton Edthofer, Friedrich Kayssler, Anton Pointner</cell>
                </row>
             </table>
          </div>
@@ -151,7 +158,6 @@ Seine Übersetzerin Suzanne Clauser ist Schnitzlers letzte Liebe. Er registriert
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

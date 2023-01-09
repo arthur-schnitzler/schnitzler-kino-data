@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-12-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-12-19.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>19/12 […] Mit C. P. Kino – „Chang“ Dschungelfilm; bei C. P. genachtm.</ab></div>
-         <div type="anmerkung"><ab>Ankündigung und Anzeige NFP 16.12.1927, S. 19, dort nachgewiesene Spielorte: Burg-, Elite-, Imperial-, Central-, Flotten-, Maria-Theresien-, Phönix-, Kolosseum-, Abbazia-, Astoria- und Kalvarienberg-Kino sowie Kammerlichtspiele, Münstedts Kino-Palast und Lichtspiele Wienzeile. Besprechung NFP 18.12.1927, S. 19f.</ab></div>
+         <div type="as">
+            <ab>19/12 […] Mit C. P. Kino – „Chang“ Dschungelfilm; bei C. P. genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Ankündigung und Anzeige NFP 16.12.1927, S. 19, dort nachgewiesene Spielorte: Burg-, Elite-, Imperial-, Central-, Flotten-, Maria-Theresien-, Phönix-, Kolosseum-, Abbazia-, Astoria- und Kalvarienberg-Kino sowie Kammerlichtspiele, Münstedts Kino-Palast und Lichtspiele Wienzeile. Besprechung NFP 18.12.1927, S. 19f.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Chang, der König der Dschungel“ („Wild“, „Chang, a drama of the wilderness“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Merian C. Cooper, Ernest B. Schoedsack</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Paramount Famous Lasky Corporation</orgName></cell>
-                  <cell role="data">Kru, Chantui, Nah</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Chang, der König der Dschungel“ („Wild“, „Chang, a drama of the wilderness“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Merian C. Cooper, Ernest B. Schoedsack</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount Famous Lasky Corporation</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Kru, Chantui, Nah</cell>
                </row>
             </table>
          </div>
@@ -113,13 +118,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__3" type="wirt">
+               <placeName>Wohnung Pollaczek</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__3" type="wirt">
-               <orgName>Wohnung Pollaczek</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

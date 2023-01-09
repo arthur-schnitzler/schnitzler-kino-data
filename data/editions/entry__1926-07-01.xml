@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-07-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-07-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>1/7 […] Abds. mit C. P. Kino „Wachsfigurencabinet“.– 
-Mit C. P. Pohl genachtm. Las das 1. Capitel eines Romans von C. P., den sie eben begonnen. […]</ab></div>
-         <div type="anmerkung"><ab>»eines Romans«: »Der Aufstieg«. 
-Kracauer beschreibt den Film in seinem Buch »Von Caligari zu Hitler« (Kap. 6). Vgl. auch Hätte ich das Kino 1976, S. 324ff. Besprechung in Filmbote, Jg. 1924, Nr. 18, S. 20f. Nachgewiesener Spielort: Flieger-Kino (NZG 1.7.1926, S. 8).</ab></div>
+         <div type="as">
+            <ab>1/7 […] Abds. mit C. P. Kino „Wachsfigurencabinet“.– 
+Mit C. P. Pohl genachtm. Las das 1. Capitel eines Romans von C. P., den sie eben begonnen. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»eines Romans«: »Der Aufstieg«. 
+Kracauer beschreibt den Film in seinem Buch »Von Caligari zu Hitler« (Kap. 6). Vgl. auch Hätte ich das Kino 1976, S. 324ff. Besprechung in Filmbote, Jg. 1924, Nr. 18, S. 20f. Nachgewiesener Spielort: Flieger-Kino (NZG 1.7.1926, S. 8).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Wachsfigurenkabinett“</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Leo Birinsk[i], Paul Leni</persName></cell>
-                  <cell role="data"><persName>Henrik Galeen</persName></cell>
-                  <cell role="data"><orgName>Neptun-Film</orgName></cell>
-                  <cell role="data">Emil Jannings, Conrad Veidt, Werner Krauß, Wil[helm] Dieterle, Olga Belajeff, John Gottowt, Georg John, Ernst Legal</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Wachsfigurenkabinett“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Leo Birinsk[i], Paul Leni</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Henrik Galeen</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Neptun-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Emil Jannings, Conrad Veidt, Werner Krauß, Wil[helm] Dieterle, Olga Belajeff, John Gottowt, Georg John, Ernst Legal</cell>
                </row>
             </table>
          </div>
@@ -144,13 +149,15 @@ Kracauer beschreibt den Film in seinem Buch »Von Caligari zu Hitler« (Kap. 6).
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__19" type="wirt">
+               <placeName>Josef Pohl</placeName>
+               <location>
+                  <address>
+                     <addrLine>Währinger Straße 67, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__19" type="wirt">
-               <orgName>Josef Pohl</orgName>
-               <location><address><addrLine>Währinger Straße 67, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

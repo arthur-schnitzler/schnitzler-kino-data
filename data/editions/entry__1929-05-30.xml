@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-05-30.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-05-30.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,35 +62,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>30/5 […] Zu C. P. mit ihr Kino „die letzte Warnung“, unwahrscheinlich dumm. Mit C. P. Rest. „Neugröschl“ (zum 1. Mal).– </ab></div>
-         <div type="ckp"><ab>31.5. Gestern Abend mässiger Film. Amerikanischer Kitsch „Die letzte Warnung“. Dann bei Neugröschl genachtmahlt. Jüdisches Beisel. Stimmung nicht schlecht.
+         <div type="as">
+            <ab>30/5 […] Zu C. P. mit ihr Kino „die letzte Warnung“, unwahrscheinlich dumm. Mit C. P. Rest. „Neugröschl“ (zum 1. Mal).– </ab>
+         </div>
+         <div type="ckp">
+            <ab>31.5. Gestern Abend mässiger Film. Amerikanischer Kitsch „Die letzte Warnung“. Dann bei Neugröschl genachtmahlt. Jüdisches Beisel. Stimmung nicht schlecht.
 Eben Frieda gesprochen. A. soll zu ihr gesagt haben, dass die Einsicht von der O. und mir, die wir gegen ihn haben, schon sehr „letzter Akt voll ist“, so als ob man in ihm schon einen sehr Kranken sehe. Nein, für krank halte ich ihn nicht, aber für gefährdet. Da heisst es schweigen. Auch ein Ausspringen, wenn <hi>ich</hi> es zusammen brächte, würde er jetzt nicht ertragen.
-Heute Abend wieder Kino, dann „Linde“ genachtmahlt. Wetter trüb, regnerisch, kühl. Stimmung mittelmässig. Dr. D. sagt mir telefonisch, dass er jetzt sicher ist, dass A.’s Erkrankung rein nervös war. [II, 243f.]</ab></div>
-         <div type="anmerkung"><ab>»Dr. D.«: Ferdinand »Ferry« Donath, Schnitzlers Neffe und Arzt. 
+Heute Abend wieder Kino, dann „Linde“ genachtmahlt. Wetter trüb, regnerisch, kühl. Stimmung mittelmässig. Dr. D. sagt mir telefonisch, dass er jetzt sicher ist, dass A.’s Erkrankung rein nervös war. [II, 243f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Dr. D.«: Ferdinand »Ferry« Donath, Schnitzlers Neffe und Arzt. 
 Der letzte Film von Paul Leni. »In ihm gelangt das Unheimliche zu großartiger Darstellung« (SK II, S. 285).
-Notiz und Anzeige NFP 24.5.1929, S. 12, dort nachgewiesene Spielorte: Burg-, Kreuz-, Eos-, Haydn-, Votivpark-, Schloß- und Theater-Kino sowie Kino Handl.</ab></div>
+Notiz und Anzeige NFP 24.5.1929, S. 12, dort nachgewiesene Spielorte: Burg-, Kreuz-, Eos-, Haydn-, Votivpark-, Schloß- und Theater-Kino sowie Kino Handl.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Letzte Warnung“ („The last Warning“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Paul Leni</persName></cell>
-                  <cell role="data"><persName>[Wadsworth Camp (Roman „House of Fear“), Alfred A. Cohn (Story, Drehbuch), Thomas F. Fallon (Theaterstück), J. G. Hawks, Robert F. Hill (Adaption), Tom Reed (Drehbuch, Titel)]</persName></cell>
-                  <cell role="data"><orgName>Universal-Film</orgName></cell>
-                  <cell role="data">Laura la Plante, Margaret Livingston, Bert Roach, Montague Love, Roy d’Arcy</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Letzte Warnung“ („The last Warning“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Leni</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Wadsworth Camp (Roman „House of Fear“), Alfred A. Cohn (Story, Drehbuch), Thomas F. Fallon (Theaterstück), J. G. Hawks, Robert F. Hill (Adaption), Tom Reed (Drehbuch, Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Universal-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Laura la Plante, Margaret Livingston, Bert Roach, Montague Love, Roy d’Arcy</cell>
                </row>
             </table>
          </div>
@@ -160,7 +167,6 @@ Notiz und Anzeige NFP 24.5.1929, S. 12, dort nachgewiesene Spielorte: Burg-, Kre
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

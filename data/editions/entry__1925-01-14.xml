@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-01-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-01-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/1 […] Von C. P. tägliche Nachrichten, Sendung des Nov.-Mscrpts. – von H. K. amüsante Briefe.–
+         <div type="as">
+            <ab>14/1 […] Von C. P. tägliche Nachrichten, Sendung des Nov.-Mscrpts. – von H. K. amüsante Briefe.–
 Abends in einem Kino („zehn Gebote“), Schweizerhof gen.
 
 [AS an CP am 14.1.1925:]
-[…] Der gestrige Abend endete tatsächlich mit einem Kino:– die „zehn Gebote“,– ich hielt es aber nicht bis zum Ende aus,– von ½9-½11 schien mir genug,– insbesondere da die moderne Partie idiotisch war; begab mich noch in ein Restaurant (Schinken, Butter, da man hier in Bern um 7 oder ½8 isst und von 10 Uhr an wie es scheint keine warme Küche mehr zu haben ist […] [I, 111f.]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] Der gestrige Abend endete tatsächlich mit einem Kino:– die „zehn Gebote“,– ich hielt es aber nicht bis zum Ende aus,– von ½9-½11 schien mir genug,– insbesondere da die moderne Partie idiotisch war; begab mich noch in ein Restaurant (Schinken, Butter, da man hier in Bern um 7 oder ½8 isst und von 10 Uhr an wie es scheint keine warme Küche mehr zu haben ist […] [I, 111f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„The Ten Commandments“ („Die Zehn Gebote“)</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Cecil B. DeMille</persName></cell>
-                  <cell role="data"><persName>Jeanie Macpherson</persName></cell>
-                  <cell role="data"><orgName>Paramount</orgName></cell>
-                  <cell role="data">Theodore Roberts, Charles de Rochefort, Estelle Taylor, Julia Faye, Pat Moore, James Neill, Lawson Butt, Clarence Burton, Noble Johnson, Edythe Chapman, Richard Dix, Rod La Rocque, Leatrice Joy, Nita Naldi, Robert Edeson</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„The Ten Commandments“ („Die Zehn Gebote“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Cecil B. DeMille</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Jeanie Macpherson</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Theodore Roberts, Charles de Rochefort, Estelle Taylor, Julia Faye, Pat Moore, James Neill, Lawson Butt, Clarence Burton, Noble Johnson, Edythe Chapman, Richard Dix, Rod La Rocque, Leatrice Joy, Nita Naldi, Robert Edeson</cell>
                </row>
             </table>
          </div>
@@ -176,7 +181,6 @@ Abends in einem Kino („zehn Gebote“), Schweizerhof gen.
                <placeName>Bern</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

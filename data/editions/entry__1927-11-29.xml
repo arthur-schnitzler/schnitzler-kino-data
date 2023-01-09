@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-11-29.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-11-29.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>29/11 […] Mit O. Ufa Palast; ein Harold Lloyd Film. Aßen, mit Heini in der Frolies Bar.–
+         <div type="as">
+            <ab>29/11 […] Mit O. Ufa Palast; ein Harold Lloyd Film. Aßen, mit Heini in der Frolies Bar.–
 
 [AS an CP am 30.11.1927:]
-[…] Im Ufapalast (fabelhafte Aufmachung) bei einem schlechten Haral[d] Lloyd Film; Rendezvous mit Heini und O. in einem kleinen Restaurant (Frolics Bar) […] [II, 72]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] Im Ufapalast (fabelhafte Aufmachung) bei einem schlechten Haral[d] Lloyd Film; Rendezvous mit Heini und O. in einem kleinen Restaurant (Frolics Bar) […] [II, 72]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„For Heaven’s Sake“ („Um Himmelswillen“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Sam Taylor</persName></cell>
-                  <cell role="data"><persName>John Grey</persName></cell>
-                  <cell role="data"><orgName>Harold Lloyd Corp.</orgName></cell>
-                  <cell role="data">Harold Lloyd, Jobyna Ralston, Noah Young, Jim Mason, Paul Weigel</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„For Heaven’s Sake“ („Um Himmelswillen“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Sam Taylor</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>John Grey</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Harold Lloyd Corp.</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harold Lloyd, Jobyna Ralston, Noah Young, Jim Mason, Paul Weigel</cell>
                </row>
             </table>
          </div>
@@ -138,7 +143,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Berlin</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

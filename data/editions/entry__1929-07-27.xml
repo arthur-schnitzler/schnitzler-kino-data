@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-07-27.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-07-27.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>27/7 […] Mit C. P. Kino (Komödiantin, Shearer), Linde genachtm.</ab></div>
-         <div type="ckp"><ab>27.7. A. sieht schlecht aus. Im Kino bei „Komödiantin“ (netter Kitsch). Dann „Linde“ genachtmahlt. Gedrückte Stimmung, Unschlüssigkeit wegen unserer Reise. Fühle, er wartet auf irgendwelche Entschlüsse der O. Nachm. Lotte M. (besonders liebe Person). [II, 252]</ab></div>
-         <div type="anmerkung"><ab>»Lotte M.«: Charlotte De Menasce, geb. Dirsztay (1883–1942)
-„nett erzählt und filmisch reizend entwickelt“ (SK II, S. 209). Nachgewiesener Spielort: Flieger-Kino (NZG 27.7.1929, S. 8). In PFL ist der Kinostart erst für die neue Saison angegeben.</ab></div>
+         <div type="as">
+            <ab>27/7 […] Mit C. P. Kino (Komödiantin, Shearer), Linde genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>27.7. A. sieht schlecht aus. Im Kino bei „Komödiantin“ (netter Kitsch). Dann „Linde“ genachtmahlt. Gedrückte Stimmung, Unschlüssigkeit wegen unserer Reise. Fühle, er wartet auf irgendwelche Entschlüsse der O. Nachm. Lotte M. (besonders liebe Person). [II, 252]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Lotte M.«: Charlotte De Menasce, geb. Dirsztay (1883–1942)
+„nett erzählt und filmisch reizend entwickelt“ (SK II, S. 209). Nachgewiesener Spielort: Flieger-Kino (NZG 27.7.1929, S. 8). In PFL ist der Kinostart erst für die neue Saison angegeben.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Komödiantin“ („The Actress“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Sidney Franklin</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Metro-Film</orgName></cell>
-                  <cell role="data">Norma Shearer, Gwen Lee, Ralph Forbes, Owen Moore</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Komödiantin“ („The Actress“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Sidney Franklin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Norma Shearer, Gwen Lee, Ralph Forbes, Owen Moore</cell>
                </row>
             </table>
          </div>
@@ -124,7 +131,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

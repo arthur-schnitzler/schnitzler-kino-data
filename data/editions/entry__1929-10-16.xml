@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-10-16.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-10-16.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>16/10 […] Mit C. P. Kino „Hochverrath“ (Maurus) –, mit ihr Imperial genachtm.–</ab></div>
-         <div type="anmerkung"><ab>Notiz und Anzeige NFP 11.10.1929, S. 10/11, dort nachgewiesene Spielorte ab 15.10.1929: Schottenring-, Flieger- und Hindenburg-Kino sowie Kino Eisenbahnerheim, Lichtspiele Wienzeile, Weltbiograph und Raimund-Lichtspiele. Besprechung von Lilly Klaudy in NFP 15.10.1929, S. 10.</ab></div>
+         <div type="as">
+            <ab>16/10 […] Mit C. P. Kino „Hochverrath“ (Maurus) –, mit ihr Imperial genachtm.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Notiz und Anzeige NFP 11.10.1929, S. 10/11, dort nachgewiesene Spielorte ab 15.10.1929: Schottenring-, Flieger- und Hindenburg-Kino sowie Kino Eisenbahnerheim, Lichtspiele Wienzeile, Weltbiograph und Raimund-Lichtspiele. Besprechung von Lilly Klaudy in NFP 15.10.1929, S. 10.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Hochverrat“</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Johannes Meyer</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Gerda Maurus, Gustav Fröhlich, Harry Hardt, Leopold von Ledebur, Rudolf Biebrach, Felix de Pomés, Harry Frank, Osip Darmatoff</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Hochverrat“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Johannes Meyer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gerda Maurus, Gustav Fröhlich, Harry Hardt, Leopold von Ledebur, Rudolf Biebrach, Felix de Pomés, Harry Frank, Osip Darmatoff</cell>
                </row>
             </table>
          </div>
@@ -135,7 +140,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

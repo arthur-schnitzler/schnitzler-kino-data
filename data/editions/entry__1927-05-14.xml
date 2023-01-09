@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-05-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-05-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/5 […] Mit C. P. Kino „So ist Paris“ (Lubitsch), dann mit ihr Opernrestaurant – Dann Pathéphon. […]</ab></div>
-         <div type="anmerkung"><ab>»Pathéphon«: Metrophon, Wien 1., Graben 20. Neben einem Phonographen-Modell ist Pathéphon auch der generische Ausdruck für Salons zum Anhören von Tonträgern – die Firma Pathé, die Platten und Abspielgeräte vertrieb, entwickelte in Paris das Modell: Der Kunde, der in einem bequemen Sessel sitzen konnte, warf zuvor erworbene Jetons ein und konnte sich dann über ein Rohrsystem mit einem Operateur verbinden und Musikstücke vorspielen lassen. Später (für Kopenhagen ist die Umstellung auf 1913 beschrieben) wurde die Technik ausgetauscht und der Name Pathéphon verschwand nach und nach. Schnitzler greift also auf einen bereits veralteten Begriff zurück, der aber auch vom Betreiber des „Metrophon“ verwendet wurde: Als solches firmierte in Wien prominent am Graben 20 ein derartiger „Konzertsalon und Musikhaus“ (so der Eintrag im „Lehmann“ 1929). Metrophon verwendete auf den Jetons die Bezeichnung „Pathefon Konzert Salon Wien I. Graben 20“, so daß „Pathéphon“ und „Metrophon“ (so Schnitzler später alternativ) den selben Ort bezeichnen. Zur Geschichte des Pathéphons vgl. Gert J. Almind, Coin-Op Telephone Line Music (http://www.juke-box.dk/gert-telephone-music.htm, Abfrage vom 13.1.2010).
-„Auch für die Innehaltung der Tempi ist Lubitsch von Grund auf zuständig“ (SK I, S. 361). Besprechung von Felix Cleve in NFP 20.5.1927, S. 20: »Daß überdies mit allen Finessen einer wahrhaft genialen Technik gearbeitet wird – die Darstellung des Künstlerballtrubels, gesehen durch das Temperament eines Champagnerbesoffenen, ist ein Meisterstück ersten Ranges – ist bei einem Lubitsch natürlich nicht anders zu erwarten. Aesthetisch versnobte Filmgegner – es gibt deren noch immer eine ganze Herde – sollten sich diesen Film ansehen. Vielleicht, daß ihnen noch ein Licht darüber aufgeht, daß filmische Kunst oder künstlerischer Film keine Contradictio in adjecto bedeuten.« Nachgewiesene Spielorte: Elite-, Kruger-, Rotenturm-, Flotten-, Heimat-, Votivpark- und Abbazia-Kino sowie Kino Wienzeile und Kino Handl (Anzeige NFP 13.5.1927, S. 21).</ab></div>
+         <div type="as">
+            <ab>14/5 […] Mit C. P. Kino „So ist Paris“ (Lubitsch), dann mit ihr Opernrestaurant – Dann Pathéphon. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Pathéphon«: Metrophon, Wien 1., Graben 20. Neben einem Phonographen-Modell ist Pathéphon auch der generische Ausdruck für Salons zum Anhören von Tonträgern – die Firma Pathé, die Platten und Abspielgeräte vertrieb, entwickelte in Paris das Modell: Der Kunde, der in einem bequemen Sessel sitzen konnte, warf zuvor erworbene Jetons ein und konnte sich dann über ein Rohrsystem mit einem Operateur verbinden und Musikstücke vorspielen lassen. Später (für Kopenhagen ist die Umstellung auf 1913 beschrieben) wurde die Technik ausgetauscht und der Name Pathéphon verschwand nach und nach. Schnitzler greift also auf einen bereits veralteten Begriff zurück, der aber auch vom Betreiber des „Metrophon“ verwendet wurde: Als solches firmierte in Wien prominent am Graben 20 ein derartiger „Konzertsalon und Musikhaus“ (so der Eintrag im „Lehmann“ 1929). Metrophon verwendete auf den Jetons die Bezeichnung „Pathefon Konzert Salon Wien I. Graben 20“, so daß „Pathéphon“ und „Metrophon“ (so Schnitzler später alternativ) den selben Ort bezeichnen. Zur Geschichte des Pathéphons vgl. Gert J. Almind, Coin-Op Telephone Line Music (http://www.juke-box.dk/gert-telephone-music.htm, Abfrage vom 13.1.2010).
+„Auch für die Innehaltung der Tempi ist Lubitsch von Grund auf zuständig“ (SK I, S. 361). Besprechung von Felix Cleve in NFP 20.5.1927, S. 20: »Daß überdies mit allen Finessen einer wahrhaft genialen Technik gearbeitet wird – die Darstellung des Künstlerballtrubels, gesehen durch das Temperament eines Champagnerbesoffenen, ist ein Meisterstück ersten Ranges – ist bei einem Lubitsch natürlich nicht anders zu erwarten. Aesthetisch versnobte Filmgegner – es gibt deren noch immer eine ganze Herde – sollten sich diesen Film ansehen. Vielleicht, daß ihnen noch ein Licht darüber aufgeht, daß filmische Kunst oder künstlerischer Film keine Contradictio in adjecto bedeuten.« Nachgewiesene Spielorte: Elite-, Kruger-, Rotenturm-, Flotten-, Heimat-, Votivpark- und Abbazia-Kino sowie Kino Wienzeile und Kino Handl (Anzeige NFP 13.5.1927, S. 21).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„So ist Paris…“ („So this is Paris“)</cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Ernst Lubitsch</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Warner-Brothers-Film</orgName></cell>
-                  <cell role="data">Monte Blue, André Beranger, Patsy Ruth Miller, Lilyan Tashman</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„So ist Paris…“ („So this is Paris“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ernst Lubitsch</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Warner-Brothers-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Monte Blue, André Beranger, Patsy Ruth Miller, Lilyan Tashman</cell>
                </row>
             </table>
          </div>
@@ -120,13 +125,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-06-24.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-06-24.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>24/6 […] Mit C. P. Kino („Guter Ruf“), und Opernrest. soup.–</ab></div>
-         <div type="anmerkung"><ab>Notiz und Kinoprogramm NFP 24.6.1927, S. 18/19, dort nachgewiesene Spielorte: Burg-, Kärntner-, Central- und Löwen-Kino. </ab></div>
+         <div type="as">
+            <ab>24/6 […] Mit C. P. Kino („Guter Ruf“), und Opernrest. soup.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Notiz und Kinoprogramm NFP 24.6.1927, S. 18/19, dort nachgewiesene Spielorte: Burg-, Kärntner-, Central- und Löwen-Kino. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Gute Ruf“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Pierre Maradon</persName></cell>
-                  <cell role="data"><persName>Hermann Sudermann (Vorlage gleichnamiges Bühnenstück)</persName></cell>
-                  <cell role="data"><orgName>Hermes-Film</orgName></cell>
-                  <cell role="data">Lotte Neumann, Germaine Rouer, Hans Mierendorff, Henri Baudin, Rudolf Lettinger, Jakob Tiedtke</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Gute Ruf“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Pierre Maradon</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hermann Sudermann (Vorlage gleichnamiges Bühnenstück)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hermes-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lotte Neumann, Germaine Rouer, Hans Mierendorff, Henri Baudin, Rudolf Lettinger, Jakob Tiedtke</cell>
                </row>
             </table>
          </div>
@@ -126,13 +131,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

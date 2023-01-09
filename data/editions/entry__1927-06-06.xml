@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-06-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-06-06.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>6/6 […] Mit C. P. Kino Imhoffs Ehe, Bassermann;– mit ihr im Opernrest. genachtm.–</ab></div>
-         <div type="ckp"><ab>[…] Montag machten wir einen schönen Spaziergang in den Prater, am Abend waren wir im Kino und dann nachtmahlen wir im Opernkeller. A. schien ermüdet und ich behandelte ihn wie einen Patienten. […] [II, 24/3]</ab></div>
-         <div type="anmerkung"><ab>Besprechung NFP 10.6.1927, S. 18 von Felix Cleve: „Um Bassermanns Willen sieht man sich diesen Film an, der übrigens auch sonst nicht schlecht ist. […] Es ist unerhört, wie dieser Künstler, ohne auch nur im geringsten feminin zu werden, mit durchaus männlichen, fast harten Ausdrucksmitteln zu erschüttern und zu Tränen zu rühren vermag. […]“</ab></div>
+         <div type="as">
+            <ab>6/6 […] Mit C. P. Kino Imhoffs Ehe, Bassermann;– mit ihr im Opernrest. genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>[…] Montag machten wir einen schönen Spaziergang in den Prater, am Abend waren wir im Kino und dann nachtmahlen wir im Opernkeller. A. schien ermüdet und ich behandelte ihn wie einen Patienten. […] [II, 24/3]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung NFP 10.6.1927, S. 18 von Felix Cleve: „Um Bassermanns Willen sieht man sich diesen Film an, der übrigens auch sonst nicht schlecht ist. […] Es ist unerhört, wie dieser Künstler, ohne auch nur im geringsten feminin zu werden, mit durchaus männlichen, fast harten Ausdrucksmitteln zu erschüttern und zu Tränen zu rühren vermag. […]“</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Wenn das Herz der Jugend spricht“ („Die Ehe des Arthur Imhoff“, „Arthur Imhoff“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fred Sauer</persName></cell>
-                  <cell role="data"><persName>Hans Land (Vorlage Roman), [Max Jungk]</persName></cell>
-                  <cell role="data"><orgName>Maximfilm</orgName></cell>
-                  <cell role="data">Albert Bassermann, Paul [Henckels], Julius Meszaros, Lee Parry, Elsa Wasa, [Szöke Szakall]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Wenn das Herz der Jugend spricht“ („Die Ehe des Arthur Imhoff“, „Arthur Imhoff“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fred Sauer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hans Land (Vorlage Roman), [Max Jungk]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Maximfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Albert Bassermann, Paul [Henckels], Julius Meszaros, Lee Parry, Elsa Wasa, [Szöke Szakall]</cell>
                </row>
             </table>
          </div>
@@ -137,7 +144,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

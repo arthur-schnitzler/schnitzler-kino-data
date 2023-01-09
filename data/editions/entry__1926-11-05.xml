@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-11-05.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-11-05.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>5/11 […] Mit C. P. Centralkino (zum 1. Mal) Faust. Bei Tonello genachtm., nacher in einem Café.</ab></div>
-         <div type="anmerkung"><ab>Notiz NFP 29.10.1926, S. 16 kündigt Premiere für 5.11.1926 an. Besprechung NFP 17.9.1926, S. 18. Premierennotiz „Der ‚Faust‘-Film der Ufa. – Heute erscheint der ‚Faust‘-Film, den die Berliner Ufa unter der Regie Murnaus herstellen ließ, in den Wiener Kinos. Wir verweisen unsere Leser auf den in der ‚Filmrubrik‘ vom 17. September erschienenen Artikel ‚Eine optische Oper‘, in dem diesem bedeutsamen Filmwerke anläßlich einer Pressevorführung eine eingehende, vielbeachtete Würdigung zuteil geworden ist.“ und Anzeige NFP 5.11.1926, S. 18: Der Film läuft der Anzeige zufolge an diesem Tag in nicht weniger als zwölf Wiener Kinos gleichzeitig an.</ab></div>
+         <div type="as">
+            <ab>5/11 […] Mit C. P. Centralkino (zum 1. Mal) Faust. Bei Tonello genachtm., nacher in einem Café.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Notiz NFP 29.10.1926, S. 16 kündigt Premiere für 5.11.1926 an. Besprechung NFP 17.9.1926, S. 18. Premierennotiz „Der ‚Faust‘-Film der Ufa. – Heute erscheint der ‚Faust‘-Film, den die Berliner Ufa unter der Regie Murnaus herstellen ließ, in den Wiener Kinos. Wir verweisen unsere Leser auf den in der ‚Filmrubrik‘ vom 17. September erschienenen Artikel ‚Eine optische Oper‘, in dem diesem bedeutsamen Filmwerke anläßlich einer Pressevorführung eine eingehende, vielbeachtete Würdigung zuteil geworden ist.“ und Anzeige NFP 5.11.1926, S. 18: Der Film läuft der Anzeige zufolge an diesem Tag in nicht weniger als zwölf Wiener Kinos gleichzeitig an.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Faust“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>F. W. Murnau</persName></cell>
-                  <cell role="data"><persName>Hans Kyser</persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Gösta Ekman, Emil Jannings, Camilla Horn, Frida Richard, Wilhelm Dieterle, Yvette Guilbert, Eric Barclay, Hanna Ralph, Werner Fütterer, Hans Brausewetter, Lothar Müthel, Hans Rameau, Hertha von Walter, Emmy Wyda</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Faust“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>F. W. Murnau</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hans Kyser</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gösta Ekman, Emil Jannings, Camilla Horn, Frida Richard, Wilhelm Dieterle, Yvette Guilbert, Eric Barclay, Hanna Ralph, Werner Fütterer, Hans Brausewetter, Lothar Müthel, Hans Rameau, Hertha von Walter, Emmy Wyda</cell>
                </row>
             </table>
          </div>
@@ -155,18 +160,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__8" type="kino">
-               <orgName>Zentralkino / Ufa-Ton-Kino</orgName>
-               <location><address><addrLine>02., Taborstraße 8</addrLine></address></location>
+            <place  xml:id="ask_kino__8" type="kino">
+               <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Taborstraße 8</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1916. Umbenennung 1929. Tonfilm ab 1929.  Fassungsraum: Ehemalige Singspielhalle, Galerie. 1922: insgesamt 1008 Sitzplätze (davon 110 Logenplätze), 1923: 984 (128). – Schwarz 1992, S. 208 nennt außerdem noch ein „Wiedner Zentralkino“, 04., Favoritenplatz 5.</note>
-            </org>
-            <org xml:id="ask_wirt__24" type="wirt">
-               <orgName>Tonello beim Dianabad</orgName>
-               <location><address><addrLine>Lilienbrunngasse 2, 2.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__24" type="wirt">
+               <placeName>Tonello beim Dianabad</placeName>
+               <location>
+                  <address>
+                     <addrLine>Lilienbrunngasse 2, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

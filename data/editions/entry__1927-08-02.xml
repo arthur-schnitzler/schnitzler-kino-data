@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-08-02.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-08-02.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>2/8 […] Absage des Phoebusfilm Reigen; nachdem sie mich 1 Monat hingezogen.– […] Mit C. P. Kino „Zirkus Renz“, Fahrt in den Prater; beim „Prochaska“ genachtm.</ab></div>
-         <div type="anmerkung"><ab>»Reigen«: zum »Reigen« ein kurioser Fall von Schnitzler-Rezeption: Offenbar an den Wiener »Reigen-Skandal« anschließend, brachte die »Filmwelt« 1921 ab Nr. 4/5, S. 12f. einen »Filmreigen. 12 Bilder aus der Flimmerwelt« von Rosa Wachtel (sonst dort als Filmkritikerin tätig) mit den Stationen »1. Der Hilfsregisseur und die Statistin – 2. Die Statistin und der Freund der Filmdiva – 3. Der Freund der Filmdiva und sie selbst – 4. Die Filmdiva und der jugendliche Liebhaber – 5. Der jugendliche Liebhaber und der Lustspielstar – 6. Der Lustspielstar und der Herr Direktor – 7. Der Herr Direktor und die Frau Direktor – 8. Die Frau Direktor und der Regisseur – 9. Der Regisseur und die Dramaturgin – 10. Die Dramaturgin und der Filmstar – 11. Der Filmstar und die komische Alte – 12. Die komische Alte und der Hilfsregisseur«.
-Einziger nachgewiesener Spielort: Kepler-Kino (NZG 2.8.1927, S. 8). </ab></div>
+         <div type="as">
+            <ab>2/8 […] Absage des Phoebusfilm Reigen; nachdem sie mich 1 Monat hingezogen.– […] Mit C. P. Kino „Zirkus Renz“, Fahrt in den Prater; beim „Prochaska“ genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Reigen«: zum »Reigen« ein kurioser Fall von Schnitzler-Rezeption: Offenbar an den Wiener »Reigen-Skandal« anschließend, brachte die »Filmwelt« 1921 ab Nr. 4/5, S. 12f. einen »Filmreigen. 12 Bilder aus der Flimmerwelt« von Rosa Wachtel (sonst dort als Filmkritikerin tätig) mit den Stationen »1. Der Hilfsregisseur und die Statistin – 2. Die Statistin und der Freund der Filmdiva – 3. Der Freund der Filmdiva und sie selbst – 4. Die Filmdiva und der jugendliche Liebhaber – 5. Der jugendliche Liebhaber und der Lustspielstar – 6. Der Lustspielstar und der Herr Direktor – 7. Der Herr Direktor und die Frau Direktor – 8. Die Frau Direktor und der Regisseur – 9. Der Regisseur und die Dramaturgin – 10. Die Dramaturgin und der Filmstar – 11. Der Filmstar und die komische Alte – 12. Die komische Alte und der Hilfsregisseur«.
+Einziger nachgewiesener Spielort: Kepler-Kino (NZG 2.8.1927, S. 8). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Zirkus Renz“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Wolfgang Neff</persName></cell>
-                  <cell role="data"><persName>[Margarete M. Langen]</persName></cell>
-                  <cell role="data"><orgName>Albö-Film</orgName></cell>
-                  <cell role="data">Ernst Winar, Angelo Ferrari, Gustav von Renz, Mary Kid, Lilian Weiss, Mia Pankau</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Zirkus Renz“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Wolfgang Neff</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Margarete M. Langen]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Albö-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ernst Winar, Angelo Ferrari, Gustav von Renz, Mary Kid, Lilian Weiss, Mia Pankau</cell>
                </row>
             </table>
          </div>
@@ -132,13 +137,15 @@ Einziger nachgewiesener Spielort: Kepler-Kino (NZG 2.8.1927, S. 8). </ab></div>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__6" type="wirt">
+               <placeName>Prochaska</placeName>
+               <location>
+                  <address>
+                     <addrLine>Prater 37, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__6" type="wirt">
-               <orgName>Prochaska</orgName>
-               <location><address><addrLine>Prater 37, 2.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

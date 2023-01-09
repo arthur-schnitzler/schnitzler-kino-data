@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-02-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-02-19.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>19/2 […] Mit C. P. Kino „Primanerliebe“,– dann Opernrest.–</ab></div>
-         <div type="anmerkung"><ab>„Dieser Film […] zeigt ein glaubhaftes Geschehen, sorgfältige Regie und vor allem eine anständige Gesinnung“ (SK I, S. 385). Besprechung in der »Film-Rundschau« der NFP 10.6.1927, S. 18. Anzeige NFP 17.2.1928, S. 19, mit 12 Spielorten für 17.–21.2.1928. Besprechung von Kurt Sonnenfeld in NFP 19.2.1928, S. 16. </ab></div>
+         <div type="as">
+            <ab>19/2 […] Mit C. P. Kino „Primanerliebe“,– dann Opernrest.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Dieser Film […] zeigt ein glaubhaftes Geschehen, sorgfältige Regie und vor allem eine anständige Gesinnung“ (SK I, S. 385). Besprechung in der »Film-Rundschau« der NFP 10.6.1927, S. 18. Anzeige NFP 17.2.1928, S. 19, mit 12 Spielorten für 17.–21.2.1928. Besprechung von Kurt Sonnenfeld in NFP 19.2.1928, S. 16. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Primanerliebe“ („Erotik der Jugend“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Robert Land</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Domo-Strauss-Film</orgName></cell>
-                  <cell role="data">Wolfgang Zilzer, Martin Herzberg, Hans Rameau, Fritz Kortner, Jaro Fürth, Jakob Tiedtke, Hans Albers, Paul Otto, Adolphe Engers, Grete [Mosheim], Margarethe Lanner, Agnes Straub</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Primanerliebe“ („Erotik der Jugend“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Robert Land</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Domo-Strauss-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Wolfgang Zilzer, Martin Herzberg, Hans Rameau, Fritz Kortner, Jaro Fürth, Jakob Tiedtke, Hans Albers, Paul Otto, Adolphe Engers, Grete [Mosheim], Margarethe Lanner, Agnes Straub</cell>
                </row>
             </table>
          </div>
@@ -147,13 +152,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

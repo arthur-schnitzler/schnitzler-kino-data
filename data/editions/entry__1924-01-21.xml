@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-01-21.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-01-21.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>21/1 […] Mit C. P. Bürgerkino („Frau mit den Millionen“ I).
-– Las eine sehr begabte Novelle von C. P.’s Schwester; „Marquise von Fontenoy“.– </ab></div>
-         <div type="anmerkung"><ab>»C. P.’s Schwester«: Anna Epstein. Die Novelle ist nicht überliefert. 
-Besprechung von –e. in NFP 18.1.1924, S. 19. NFP, 11.1.1924, S. 17, gibt von 18.–21.1.1924 das Währinger Bürgerkino als Spielort an.</ab></div>
+         <div type="as">
+            <ab>21/1 […] Mit C. P. Bürgerkino („Frau mit den Millionen“ I).
+– Las eine sehr begabte Novelle von C. P.’s Schwester; „Marquise von Fontenoy“.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»C. P.’s Schwester«: Anna Epstein. Die Novelle ist nicht überliefert. 
+Besprechung von –e. in NFP 18.1.1924, S. 19. NFP, 11.1.1924, S. 17, gibt von 18.–21.1.1924 das Währinger Bürgerkino als Spielort an.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Frau mit den Millionen“ (1.Teil: „Der Schuß in der Pariser Oper“)</cell>
-                  <cell role="data"><date>[1922/23]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Willi Wolff</persName></cell>
-                  <cell role="data"><persName>[Willi Wolff, Paul Merzbach]</persName></cell>
-                  <cell role="data"><orgName>Ellen Richter-Film</orgName></cell>
-                  <cell role="data">Ellen Richter, Georg Alexander, Hugo Flink, Eduard von Winterstein, Karl [Huszar-Puffy], Anton Pointner, [Adolf Klein], Arthur Bergen, Leonhard Haskel, [Muhsin Ertugrul], Hermann Picha</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Frau mit den Millionen“ (1.Teil: „Der Schuß in der Pariser Oper“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922/23]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Willi Wolff</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Willi Wolff, Paul Merzbach]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ellen Richter-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ellen Richter, Georg Alexander, Hugo Flink, Eduard von Winterstein, Karl [Huszar-Puffy], Anton Pointner, [Adolf Klein], Arthur Bergen, Leonhard Haskel, [Muhsin Ertugrul], Hermann Picha</cell>
                </row>
             </table>
          </div>
@@ -152,15 +157,16 @@ Besprechung von –e. in NFP 18.1.1924, S. 19. NFP, 11.1.1924, S. 17, gibt von 1
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__40" type="kino">
-               <orgName>Währinger Bürgertheater</orgName>
-               <location><address><addrLine>18., Gentzgasse 119</addrLine></address></location>
+            <place  xml:id="ask_kino__40" type="kino">
+               <placeName>Währinger Bürgertheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gentzgasse 119</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 8.11.1912. Tonfilm ab 1930. Fassungsraum: 1914: 311 Sitzplätze (davon 20 Logenplätze), 1922: 335 (unbek.), 1934: 345 (28). – Schnitzler notiert (mit in einer einzigen Ausnahme am 15.9.1928) nur sehr allgemein Besuche in einem nicht näher bestimmten „Bürger“-Kino, daher kommen theoretisch auch zahlreiche andere Lokalitäten in Frage; Kinos mit diesem Namen bestehen unter anderem im 3. (vgl. Schwarz 1992, S. 202f.), 4. (vgl. Schwarz 1992, S. 210), 5. (siehe Eintrag unten) oder 7. Bezirk (vgl. Schwarz 1992, S. 228). Jedoch belegen die Kinoprogramme von Tageszeitungen oder Filmzeitschriften an mindestens vier Tagen die Aufführung des bei Schnitzler protokollierten Films im unweit von dessen Wohnung gelegenen „Währinger Bürgertheater“, was die Annahme erlaubt, dass es sich bei den gleichlautend notierten Ortsangaben ebenfalls um dieses Kino handelt.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

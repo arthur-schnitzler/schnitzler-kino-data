@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-09-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-09-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/9 Luzern.– […] Abends im Kino „Wien bleibt Wien“; idiotisch und verlogen. (Offenbar bin ich „verbittert“ gegen den Film.)
+         <div type="as">
+            <ab>7/9 Luzern.– […] Abends im Kino „Wien bleibt Wien“; idiotisch und verlogen. (Offenbar bin ich „verbittert“ gegen den Film.)
 
 [AS an CP am 8.9.1926:]
-[…] Abend war ich (natürlich) bei „Wien bleibt Wien“. – Und Film bleibt Film. Und einer ist doch immer noch dümmer und verlogener als der andere. Nein, dort blüht mein Weizen nicht (wo aber denn? Ich glaub es hat sich ausgeweizt….) [I, 349]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] Abend war ich (natürlich) bei „Wien bleibt Wien“. – Und Film bleibt Film. Und einer ist doch immer noch dümmer und verlogener als der andere. Nein, dort blüht mein Weizen nicht (wo aber denn? Ich glaub es hat sich ausgeweizt….) [I, 349]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„The Greater Glory“ („Wien bleibt Wien“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Curt Rehfeld</persName></cell>
-                  <cell role="data"><persName>Edith O’Shaugnessy, June Mathis</persName></cell>
-                  <cell role="data"><orgName>First National Pictures</orgName></cell>
-                  <cell role="data">Conway Tearle, Anna Q. Nilsson, May Allison, Ian Keith, Lucy Beaumont, Jean Hersholt, Nigel De Bulier, Bridgetta Clark, John St. Polis, Marcia Manon, Edward Earle, Virginia Southern, Isabelle Keith, Kathleen Chambers, Hale Hamilton</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„The Greater Glory“ („Wien bleibt Wien“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Curt Rehfeld</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Edith O’Shaugnessy, June Mathis</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>First National Pictures</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conway Tearle, Anna Q. Nilsson, May Allison, Ian Keith, Lucy Beaumont, Jean Hersholt, Nigel De Bulier, Bridgetta Clark, John St. Polis, Marcia Manon, Edward Earle, Virginia Southern, Isabelle Keith, Kathleen Chambers, Hale Hamilton</cell>
                </row>
             </table>
          </div>
@@ -166,7 +171,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Luzern</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

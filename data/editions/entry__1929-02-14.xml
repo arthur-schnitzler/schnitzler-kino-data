@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-02-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-02-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/2 […] Abd. mit C. P. Kino, „gelbe Lilie“;– […].–</ab></div>
-         <div type="ckp"><ab>14.2. Vormittag bei Harry, der noch immer fiebert. Abend mit A. bei „Die gelbe Lilie“ im Kino, nachher in der „Linde“ genachtmahlt. Kälte und Schnee. [II, 194]</ab></div>
-         <div type="anmerkung"><ab>»Harry«: Pollaczeks Sohn Hermann Erich. 
-Anzeige NFP 8.2.1929, S. 7, dort genannte Spielorte ab 12.2.1929: Flotten-, Schäfer- und Flieger-Kino, Kammerlichtspiele, Lichtspiele Wienzeile, Raimund-Lichtspiele. Besprechung von Kurt Sonnenfeld in NFP 10.2.1929, S. 17. </ab></div>
+         <div type="as">
+            <ab>14/2 […] Abd. mit C. P. Kino, „gelbe Lilie“;– […].–</ab>
+         </div>
+         <div type="ckp">
+            <ab>14.2. Vormittag bei Harry, der noch immer fiebert. Abend mit A. bei „Die gelbe Lilie“ im Kino, nachher in der „Linde“ genachtmahlt. Kälte und Schnee. [II, 194]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Harry«: Pollaczeks Sohn Hermann Erich. 
+Anzeige NFP 8.2.1929, S. 7, dort genannte Spielorte ab 12.2.1929: Flotten-, Schäfer- und Flieger-Kino, Kammerlichtspiele, Lichtspiele Wienzeile, Raimund-Lichtspiele. Besprechung von Kurt Sonnenfeld in NFP 10.2.1929, S. 17. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Gelbe Lilie“ (Ot. „The Yellow Lily“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Alexander Korda</persName></cell>
-                  <cell role="data"><persName>[Lajos Biró (Story und Adaption); Garrett Graham (Titel)]</persName></cell>
-                  <cell role="data"><orgName>First Nationalfilm</orgName></cell>
-                  <cell role="data">Billie Dove, Jane Winton, Clive Brook, Gustav von [Seyffertitz], Marc [MacDermott] u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Gelbe Lilie“ (Ot. „The Yellow Lily“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alexander Korda</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Lajos Biró (Story und Adaption); Garrett Graham (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>First Nationalfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Billie Dove, Jane Winton, Clive Brook, Gustav von [Seyffertitz], Marc [MacDermott] u.a.</cell>
                </row>
             </table>
          </div>
@@ -136,7 +143,6 @@ Anzeige NFP 8.2.1929, S. 7, dort genannte Spielorte ab 12.2.1929: Flotten-, Sch�
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

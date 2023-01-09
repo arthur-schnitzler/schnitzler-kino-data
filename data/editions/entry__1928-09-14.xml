@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-09-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,36 +62,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/9 […] Mit C. P. Kino Stafa „Schmutziges Geld“ (Chinesin Wong), beim Hirschen genachtm.</ab></div>
-         <div type="ckp"><ab>18.9. Tagelang nicht eingeschrieben. Kein gutes Zeichen. Am 12. letzter guter Abend bei ihm gewesen. Am 13. Lilis Geburtstag. Seine Geschwister um ihn. Frieda ist zurück.
+         <div type="as">
+            <ab>14/9 […] Mit C. P. Kino Stafa „Schmutziges Geld“ (Chinesin Wong), beim Hirschen genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>18.9. Tagelang nicht eingeschrieben. Kein gutes Zeichen. Am 12. letzter guter Abend bei ihm gewesen. Am 13. Lilis Geburtstag. Seine Geschwister um ihn. Frieda ist zurück.
 Sein Verhalten gegen mich kühler, Verzweiflung grösser. 14. und 15. mit ihm im Kino. Trostlos düstere Abende. Dabei weiss ich vor Sorgen nicht ein und aus. Das Mädchen (Emma) hat mir in der unverschämtesten Weise gekündigt. Ende des Monats ziehen Spieglers aus und ich suche keinen Ersatz. A. schimpft immer über diese Wohnung (und darüber, dass ich vermiete), rät zu tauschen oder zu verkaufen, vermeidet aber jedes Wort, das mir wirklich helfen könnte. Ich weiss nicht, wozu ich mich entschliessen soll.
 A. will mir immer wieder Geld aufdrängen. O nein!
 Harry ist von Skoda-Wetzler gekündigt worden. Sparmassnahmen, Abbau. Auch das noch.
-Abend mit A. Konversation. Nachtmahl in der Heumühle. Ich fühle, es geht etwas vor. Offenbar Briefe und Rufe aus Berlin. […] [II, 144f.]</ab></div>
-         <div type="anmerkung"><ab>»Frieda«: Pollak. »Harry«: Pollaczeks älterer Sohn. »Die Wohnung«: der Familie Loeb in der Peregringasse wurde im Oktober 1928 verkauft. Pollaczeks Eintrag bezieht sich auch auf die beiden Folgeeinträge.
-Notiz in der »Filmrundschau« der 14.9.1928, S. 9, dort 13 Spielorte verzeichnet. </ab></div>
+Abend mit A. Konversation. Nachtmahl in der Heumühle. Ich fühle, es geht etwas vor. Offenbar Briefe und Rufe aus Berlin. […] [II, 144f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Frieda«: Pollak. »Harry«: Pollaczeks älterer Sohn. »Die Wohnung«: der Familie Loeb in der Peregringasse wurde im Oktober 1928 verkauft. Pollaczeks Eintrag bezieht sich auch auf die beiden Folgeeinträge.
+Notiz in der »Filmrundschau« der 14.9.1928, S. 9, dort 13 Spielorte verzeichnet. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Schmutziges Geld“ (Ot. D „Song“) [Ot. GB „Show Life“]</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D/[GB]</placeName></cell>
-                  <cell role="data"><persName>Richard Eichberg</persName></cell>
-                  <cell role="data"><persName>[Adolf Lantz, Helen Gosewisch]</persName></cell>
-                  <cell role="data"><orgName>Eichberg-Film, British International Pictures</orgName></cell>
-                  <cell role="data">Anna May Wong, Mary Kid, Heinrich George, Hans Adalbert Schlettow, Paul Hörbiger</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Schmutziges Geld“ (Ot. D „Song“) [Ot. GB „Show Life“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D/[GB]</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Richard Eichberg</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Adolf Lantz, Helen Gosewisch]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Eichberg-Film, British International Pictures</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Anna May Wong, Mary Kid, Heinrich George, Hans Adalbert Schlettow, Paul Hörbiger</cell>
                </row>
             </table>
          </div>
@@ -138,18 +145,24 @@ Notiz in der »Filmrundschau« der 14.9.1928, S. 9, dort 13 Spielorte verzeichne
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__42" type="kino">
-               <orgName>Mariahilfer Zentralpalast / Stafakino</orgName>
-               <location><address><addrLine>07., Mariahilferstraße 120</addrLine></address></location>
+            <place  xml:id="ask_kino__42" type="kino">
+               <placeName>Mariahilfer Zentralpalast / Stafakino</placeName>
+               <location>
+                  <address>
+                     <addrLine>07., Mariahilferstraße 120</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1920. Umbenennung 1930. Tonfilm ab 1930. Fassungsraum: 1920: 600 Sitzplätze (davon 48 Logenplätze), 1922: 640.</note>
-            </org>
-            <org xml:id="ask_wirt__30" type="wirt">
-               <orgName>Zum Hirschen</orgName>
-               <location><address><addrLine>?</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__30" type="wirt">
+               <placeName>Zum Hirschen</placeName>
+               <location>
+                  <address>
+                     <addrLine>?</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

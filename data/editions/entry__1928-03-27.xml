@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-27.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-03-27.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>27/3 […] Mit C. P. und Bauer fort; mit C. P. Kino (Weibes Erwachen!), mit ihr Rest. Opera soup.– Die endgiltige Kunde meiner projectirten Reise nahm sie mit mäßiger Fassung auf.</ab></div>
-         <div type="ckp"><ab>27.3. Nachmittag. Bei Salten zu Ehren Géraldys. Viele Menschen. Hofstaat um Castiglioni. Pfui Teufel! Viel mit Werfel gesprochen. Sil Vara kennen gelernt. Nachher mit A. im Kino. Wir behandeln uns gegenseitig sehr gut mit Schonung, fast mit Zärtlichkeit, aber der wirkliche Elan fehlt. Er klagt fort über Befinden und Nerven. Ich rate ihm für ein paar Tage zu Lili nach Venedig zu fahren, Er sagt, nach Ostern. Wenn er nett wäre, würde er mich auf der Rückreise in Meran oder sonstwo treffen. […] [II, 94]</ab></div>
-         <div type="anmerkung"><ab>»Castiglioni«: Camillo Castiglioni (1879–1957, Industrieller, Bankier)
+         <div type="as">
+            <ab>27/3 […] Mit C. P. und Bauer fort; mit C. P. Kino (Weibes Erwachen!), mit ihr Rest. Opera soup.– Die endgiltige Kunde meiner projectirten Reise nahm sie mit mäßiger Fassung auf.</ab>
+         </div>
+         <div type="ckp">
+            <ab>27.3. Nachmittag. Bei Salten zu Ehren Géraldys. Viele Menschen. Hofstaat um Castiglioni. Pfui Teufel! Viel mit Werfel gesprochen. Sil Vara kennen gelernt. Nachher mit A. im Kino. Wir behandeln uns gegenseitig sehr gut mit Schonung, fast mit Zärtlichkeit, aber der wirkliche Elan fehlt. Er klagt fort über Befinden und Nerven. Ich rate ihm für ein paar Tage zu Lili nach Venedig zu fahren, Er sagt, nach Ostern. Wenn er nett wäre, würde er mich auf der Rückreise in Meran oder sonstwo treffen. […] [II, 94]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Castiglioni«: Camillo Castiglioni (1879–1957, Industrieller, Bankier)
 Zu Pollaczeks Tätigkeit als Übersetzerin Paul Géraldys vgl. CKP I, 56f.: »12.8.1924. Zwei Monate vergangen, ohne dass ich eine Zeile in dieses Buch geschrieben hätte. […] Ich habe bereits alle Gedichte Géraldys übersetzt. Die Neue Freie Presse hat zweimal je 2 lange Gedichte gebracht und Géraldy hat mir das Übersetzungsrecht für das ganze Buch ›Toi et moi‹ gegeben. Jetzt heisst’s einen Verleger finden. In der Neuen Freien Presse erscheint jetzt auch meine Novelle ›Der Abhang‹ und die Leute glauben, dass A. mir dabei behilflich ist. Ich weiss, dass er mir nie in dieser Richtung helfen würde und ich es gar nicht möchte. Er hilft mir in einer andern Art – dadurch, dass er mich lieb hat und dadurch, dass er sich für meine Arbeit interessiert und mir Mut macht. Aber das verstehen die dummen Menschen nicht.« Pollaczeks Übersetzung von Paul Géraldys Gedichten erschien erst 1948 bei Zsolnay. »Sil Vara«: Pseudonym von Geza Silberer (1876–1938), der bis 1914 Korrespondent der NFP in London und deren gesellschaftspolitischer Kommentator war.
 „Der […] Film ist nach einer Idee von K. Thomalla gedreht. Die Idee zu haben war nicht schwer, nachdem Wedekind sie bereits besser hatte“ (SK I, S. 401). Besprechung von –nd– in NFP 25.3.1928, S. 20.
-Anzeige NFP 23.3.1928, S. 19, dort nachgewiesene Spielorte: Schottenring-, Löwen-, Johann-Strauss-, Phönix-, Heimat- und Theater-Kino sowie Münstedts Kinopalast, Kino Handl und Kino Universum.</ab></div>
+Anzeige NFP 23.3.1928, S. 19, dort nachgewiesene Spielorte: Schottenring-, Löwen-, Johann-Strauss-, Phönix-, Heimat- und Theater-Kino sowie Münstedts Kinopalast, Kino Handl und Kino Universum.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Erwachen des Weibes“</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fred Sauer</persName></cell>
-                  <cell role="data"><persName>[Fred Sauer, Walter Wassermann]</persName></cell>
-                  <cell role="data"><orgName>Domo-Strauss-Film</orgName></cell>
-                  <cell role="data">Grete Mosheim, Hilde Maroff, Sybil Morel, Barbara von Annenkoff, Margarete Kupfer, Lydia Potechina, Wolfgang Zilzer, Harry Lamberts-Paulsen, Hermann Vallentin, Hugo Werner-Kahle, Hermann Picha</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Erwachen des Weibes“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fred Sauer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Fred Sauer, Walter Wassermann]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Domo-Strauss-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Grete Mosheim, Hilde Maroff, Sybil Morel, Barbara von Annenkoff, Margarete Kupfer, Lydia Potechina, Wolfgang Zilzer, Harry Lamberts-Paulsen, Hermann Vallentin, Hugo Werner-Kahle, Hermann Picha</cell>
                </row>
             </table>
          </div>
@@ -187,13 +194,15 @@ Anzeige NFP 23.3.1928, S. 19, dort nachgewiesene Spielorte: Schottenring-, Löwe
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-10-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-10-08.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>8/10 Berlin. […] Abends allein Kino (Vaterland) Looping the loop (Krauss) – zu O., bei ihr gegessen; ihre üble Stimmung gegenüber mir merkbar; […].–
+         <div type="as">
+            <ab>8/10 Berlin. […] Abends allein Kino (Vaterland) Looping the loop (Krauss) – zu O., bei ihr gegessen; ihre üble Stimmung gegenüber mir merkbar; […].–
 
 [AS an CP am 8.10.1928:]
-[…] ich ruhte mich im Hotel ein wenig aus, sah mir einen sehr [sp]annenden Film an, Looping the loop, in dem Werner Krauss ausserordentlich war; nachtmahlte mit Heini, der aus den Webern kam, wo er eine kleine Rolle hat und früh fertig ist. […] [II, 154]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] ich ruhte mich im Hotel ein wenig aus, sah mir einen sehr [sp]annenden Film an, Looping the loop, in dem Werner Krauss ausserordentlich war; nachtmahlte mit Heini, der aus den Webern kam, wo er eine kleine Rolle hat und früh fertig ist. […] [II, 154]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Looping the Loop“ („Die Todesschleife“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Arthur Robison</persName></cell>
-                  <cell role="data"><persName>[Arthur Robison, Robert Liebmann]</persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Werner Krauß, Warwick Ward, Siegfried Arno, Julius von Szöreghy, Jenny Jugo, Gina Manès</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Looping the Loop“ („Die Todesschleife“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Arthur Robison</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Arthur Robison, Robert Liebmann]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Werner Krauß, Warwick Ward, Siegfried Arno, Julius von Szöreghy, Jenny Jugo, Gina Manès</cell>
                </row>
             </table>
          </div>
@@ -136,7 +141,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Berlin</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

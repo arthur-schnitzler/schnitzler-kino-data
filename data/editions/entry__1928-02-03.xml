@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-02-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-02-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/2 […] – Mit C. P. im neuen Chaplin Film „Cirkus“.– Mit ihr silb. Brunnen genachtm. </ab></div>
-         <div type="anmerkung"><ab>„Nicht die Hauptlinien der Handlung, sondern die vielen Einzelzüge verleihen dem Film Bedeutung. Er ist die Unterlage, in die sie einverwoben sind“ (SK II, S. 32). Premierennotiz der europäischen Uraufführung im Wiener Zirkus Busch-Kino (Benefizveranstaltung zugunsten der »Concordia« am 30.1.1928) in NFP 22.1.1928, S. 16: »Chaplin selbst hat die europäische Uraufführung für Wien festgesetzt, während in Berlin erst am 9. Februar die zweite Aufführung erfolgt.« Weitere Premierennotiz NFP 27.1.1928, S. 19. Illustrierte Anzeige auf der Titelseite der NFP vom 3.2.1928: »Ab heute« in 17 Kinos. Bericht von der amerikanischen Premiere von Ann Tizia Leitich in NFP 10.2.1928, S. 18.</ab></div>
+         <div type="as">
+            <ab>3/2 […] – Mit C. P. im neuen Chaplin Film „Cirkus“.– Mit ihr silb. Brunnen genachtm. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Nicht die Hauptlinien der Handlung, sondern die vielen Einzelzüge verleihen dem Film Bedeutung. Er ist die Unterlage, in die sie einverwoben sind“ (SK II, S. 32). Premierennotiz der europäischen Uraufführung im Wiener Zirkus Busch-Kino (Benefizveranstaltung zugunsten der »Concordia« am 30.1.1928) in NFP 22.1.1928, S. 16: »Chaplin selbst hat die europäische Uraufführung für Wien festgesetzt, während in Berlin erst am 9. Februar die zweite Aufführung erfolgt.« Weitere Premierennotiz NFP 27.1.1928, S. 19. Illustrierte Anzeige auf der Titelseite der NFP vom 3.2.1928: »Ab heute« in 17 Kinos. Bericht von der amerikanischen Premiere von Ann Tizia Leitich in NFP 10.2.1928, S. 18.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Zirkus“ („Circus“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Charlie Chaplin</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>United Artist-Film</orgName></cell>
-                  <cell role="data">Charlie Chaplin, Allan Garcia, Harry Crocker, Steve Murphy, George Bancroft, Stanley J. Stanford, Merna Kennedy</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Zirkus“ („Circus“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Charlie Chaplin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>United Artist-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Charlie Chaplin, Allan Garcia, Harry Crocker, Steve Murphy, George Bancroft, Stanley J. Stanford, Merna Kennedy</cell>
                </row>
             </table>
          </div>
@@ -125,13 +130,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

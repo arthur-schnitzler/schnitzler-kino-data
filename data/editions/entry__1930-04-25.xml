@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-04-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-04-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/4 […] Abds. mit C. P. Kino (Apollo);– Tonf.: Blauer Engel (nach Prof. Unrath) (Jannings, Marlene Dietrich); im ganzen unleidlich.– Mit C. P. „Weingartl“.– </ab></div>
-         <div type="ckp"><ab>26.4. […] Gestern Abend Tonfilm mit A. „Blauer Engel“ mit Jannings. Unerträglich und langweilig wie alle Tonfilms. A. erzählt mir, dass die O. schrieb, sie will jetzt nicht nach Wien kommen. […] Später am Abend sagt er mir, dass er morgen (also heute Früh) mit Heini telefonisch alles besprechen will und um den <hi>20. Mai</hi> herum will er mit <hi>mir</hi> eine kleine Reise machen. Ich: „So? Das wär nett. Bis jetzt hast Du nur immer gesagt, dass Dir jeder Gedanke an eine Reise zuwider ist.“ – Er: „Nun ja, die Reise selbst, aber da man es doch nicht umgehen kann, wenn man an einen andern Ort, in eine andere Umgebung will, so bleibt einem nichts anderes übrig.“ (Ich fühle leider die Falschheit heraus. Er will offenbar die Familie wo anders treffen, da es der O. nicht zu passen scheint hieher zu kommen. Und um mir den Mund zu stopfen verspricht er mir diese kleine Reise. Ach, wenn ich doch nur dümmer wär als ich bin. […] [III, 35f.]</ab></div>
-         <div type="anmerkung"><ab>Pollaczek und Schnitzler sind mit ihrer Einschätzung des »Blauen Engels« nicht alleine, wenn auch primär aus dem Motiv der Ablehnung des Tonfilms heraus. Die NFP hatte im Jahr zuvor eine Serie von Artikeln gegen den Tonfilm mit Beiträgen etwa von Charlie Chaplin abgedruckt. Pollaczeks und Schnitzlers Ablehnung paßt also durchaus zur Linie der bürgerlich-liberalen Presse Wiens.
-Ankündigung NFP 14.3.1930, S. 10. Notizen NFP 4.4.1930, S. 10, und NFP 16.5.1930, S. 13, dort Spielort wieder bestätigt. »Ein Musterbeispiel der gemeinten Substanzlosigkeit, das sich zu analysieren verlohnt, ist der in der Presse bejubelte Film […] Leider merkt das Publikum nicht, daß der Vorhang nie hochgezogen wird« (SK II, S. 375 f.).</ab></div>
+         <div type="as">
+            <ab>25/4 […] Abds. mit C. P. Kino (Apollo);– Tonf.: Blauer Engel (nach Prof. Unrath) (Jannings, Marlene Dietrich); im ganzen unleidlich.– Mit C. P. „Weingartl“.– </ab>
+         </div>
+         <div type="ckp">
+            <ab>26.4. […] Gestern Abend Tonfilm mit A. „Blauer Engel“ mit Jannings. Unerträglich und langweilig wie alle Tonfilms. A. erzählt mir, dass die O. schrieb, sie will jetzt nicht nach Wien kommen. […] Später am Abend sagt er mir, dass er morgen (also heute Früh) mit Heini telefonisch alles besprechen will und um den <hi>20. Mai</hi> herum will er mit <hi>mir</hi> eine kleine Reise machen. Ich: „So? Das wär nett. Bis jetzt hast Du nur immer gesagt, dass Dir jeder Gedanke an eine Reise zuwider ist.“ – Er: „Nun ja, die Reise selbst, aber da man es doch nicht umgehen kann, wenn man an einen andern Ort, in eine andere Umgebung will, so bleibt einem nichts anderes übrig.“ (Ich fühle leider die Falschheit heraus. Er will offenbar die Familie wo anders treffen, da es der O. nicht zu passen scheint hieher zu kommen. Und um mir den Mund zu stopfen verspricht er mir diese kleine Reise. Ach, wenn ich doch nur dümmer wär als ich bin. […] [III, 35f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Pollaczek und Schnitzler sind mit ihrer Einschätzung des »Blauen Engels« nicht alleine, wenn auch primär aus dem Motiv der Ablehnung des Tonfilms heraus. Die NFP hatte im Jahr zuvor eine Serie von Artikeln gegen den Tonfilm mit Beiträgen etwa von Charlie Chaplin abgedruckt. Pollaczeks und Schnitzlers Ablehnung paßt also durchaus zur Linie der bürgerlich-liberalen Presse Wiens.
+Ankündigung NFP 14.3.1930, S. 10. Notizen NFP 4.4.1930, S. 10, und NFP 16.5.1930, S. 13, dort Spielort wieder bestätigt. »Ein Musterbeispiel der gemeinten Substanzlosigkeit, das sich zu analysieren verlohnt, ist der in der Presse bejubelte Film […] Leider merkt das Publikum nicht, daß der Vorhang nie hochgezogen wird« (SK II, S. 375 f.).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Blaue Engel“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Josef von Sternberg</persName></cell>
-                  <cell role="data"><persName>Heinrich Mann (Vorlage Roman „Professor Unrat oder Das Ende eines Tyrannen“); Carl Zuckmayer, Karl Vollmoeller</persName></cell>
-                  <cell role="data"><orgName>Ufa-Klangfilm</orgName></cell>
-                  <cell role="data">Emil Jannings, Kurt Gerron, Hans Albers, Eduard von Winterstein, Rolf Müller, Karl Huszar-Puffy, Wilhelm Diegelmann, Marlene Dietrich, Rosa Valetti</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Blaue Engel“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Josef von Sternberg</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Heinrich Mann (Vorlage Roman „Professor Unrat oder Das Ende eines Tyrannen“); Carl Zuckmayer, Karl Vollmoeller</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Emil Jannings, Kurt Gerron, Hans Albers, Eduard von Winterstein, Rolf Müller, Karl Huszar-Puffy, Wilhelm Diegelmann, Marlene Dietrich, Rosa Valetti</cell>
                </row>
             </table>
          </div>
@@ -162,15 +169,16 @@ Ankündigung NFP 14.3.1930, S. 10. Notizen NFP 4.4.1930, S. 10, und NFP 16.5.193
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__11" type="kino">
-               <orgName>Apollo</orgName>
-               <location><address><addrLine>06., Gumpendorferstraße 63</addrLine></address></location>
+            <place  xml:id="ask_kino__11" type="kino">
+               <placeName>Apollo</placeName>
+               <location>
+                  <address>
+                     <addrLine>06., Gumpendorferstraße 63</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1929. Tonfilm ab 1929. Ab 1929 1440 Plätze (davon 80 Logenplätze). Zur (Wieder-)Eröffnung des Mariahilfer Apollo-Kinos vgl. auch den Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. – Zur Wiedereröffnung des Mariahilfer Apollo-Kinos Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. Ebd. S. 7 Bericht über Architektur des Kinos sowie eine dreispaltige Anzeige. – Schwarz 1992, S. 266 nennt auch ein „Apollo“ im 15. Bezirk (Schanzstr. 2-4); ein weiteres Kino im 17. Bezirk (Dornerplatz 9) bestand unter diesem Namen nur bis 1927. Dieses dürfte Schnitzler ebenfalls besucht haben, als es später unter dem Namen „Gloriakino“ geführt wurde.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

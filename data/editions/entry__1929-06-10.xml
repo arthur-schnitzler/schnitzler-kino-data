@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-06-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-06-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/6 […] Mit C. P. Kino „Es war“ (Garbo); bei Eisvogel im Prater soupirt.</ab></div>
-         <div type="ckp"><ab>11.6. Gestern und heute Abend Kino mit A., der sehr lieb ist. Unangenehme Debatten mit Harry. Jetzt, da es ernst werden soll, behauptet er, er habe Angst vor der Ehe. [II, 245]</ab></div>
-         <div type="anmerkung"><ab>»In ›The Flesh and the Devil‹, einem nach Sudermanns Roman ES WAR gedrehten Film, ist der Typus der femme fatale zur vollen Reife gediehen« (SK III, S. 279). Offenbar Reprise: Anzeige NFP 28.10.1927, S. 18. Besprechung NFP 29.10.1927, S. 10. </ab></div>
+         <div type="as">
+            <ab>10/6 […] Mit C. P. Kino „Es war“ (Garbo); bei Eisvogel im Prater soupirt.</ab>
+         </div>
+         <div type="ckp">
+            <ab>11.6. Gestern und heute Abend Kino mit A., der sehr lieb ist. Unangenehme Debatten mit Harry. Jetzt, da es ernst werden soll, behauptet er, er habe Angst vor der Ehe. [II, 245]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»In ›The Flesh and the Devil‹, einem nach Sudermanns Roman ES WAR gedrehten Film, ist der Typus der femme fatale zur vollen Reife gediehen« (SK III, S. 279). Offenbar Reprise: Anzeige NFP 28.10.1927, S. 18. Besprechung NFP 29.10.1927, S. 10. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Es war…“ (Ot. „Flesh and the Devil“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Clarence Brown</persName></cell>
-                  <cell role="data"><persName>Hermann Sudermann (Vorlage gleichnamiger Roman); [Benjamin F. Glazer (Drehbuch); Marian Ainslee (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Metro-Goldwyn-Film</orgName></cell>
-                  <cell role="data">Greta Garbo, Barbara Kent, John Gilbert, Lars Hanson, George Fawcett u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Es war…“ (Ot. „Flesh and the Devil“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Clarence Brown</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hermann Sudermann (Vorlage gleichnamiger Roman); [Benjamin F. Glazer (Drehbuch); Marian Ainslee (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Goldwyn-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Greta Garbo, Barbara Kent, John Gilbert, Lars Hanson, George Fawcett u.a.</cell>
                </row>
             </table>
          </div>
@@ -134,7 +141,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

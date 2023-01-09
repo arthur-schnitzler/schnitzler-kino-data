@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-03-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-03-06.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>6/3 […] – Abds. mit C. P. in einem schlechten (Albert-)Kino, „Karriere“ (Ralston), und „Menschen im Feuer“ (Piel), mit ihr Rest. Hahn.– […]</ab></div>
-         <div type="anmerkung"><ab>1. Premierennotiz NFP 10.1.1930, S. 13, für 17.1.1930.
-Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen nicht erhalten.</ab></div>
+         <div type="as">
+            <ab>6/3 […] – Abds. mit C. P. in einem schlechten (Albert-)Kino, „Karriere“ (Ralston), und „Menschen im Feuer“ (Piel), mit ihr Rest. Hahn.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>1. Premierennotiz NFP 10.1.1930, S. 13, für 17.1.1930.
+Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen nicht erhalten.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Karriere“ („The Spotlight“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Frank Tuttle</persName></cell>
-                  <cell role="data"><persName>Rita Weiman (Vorlage Roman)</persName></cell>
-                  <cell role="data"><orgName>Paramount-Film</orgName></cell>
-                  <cell role="data">Esther Ralston, Arlette Marchal, Neil Hamilton, Nicholas Soussanin</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Karriere“ („The Spotlight“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Frank Tuttle</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Rita Weiman (Vorlage Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Esther Ralston, Arlette Marchal, Neil Hamilton, Nicholas Soussanin</cell>
                </row>
             </table>
          </div>
@@ -139,15 +144,16 @@ Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen ni
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__14" type="kino">
-               <orgName>Josefstädter Vitascop / Albertkino</orgName>
-               <location><address><addrLine>08., Josefstädterstraße 57</addrLine></address></location>
+            <place  xml:id="ask_kino__14" type="kino">
+               <placeName>Josefstädter Vitascop / Albertkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>08., Josefstädterstraße 57</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1908. Umbenennung 1927. Tonfilm ab 1931. Fassungsraum: 1909: 75 Sitzplätze, 1914: 190, 1922: 190, 1926: 192 (davon 16 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

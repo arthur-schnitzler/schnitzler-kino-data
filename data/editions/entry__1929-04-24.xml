@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-04-24.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-04-24.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>24/4 […] Mit C. P. Kino „lebender Leichnam“ (außerordentlich). Mit ihr Linde soup. […]</ab></div>
-         <div type="ckp"><ab>24.4. Vormittag bei Ferda Bloch im Bureau. Unangenehme Unterredung wegen Harry.
-Abend mit A. bei dem besten Film, den ich je gesehen „Der lebende Leichnam“ nach dem Stück von Tolstoi. Tief erschüttert. Bei der „Linde“ genachtmahlt. Melancholie auf beiden Seiten. Brahm, der mit Paul Hartman, Paulsen und Werner Krauss an einem Tisch sitzt, kommt eine Weile zu uns. [II, 231]</ab></div>
-         <div type="anmerkung"><ab>»Paulsen«: Max Paulsen (1876–1956, Schauspieler, Regisseur, Theaterleiter), »Brahm«: Hans Brahm (1893–1982, Regisseur)
+         <div type="as">
+            <ab>24/4 […] Mit C. P. Kino „lebender Leichnam“ (außerordentlich). Mit ihr Linde soup. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>24.4. Vormittag bei Ferda Bloch im Bureau. Unangenehme Unterredung wegen Harry.
+Abend mit A. bei dem besten Film, den ich je gesehen „Der lebende Leichnam“ nach dem Stück von Tolstoi. Tief erschüttert. Bei der „Linde“ genachtmahlt. Melancholie auf beiden Seiten. Brahm, der mit Paul Hartman, Paulsen und Werner Krauss an einem Tisch sitzt, kommt eine Weile zu uns. [II, 231]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Paulsen«: Max Paulsen (1876–1956, Schauspieler, Regisseur, Theaterleiter), »Brahm«: Hans Brahm (1893–1982, Regisseur)
 „hoch über unserer Durchschnittsproduktion“ (SK II, S. 219). 
-Das »Meschrabpom«-Studio, gegründet 1924 als ein Teil der »Internationalen Arbeiterhilfe« (nach deren russischer Bezeichnung ihr Name gewählt war), ging aus der präsowjetischen »Rus«-Filmkooperative hervor und drehte mit Regisseuren wie Wsewolod Pudowkin oder Lew Kuleschow, weitgehend unbehelligt von staatlicher Kontrolle, auf ausländische Märkte zugeschnittene Filme, für die sie auch an zahlreichen internationalen Koproduktionen beteiligt war – so auch der hier von Schnitzler und Pollaczek besuchte Film. Erst 1928 wurde es (umbenannt in »Meschrabpomfilm«) unter strengere finanzielle und politische Aufsicht gestellt, bis es 1936 gänzlich der staatlichen »Soyuzdetfilm« angegliedert wurde vgl. Taylor 2000, 160. Besprechung von Eduard Siebrecht in NFP 11.4.1929, S. 9. Premierennotiz NFP 12.4.1929, S. 6, Notiz NFP 26.4.1929, S. 10. Anzeige NFP 23.4.1929, S. 17. Nachgewiesener Spielort: Schweden-Kino (NFP 24.4.1929, S. 17, »Ur- und Alleinaufführung«).</ab></div>
+Das »Meschrabpom«-Studio, gegründet 1924 als ein Teil der »Internationalen Arbeiterhilfe« (nach deren russischer Bezeichnung ihr Name gewählt war), ging aus der präsowjetischen »Rus«-Filmkooperative hervor und drehte mit Regisseuren wie Wsewolod Pudowkin oder Lew Kuleschow, weitgehend unbehelligt von staatlicher Kontrolle, auf ausländische Märkte zugeschnittene Filme, für die sie auch an zahlreichen internationalen Koproduktionen beteiligt war – so auch der hier von Schnitzler und Pollaczek besuchte Film. Erst 1928 wurde es (umbenannt in »Meschrabpomfilm«) unter strengere finanzielle und politische Aufsicht gestellt, bis es 1936 gänzlich der staatlichen »Soyuzdetfilm« angegliedert wurde vgl. Taylor 2000, 160. Besprechung von Eduard Siebrecht in NFP 11.4.1929, S. 9. Premierennotiz NFP 12.4.1929, S. 6, Notiz NFP 26.4.1929, S. 10. Anzeige NFP 23.4.1929, S. 17. Nachgewiesener Spielort: Schweden-Kino (NFP 24.4.1929, S. 17, »Ur- und Alleinaufführung«).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der lebende Leichnam“ („Das Ehegesetz“, [Ot. „Živoj trup“])</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D/UdSSR</placeName></cell>
-                  <cell role="data"><persName>Fedor Ozep</persName></cell>
-                  <cell role="data"><persName>Leo Tolstoi (Vorlage gleichnamiges Bühnenstück); [Boris Gusman, Anatolij Mariengof]</persName></cell>
-                  <cell role="data"><orgName>Meschrabhom-Prometheus-Länder-Film</orgName></cell>
-                  <cell role="data">W[sewolod] Pudowkin, Gustav Diessl, Maria Jacobini, Viola Garden, Natascha Watschnadse u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der lebende Leichnam“ („Das Ehegesetz“, [Ot. „Živoj trup“])</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D/UdSSR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fedor Ozep</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Leo Tolstoi (Vorlage gleichnamiges Bühnenstück); [Boris Gusman, Anatolij Mariengof]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Meschrabhom-Prometheus-Länder-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">W[sewolod] Pudowkin, Gustav Diessl, Maria Jacobini, Viola Garden, Natascha Watschnadse u.a.</cell>
                </row>
             </table>
          </div>
@@ -162,7 +169,6 @@ Das »Meschrabpom«-Studio, gegründet 1924 als ein Teil der »Internationalen A
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

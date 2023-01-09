@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-06-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-06-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>15/6 […] Gegen Mittag zu C. P.;– mit ihr Türkenschanzpark; sie aß bei mir; lag dann auf der Terrasse.– Abd. mit ihr Prater, Kino, Phantome des Glücks (Tschechow);– Prochaska genachtm.–</ab></div>
-         <div type="ckp"><ab>15.6. Nach Monaten ein guter Tag, aber ich trau mich kaum mehr mich zu freuen. A. holte mich ab, wir sassen im Türkenschanzpark, dann zu Tisch und bis ½6 bei ihm. Grosse Zärtlichkeit. Abend Kino, dann Heimfahrt Hand in Hand und viele liebe Worte. [III, 44]</ab></div>
-         <div type="anmerkung"><ab>Ankündigung NFP 6.6.1930, S. 16. Anzeige und Premierennotiz NFP 13.6.1930, S. 12 (Lustspieltheater, Flotten-Kino). Besprechung von f. in NFP 17.6.1930, S. 9. Besprechung von Eugen Szatmari in BTB 5.1.1930, 9. Beiblatt, S. 1. Nachgewiesene Spielorte: Lustspieltheater, Flotten-Kino (NFP 15.6.1930, S. 27, und NZG 15.6.1930, S. 16).</ab></div>
+         <div type="as">
+            <ab>15/6 […] Gegen Mittag zu C. P.;– mit ihr Türkenschanzpark; sie aß bei mir; lag dann auf der Terrasse.– Abd. mit ihr Prater, Kino, Phantome des Glücks (Tschechow);– Prochaska genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>15.6. Nach Monaten ein guter Tag, aber ich trau mich kaum mehr mich zu freuen. A. holte mich ab, wir sassen im Türkenschanzpark, dann zu Tisch und bis ½6 bei ihm. Grosse Zärtlichkeit. Abend Kino, dann Heimfahrt Hand in Hand und viele liebe Worte. [III, 44]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Ankündigung NFP 6.6.1930, S. 16. Anzeige und Premierennotiz NFP 13.6.1930, S. 12 (Lustspieltheater, Flotten-Kino). Besprechung von f. in NFP 17.6.1930, S. 9. Besprechung von Eugen Szatmari in BTB 5.1.1930, 9. Beiblatt, S. 1. Nachgewiesene Spielorte: Lustspieltheater, Flotten-Kino (NFP 15.6.1930, S. 27, und NZG 15.6.1930, S. 16).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Phantome des Glücks“ („Der Mann in Fesseln“)</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Reinhold Schünzel</persName></cell>
-                  <cell role="data"><persName>[Reinhold Schünzel]</persName></cell>
-                  <cell role="data"><orgName>Terra-Film</orgName></cell>
-                  <cell role="data">Karina Bell, Yvette Darnys, [Michael Tschechoff, Ekkehard Arendt, Oskar Sima, Gaston Modot, Inge Landgut]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Phantome des Glücks“ („Der Mann in Fesseln“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Reinhold Schünzel</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Reinhold Schünzel]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Terra-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Karina Bell, Yvette Darnys, [Michael Tschechoff, Ekkehard Arendt, Oskar Sima, Gaston Modot, Inge Landgut]</cell>
                </row>
             </table>
          </div>
@@ -131,13 +138,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__6" type="wirt">
+               <placeName>Prochaska</placeName>
+               <location>
+                  <address>
+                     <addrLine>Prater 37, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__6" type="wirt">
-               <orgName>Prochaska</orgName>
-               <location><address><addrLine>Prater 37, 2.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

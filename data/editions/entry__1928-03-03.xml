@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-03-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/3 […] ich ging mit H. K. ins Kino (Nacht der Schrecken).</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>3/3 […] ich ging mit H. K. ins Kino (Nacht der Schrecken).</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Gespenster im Schloß“ („Nacht der Schrecken“, „Zwischen Elf und Elf“; Ot. „The Cat and the Canary“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Paul Leni</persName></cell>
-                  <cell role="data"><persName>[John Willard (Stück); Robert F. Hill, Alfred A. Cohn (Adaption, Drehbuch); Walter Anthony (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Universal-Film</orgName></cell>
-                  <cell role="data">Fo[r]rest Stanley, [Creighton Hale], Arthur [Edmund] Carewe, George Siegman[n], Laura la Plante, Gertrude Astor, Martha Mattox, [Flora] Finch</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Gespenster im Schloß“ („Nacht der Schrecken“, „Zwischen Elf und Elf“; Ot. „The Cat and the Canary“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Leni</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[John Willard (Stück); Robert F. Hill, Alfred A. Cohn (Adaption, Drehbuch); Walter Anthony (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Universal-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Fo[r]rest Stanley, [Creighton Hale], Arthur [Edmund] Carewe, George Siegman[n], Laura la Plante, Gertrude Astor, Martha Mattox, [Flora] Finch</cell>
                </row>
             </table>
          </div>
@@ -149,7 +154,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

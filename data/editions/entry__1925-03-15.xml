@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-03-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-03-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab></ab></div>
-         <div type="ckp"><ab>[CP an AS am 16.3.1925:] 
-[…] Ueber gestern und heute ist nachzutragen: Gestern Vormittag Frieda, der ich die letzte Seite des Novellenentwurfes und den Brief an B. diktierte. Mittag des Sonntags wegen im Restaurant gegessen. Dann ein bisserl geschlafen und von 3-5 gearbeitet und nachgedacht. Um 5 Uhr erschien Cary <hi>ohne</hi> Ernst Hellmann, der erkrankt ist. Wir plauschten eine Stunde sehr gut und gingen dann ins Votivkino hinüber zu den „Wölfen von Alaska“, ein mässiger Genuss. […] [I, 143]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab/>
+         </div>
+         <div type="ckp">
+            <ab>[CP an AS am 16.3.1925:] 
+[…] Ueber gestern und heute ist nachzutragen: Gestern Vormittag Frieda, der ich die letzte Seite des Novellenentwurfes und den Brief an B. diktierte. Mittag des Sonntags wegen im Restaurant gegessen. Dann ein bisserl geschlafen und von 3-5 gearbeitet und nachgedacht. Um 5 Uhr erschien Cary <hi>ohne</hi> Ernst Hellmann, der erkrankt ist. Wir plauschten eine Stunde sehr gut und gingen dann ins Votivkino hinüber zu den „Wölfen von Alaska“, ein mässiger Genuss. […] [I, 143]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„North of the Hudson Bay“ („Unter den Wölfen von Alaska“)</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>John Ford</persName></cell>
-                  <cell role="data"><persName>Jules Furthman</persName></cell>
-                  <cell role="data"><orgName>Fox</orgName></cell>
-                  <cell role="data">Tom Mix, Kathleen Ke, Jennie Lee, Frank Campeau, Eugene Pallette, Will Walling, Frank Leigh, Fred Kohler</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„North of the Hudson Bay“ („Unter den Wölfen von Alaska“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>John Ford</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Jules Furthman</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Tom Mix, Kathleen Ke, Jennie Lee, Frank Campeau, Eugene Pallette, Will Walling, Frank Leigh, Fred Kohler</cell>
                </row>
             </table>
          </div>
@@ -148,7 +155,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

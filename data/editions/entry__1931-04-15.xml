@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-04-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-04-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>15/4 […] Mit C. P. Gloria Kino „Der blaue Express“; mit ihr Pilsenetzer (Regina) genachtm.–</ab></div>
-         <div type="ckp"><ab>15.4. Lange bei Carry, der sehr vergnügt ist, obwohl er gestern Abend 37.4 hatte. – Abend mit A. Kino „Blauer Express“, kein sehr guter Film, Nachher Pilsenetzer (Hotel Regina) genachtmahlt. A. kalt und nervös, die Luft eisig. Abend im Bett langes telefonisches Gespräch mit Egon Wellesz über Carry. Carry hat mir erzählt, dass die Familie W. mich jetzt sehr schätzt, bei Egon sei es schon immer der Fall gewesen, aber jetzt habe mich auch Emmy sehr gern. [III, 162]</ab></div>
-         <div type="anmerkung"><ab>Regisseur Ilja Trauberg hat bei Eisenstein gelernt, der Film erinnert also nicht von ungefähr an »Panzerkreuzer Potemkin«. „Traubergs Regiekunst ist virtuos im Kleinen, enträt aber der großen Linie“ (SK II S. 408). Kinoprogramm des Gloria-Kinos nicht in den Tageszeitungen. Der Film wurde aber auch in anderen Kinos gespielt, so etwa im Sandleiten-Ton-Kino (DKB 15.4.1931, S. 16).</ab></div>
+         <div type="as">
+            <ab>15/4 […] Mit C. P. Gloria Kino „Der blaue Express“; mit ihr Pilsenetzer (Regina) genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>15.4. Lange bei Carry, der sehr vergnügt ist, obwohl er gestern Abend 37.4 hatte. – Abend mit A. Kino „Blauer Express“, kein sehr guter Film, Nachher Pilsenetzer (Hotel Regina) genachtmahlt. A. kalt und nervös, die Luft eisig. Abend im Bett langes telefonisches Gespräch mit Egon Wellesz über Carry. Carry hat mir erzählt, dass die Familie W. mich jetzt sehr schätzt, bei Egon sei es schon immer der Fall gewesen, aber jetzt habe mich auch Emmy sehr gern. [III, 162]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Regisseur Ilja Trauberg hat bei Eisenstein gelernt, der Film erinnert also nicht von ungefähr an »Panzerkreuzer Potemkin«. „Traubergs Regiekunst ist virtuos im Kleinen, enträt aber der großen Linie“ (SK II S. 408). Kinoprogramm des Gloria-Kinos nicht in den Tageszeitungen. Der Film wurde aber auch in anderen Kinos gespielt, so etwa im Sandleiten-Ton-Kino (DKB 15.4.1931, S. 16).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Blaue Expreß“ [Ot. „Goluboi express“]</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>UdSSR</placeName></cell>
-                  <cell role="data"><persName>Ilja Trauberg</persName></cell>
-                  <cell role="data"><persName>[Sergej Tretjakow (Idee); Ilja Trauberg, L. Jierichonow (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Sowkino-Organon</orgName></cell>
-                  <cell role="data">Sergei Minin, Igor Tschernak, Yakov Gudkin u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Blaue Expreß“ [Ot. „Goluboi express“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UdSSR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ilja Trauberg</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Sergej Tretjakow (Idee); Ilja Trauberg, L. Jierichonow (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Sowkino-Organon</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Sergei Minin, Igor Tschernak, Yakov Gudkin u.a.</cell>
                </row>
             </table>
          </div>
@@ -133,15 +140,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__12" type="kino">
-               <orgName>Apollokino / Gloriakino</orgName>
-               <location><address><addrLine>17., Dornerplatz 9</addrLine></address></location>
+            <place  xml:id="ask_kino__12" type="kino">
+               <placeName>Apollokino / Gloriakino</placeName>
+               <location>
+                  <address>
+                     <addrLine>17., Dornerplatz 9</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912. Umbenennung 1927. Tonfilm ab 1930. Fassungsraum: 1914: 320 Sitzplätze, 1922: 520 Sitzplätze (davon 22 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

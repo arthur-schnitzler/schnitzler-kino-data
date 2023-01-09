@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-09-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-09-04.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>4/9 Mit C. P. Interlaken (über Brünig) Luzern – Hotel Gotthard. […] Mit C. P. Kino „Tragoedie“ mit Henny Porten.– Man fragt sich immer wieder, ob die Leichtfertigkeit, die Dummheit oder die seelische Gemeinheit dieser Filmverfasser das Hauptelement dieser Begabungen vorstellt.</ab></div>
-         <div type="ckp"><ab>4.9. Wie schön ist Luzern! Wundervoller Tag und Abend. Selbst der langweilige Film mit Henny Porten brachte uns nicht aus der Stimmung. [I, 344]</ab></div>
-         <div type="anmerkung"><ab>Der Spielort in Luzern wurde nicht ermittelt. </ab></div>
+         <div type="as">
+            <ab>4/9 Mit C. P. Interlaken (über Brünig) Luzern – Hotel Gotthard. […] Mit C. P. Kino „Tragoedie“ mit Henny Porten.– Man fragt sich immer wieder, ob die Leichtfertigkeit, die Dummheit oder die seelische Gemeinheit dieser Filmverfasser das Hauptelement dieser Begabungen vorstellt.</ab>
+         </div>
+         <div type="ckp">
+            <ab>4.9. Wie schön ist Luzern! Wundervoller Tag und Abend. Selbst der langweilige Film mit Henny Porten brachte uns nicht aus der Stimmung. [I, 344]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Der Spielort in Luzern wurde nicht ermittelt. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Tragödie“</cell>
-                  <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>[Carl Froelich]</persName></cell>
-                  <cell role="data"><persName>[Walter Wassermann, Fred Sauer]</persName></cell>
-                  <cell role="data"><orgName>Porten-Fröhlich-Film</orgName></cell>
-                  <cell role="data">Henny Porten, Lina Lossen, Robert Scholz, Walter Janssen, Robert Garrison, [Eberhard] Leithoff, Annemarie Winkler</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Tragödie“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Carl Froelich]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Walter Wassermann, Fred Sauer]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Porten-Fröhlich-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Henny Porten, Lina Lossen, Robert Scholz, Walter Janssen, Robert Garrison, [Eberhard] Leithoff, Annemarie Winkler</cell>
                </row>
             </table>
          </div>
@@ -135,7 +142,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Luzern</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-11-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-11-06.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>6/11 […] Mit C. P. Michelbeuern Kino „Bärenhochzeit“. […]</ab></div>
-         <div type="anmerkung"><ab>Es handelt sich um Eggerts (1883-1955) ersten Film als Regisseur, nachdem er zuvor als Bühnen- und Filmschauspieler und Teilhaber des Mechrabhom Filmstudios tätig war. Der Film erwies sich an den sowjetischen Kinokassen als wesentlich erfolgreicher als Eisensteins „Panzerkreuzer Potemkin“ (vgl. The BFI Companion to Eastern European and Russian Cinema. London 2000, S. 67).
-Besprechung und Anzeige NFP 29.10.1926, S. 16. Ein »Edison Kino / Michelbeuernkino« besteht im 9. Bezirk nur bis 1917 (Schwarz 1992, S. 234), danach Transfer der Lizenz in die Kreuzgasse, XVIII.</ab></div>
+         <div type="as">
+            <ab>6/11 […] Mit C. P. Michelbeuern Kino „Bärenhochzeit“. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Es handelt sich um Eggerts (1883-1955) ersten Film als Regisseur, nachdem er zuvor als Bühnen- und Filmschauspieler und Teilhaber des Mechrabhom Filmstudios tätig war. Der Film erwies sich an den sowjetischen Kinokassen als wesentlich erfolgreicher als Eisensteins „Panzerkreuzer Potemkin“ (vgl. The BFI Companion to Eastern European and Russian Cinema. London 2000, S. 67).
+Besprechung und Anzeige NFP 29.10.1926, S. 16. Ein »Edison Kino / Michelbeuernkino« besteht im 9. Bezirk nur bis 1917 (Schwarz 1992, S. 234), danach Transfer der Lizenz in die Kreuzgasse, XVIII.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Bärenhochzeit“ [Ot. „Medvezh’ya svad’ba“]</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>UdSSR</placeName></cell>
-                  <cell role="data"><persName>K[onstantin] W. Eggert, [Vladimir Gardin]</persName></cell>
-                  <cell role="data"><persName>Prosper Merimée (Vorlage Novelle „Lokis“); [Anatoli Lunacharsky (Vorlage Bühnenstück); Georgiy Grebner (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Meschrabhom-Film</orgName></cell>
-                  <cell role="data">Konstantin W. Eggert, B. M. Karzeff, R. Alechina, [Vera] Malonowskaja, [Natalya] Rosenel, [Juri Zavadsky]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Bärenhochzeit“ [Ot. „Medvezh’ya svad’ba“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UdSSR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>K[onstantin] W. Eggert, [Vladimir Gardin]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Prosper Merimée (Vorlage Novelle „Lokis“); [Anatoli Lunacharsky (Vorlage Bühnenstück); Georgiy Grebner (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Meschrabhom-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Konstantin W. Eggert, B. M. Karzeff, R. Alechina, [Vera] Malonowskaja, [Natalya] Rosenel, [Juri Zavadsky]</cell>
                </row>
             </table>
          </div>
@@ -132,15 +137,16 @@ Besprechung und Anzeige NFP 29.10.1926, S. 16. Ein »Edison Kino / Michelbeuernk
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__52" type="kino">
-               <orgName>Michelbeuerntheater</orgName>
-               <location><address><addrLine>18., Kreuzgasse 27</addrLine></address></location>
+            <place  xml:id="ask_kino__52" type="kino">
+               <placeName>Michelbeuerntheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Kreuzgasse 27</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1919. Tonfilm: 1931. Fassungsraum: 1922: 558 Sitzplätze (davon 38 Logenplätze), 1934: 576 (32).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

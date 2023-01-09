@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-08-02.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-08-02.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>2/8 […] Mit C. P. Kino („Admiral“),– „Nacht in London“.– Westb. soup.</ab></div>
-         <div type="ckp"><ab>2.8. Viel gearbeitet. Abend Kino „Eine Nacht in London“. Hübscher, amüsanter Film. Westbahn genachtmahlt. Gute Stimmung, aber Klagen über Befinden[.] [II, 253]</ab></div>
-         <div type="anmerkung"><ab>„ein Vaudevillestück, das Lupu Pick ganz nett arrangiert hat“ (SK II, S: 197). </ab></div>
+         <div type="as">
+            <ab>2/8 […] Mit C. P. Kino („Admiral“),– „Nacht in London“.– Westb. soup.</ab>
+         </div>
+         <div type="ckp">
+            <ab>2.8. Viel gearbeitet. Abend Kino „Eine Nacht in London“. Hübscher, amüsanter Film. Westbahn genachtmahlt. Gute Stimmung, aber Klagen über Befinden[.] [II, 253]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„ein Vaudevillestück, das Lupu Pick ganz nett arrangiert hat“ (SK II, S: 197). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Eine Nacht in London“ [Ot. GB „A Knight in London“]</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D/[GB]</placeName></cell>
-                  <cell role="data"><persName>Lupu Pick</persName></cell>
-                  <cell role="data"><persName>[Horace Tremlett (Vorlage Erzählung); Charles Lincoln (Adaption); Herbert Juttke, Georg C. Klaren (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Blattner-Terra-Film</orgName></cell>
-                  <cell role="data">Lilian Harvey, Ivy Duke, Robert English, Robert [Irvine] u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Eine Nacht in London“ [Ot. GB „A Knight in London“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D/[GB]</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Lupu Pick</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Horace Tremlett (Vorlage Erzählung); Charles Lincoln (Adaption); Herbert Juttke, Georg C. Klaren (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Blattner-Terra-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lilian Harvey, Ivy Duke, Robert English, Robert [Irvine] u.a.</cell>
                </row>
             </table>
          </div>
@@ -131,18 +138,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__2" type="kino">
-               <orgName>Admiralkino</orgName>
-               <location><address><addrLine>07., Burggasse 119</addrLine></address></location>
+            <place  xml:id="ask_kino__2" type="kino">
+               <placeName>Admiralkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>07., Burggasse 119</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1913. Tonfilm ab 1931. Fassungsraum: 1922 und 1934: 186 Sitzplätze (davon 14 Logenplätze).</note>
-            </org>
-            <org xml:id="ask_wirt__54" type="wirt">
-               <orgName>Hotel Westbahn</orgName>
-               <location><address><addrLine>Pelzgasse 1, 15.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__54" type="wirt">
+               <placeName>Hotel Westbahn</placeName>
+               <location>
+                  <address>
+                     <addrLine>Pelzgasse 1, 15.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

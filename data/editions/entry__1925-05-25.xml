@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-05-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-05-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/5 […] – Mit C. P. Kino „die weiße Schwester“, und im Hotel Imperial genachtm. Ich sei viel weniger „gut“, als sie gedacht… – Mir nicht neu.– </ab></div>
-         <div type="anmerkung"><ab>Premierennotizen NFP 1.5.1925, S. 26, und NFP 8.5.1925, S. 16, unter Angabe der Exklusivität für Burg- und Rotenturm-Kino. Besprechung NFP 15.5.1925, S. 16. </ab></div>
+         <div type="as">
+            <ab>25/5 […] – Mit C. P. Kino „die weiße Schwester“, und im Hotel Imperial genachtm. Ich sei viel weniger „gut“, als sie gedacht… – Mir nicht neu.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotizen NFP 1.5.1925, S. 26, und NFP 8.5.1925, S. 16, unter Angabe der Exklusivität für Burg- und Rotenturm-Kino. Besprechung NFP 15.5.1925, S. 16. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Weiße Schwester“ („The white sister“)</cell>
-                  <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Henry King</persName></cell>
-                  <cell role="data"><persName>George B. Hobart, Charles E. Whittaker</persName></cell>
-                  <cell role="data"><orgName>Loew-Metro-Film</orgName></cell>
-                  <cell role="data">Lillian Gish, Ronald Colman, Gail Kane, Carloni Talli, Giuseppe Pavoni</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Weiße Schwester“ („The white sister“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Henry King</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>George B. Hobart, Charles E. Whittaker</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Loew-Metro-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lillian Gish, Ronald Colman, Gail Kane, Carloni Talli, Giuseppe Pavoni</cell>
                </row>
             </table>
          </div>
@@ -126,7 +131,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

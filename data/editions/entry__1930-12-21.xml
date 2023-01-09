@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-12-21.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-12-21.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>18/12 […] Mit C. P. Kino „Va banque“; sie nachtm. bei mir. </ab></div>
-         <div type="ckp"><ab>21.12.1930. Goldener Sonntag. […] Nachmittag „Komödie“ (Chlumberg Trauerfeier) mit Gisella B. Abend wieder mit A. Eos-Kino Va banque (ganz nett, Gründgens, Dagover), dann bei ihm genachtmahlt. Vor dem Fortgehn knöpfelte ich ihm seine neuen Stiefel auf, er schien plötzlich bewegt, küsste mich mit Herzlichkeit, ein Augenblick, in dem man sich etwas näher war. Er sagte: „Du bist rührend.“ [III, 131]</ab></div>
-         <div type="anmerkung"><ab>„Sie will eine Komödie sein und ist ein witzloses Erzeugnis, das auch durch die Mitwirkung Lil Dagovers nicht lustiger wird“ (SK II, S. 398). 
-Ankündigung NFP 31.10.1930, S. 10. Notiz NFP 4.11.1930, S. 11. Dies ist der letzte Besuch im Eos-Kino vor dessen Umbau. Das Programm dieses Kinos ist in den hier berücksichtigten Tageszeitungen nicht nachgewiesen. Ein Film gleichen Titels mit Fritz Kortner und Willy Kayser wurde bereits 1922 im Burg-Kino und im Kärntner-Kino gezeigt (NFP 22.2.1921, S. 12).</ab></div>
+         <div type="as">
+            <ab>18/12 […] Mit C. P. Kino „Va banque“; sie nachtm. bei mir. </ab>
+         </div>
+         <div type="ckp">
+            <ab>21.12.1930. Goldener Sonntag. […] Nachmittag „Komödie“ (Chlumberg Trauerfeier) mit Gisella B. Abend wieder mit A. Eos-Kino Va banque (ganz nett, Gründgens, Dagover), dann bei ihm genachtmahlt. Vor dem Fortgehn knöpfelte ich ihm seine neuen Stiefel auf, er schien plötzlich bewegt, küsste mich mit Herzlichkeit, ein Augenblick, in dem man sich etwas näher war. Er sagte: „Du bist rührend.“ [III, 131]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Sie will eine Komödie sein und ist ein witzloses Erzeugnis, das auch durch die Mitwirkung Lil Dagovers nicht lustiger wird“ (SK II, S. 398). 
+Ankündigung NFP 31.10.1930, S. 10. Notiz NFP 4.11.1930, S. 11. Dies ist der letzte Besuch im Eos-Kino vor dessen Umbau. Das Programm dieses Kinos ist in den hier berücksichtigten Tageszeitungen nicht nachgewiesen. Ein Film gleichen Titels mit Fritz Kortner und Willy Kayser wurde bereits 1922 im Burg-Kino und im Kärntner-Kino gezeigt (NFP 22.2.1921, S. 12).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Va banque“ („Alles oder nichts“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Erich Waschneck</persName></cell>
-                  <cell role="data"><persName>Franz Schulz</persName></cell>
-                  <cell role="data"><orgName>Jean de Merly-Film</orgName></cell>
-                  <cell role="data">Lil Dagover, Gustav Gründgens, Ernst Verebes, Rolf van Goth, Fritz Spira, Julius Falkenstein</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Va banque“ („Alles oder nichts“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Erich Waschneck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Franz Schulz</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Jean de Merly-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lil Dagover, Gustav Gründgens, Ernst Verebes, Rolf van Goth, Fritz Spira, Julius Falkenstein</cell>
                </row>
             </table>
          </div>
@@ -132,15 +139,16 @@ Ankündigung NFP 31.10.1930, S. 10. Notiz NFP 4.11.1930, S. 11. Dies ist der let
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__24" type="kino">
-               <orgName>Eos Lichtspiele / Sascha Palast</orgName>
-               <location><address><addrLine>03., Ungargasse 60</addrLine></address></location>
+            <place  xml:id="ask_kino__24" type="kino">
+               <placeName>Eos Lichtspiele / Sascha Palast</placeName>
+               <location>
+                  <address>
+                     <addrLine>03., Ungargasse 60</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Umbenennung 1931. Tonfilm ab 1931. Fassungsraum: Galerie. 1922: 1088 Sitzplätze (davon 122 Logenplätze). Das Kino wurde in der ehemaligen Winterreitschule eingerichtet. – Beschreibung von Architektur und Ausstattung anläßlich der Eröffnung in „Die Filmwelt“ Jg. 1922, Nr. 3, S. 3f. Nicht ident mit dem späteren Eos-Kino in der Landstraßer Hauptstraße. </note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

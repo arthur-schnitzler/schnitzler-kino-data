@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-09-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-09-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/9 […] Abd. mit C. P. Kino („Ich liebe dich“), und Rest. Pohl.</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz und Anzeige NFP 25.9.1925, S. 20. Dort nachgewiesene Spielorte: Opern-, Schottenring-, Haydn-, Phönix-, Theater-Kino und Kammerlichtspiele. </ab></div>
+         <div type="as">
+            <ab>28/9 […] Abd. mit C. P. Kino („Ich liebe dich“), und Rest. Pohl.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz und Anzeige NFP 25.9.1925, S. 20. Dort nachgewiesene Spielorte: Opern-, Schottenring-, Haydn-, Phönix-, Theater-Kino und Kammerlichtspiele. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Ich liebe Dich!“</cell>
-                  <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Paul Ludwig Stein</persName></cell>
-                  <cell role="data"><persName>Rolf E. Vanloo</persName></cell>
-                  <cell role="data"><orgName>Davidson-Ufa-Film</orgName></cell>
-                  <cell role="data">Liane Haid, Alphons Fryland, Anny Ondra, Harry Hardt, Fritz Alberti, Livio C. Pavanelli, Ernst Pröckl, Paul Biensfeldt, Marian Alma</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Ich liebe Dich!“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Ludwig Stein</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Rolf E. Vanloo</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Davidson-Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Liane Haid, Alphons Fryland, Anny Ondra, Harry Hardt, Fritz Alberti, Livio C. Pavanelli, Ernst Pröckl, Paul Biensfeldt, Marian Alma</cell>
                </row>
             </table>
          </div>
@@ -139,7 +144,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

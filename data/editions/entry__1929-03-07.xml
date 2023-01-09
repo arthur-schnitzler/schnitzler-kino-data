@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-03-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-03-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/3 […] Mit C. P. Kino „Adjutant des Czaren“ (Mosjoukine). Linde genachtm. […]</ab></div>
-         <div type="ckp"><ab>6.3. Abend Kino. Nachher mit A. „Linde“. Czokor getroffen. Nicht unsympathischer Bohémien. Nachmittag Gisella Berger bei mir gewesen, sympathisch wie immer. [II, 197]</ab></div>
-         <div type="anmerkung"><ab>Anzunehmender Flüchtigkeitsfehler bei der Transkription Pollaczeks: Dieser und der vorangehende Eintrag sind beide mit »6.3.« datiert, der Folgetag mit »8.3.« Daher in Übereinstimmung mit Schnitzler auf »7.3.« datiert. »Csokor«: Franz Theodor Csokor, Schriftsteller (1885–1969). »Berger«: Gisela von Berger, Schriftstellerin (1878–1961).
+         <div type="as">
+            <ab>7/3 […] Mit C. P. Kino „Adjutant des Czaren“ (Mosjoukine). Linde genachtm. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>6.3. Abend Kino. Nachher mit A. „Linde“. Czokor getroffen. Nicht unsympathischer Bohémien. Nachmittag Gisella Berger bei mir gewesen, sympathisch wie immer. [II, 197]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzunehmender Flüchtigkeitsfehler bei der Transkription Pollaczeks: Dieser und der vorangehende Eintrag sind beide mit »6.3.« datiert, der Folgetag mit »8.3.« Daher in Übereinstimmung mit Schnitzler auf »7.3.« datiert. »Csokor«: Franz Theodor Csokor, Schriftsteller (1885–1969). »Berger«: Gisela von Berger, Schriftstellerin (1878–1961).
 „In dem Film […] liegt das ganze Schwergewicht auf glänzenden Uniformen und privater Liebe“ (SK II, S. 243). 
-Illustrierte Anzeige NFP 1.3.1929, S. 10. Nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Schottenring-, Eos-, Flieger-, Kolosseum-, Park- und Theater-Kino sowie Raimund-Lichtspiele (NFP 6.3.1929, S. 17).</ab></div>
+Illustrierte Anzeige NFP 1.3.1929, S. 10. Nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Schottenring-, Eos-, Flieger-, Kolosseum-, Park- und Theater-Kino sowie Raimund-Lichtspiele (NFP 6.3.1929, S. 17).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Adjutant des Zaren“</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Wladimir [Striževskij]</persName></cell>
-                  <cell role="data"><persName>[Wladimir Striževskij]</persName></cell>
-                  <cell role="data"><orgName>[Greenbaum-Film]</orgName></cell>
-                  <cell role="data">Iwan [Mosjoukine], Fritz Alberti, Eugen Burg, Daniel [Dolski], Georg [Seroff], Carmen Boni u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Adjutant des Zaren“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Wladimir [Striževskij]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Wladimir Striževskij]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Greenbaum-Film]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Iwan [Mosjoukine], Fritz Alberti, Eugen Burg, Daniel [Dolski], Georg [Seroff], Carmen Boni u.a.</cell>
                </row>
             </table>
          </div>
@@ -134,7 +141,6 @@ Illustrierte Anzeige NFP 1.3.1929, S. 10. Nachgewiesene Spielorte: Gartenbau-, I
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

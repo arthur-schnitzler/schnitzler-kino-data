@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-02-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-02-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/2 […] – Mit C. P. Kino „Tropenglut“ (Garbo, Lewis Stone). Mit C. P. Weingartl genachtm.</ab></div>
-         <div type="ckp"><ab>Gestern Abend mit A. Kino „Tropenzauber“ mit Greta Garbo. Ein wundervolles Wesen. A. in guter Stimmung, aber ich wage es kaum mehr mich zu freuen. Ich arbeite fleissig an der „Corday“. [III, 30]</ab></div>
-         <div type="anmerkung"><ab>Der Film wurde zum gegebenen Datum jedenfalls im Schweden-Kino in der Taborstraße 1 vorgeführt, wie die Kinoprogramme der Tageszeitungen belegen. Pollaczek arbeitet an »Das Fräulein von Corday d’Armont« (vgl. hierzu die kommentierte Bibliographie).
-Ankündigung für das Schweden-Kino NFP 7.2.1930, S. 8. Premierennotiz und Anzeige NFP 14.2.1930, S. 10. Nachgewiesener Spielort: Schweden-Kino (NFP 17.2.1930, S. 8).</ab></div>
+         <div type="as">
+            <ab>17/2 […] – Mit C. P. Kino „Tropenglut“ (Garbo, Lewis Stone). Mit C. P. Weingartl genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>Gestern Abend mit A. Kino „Tropenzauber“ mit Greta Garbo. Ein wundervolles Wesen. A. in guter Stimmung, aber ich wage es kaum mehr mich zu freuen. Ich arbeite fleissig an der „Corday“. [III, 30]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Der Film wurde zum gegebenen Datum jedenfalls im Schweden-Kino in der Taborstraße 1 vorgeführt, wie die Kinoprogramme der Tageszeitungen belegen. Pollaczek arbeitet an »Das Fräulein von Corday d’Armont« (vgl. hierzu die kommentierte Bibliographie).
+Ankündigung für das Schweden-Kino NFP 7.2.1930, S. 8. Premierennotiz und Anzeige NFP 14.2.1930, S. 10. Nachgewiesener Spielort: Schweden-Kino (NFP 17.2.1930, S. 8).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Tropenglut“ („Wilde Orchideen“, [Ot. „Wild Orchids“])</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Sidney Franklin</persName></cell>
-                  <cell role="data"><persName>[Willis Goldbeck (Adaption), John Colton (Story), Marian Ainslee, Ruth Cummings (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Metro-Film</orgName></cell>
-                  <cell role="data">Greta Garbo, Lewis Stone, Nils Asther</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Tropenglut“ („Wilde Orchideen“, [Ot. „Wild Orchids“])</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Sidney Franklin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Willis Goldbeck (Adaption), John Colton (Story), Marian Ainslee, Ruth Cummings (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Greta Garbo, Lewis Stone, Nils Asther</cell>
                </row>
             </table>
          </div>
@@ -134,7 +141,6 @@ Ankündigung für das Schweden-Kino NFP 7.2.1930, S. 8. Premierennotiz und Anzei
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

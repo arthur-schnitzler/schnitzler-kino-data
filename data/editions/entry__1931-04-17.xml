@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-04-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-04-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/4 […] Zu C. P. […] Mit ihr Phönix Kino Oberst Redl, im Hahn genachtm. Diese Abende sind schlimm.–</ab></div>
-         <div type="ckp"><ab>17.4. Vorm. Friedhof, Sterbetag meines Mannes, ich gehe hin, weil niemand mehr sich um ihn den „Vielgeliebten“ kümmert und er mir leid tut.– Dann bei Carry, der in strahlender Stimmung ist, gestern ein[e] Stunde ausser Bett, heute schon Vor- und Nachmittag.
-Habe heute Früh endlich Clausers eingeladen für Mittwoch oder Freitag Abend (wann der Mann eben frei ist), nachdem ich mich Auernheimers versichert habe, da A. diese Zusammenstellung endlich billigte. Am Nachmittag teilt mir A. mit, dass er Auernheimers für mich ausgeladen und für Übermorgen Sonntag zu sich gebeten hat und ich soll Clausers auch zu ihm bitten. Dieses Vorgehen ist unwahrscheinlich, denn er weiss sehr genau, dass der Mann der Cl. am Sonntag fast sicher auf der Jagd ist und ausserdem hindert er mich seit vorigem Winter mich bei diesen Leuten zu revanchieren. Ich sehe Sinn und Zweck nicht, aber ich sage nichts mehr, ich bin <hi>zu</hi> müd. – Abend im Kino „Oberst Redl“, dann Restaurant Weisser Hahn. Kein Wort über Einladung gesprochen, wozu? [III, 163]</ab></div>
-         <div type="anmerkung"><ab>Zum Besuch der ersten Verfilmung des Stoffes vgl. die Eintragung vom 21.2.1925.
-Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 10, für 6.3.1931. Anzeige und Notiz NFP 10.3.1931, S. 10/13, für fünf Wiener Kinos. Besprechung von f. in NFP 11.3.1931, S. 11.</ab></div>
+         <div type="as">
+            <ab>17/4 […] Zu C. P. […] Mit ihr Phönix Kino Oberst Redl, im Hahn genachtm. Diese Abende sind schlimm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>17.4. Vorm. Friedhof, Sterbetag meines Mannes, ich gehe hin, weil niemand mehr sich um ihn den „Vielgeliebten“ kümmert und er mir leid tut.– Dann bei Carry, der in strahlender Stimmung ist, gestern ein[e] Stunde ausser Bett, heute schon Vor- und Nachmittag.
+Habe heute Früh endlich Clausers eingeladen für Mittwoch oder Freitag Abend (wann der Mann eben frei ist), nachdem ich mich Auernheimers versichert habe, da A. diese Zusammenstellung endlich billigte. Am Nachmittag teilt mir A. mit, dass er Auernheimers für mich ausgeladen und für Übermorgen Sonntag zu sich gebeten hat und ich soll Clausers auch zu ihm bitten. Dieses Vorgehen ist unwahrscheinlich, denn er weiss sehr genau, dass der Mann der Cl. am Sonntag fast sicher auf der Jagd ist und ausserdem hindert er mich seit vorigem Winter mich bei diesen Leuten zu revanchieren. Ich sehe Sinn und Zweck nicht, aber ich sage nichts mehr, ich bin <hi>zu</hi> müd. – Abend im Kino „Oberst Redl“, dann Restaurant Weisser Hahn. Kein Wort über Einladung gesprochen, wozu? [III, 163]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Zum Besuch der ersten Verfilmung des Stoffes vgl. die Eintragung vom 21.2.1925.
+Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 10, für 6.3.1931. Anzeige und Notiz NFP 10.3.1931, S. 10/13, für fünf Wiener Kinos. Besprechung von f. in NFP 11.3.1931, S. 11.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Oberst Redl“</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>&amp;#268;SR</placeName></cell>
-                  <cell role="data"><persName>Karl Anton</persName></cell>
-                  <cell role="data"><persName>Egon Erwin Kisch (Vorlage Roman), [Benno] Vigny, [Alfred] Schirokauer</persName></cell>
-                  <cell role="data"><orgName>Senor-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Lil Dagover, Magnus Stifter, Michael von Newlinski, Theodor Loos, Vladimír Majer</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Oberst Redl“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>&amp;#268;SR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Karl Anton</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Egon Erwin Kisch (Vorlage Roman), [Benno] Vigny, [Alfred] Schirokauer</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Senor-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lil Dagover, Magnus Stifter, Michael von Newlinski, Theodor Loos, Vladimír Majer</cell>
                </row>
             </table>
          </div>
@@ -153,15 +160,16 @@ Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 10, für 6.3.1931. 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__50" type="kino">
-               <orgName>Phönixkino</orgName>
-               <location><address><addrLine>07., Lerchenfelderstraße 35</addrLine></address></location>
+            <place  xml:id="ask_kino__50" type="kino">
+               <placeName>Phönixkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>07., Lerchenfelderstraße 35</addrLine>
+                  </address>
+               </location>
                <note type="info"> Gründungsjahr: 1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914 und 1922: 590 Sitzplätze (davon 48 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

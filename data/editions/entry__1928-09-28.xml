@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-09-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,38 +62,43 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/9 […] Abends mit C. P. Kino „Circus Wolfson“.–</ab></div>
-         <div type="ckp"><ab>28.09. A. hat mir sein neues Stück vorgelesen. Ich finde es ausgezeichnet, sehr bühnenwirksam, stellenweise ergreifend. Die Führung und Durchführung vorbildlich und trotzdem hat es nicht das dichterische Niveau seiner anderen Stücke, vom „Gang zum Weiher“ z.B. (trotz aller Schwächen und Peinlichkeiten dieses Stückes) oder von „Medardus“, „Beatrice“, „Bernhardi“. Aber ich glaube an einen Erfolg dieses Stückes.
+         <div type="as">
+            <ab>28/9 […] Abends mit C. P. Kino „Circus Wolfson“.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>28.09. A. hat mir sein neues Stück vorgelesen. Ich finde es ausgezeichnet, sehr bühnenwirksam, stellenweise ergreifend. Die Führung und Durchführung vorbildlich und trotzdem hat es nicht das dichterische Niveau seiner anderen Stücke, vom „Gang zum Weiher“ z.B. (trotz aller Schwächen und Peinlichkeiten dieses Stückes) oder von „Medardus“, „Beatrice“, „Bernhardi“. Aber ich glaube an einen Erfolg dieses Stückes.
 A. in guter Stimmung gelesen. Er hat Baumeister Siebert Auftrag gegeben Wohnung für mich im 18. oder 19. Bezirk zu suchen. 
 Ich habe A. Modernisierung vom „Zug der Schatten“ geraten, Uebertragung in unsere Zeit.
 Abend mit Bertha Z. bei A. Recht gemütlich und animiert.
 Wenn ich daran denke, dass ich meine Wohnung, in der ich geboren bin, in der Eltern und Grosseltern lebten, verlassen soll – – 
-Kino mit A. „Wings“, famoser Fliegerfilm. [II, 147f.]</ab></div>
-         <div type="anmerkung"><ab>»neues Stück«: »Zug der Schatten«. Der Vermerk eines Besuchs von »Wings« bezieht sich auf den Kinobesuch vom 1. Oktober 1928. 
+Kino mit A. „Wings“, famoser Fliegerfilm. [II, 147f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»neues Stück«: »Zug der Schatten«. Der Vermerk eines Besuchs von »Wings« bezieht sich auf den Kinobesuch vom 1. Oktober 1928. 
 »Baumeister Siebert«: Rudolf Siebert (1870–1943, Baumeister). Pollaczek zieht Mitte Oktober in eine Wohnung in der Nähe von Schnitzlers Villa, gemeldet ist sie in Hochschulstr. 16 ab 28. Oktober 1928. 
-Notiz NFP 28.9.1928, S. 11. Nachgewiesene Spielorte: Gartenbau-, Haydn-, Palast-, Heimat-, Kolosseum- und Theater-Kino sowie Lustspieltheater und Kino Handl (NFP 28.9.1928, S. 10).</ab></div>
+Notiz NFP 28.9.1928, S. 11. Nachgewiesene Spielorte: Gartenbau-, Haydn-, Palast-, Heimat-, Kolosseum- und Theater-Kino sowie Lustspieltheater und Kino Handl (NFP 28.9.1928, S. 10).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Letzte Galavorstellung des Zirkus Wolfson“ („Zirkus Wolfsons’s letzte Galavorstellung – Neue Bearbeitung“)</cell>
-                  <cell role="data"><date>[1927/28]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Domenico Gambino</persName></cell>
-                  <cell role="data"><persName>[Domenico Gambino]</persName></cell>
-                  <cell role="data"><orgName>Rosenfeld-Film</orgName></cell>
-                  <cell role="data">[Hellen] Allan, Hilde Jennings, Lydia Potechina, Hermann Vallentin, Fritz Russ, Mario Cusmich, Raimondo van Riel</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Letzte Galavorstellung des Zirkus Wolfson“ („Zirkus Wolfsons’s letzte Galavorstellung – Neue Bearbeitung“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927/28]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Domenico Gambino</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Domenico Gambino]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Rosenfeld-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">[Hellen] Allan, Hilde Jennings, Lydia Potechina, Hermann Vallentin, Fritz Russ, Mario Cusmich, Raimondo van Riel</cell>
                </row>
             </table>
          </div>
@@ -144,7 +151,6 @@ Notiz NFP 28.9.1928, S. 11. Nachgewiesene Spielorte: Gartenbau-, Haydn-, Palast-
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

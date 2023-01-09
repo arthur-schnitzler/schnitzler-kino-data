@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-03-26.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-03-26.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>26/3 […] Mit H. K. Kino („Soldat der Marie“) –</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>26/3 […] Mit H. K. Kino („Soldat der Marie“) –</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Soldat der Marie“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Erich Schönfelder</persName></cell>
-                  <cell role="data"><persName>[Leo Birinski]</persName></cell>
-                  <cell role="data"><orgName>Eicherberg-Ufa-Film</orgName></cell>
-                  <cell role="data">Harry Liedtke, Siegfried Arno, [Hans] Albers, Xenia Desni, Grit Haid, Hilde Maroff, Margarete Kupfer</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Soldat der Marie“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Erich Schönfelder</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Leo Birinski]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Eicherberg-Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harry Liedtke, Siegfried Arno, [Hans] Albers, Xenia Desni, Grit Haid, Hilde Maroff, Margarete Kupfer</cell>
                </row>
             </table>
          </div>
@@ -134,7 +139,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

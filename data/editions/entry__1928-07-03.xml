@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-07-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-07-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/7 […] C. P. bei mir. Garten. Mit ihr Flieger- (Freiluftkino) Therese Raquin, dann silb. Brunnen.–</ab></div>
-         <div type="anmerkung"><ab>„Feyder hat mit Recht der Entwicklung des Milieus einen großen Raum gewährt“ (SK II S. 54). Das Flieger-Kino bespielte in den Sommermonaten eine Freiluftexpositur im Garten des Palais Clam-Callas. </ab></div>
+         <div type="as">
+            <ab>3/7 […] C. P. bei mir. Garten. Mit ihr Flieger- (Freiluftkino) Therese Raquin, dann silb. Brunnen.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Feyder hat mit Recht der Entwicklung des Milieus einen großen Raum gewährt“ (SK II S. 54). Das Flieger-Kino bespielte in den Sommermonaten eine Freiluftexpositur im Garten des Palais Clam-Callas. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Therese Raquin“ („Die Ehebrecherin“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Jacques Feyder</persName></cell>
-                  <cell role="data"><persName>Émile Zola (Vorlage gleichnamiger Roman)</persName></cell>
-                  <cell role="data"><orgName>Defu-Film</orgName></cell>
-                  <cell role="data">Gina Manès, J. Marie Laurent, La Jana, Hans Adalbert Schlettow, Wolfgang Zilzer</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Therese Raquin“ („Die Ehebrecherin“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Jacques Feyder</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Émile Zola (Vorlage gleichnamiger Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Defu-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gina Manès, J. Marie Laurent, La Jana, Hans Adalbert Schlettow, Wolfgang Zilzer</cell>
                </row>
             </table>
          </div>
@@ -127,18 +132,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__23" type="kino">
-               <orgName>Fliegerkino</orgName>
-               <location><address><addrLine>09., Liechtensteinstraße 37</addrLine></address></location>
+            <place  xml:id="ask_kino__23" type="kino">
+               <placeName>Fliegerkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Liechtensteinstraße 37</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Tonfilm ab 1930. Freiluftkino ab 1927 (Im Garten des Palais Clam-Gallas. Betrieb auf den Sommer beschränkt.). Fassungsraum: 1922: 659 Sitzplätze (davon 68 Logenplätze), 1927: 15 Stehplätze bewilligt.</note>
-            </org>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

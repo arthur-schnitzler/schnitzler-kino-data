@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-09-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-09-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/9 S. Marienbad. […] Abds. mit C. P. Kino „Drei Leidenschaften“ (Petrovich).</ab></div>
-         <div type="ckp"><ab>7.9. Mit Einpacken begonnen, damit ich morgen A. helfen kann. Bessere Stimmung, gemeinsames Frühstück. Beschäftige mich mit der Ilias, da der Gedanke eine Helena zu schreiben in den letzten Tagen lebendiger in mir wurde.– Um ½3 Anruf aus Berlin mit Voranmeldung. A. sagte S. Fischer. Ich sagte O. und ich hatte Recht. Angeblich belangloses Gespräch über Heini, der für seine letzte Rolle von „Legal“ sehr belobt wurde.
+         <div type="as">
+            <ab>7/9 S. Marienbad. […] Abds. mit C. P. Kino „Drei Leidenschaften“ (Petrovich).</ab>
+         </div>
+         <div type="ckp">
+            <ab>7.9. Mit Einpacken begonnen, damit ich morgen A. helfen kann. Bessere Stimmung, gemeinsames Frühstück. Beschäftige mich mit der Ilias, da der Gedanke eine Helena zu schreiben in den letzten Tagen lebendiger in mir wurde.– Um ½3 Anruf aus Berlin mit Voranmeldung. A. sagte S. Fischer. Ich sagte O. und ich hatte Recht. Angeblich belangloses Gespräch über Heini, der für seine letzte Rolle von „Legal“ sehr belobt wurde.
 Nachdem sie A. den ganzen Sommer, wie er mir sagte, zwei Ansichtskarten schrieb, schreibt sie ihm hieher einen langen Brief und ruft an; ausschliesslich, um sich bemerkbar zu machen und wahrscheinlich um mich zu ärgern. Aber sie irrt – ich ärgere mich nicht mehr. Ich sage A.: „In dieser Richtung ist etwas völlig tot in mir“. Er antwortete: „Das hätte es schon längst sein müssen.“
-Abend Kino, unbeträchtlich, aber spannend, A. viel wärmer und sehr lieb zu mir. [III, 95f.]</ab></div>
-         <div type="anmerkung"><ab>Marienbader Zeitung, 7.9.1930, S. 3, nennt Spielort Bio Globus. In Wien lief der Film bereits im Jänner 1930: Premierennotiz NFP 17.1.1930, S. 15, für 31.1.1930. Anzeige NFP 31.1.1930, S. 7.</ab></div>
+Abend Kino, unbeträchtlich, aber spannend, A. viel wärmer und sehr lieb zu mir. [III, 95f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Marienbader Zeitung, 7.9.1930, S. 3, nennt Spielort Bio Globus. In Wien lief der Film bereits im Jänner 1930: Premierennotiz NFP 17.1.1930, S. 15, für 31.1.1930. Anzeige NFP 31.1.1930, S. 7.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Drei Leidenschaften“ („The three Passions“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>UK</placeName></cell>
-                  <cell role="data"><persName>Rex Ingram</persName></cell>
-                  <cell role="data"><persName>C. Hamilton</persName></cell>
-                  <cell role="data"><orgName>United Artist-Film (engl. Negativ)</orgName></cell>
-                  <cell role="data">Iwan Petrovich, Shayle Gardner, Alice Terry, Clare Eames</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Drei Leidenschaften“ („The three Passions“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UK</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Rex Ingram</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>C. Hamilton</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>United Artist-Film (engl. Negativ)</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Iwan Petrovich, Shayle Gardner, Alice Terry, Clare Eames</cell>
                </row>
             </table>
          </div>
@@ -129,7 +136,6 @@ Abend Kino, unbeträchtlich, aber spannend, A. viel wärmer und sehr lieb zu mir
                <placeName>Marienbad</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

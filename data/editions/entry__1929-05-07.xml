@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-05-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-05-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/5 […] Ass zu Mittag bei C. P.; wir sprachen, nicht ohne Zärtlichkeit über die Krise unsrer Beziehungen,– die sich, wie sie glaubt, nur auf einer gemeinsamen Reise lösen könne.
-[…] Mit C. P. Kino – die kleine Sklavin; dann im Türkenschanzpark (innen;– Regen) soup.</ab></div>
-         <div type="ckp"><ab>7.5. Vormittag Stadt. Im Dorotheum meine versetzte Uhr prolongiert. Mittag A. bei mir, nach der Generalprobe von „Puppenspieler“. Er ist so lieb und zärtlich wie seit Jahren nicht. Aber ich bin so verschreckt. Was soll man denn noch glauben? Ich wünschte, er wäre schon gesund vom Wörthersee zurück. A. sagte: „Heute sind es 75 Monate, dass wir uns den ersten Kuss gaben.“ Ach, wie viel Leid liegt in diesen Jahren und wie leicht wollte ich unsere Beziehung anfangs nehmen. Ich glaube, wir würden jetzt sehr glücklich sein, wenn uns die O. nur in Ruhe liesse. Immer schafft sie Verwirrung durch ihre Forderungen. 
-Abend Kino mit der Moosheim. [II, 234f.]</ab></div>
-         <div type="anmerkung"><ab>»Wörthersee«: geplantes Treffen Schnitzlers mit Schwiegersohn und Exfrau in Velden, das für Verstimmung zwischen Pollaczek und Schnitzler sorgte, aber letztlich nicht stattfand. 
-Premierennotiz NFP 26.4.1929, S. 10. Nachgewiesene Spielorte: Zirkus Busch- und Weltspiegel-Kino (NFP 7.5.1929, S. 18).</ab></div>
+         <div type="as">
+            <ab>7/5 […] Ass zu Mittag bei C. P.; wir sprachen, nicht ohne Zärtlichkeit über die Krise unsrer Beziehungen,– die sich, wie sie glaubt, nur auf einer gemeinsamen Reise lösen könne.
+[…] Mit C. P. Kino – die kleine Sklavin; dann im Türkenschanzpark (innen;– Regen) soup.</ab>
+         </div>
+         <div type="ckp">
+            <ab>7.5. Vormittag Stadt. Im Dorotheum meine versetzte Uhr prolongiert. Mittag A. bei mir, nach der Generalprobe von „Puppenspieler“. Er ist so lieb und zärtlich wie seit Jahren nicht. Aber ich bin so verschreckt. Was soll man denn noch glauben? Ich wünschte, er wäre schon gesund vom Wörthersee zurück. A. sagte: „Heute sind es 75 Monate, dass wir uns den ersten Kuss gaben.“ Ach, wie viel Leid liegt in diesen Jahren und wie leicht wollte ich unsere Beziehung anfangs nehmen. Ich glaube, wir würden jetzt sehr glücklich sein, wenn uns die O. nur in Ruhe liesse. Immer schafft sie Verwirrung durch ihre Forderungen. 
+Abend Kino mit der Moosheim. [II, 234f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Wörthersee«: geplantes Treffen Schnitzlers mit Schwiegersohn und Exfrau in Velden, das für Verstimmung zwischen Pollaczek und Schnitzler sorgte, aber letztlich nicht stattfand. 
+Premierennotiz NFP 26.4.1929, S. 10. Nachgewiesene Spielorte: Zirkus Busch- und Weltspiegel-Kino (NFP 7.5.1929, S. 18).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die kleine Sklavin“</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Jakob Fleck, Louise Fleck</persName></cell>
-                  <cell role="data"><persName>[Anton] Dietzenschmidt (Vorlage gleichnamiges Bühnenstück); [Hans Rehfisch, Heinz Goldberg]</persName></cell>
-                  <cell role="data"><orgName>Essem-Nero-Film</orgName></cell>
-                  <cell role="data">Grete [Mosheim], Trude Hesterberg, Gina Manès, Walter Janssen, Fred Louis Lerch, Louis Ralph, [Fritz Richard]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die kleine Sklavin“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Jakob Fleck, Louise Fleck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Anton] Dietzenschmidt (Vorlage gleichnamiges Bühnenstück); [Hans Rehfisch, Heinz Goldberg]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Essem-Nero-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Grete [Mosheim], Trude Hesterberg, Gina Manès, Walter Janssen, Fred Louis Lerch, Louis Ralph, [Fritz Richard]</cell>
                </row>
             </table>
          </div>
@@ -152,7 +159,6 @@ Premierennotiz NFP 26.4.1929, S. 10. Nachgewiesene Spielorte: Zirkus Busch- und 
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-10-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-10-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>1/10 […] Nm. (mit Richard) Hr. Kohner, aus Teplitz, aber amerikanisirt, Universal Film – Lämmle; sehr sympathisch (sein ähnlicher Bruder mit),– wegen Spiel im Morg. und andrer Sachen – will in seiner diesjähr. Production jedenfalls etwas von mir bringen. Näheres für Berliner Zusammentreffen aufgeschoben. – Mit C. P. Kino „Wings“;– in der „Linde“ soup. – wohl nach 40-50 Jahren das erste Mal.– […]</ab></div>
-         <div type="anmerkung"><ab>»Richard«: Richard Beer-Hofmann; »Hr. Kohner«: Paul Kohner (1902–1988, Filmagent); »Lämmle«: Carl Laemmle (1867–1939, Filmproduzent)
-Ankündigung der »kontinentalen Uraufführung« im Schweden-Kino in NFP 31.8.1928, S. 8.</ab></div>
+         <div type="as">
+            <ab>1/10 […] Nm. (mit Richard) Hr. Kohner, aus Teplitz, aber amerikanisirt, Universal Film – Lämmle; sehr sympathisch (sein ähnlicher Bruder mit),– wegen Spiel im Morg. und andrer Sachen – will in seiner diesjähr. Production jedenfalls etwas von mir bringen. Näheres für Berliner Zusammentreffen aufgeschoben. – Mit C. P. Kino „Wings“;– in der „Linde“ soup. – wohl nach 40-50 Jahren das erste Mal.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Richard«: Richard Beer-Hofmann; »Hr. Kohner«: Paul Kohner (1902–1988, Filmagent); »Lämmle«: Carl Laemmle (1867–1939, Filmproduzent)
+Ankündigung der »kontinentalen Uraufführung« im Schweden-Kino in NFP 31.8.1928, S. 8.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Wings“</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>William A. Wellman</persName></cell>
-                  <cell role="data"><persName>[Byron Morgan (Story Ideen); John Monk Saunders (Story); Hope Loring, Louis D. Lighton (Drehbuch); Julian Johnson (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Paramount-Film</orgName></cell>
-                  <cell role="data">Charles Rogers, Richard Arlen, Gary Cooper, El [Brendel], Clara Bow, [Jobyna] Ralston</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Wings“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>William A. Wellman</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Byron Morgan (Story Ideen); John Monk Saunders (Story); Hope Loring, Louis D. Lighton (Drehbuch); Julian Johnson (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Charles Rogers, Richard Arlen, Gary Cooper, El [Brendel], Clara Bow, [Jobyna] Ralston</cell>
                </row>
             </table>
          </div>
@@ -152,13 +157,15 @@ Ankündigung der »kontinentalen Uraufführung« im Schweden-Kino in NFP 31.8.19
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__37" type="wirt">
+               <placeName>Zur Linde</placeName>
+               <location>
+                  <address>
+                     <addrLine>Rotenturmstraße 12, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__37" type="wirt">
-               <orgName>Zur Linde</orgName>
-               <location><address><addrLine>Rotenturmstraße 12, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

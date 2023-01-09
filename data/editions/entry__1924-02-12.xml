@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-02-12.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-02-12.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>12/2 […] V. L. telef. gestern zum ersten Mal, daß sie von „Frau Clara“ vernommen.–
-Im Kino („Unmögliche Frau“) mit C. P., die sehr verstimmt gegen mich, dass ich zu wenig Zeit für sie habe.– Überdies hat Frau Bl. ihr erzählt, Alma behaupte, ich habe O. noch immer nicht verwunden, und wir würden (nach Alma) sicher einmal wieder zusammen kommen – nach Lilis Verheiratung. […] – In der Pilsenetzer mit C. P. Ich wies ihr wieder die Mängel ihrer Erzählung auf.– </ab></div>
-         <div type="anmerkung"><ab>»V. L.«: Vilma Lichtenstern (1885–1927), »Frau Bl.«: Adele Bloch-Bauer (1881–1925), »Alma«: Alma Mahler (1879–1964), »O.«: Olga Schnitzler, geschieden seit 1921, »Lili«: Schnitzlers Tochter (1909–1928); »Erzählung«: Schnitzler hatte eine Erzählung Pollaczeks (vermutlich »Der Abhang«) am Vorabend nochmals gelesen.
-Besprechung von Lilly Klaudy in NFP 8.2.1924, S. 16..</ab></div>
+         <div type="as">
+            <ab>12/2 […] V. L. telef. gestern zum ersten Mal, daß sie von „Frau Clara“ vernommen.–
+Im Kino („Unmögliche Frau“) mit C. P., die sehr verstimmt gegen mich, dass ich zu wenig Zeit für sie habe.– Überdies hat Frau Bl. ihr erzählt, Alma behaupte, ich habe O. noch immer nicht verwunden, und wir würden (nach Alma) sicher einmal wieder zusammen kommen – nach Lilis Verheiratung. […] – In der Pilsenetzer mit C. P. Ich wies ihr wieder die Mängel ihrer Erzählung auf.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»V. L.«: Vilma Lichtenstern (1885–1927), »Frau Bl.«: Adele Bloch-Bauer (1881–1925), »Alma«: Alma Mahler (1879–1964), »O.«: Olga Schnitzler, geschieden seit 1921, »Lili«: Schnitzlers Tochter (1909–1928); »Erzählung«: Schnitzler hatte eine Erzählung Pollaczeks (vermutlich »Der Abhang«) am Vorabend nochmals gelesen.
+Besprechung von Lilly Klaudy in NFP 8.2.1924, S. 16..</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Unmögliche Frau“ [Ot. „The Impossible Mrs. Bellew“]</cell>
-                  <cell role="data"><date>[1922]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Sam Wood</persName></cell>
-                  <cell role="data"><persName>[David Lisle (Vorlage gleichnamiger Roman); Percy Heath, Monte M. Katterjohn (Adaption, Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>[Famous Players-Lasky]</orgName></cell>
-                  <cell role="data">Gloria Swanson, Conrad [Nagel]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Unmögliche Frau“ [Ot. „The Impossible Mrs. Bellew“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Sam Wood</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[David Lisle (Vorlage gleichnamiger Roman); Percy Heath, Monte M. Katterjohn (Adaption, Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Famous Players-Lasky]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gloria Swanson, Conrad [Nagel]</cell>
                </row>
             </table>
          </div>
@@ -136,7 +141,6 @@ Besprechung von Lilly Klaudy in NFP 8.2.1924, S. 16..</ab></div>
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

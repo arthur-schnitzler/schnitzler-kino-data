@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-11-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-11-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/11 […] Mit C. P. Kino „Alraune“; „Linde“ soup.–</ab></div>
-         <div type="anmerkung"><ab>„Die etwas falschen Schauer im Text sind von der Ufa und ihrem Regisseur Henrik Galeen weidlich ausgenutzt worden“ (SK I, S. 31). Schnitzler und Pollaczek sehen eine Tonfilmversion am 27. Januar 1931. Anzeige und Ankündigung NFP 2.11.1928, S. 7, unter Angabe von zehn Spielorten. Besprechung NFP 3.11.1928, S. 9f. Nachgewiesene Spielorte: Imperial-, Opern- und Palast-Kino sowie Lustspieltheater. </ab></div>
+         <div type="as">
+            <ab>3/11 […] Mit C. P. Kino „Alraune“; „Linde“ soup.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Die etwas falschen Schauer im Text sind von der Ufa und ihrem Regisseur Henrik Galeen weidlich ausgenutzt worden“ (SK I, S. 31). Schnitzler und Pollaczek sehen eine Tonfilmversion am 27. Januar 1931. Anzeige und Ankündigung NFP 2.11.1928, S. 7, unter Angabe von zehn Spielorten. Besprechung NFP 3.11.1928, S. 9f. Nachgewiesene Spielorte: Imperial-, Opern- und Palast-Kino sowie Lustspieltheater. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Alraune“</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Henrik Galeen</persName></cell>
-                  <cell role="data"><persName>Hanns Heinz Ewers (Vorlage gleichnamiger Roman); [Henrik Galeen]</persName></cell>
-                  <cell role="data"><orgName>Ama-Film</orgName></cell>
-                  <cell role="data">Brigitte Helm, Mia Pankau, Paul Wegener, Iwan Petrovich, Georg John, Wolfgang Zilzer, Louis Ralph</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Alraune“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Henrik Galeen</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hanns Heinz Ewers (Vorlage gleichnamiger Roman); [Henrik Galeen]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ama-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Brigitte Helm, Mia Pankau, Paul Wegener, Iwan Petrovich, Georg John, Wolfgang Zilzer, Louis Ralph</cell>
                </row>
             </table>
          </div>
@@ -131,13 +136,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__37" type="wirt">
+               <placeName>Zur Linde</placeName>
+               <location>
+                  <address>
+                     <addrLine>Rotenturmstraße 12, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__37" type="wirt">
-               <orgName>Zur Linde</orgName>
-               <location><address><addrLine>Rotenturmstraße 12, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

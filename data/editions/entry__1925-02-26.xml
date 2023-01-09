@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-02-26.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-02-26.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>26/2 […] Mit C. P. Kino (Pension Groonen),– und Kino (Verwehte Spuren) dann in der Pilsenetzer (Regina) gen.–</ab></div>
-         <div type="anmerkung"><ab>Zu »Pension Groonen« vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 22, S. 4f., Besprechung in NFP 20.2.1925, S. 16. Ebd. auch Anzeige und Premierennotiz zu »Auf verwehten Spuren«, dazu Besprechung von Lilly Klaudy in NFP 27.2.1925, S. 16. NAB 26.2.1925, S. 8, weist »Pension Groonen« an diesem Tag für Burg-, Rotenturm-, Schottenring- und Central-Kino nach, »Auf verwehten Spuren« für das Kruger-Kino.</ab></div>
+         <div type="as">
+            <ab>26/2 […] Mit C. P. Kino (Pension Groonen),– und Kino (Verwehte Spuren) dann in der Pilsenetzer (Regina) gen.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Zu »Pension Groonen« vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 22, S. 4f., Besprechung in NFP 20.2.1925, S. 16. Ebd. auch Anzeige und Premierennotiz zu »Auf verwehten Spuren«, dazu Besprechung von Lilly Klaudy in NFP 27.2.1925, S. 16. NAB 26.2.1925, S. 8, weist »Pension Groonen« an diesem Tag für Burg-, Rotenturm-, Schottenring- und Central-Kino nach, »Auf verwehten Spuren« für das Kruger-Kino.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Pension Groonen“</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>Ö</placeName></cell>
-                  <cell role="data"><persName>Robert Wiene</persName></cell>
-                  <cell role="data"><persName>Louis Nerz</persName></cell>
-                  <cell role="data"><orgName>Pan-Film</orgName></cell>
-                  <cell role="data">Charlotte Ander, Claude France, Carmen Cartellieri, Anton Edthofer, Harry Nestor, Albert Heine, Karl Forest, Grete Kaiser</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Pension Groonen“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Robert Wiene</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Louis Nerz</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Pan-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Charlotte Ander, Claude France, Carmen Cartellieri, Anton Edthofer, Harry Nestor, Albert Heine, Karl Forest, Grete Kaiser</cell>
                </row>
             </table>
          </div>
@@ -171,7 +176,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

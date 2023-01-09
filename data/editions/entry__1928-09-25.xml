@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-09-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/9 […] Abd. mit C. P. Kino „Rothe Laterne“. Dann mit ihr „Meissl“. Recht verkühlt. </ab></div>
-         <div type="anmerkung"><ab>In dem Roman wird die Protagonistin zwar von dem Medizinstudenten geschwängert, heiratet diesen aber nicht, sondern verläßt ihn und eröffnet schließlich in der Steiermark ein Heim für Kinder von Prostituierten. Schnitzler hatte nicht nur den Roman gelesen (vgl. Tb 7. und 15.3.1909), sondern hatte auch Verbindung zu dessen Verfasserin.
-Nachgewiesene Spielorte: Schottenring-, Tuchlauben- und Flieger-Kino sowie Kino Wienzeile und Kino Handl (NFP 25.9.1928, S. 19 und NZG 25.9.1928, S. 8).</ab></div>
+         <div type="as">
+            <ab>25/9 […] Abd. mit C. P. Kino „Rothe Laterne“. Dann mit ihr „Meissl“. Recht verkühlt. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>In dem Roman wird die Protagonistin zwar von dem Medizinstudenten geschwängert, heiratet diesen aber nicht, sondern verläßt ihn und eröffnet schließlich in der Steiermark ein Heim für Kinder von Prostituierten. Schnitzler hatte nicht nur den Roman gelesen (vgl. Tb 7. und 15.3.1909), sondern hatte auch Verbindung zu dessen Verfasserin.
+Nachgewiesene Spielorte: Schottenring-, Tuchlauben- und Flieger-Kino sowie Kino Wienzeile und Kino Handl (NFP 25.9.1928, S. 19 und NZG 25.9.1928, S. 8).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Haus zur roten Laterne“</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Richard Oswald</persName></cell>
-                  <cell role="data"><persName>Else Jerusalem (Vorlage Roman „Der heilige Scarabäus“)</persName></cell>
-                  <cell role="data"><orgName>Oswald-Universal-Film</orgName></cell>
-                  <cell role="data">Grete [Mosheim], Maria Leyko, Camilla von Hollay, Hilde Jennings, Gustav Fröhlich, Hans Brausewetter, Paul Otto, Oskar Homolka, Hermann Picha</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Haus zur roten Laterne“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Richard Oswald</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Else Jerusalem (Vorlage Roman „Der heilige Scarabäus“)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Oswald-Universal-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Grete [Mosheim], Maria Leyko, Camilla von Hollay, Hilde Jennings, Gustav Fröhlich, Hans Brausewetter, Paul Otto, Oskar Homolka, Hermann Picha</cell>
                </row>
             </table>
          </div>
@@ -140,13 +145,15 @@ Nachgewiesene Spielorte: Schottenring-, Tuchlauben- und Flieger-Kino sowie Kino 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__17" type="wirt">
+               <placeName>Meissl und Schadn</placeName>
+               <location>
+                  <address>
+                     <addrLine>Neuer Markt 2, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__17" type="wirt">
-               <orgName>Meissl und Schadn</orgName>
-               <location><address><addrLine>Neuer Markt 2, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

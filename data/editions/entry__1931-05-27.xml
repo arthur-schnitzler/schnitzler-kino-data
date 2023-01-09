@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-27.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-05-27.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>27/5 […] Mit C. P. (Sascha (Eos)) Film Dreigroschenoper; dann mit ihr Prater, bei Prochaska genachtm.;– noch herum.–</ab></div>
-         <div type="ckp"><ab>28.5. Gestern Abend Film „Dreigroschen-Oper“. Nachher trübseliges Abendessen bei Prochaska. Dann durch den Wurstelprater. A. sah elend aus, ging müd und schleppend neben mir, so dass ich schliesslich freundlich zu ihm sagte: „Wenn du es nicht zu intim findest, häng dich doch in mich ein.“ Er antwortete „Ja gerne“ und hing sich dann schwer in meinen Arm.– Ich kam wieder tottraurig nachhause. Gehe jetzt zu Dr. D. Ich <hi>muss</hi> mit ihm sprechen, sehe aber dieser Unterredung mit Angst und Grauen entgegen. [III, 178]</ab></div>
-         <div type="anmerkung"><ab>Schnitzler und Pollaczek hatten zwei Jahre zuvor eine Bühnenaufführung der »Dreigroschenoper« gesehen. Sie notiert am 5. April 1929: »Abend bei der Dreigroschen-Oper, bin sehr impressioniert« (CKP II, 228).
+         <div type="as">
+            <ab>27/5 […] Mit C. P. (Sascha (Eos)) Film Dreigroschenoper; dann mit ihr Prater, bei Prochaska genachtm.;– noch herum.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>28.5. Gestern Abend Film „Dreigroschen-Oper“. Nachher trübseliges Abendessen bei Prochaska. Dann durch den Wurstelprater. A. sah elend aus, ging müd und schleppend neben mir, so dass ich schliesslich freundlich zu ihm sagte: „Wenn du es nicht zu intim findest, häng dich doch in mich ein.“ Er antwortete „Ja gerne“ und hing sich dann schwer in meinen Arm.– Ich kam wieder tottraurig nachhause. Gehe jetzt zu Dr. D. Ich <hi>muss</hi> mit ihm sprechen, sehe aber dieser Unterredung mit Angst und Grauen entgegen. [III, 178]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Schnitzler und Pollaczek hatten zwei Jahre zuvor eine Bühnenaufführung der »Dreigroschenoper« gesehen. Sie notiert am 5. April 1929: »Abend bei der Dreigroschen-Oper, bin sehr impressioniert« (CKP II, 228).
 „Der Dreigroschenoper-Film ist nicht geglückt. Und ich bezweifle sogar, dass er hätte glücken können […]“ (SK II, S. 458). 
-Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 10, für 26.5.1931. Anzeige und Besprechung von Felix Cleve in NFP 27.5.1931, S. 7f. Spielort bestätigt auch NFP 27.5.1931, S. 17. Das ehemalige Eos-Kino war um- und ausgebaut worden zum Sascha-Palast. Beschreibung des neu eröffneten Spielorts in NFP 31.3.1931, S. 7.</ab></div>
+Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 10, für 26.5.1931. Anzeige und Besprechung von Felix Cleve in NFP 27.5.1931, S. 7f. Spielort bestätigt auch NFP 27.5.1931, S. 17. Das ehemalige Eos-Kino war um- und ausgebaut worden zum Sascha-Palast. Beschreibung des neu eröffneten Spielorts in NFP 31.3.1931, S. 7.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Drei-Groschen-Oper“</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Georg Wilhelm Pabst</persName></cell>
-                  <cell role="data"><persName>Leo Lania, Ladislaus Vajda, Béla Balázs, Bertolt Brecht</persName></cell>
-                  <cell role="data"><orgName>Warner-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Rudolf Forster, Carola Neher, Valeska Gert, Reinhold Schünzel, Ernst Busch u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Drei-Groschen-Oper“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Georg Wilhelm Pabst</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Leo Lania, Ladislaus Vajda, Béla Balázs, Bertolt Brecht</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Warner-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Rudolf Forster, Carola Neher, Valeska Gert, Reinhold Schünzel, Ernst Busch u.a.</cell>
                </row>
             </table>
          </div>
@@ -140,18 +147,24 @@ Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__24" type="kino">
-               <orgName>Eos Lichtspiele / Sascha Palast</orgName>
-               <location><address><addrLine>03., Ungargasse 60</addrLine></address></location>
+            <place  xml:id="ask_kino__24" type="kino">
+               <placeName>Eos Lichtspiele / Sascha Palast</placeName>
+               <location>
+                  <address>
+                     <addrLine>03., Ungargasse 60</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Umbenennung 1931. Tonfilm ab 1931. Fassungsraum: Galerie. 1922: 1088 Sitzplätze (davon 122 Logenplätze). Das Kino wurde in der ehemaligen Winterreitschule eingerichtet. – Beschreibung von Architektur und Ausstattung anläßlich der Eröffnung in „Die Filmwelt“ Jg. 1922, Nr. 3, S. 3f. Nicht ident mit dem späteren Eos-Kino in der Landstraßer Hauptstraße. </note>
-            </org>
-            <org xml:id="ask_wirt__6" type="wirt">
-               <orgName>Prochaska</orgName>
-               <location><address><addrLine>Prater 37, 2.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__6" type="wirt">
+               <placeName>Prochaska</placeName>
+               <location>
+                  <address>
+                     <addrLine>Prater 37, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

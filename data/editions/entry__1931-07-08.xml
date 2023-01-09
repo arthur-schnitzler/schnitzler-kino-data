@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-07-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-07-08.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>8/7 […] Mit C. P. (Flieger-) Kino, Tropennächte, dann bei Pohl genachtm.–</ab></div>
-         <div type="ckp"><ab>Donnerstag 9.7. Gestern und heute Vormittag Spital, Untersuchungen mit Barium. Ausgebreiteter Darmkatarrh, Gallensteine. Seit 2 Tagen heftige Schmerzen im rechten Fuss, angenehm für den Semmering. Nerven täglich schlechter. Gestern Abend mit A. allein Kino „Tropennächte“, dann bei Gruss genachtmahlt. Qualvoll.– Geburtstag meiner Mutter.– [III, 198]</ab></div>
-         <div type="anmerkung"><ab>»Gruß« und »Pohl«: kein Widerspruch, die Gastwirtschaften befanden sich an der selben Adresse, der Zeitpunkt des Wechsels lässt sich nicht mehr nachvollziehen. 
-Von dem Film existieren neben der deutschen auch eine italienische, französische, schwedische, polnische und englischsprachige Version mit entsprechend unterschiedlichen Regisseuren und Darstellern. Spielort bestätigt NFP 8.7.1931, S. 17.</ab></div>
+         <div type="as">
+            <ab>8/7 […] Mit C. P. (Flieger-) Kino, Tropennächte, dann bei Pohl genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>Donnerstag 9.7. Gestern und heute Vormittag Spital, Untersuchungen mit Barium. Ausgebreiteter Darmkatarrh, Gallensteine. Seit 2 Tagen heftige Schmerzen im rechten Fuss, angenehm für den Semmering. Nerven täglich schlechter. Gestern Abend mit A. allein Kino „Tropennächte“, dann bei Gruss genachtmahlt. Qualvoll.– Geburtstag meiner Mutter.– [III, 198]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Gruß« und »Pohl«: kein Widerspruch, die Gastwirtschaften befanden sich an der selben Adresse, der Zeitpunkt des Wechsels lässt sich nicht mehr nachvollziehen. 
+Von dem Film existieren neben der deutschen auch eine italienische, französische, schwedische, polnische und englischsprachige Version mit entsprechend unterschiedlichen Regisseuren und Darstellern. Spielort bestätigt NFP 8.7.1931, S. 17.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Tropennächte“ [At. „Dangerous Paradise“]</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Leo Mittler</persName></cell>
-                  <cell role="data"><persName>[Joseph Conrad (Vorlage Roman „Victory“); William Slavens McNutt, Grover Jones (Story)]; [Egon] Eis, [Rudolf] Katscher (Adaption und Dialoge)</persName></cell>
-                  <cell role="data"><orgName>Paramount-Movietone-Film</orgName></cell>
-                  <cell role="data">Dita Parlo, Else Heller, Robert Thoeren, Fritz Rasp, Manfred Fürst, Fritz Greiner, Werner Hollmann</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Tropennächte“ [At. „Dangerous Paradise“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Leo Mittler</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Joseph Conrad (Vorlage Roman „Victory“); William Slavens McNutt, Grover Jones (Story)]; [Egon] Eis, [Rudolf] Katscher (Adaption und Dialoge)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Movietone-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Dita Parlo, Else Heller, Robert Thoeren, Fritz Rasp, Manfred Fürst, Fritz Greiner, Werner Hollmann</cell>
                </row>
             </table>
          </div>
@@ -148,15 +155,16 @@ Von dem Film existieren neben der deutschen auch eine italienische, französisch
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__23" type="kino">
-               <orgName>Fliegerkino</orgName>
-               <location><address><addrLine>09., Liechtensteinstraße 37</addrLine></address></location>
+            <place  xml:id="ask_kino__23" type="kino">
+               <placeName>Fliegerkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Liechtensteinstraße 37</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Tonfilm ab 1930. Freiluftkino ab 1927 (Im Garten des Palais Clam-Gallas. Betrieb auf den Sommer beschränkt.). Fassungsraum: 1922: 659 Sitzplätze (davon 68 Logenplätze), 1927: 15 Stehplätze bewilligt.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-06-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-06-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/6 […] Mit C. P. (Ufa) Suzanne macht Ordnung mit ihr dtsch. Haus genachtm.– […]</ab></div>
-         <div type="ckp"><ab>11.6. Gestern wieder ein entsetzlicher Abend. Erst Anruf Harrys, der nun mit Sicherheit nach Südamerika fährt. Seine Besprechungen mit der Firma wegen Abfindungsbetrag erledigt. Er ist eben doch <hi>mein Kind</hi> und wer weiss, ob ich ihn je wiedersehe.– Dann mit A. – Trotzdem ich ihm von Harry erzählte und er meine Stimmung sah, kühle Konversation wie immer. Nach dem Kino (elender Film „Susi macht Ordnung“) im Hof des Deutschen Hauses genachtmahlt. Als er nach dem zweiten Glas Bier noch einen Kirsch bestellte, wagte ich freundlich ihn darauf aufmerksam zu machen, dass das vielleicht zu viel ist, worauf er mir brüsk antwortete, ob er sich vielleicht verteidigen soll, wenn er ein zweites Glas trinkt. Ich sagte nichts mehr. Entweder er ist verrückt oder er soll sich schämen. Tu ich es denn für <hi>mich</hi>, wenn ich ihn von etwas Schädlichem abhalten will oder aus Bosheit? Mein Gott, wie soll das alles enden! – Heute Nacht arge Herz- und Magen(Darm)beschwerden. Mittag Carry-Magda, die einzige Erholung. [III, 185]</ab></div>
-         <div type="anmerkung"><ab>Pollaczek verniedlicht den Titel, wohingegen Schnitzler seiner Version die französische Variante angedeihen läßt, die sich mit der Schreibweise des Vornamens seiner Übersetzerin ins Französische deckt. Die NFP kündigt den Film einmal unter dem Titel »Susanna macht Ordnung« an (NFP 23.5.1931, S. 12).
-Ankündigung NFP 29.5.1931, S. 13. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP 5.6.1931, S. 14. Besprechung von Lilly Klaudy in NFP 11.6.1931, S. 10. Nachgewiesene Spielorte: Schottenring- und Ufa-Ton-Kino (NFP 10.6.1931, S. 17, und NZG 10.6.1931, S. 8).</ab></div>
+         <div type="as">
+            <ab>10/6 […] Mit C. P. (Ufa) Suzanne macht Ordnung mit ihr dtsch. Haus genachtm.– […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>11.6. Gestern wieder ein entsetzlicher Abend. Erst Anruf Harrys, der nun mit Sicherheit nach Südamerika fährt. Seine Besprechungen mit der Firma wegen Abfindungsbetrag erledigt. Er ist eben doch <hi>mein Kind</hi> und wer weiss, ob ich ihn je wiedersehe.– Dann mit A. – Trotzdem ich ihm von Harry erzählte und er meine Stimmung sah, kühle Konversation wie immer. Nach dem Kino (elender Film „Susi macht Ordnung“) im Hof des Deutschen Hauses genachtmahlt. Als er nach dem zweiten Glas Bier noch einen Kirsch bestellte, wagte ich freundlich ihn darauf aufmerksam zu machen, dass das vielleicht zu viel ist, worauf er mir brüsk antwortete, ob er sich vielleicht verteidigen soll, wenn er ein zweites Glas trinkt. Ich sagte nichts mehr. Entweder er ist verrückt oder er soll sich schämen. Tu ich es denn für <hi>mich</hi>, wenn ich ihn von etwas Schädlichem abhalten will oder aus Bosheit? Mein Gott, wie soll das alles enden! – Heute Nacht arge Herz- und Magen(Darm)beschwerden. Mittag Carry-Magda, die einzige Erholung. [III, 185]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Pollaczek verniedlicht den Titel, wohingegen Schnitzler seiner Version die französische Variante angedeihen läßt, die sich mit der Schreibweise des Vornamens seiner Übersetzerin ins Französische deckt. Die NFP kündigt den Film einmal unter dem Titel »Susanna macht Ordnung« an (NFP 23.5.1931, S. 12).
+Ankündigung NFP 29.5.1931, S. 13. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP 5.6.1931, S. 14. Besprechung von Lilly Klaudy in NFP 11.6.1931, S. 10. Nachgewiesene Spielorte: Schottenring- und Ufa-Ton-Kino (NFP 10.6.1931, S. 17, und NZG 10.6.1931, S. 8).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Susanne macht Ordnung“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Eugen Thiele</persName></cell>
-                  <cell role="data"><persName>[Eugen] Thiele, [Wolfgang] Wilhelm, [Paul Nikolaus]</persName></cell>
-                  <cell role="data"><orgName>Tofag-Klangfilm</orgName></cell>
-                  <cell role="data">Truus van [Aalten], Mary Parker, Senta [Söneland], Franz Lederer, Szöke Szakall, Max Ehrlich, Kurt Lilien, Albert Paulig u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Susanne macht Ordnung“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Eugen Thiele</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Eugen] Thiele, [Wolfgang] Wilhelm, [Paul Nikolaus]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Tofag-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Truus van [Aalten], Mary Parker, Senta [Söneland], Franz Lederer, Szöke Szakall, Max Ehrlich, Kurt Lilien, Albert Paulig u.a.</cell>
                </row>
             </table>
          </div>
@@ -152,15 +159,16 @@ Ankündigung NFP 29.5.1931, S. 13. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__8" type="kino">
-               <orgName>Zentralkino / Ufa-Ton-Kino</orgName>
-               <location><address><addrLine>02., Taborstraße 8</addrLine></address></location>
+            <place  xml:id="ask_kino__8" type="kino">
+               <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Taborstraße 8</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1916. Umbenennung 1929. Tonfilm ab 1929.  Fassungsraum: Ehemalige Singspielhalle, Galerie. 1922: insgesamt 1008 Sitzplätze (davon 110 Logenplätze), 1923: 984 (128). – Schwarz 1992, S. 208 nennt außerdem noch ein „Wiedner Zentralkino“, 04., Favoritenplatz 5.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

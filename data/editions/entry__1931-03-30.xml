@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-03-30.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-03-30.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>30/3 […] Zu C. P., mit ihr Bürgerkino, Karamasow (Kortner und Anna Sten).– Allein zu Haus genachtm.–</ab></div>
-         <div type="ckp"><ab>30.3. Carry 37.6 Temp. A. mich erst um 1/4 11 angerufen, weil die „Masseurin“ bei ihm war.– Abend A. mich geholt. „Brüder Karamasoff“. Dann nachhause. Carry Nachmittag weniger wohl, 39.2. [III, 159]</ab></div>
-         <div type="anmerkung"><ab>„Ein wahrer Blutrausch scheint sich der Filmindustrie bemächtigt zu haben“ (SK II, S. 453). Ankündigung NFP 17.2.1931, S. 9. Besprechung von Lilly Klaudy in NFP 18.2.1931, S. 10. Premierennotiz NFP 20.3.1931, S. 7, für sieben Wiener Tonkinos, zuvor Alleinaufführung im Tuchlauben-Kino (NFP 6.3.1931, S. 11). Eine weitere Verfilmung des Stoffes stammt aus dem Jahr 1920. </ab></div>
+         <div type="as">
+            <ab>30/3 […] Zu C. P., mit ihr Bürgerkino, Karamasow (Kortner und Anna Sten).– Allein zu Haus genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>30.3. Carry 37.6 Temp. A. mich erst um 1/4 11 angerufen, weil die „Masseurin“ bei ihm war.– Abend A. mich geholt. „Brüder Karamasoff“. Dann nachhause. Carry Nachmittag weniger wohl, 39.2. [III, 159]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Ein wahrer Blutrausch scheint sich der Filmindustrie bemächtigt zu haben“ (SK II, S. 453). Ankündigung NFP 17.2.1931, S. 9. Besprechung von Lilly Klaudy in NFP 18.2.1931, S. 10. Premierennotiz NFP 20.3.1931, S. 7, für sieben Wiener Tonkinos, zuvor Alleinaufführung im Tuchlauben-Kino (NFP 6.3.1931, S. 11). Eine weitere Verfilmung des Stoffes stammt aus dem Jahr 1920. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Mörder Dimitri Karamasoff“</cell>
-                  <cell role="data"><date>[1930/31]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fedor Ozep</persName></cell>
-                  <cell role="data"><persName>Fjodor Dostojewskij (Motive des Romans „Die Brüder Karamasow“); [Leonhard] Frank, [Fedor] Ozep, [Victor] Trivas</persName></cell>
-                  <cell role="data"><orgName>Terra-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Fritz Kortner, Anna Sten, Fritz Rasp, Max Pohl, Fritz Alberti, Anna Sten, Hanna Waag u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Mörder Dimitri Karamasoff“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930/31]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fedor Ozep</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Fjodor Dostojewskij (Motive des Romans „Die Brüder Karamasow“); [Leonhard] Frank, [Fedor] Ozep, [Victor] Trivas</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Terra-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Fritz Kortner, Anna Sten, Fritz Rasp, Max Pohl, Fritz Alberti, Anna Sten, Hanna Waag u.a.</cell>
                </row>
             </table>
          </div>
@@ -132,15 +139,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__40" type="kino">
-               <orgName>Währinger Bürgertheater</orgName>
-               <location><address><addrLine>18., Gentzgasse 119</addrLine></address></location>
+            <place  xml:id="ask_kino__40" type="kino">
+               <placeName>Währinger Bürgertheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gentzgasse 119</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 8.11.1912. Tonfilm ab 1930. Fassungsraum: 1914: 311 Sitzplätze (davon 20 Logenplätze), 1922: 335 (unbek.), 1934: 345 (28). – Schnitzler notiert (mit in einer einzigen Ausnahme am 15.9.1928) nur sehr allgemein Besuche in einem nicht näher bestimmten „Bürger“-Kino, daher kommen theoretisch auch zahlreiche andere Lokalitäten in Frage; Kinos mit diesem Namen bestehen unter anderem im 3. (vgl. Schwarz 1992, S. 202f.), 4. (vgl. Schwarz 1992, S. 210), 5. (siehe Eintrag unten) oder 7. Bezirk (vgl. Schwarz 1992, S. 228). Jedoch belegen die Kinoprogramme von Tageszeitungen oder Filmzeitschriften an mindestens vier Tagen die Aufführung des bei Schnitzler protokollierten Films im unweit von dessen Wohnung gelegenen „Währinger Bürgertheater“, was die Annahme erlaubt, dass es sich bei den gleichlautend notierten Ortsangaben ebenfalls um dieses Kino handelt.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

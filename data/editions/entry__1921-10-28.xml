@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1921-10-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1921-10-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/10 […] – Im Votiv Kino.– […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>28/10 […] – Im Votiv Kino.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die unwiderstehliche Mizzi“ [Ot. „A Virtuous Vamp“]</cell>
-                  <cell role="data"><date>1919</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>David Kirkland</persName></cell>
-                  <cell role="data"><persName>[John Emerson, Anita Loos]</persName></cell>
-                  <cell role="data"><orgName>First-National</orgName></cell>
-                  <cell role="data">Constance Talmadge, [Conway Tearle, 	Harda Daube, Jack Kane]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die unwiderstehliche Mizzi“ [Ot. „A Virtuous Vamp“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>1919</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>David Kirkland</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[John Emerson, Anita Loos]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>First-National</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Constance Talmadge, [Conway Tearle, 	Harda Daube, Jack Kane]</cell>
                </row>
             </table>
          </div>
@@ -93,15 +98,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__38" type="kino">
-               <orgName>Votivparkkino</orgName>
-               <location><address><addrLine>09., Währingerstraße 12</addrLine></address></location>
+            <place  xml:id="ask_kino__38" type="kino">
+               <placeName>Votivparkkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Währingerstraße 12</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912. Tonfilm ab 12.1929. Fassungsraum: Galerie. 1914: 371 Sitzplätze (davon 37 Logenplätze), 1922: 399 (37).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

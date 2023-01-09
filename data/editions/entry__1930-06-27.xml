@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-06-27.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-06-27.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>27/6 […] C. P. abgeholt. Tasche und Halsband zum Geschenk; das sie kaum nehmen wollte.– Ins Kino, Sonne im Herzen (Gaynor) langweilig, Kitsch.– Sie weinte immer wieder. In den Türkenschanzpark nach 11; wir allein. (Stürmisch.) […]</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz NFP 13.6.1930, S. 12, für 16.6.1930 (Schweden-Kino). Nachgewiesener Spielort: Schweden-Kino (NFP 27.6.1930, S. 19). </ab></div>
+         <div type="as">
+            <ab>27/6 […] C. P. abgeholt. Tasche und Halsband zum Geschenk; das sie kaum nehmen wollte.– Ins Kino, Sonne im Herzen (Gaynor) langweilig, Kitsch.– Sie weinte immer wieder. In den Türkenschanzpark nach 11; wir allein. (Stürmisch.) […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz NFP 13.6.1930, S. 12, für 16.6.1930 (Schweden-Kino). Nachgewiesener Spielort: Schweden-Kino (NFP 27.6.1930, S. 19). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Hab’ Sonne im Herzen“ („Sunny Side Up“)</cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>David Butler</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Fox-Movietone-Film</orgName></cell>
-                  <cell role="data">Janet Gaynor, Marjorie White, Charles Farrell, Charon Lynn, El Brendel, Frank Richardson</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Hab’ Sonne im Herzen“ („Sunny Side Up“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>David Butler</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox-Movietone-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Janet Gaynor, Marjorie White, Charles Farrell, Charon Lynn, El Brendel, Frank Richardson</cell>
                </row>
             </table>
          </div>
@@ -124,7 +129,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

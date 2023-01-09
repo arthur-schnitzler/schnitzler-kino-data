@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-11-16.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-11-16.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>16/11 […] Mit C. P. Kino („Rosita“), dann bei Pohl genachtm. Telegr. vorgefunden von M. G. „schwerer Erkrankung“.</ab></div>
-         <div type="anmerkung"><ab>„Ernst Lubitschs erste Regieleistung in Amerika“ (SK I, 93). Besprechung NFP 16.10.1925, S. 20. Premierennotiz und Anzeige NFP 9.10.1925, S. 20, dort nachgewiesene Spielorte für 13.–22.10.1925, für 16.11.1925 kein Spielort ermittelbar.</ab></div>
+         <div type="as">
+            <ab>16/11 […] Mit C. P. Kino („Rosita“), dann bei Pohl genachtm. Telegr. vorgefunden von M. G. „schwerer Erkrankung“.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Ernst Lubitschs erste Regieleistung in Amerika“ (SK I, 93). Besprechung NFP 16.10.1925, S. 20. Premierennotiz und Anzeige NFP 9.10.1925, S. 20, dort nachgewiesene Spielorte für 13.–22.10.1925, für 16.11.1925 kein Spielort ermittelbar.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Rosita, die Straßensängerin“ [Ot. „Rosita“]</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Ernst Lubitsch</persName></cell>
-                  <cell role="data"><persName>[Philippe Dumanoir, Adolphe d’Ennery (Vorlage Bühnenstück „Don César de Bazan“); Norbert Falk, Hanns Kräly (Story);  Edward Knoblock (Adaption und Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>[Mary Pickford Co.]</orgName></cell>
-                  <cell role="data">Mary Pickford, Holbrook Blinn, Irene Rich, George Walsh, Charles Belcher, Frank Leigh, Mathilde Comont, George Periolat, Bert Sprotte, Snitz Edwards, Madame De Bodamere, Philippe De Lacy, Donald McAlpin, Doreen Turner, Mario Carillo</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Rosita, die Straßensängerin“ [Ot. „Rosita“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ernst Lubitsch</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Philippe Dumanoir, Adolphe d’Ennery (Vorlage Bühnenstück „Don César de Bazan“); Norbert Falk, Hanns Kräly (Story);  Edward Knoblock (Adaption und Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Mary Pickford Co.]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Mary Pickford, Holbrook Blinn, Irene Rich, George Walsh, Charles Belcher, Frank Leigh, Mathilde Comont, George Periolat, Bert Sprotte, Snitz Edwards, Madame De Bodamere, Philippe De Lacy, Donald McAlpin, Doreen Turner, Mario Carillo</cell>
                </row>
             </table>
          </div>
@@ -183,7 +188,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

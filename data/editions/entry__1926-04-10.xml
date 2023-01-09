@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-04-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-04-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/4 […] Mit C. P. Kino („Colosseum“, der schwarze Engel).– Bei ihr genachtm.– […] – Unglaublich das Benehmen der Filmleute (Glück etc.) – die nun, nachdem die Sache so gut wie finalisirt – nichts von sich hören lassen.–</ab></div>
-         <div type="anmerkung"><ab>»die Sache«: Verfilmung von »Freiwild«
-Premierennotiz, Anzeige und Besprechung NFP 26.3.1926, S. 17.</ab></div>
+         <div type="as">
+            <ab>10/4 […] Mit C. P. Kino („Colosseum“, der schwarze Engel).– Bei ihr genachtm.– […] – Unglaublich das Benehmen der Filmleute (Glück etc.) – die nun, nachdem die Sache so gut wie finalisirt – nichts von sich hören lassen.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»die Sache«: Verfilmung von »Freiwild«
+Premierennotiz, Anzeige und Besprechung NFP 26.3.1926, S. 17.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Schwarze Engel“ („The dark Angel“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>George Fitzmaurice</persName></cell>
-                  <cell role="data"><persName>Frances Marion</persName></cell>
-                  <cell role="data"><orgName>First Nationalfilm</orgName></cell>
-                  <cell role="data">Ronald Colman, Vilma Bánky, Wyndham Standing, Frank Elliott, Charles Lane, Helen Jerome Eddy, Florence Turner, George Bunny, Roger Byrne, Albert Schaefer</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Schwarze Engel“ („The dark Angel“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>George Fitzmaurice</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Frances Marion</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>First Nationalfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ronald Colman, Vilma Bánky, Wyndham Standing, Frank Elliott, Charles Lane, Helen Jerome Eddy, Florence Turner, George Bunny, Roger Byrne, Albert Schaefer</cell>
                </row>
             </table>
          </div>
@@ -140,15 +145,16 @@ Premierennotiz, Anzeige und Besprechung NFP 26.3.1926, S. 17.</ab></div>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__7" type="kino">
-               <orgName>Kolosseum</orgName>
-               <location><address><addrLine>09., Nußdorferstraße 4</addrLine></address></location>
+            <place  xml:id="ask_kino__7" type="kino">
+               <placeName>Kolosseum</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Nußdorferstraße 4</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1925. Tonfilm ab 1929. Fassungsraum: 1926: 688 Sitzplätze (davon 188 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

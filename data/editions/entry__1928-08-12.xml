@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-08-12.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-08-12.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>None</ab></div>
-         <div type="ckp"><ab>12.8. Ein Tag unerträglicher als der andere. O. und Schwiegersohn gestern nach Venedig. A. hat sie bis zum Hotel Bristol begleitet. Sie ist ihm vor allen Leuten auf der Ringstrasse um den Hals gefallen. Heute Vormittag mit ihm im Auto Weidling am Bach. Im Wald tristes Gespräch und Weinen. Ich spüre, dass ich versage und das macht mich noch verzweifelter. Ich dürfte heute <hi>nur</hi> <hi>sein</hi> Leid sehen.
+         <div type="as">
+            <ab>None</ab>
+         </div>
+         <div type="ckp">
+            <ab>12.8. Ein Tag unerträglicher als der andere. O. und Schwiegersohn gestern nach Venedig. A. hat sie bis zum Hotel Bristol begleitet. Sie ist ihm vor allen Leuten auf der Ringstrasse um den Hals gefallen. Heute Vormittag mit ihm im Auto Weidling am Bach. Im Wald tristes Gespräch und Weinen. Ich spüre, dass ich versage und das macht mich noch verzweifelter. Ich dürfte heute <hi>nur</hi>
+               <hi>sein</hi> Leid sehen.
 Nachmittag mit Gisale Berger im Kino, um mich zu betäuben. Lia da Putti sieht Lili so ähnlich. Ich musste fortwährend weinen, obwohl es ein Lustspiel war.
-Quälende telefonische Gespräche mit Frieda. Sie wollte durchaus, dass ich mit ihr nach Aussee fahre. Um irgend etwas Definitives zu tun, Zimmer am Semmering bestellt. [II, 140]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+Quälende telefonische Gespräche mit Frieda. Sie wollte durchaus, dass ich mit ihr nach Aussee fahre. Um irgend etwas Definitives zu tun, Zimmer am Semmering bestellt. [II, 140]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Flirten verboten!“ („Schwüle Nächte“; Ot. „Buck Privates)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>[Melville] Brown</persName></cell>
-                  <cell role="data"><persName>[Stuart N. Lake (Story); Melville Brown (Adaption); John B. Clymer (Drehbuch); Albert De Mond (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Universal-Film</orgName></cell>
-                  <cell role="data">Lya de Putti, Zazu Pitts, Malcolm Mac Gregor, Edwin Gribbon, James [A.] Marcus u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Flirten verboten!“ („Schwüle Nächte“; Ot. „Buck Privates)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Melville] Brown</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Stuart N. Lake (Story); Melville Brown (Adaption); John B. Clymer (Drehbuch); Albert De Mond (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Universal-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lya de Putti, Zazu Pitts, Malcolm Mac Gregor, Edwin Gribbon, James [A.] Marcus u.a.</cell>
                </row>
             </table>
          </div>
@@ -157,7 +165,6 @@ Quälende telefonische Gespräche mit Frieda. Sie wollte durchaus, dass ich mit 
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

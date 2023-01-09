@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-06-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-06-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>1/6 […] Abds. mit H. K. (Gloria) Kino „Wiener Liebschaften“; zu Haus allein genachtm.–</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>1/6 […] Abds. mit H. K. (Gloria) Kino „Wiener Liebschaften“; zu Haus allein genachtm.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Wiener Liebschaften“ („Ging da nicht eben das Glück vorbei?“)</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Robert Land</persName></cell>
-                  <cell role="data"><persName>Franz Schulz</persName></cell>
-                  <cell role="data"><orgName>Roland-Tobis/Klangfilm</orgName></cell>
-                  <cell role="data">Georg Alexander, Max Schipper, Fritz Spira, Betty Bird, Lotte Lorring</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Wiener Liebschaften“ („Ging da nicht eben das Glück vorbei?“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Robert Land</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Franz Schulz</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Roland-Tobis/Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Georg Alexander, Max Schipper, Fritz Spira, Betty Bird, Lotte Lorring</cell>
                </row>
             </table>
          </div>
@@ -126,15 +131,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__12" type="kino">
-               <orgName>Apollokino / Gloriakino</orgName>
-               <location><address><addrLine>17., Dornerplatz 9</addrLine></address></location>
+            <place  xml:id="ask_kino__12" type="kino">
+               <placeName>Apollokino / Gloriakino</placeName>
+               <location>
+                  <address>
+                     <addrLine>17., Dornerplatz 9</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912. Umbenennung 1927. Tonfilm ab 1930. Fassungsraum: 1914: 320 Sitzplätze, 1922: 520 Sitzplätze (davon 22 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

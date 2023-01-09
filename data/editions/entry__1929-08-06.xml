@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-08-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-08-06.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,35 +62,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>6/8 […] Mit C. P. Kino „Fahrendes Volk“, Linde soup.–</ab></div>
-         <div type="ckp"><ab>6.8. Vorm. mit A. in die Stadt und Südbahngarage wegen etwaiger Autotour. Er kommt zu keinem Entschluss. Sehr enervant, da ich keinerlei Reisevorbereitungen treffen kann. Am liebsten bliebe ich schon in Wien. Nachm. Frieda diktiert, die den 3. Akt langweilig findet.
+         <div type="as">
+            <ab>6/8 […] Mit C. P. Kino „Fahrendes Volk“, Linde soup.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>6.8. Vorm. mit A. in die Stadt und Südbahngarage wegen etwaiger Autotour. Er kommt zu keinem Entschluss. Sehr enervant, da ich keinerlei Reisevorbereitungen treffen kann. Am liebsten bliebe ich schon in Wien. Nachm. Frieda diktiert, die den 3. Akt langweilig findet.
 Von der Presse endlich Bescheid. Ich soll 1000 S. Vorschuss auf meinen Roman beheben, ohne Angabe, wieviel das Honorar beträgt. Ich bin froh wenigstens so weit zu sein.
 
-7.8. Kino mit A. „Fahrende Leute“. Sehr gut unterhalten. Dann „Linde“. A. etwas heiterer im Laufe des Abends nach anfänglicher Melancholie. [II, 253]</ab></div>
-         <div type="anmerkung"><ab>Datierung bei Pollaczek ungenau, der Kinobesuch am Vorabend wird im Eintrag zum 7. August 1929 erwähnt.
-Keine nachgewiesenen Spielorte für 6.8.1929; das Kinoprogramm der NZG erwähnt »Fahrendes Volk« in der selben Woche nur einige Tage später für das Johann-Strauß-Kino (NZG 9.8.1929, S. 8).</ab></div>
+7.8. Kino mit A. „Fahrende Leute“. Sehr gut unterhalten. Dann „Linde“. A. etwas heiterer im Laufe des Abends nach anfänglicher Melancholie. [II, 253]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Datierung bei Pollaczek ungenau, der Kinobesuch am Vorabend wird im Eintrag zum 7. August 1929 erwähnt.
+Keine nachgewiesenen Spielorte für 6.8.1929; das Kinoprogramm der NZG erwähnt »Fahrendes Volk« in der selben Woche nur einige Tage später für das Johann-Strauß-Kino (NZG 9.8.1929, S. 8).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„The Barker“ („Fahrendes Volk“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>George Fitzmaurice</persName></cell>
-                  <cell role="data"><persName>[Kenyon Nicholson (Vorlage gleichnamiges Bühnenstück); Benjamin F. Glazer (Adaption, Drehbuch); Joseph Jackson (Dialoge); Herman J. Mankiewicz (Titel)]</persName></cell>
-                  <cell role="data"><orgName>First Nationalfilm</orgName></cell>
-                  <cell role="data">Milton Sills, Douglas Fairbanks, Betty Compson, Dorothy Mackaill</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„The Barker“ („Fahrendes Volk“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>George Fitzmaurice</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Kenyon Nicholson (Vorlage gleichnamiges Bühnenstück); Benjamin F. Glazer (Adaption, Drehbuch); Joseph Jackson (Dialoge); Herman J. Mankiewicz (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>First Nationalfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Milton Sills, Douglas Fairbanks, Betty Compson, Dorothy Mackaill</cell>
                </row>
             </table>
          </div>
@@ -135,7 +142,6 @@ Keine nachgewiesenen Spielorte für 6.8.1929; das Kinoprogramm der NZG erwähnt 
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

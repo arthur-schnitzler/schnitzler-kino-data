@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-05-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/5 […] Mit C. P. Schwarzenberg Kino „der Gassenhauer“ – – mit ihr Stadtpark genachtm.– […]</ab></div>
-         <div type="ckp"><ab>26.5. Gestern Abend ging ich A. mit der grössten Freundlichkeit entgegen. Er äusserte sich anerkennend über das neue Krupnik-Kleid, ohne eine einzige Bemerkung über mich selbst. Im Kino (langweiliger Film) „Gassenhauer“ benannt, schlief er zumeist. Dann krochen wir zum Stadtpark. Er nimmt nicht einmal mehr meinen Arm wie früher. Ich bemerke das schon seit einiger Zeit. Ich blieb heiter und gesprächig, obwohl mir zum Weinen war. Frühling um uns, Mondschein, heitere Menschen. Es ist, als ob man unter der Erde läge.–
-Heute Abend sollen Thuns, Clausers (er und sie) und A. zu mir kommen. Ich wollte dieses Fest läge hinter mir. Mir ist nicht festlich zumut. A. frug mich gestern, ob Herr Clauser abgesagt hat. Er scheint damit zu rechnen.– [III, 177]</ab></div>
-         <div type="anmerkung"><ab>»Thuns«: Emmerich von Thun-Hohenstein mit Frau Else Wohlgemuth
+         <div type="as">
+            <ab>25/5 […] Mit C. P. Schwarzenberg Kino „der Gassenhauer“ – – mit ihr Stadtpark genachtm.– […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>26.5. Gestern Abend ging ich A. mit der grössten Freundlichkeit entgegen. Er äusserte sich anerkennend über das neue Krupnik-Kleid, ohne eine einzige Bemerkung über mich selbst. Im Kino (langweiliger Film) „Gassenhauer“ benannt, schlief er zumeist. Dann krochen wir zum Stadtpark. Er nimmt nicht einmal mehr meinen Arm wie früher. Ich bemerke das schon seit einiger Zeit. Ich blieb heiter und gesprächig, obwohl mir zum Weinen war. Frühling um uns, Mondschein, heitere Menschen. Es ist, als ob man unter der Erde läge.–
+Heute Abend sollen Thuns, Clausers (er und sie) und A. zu mir kommen. Ich wollte dieses Fest läge hinter mir. Mir ist nicht festlich zumut. A. frug mich gestern, ob Herr Clauser abgesagt hat. Er scheint damit zu rechnen.– [III, 177]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Thuns«: Emmerich von Thun-Hohenstein mit Frau Else Wohlgemuth
 „allerhand schmackhafte Ingredienzien zusammengemischt“ (SK II, S. 480). 
-Notiz NFP 12.5.1931, S. 13. Premierennotiz NFP 19.5.1931, S. 10, für 22.5.1931. Anzeige und Notiz NFP 22.5.1931, S. 2 bzw. 12, unter Angabe von vier weiteren Spielorten. Besprechung von –nd– in NFP 28.5.1931, S. 8.</ab></div>
+Notiz NFP 12.5.1931, S. 13. Premierennotiz NFP 19.5.1931, S. 10, für 22.5.1931. Anzeige und Notiz NFP 22.5.1931, S. 2 bzw. 12, unter Angabe von vier weiteren Spielorten. Besprechung von –nd– in NFP 28.5.1931, S. 8.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Gassenhauer“</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Lupu Pick</persName></cell>
-                  <cell role="data"><persName>Martin Zickel, Johannes Brandt</persName></cell>
-                  <cell role="data"><orgName>D. L. S-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Hans Deppe, Ina Albrecht, Ernst Busch, Albert Hörmann, Wolfgang Staudte u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Gassenhauer“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Lupu Pick</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Martin Zickel, Johannes Brandt</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>D. L. S-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Hans Deppe, Ina Albrecht, Ernst Busch, Albert Hörmann, Wolfgang Staudte u.a.</cell>
                </row>
             </table>
          </div>
@@ -138,15 +145,16 @@ Notiz NFP 12.5.1931, S. 13. Premierennotiz NFP 19.5.1931, S. 10, für 22.5.1931.
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__32" type="kino">
-               <orgName>Kammerlichtspiele</orgName>
-               <location><address><addrLine>03., Schwarzenbergplatz 6</addrLine></address></location>
+            <place  xml:id="ask_kino__32" type="kino">
+               <placeName>Kammerlichtspiele</placeName>
+               <location>
+                  <address>
+                     <addrLine>03., Schwarzenbergplatz 6</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1916. Tonfilm ab 1930. Fassungsraum: 1916: 394 Sitzplätze, 1922: 375 Sitzplätze (davon 68 Logenplätze). – In „Die Filmwelt“, Jg. 1923, Nr. 16 wird unter dem Titel „Das vornehmste Lichtspieltheater Wiens“ anlässlich des Saisonbeginns das Kino, seine Architektur und technische Ausstattung besprochen. („[…] ein molliges Logenfoyer im reinsten Barock, mit lauschigen Nischen und farbenprächtigen Beleuchtungseffekten […]“)</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

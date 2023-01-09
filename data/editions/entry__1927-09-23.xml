@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-09-23.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-09-23.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>23/9 […] Mit C. P. Fliegerkino – die Liebelei Verfilmung Hegewald (der Besitzer des Kinos hatte gar die Absicht mich public zu begrüßen!). Ich fand sie nicht so sehr schlecht, obwohl auch das; – sondern widerlich. Die Dummheit, Einbildung und Ordinärheit der Dramaturgen und Regisseure – seltner die Geschicklichkeit trat überall zu Tage. Nachher mit ihr Opernrest.– […]</ab></div>
-         <div type="anmerkung"><ab>Zu den Verhandlungen von Schnitzler mit der Firma Hegewald vgl. Tb 8.11.1926 und 17.12.1926, zur Premiere Tb 18.3.1927.
-Halbseitige Anzeige NFP 23.9.1927, S. 19, dort 14 Spielorte. Besprechung NFP 24.9.1927, S. 10.</ab></div>
+         <div type="as">
+            <ab>23/9 […] Mit C. P. Fliegerkino – die Liebelei Verfilmung Hegewald (der Besitzer des Kinos hatte gar die Absicht mich public zu begrüßen!). Ich fand sie nicht so sehr schlecht, obwohl auch das; – sondern widerlich. Die Dummheit, Einbildung und Ordinärheit der Dramaturgen und Regisseure – seltner die Geschicklichkeit trat überall zu Tage. Nachher mit ihr Opernrest.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Zu den Verhandlungen von Schnitzler mit der Firma Hegewald vgl. Tb 8.11.1926 und 17.12.1926, zur Premiere Tb 18.3.1927.
+Halbseitige Anzeige NFP 23.9.1927, S. 19, dort 14 Spielorte. Besprechung NFP 24.9.1927, S. 10.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Liebelei“</cell>
-                  <cell role="data"><date>[1926/27]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Jakob Fleck, Louise Fleck</persName></cell>
-                  <cell role="data"><persName>Arthur Schnitzler (Vorlage gleichnamiges Bühnenstück); [Herbert Juttke, Georg C. Klaren]</persName></cell>
-                  <cell role="data"><orgName>Hegewald-Film</orgName></cell>
-                  <cell role="data">Evelyn Holt, Vivian Gibson, Hilde Maroff, Fred Louis Lerch, Jaro Fürth, Robert Scholz, Henry Stuart, Karl Platen</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Liebelei“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926/27]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Jakob Fleck, Louise Fleck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Arthur Schnitzler (Vorlage gleichnamiges Bühnenstück); [Herbert Juttke, Georg C. Klaren]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hegewald-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Evelyn Holt, Vivian Gibson, Hilde Maroff, Fred Louis Lerch, Jaro Fürth, Robert Scholz, Henry Stuart, Karl Platen</cell>
                </row>
             </table>
          </div>
@@ -148,18 +153,24 @@ Halbseitige Anzeige NFP 23.9.1927, S. 19, dort 14 Spielorte. Besprechung NFP 24.
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__23" type="kino">
-               <orgName>Fliegerkino</orgName>
-               <location><address><addrLine>09., Liechtensteinstraße 37</addrLine></address></location>
+            <place  xml:id="ask_kino__23" type="kino">
+               <placeName>Fliegerkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Liechtensteinstraße 37</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Tonfilm ab 1930. Freiluftkino ab 1927 (Im Garten des Palais Clam-Gallas. Betrieb auf den Sommer beschränkt.). Fassungsraum: 1922: 659 Sitzplätze (davon 68 Logenplätze), 1927: 15 Stehplätze bewilligt.</note>
-            </org>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

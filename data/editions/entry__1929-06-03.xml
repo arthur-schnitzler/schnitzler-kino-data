@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-06-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-06-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/6 […] Mit C. P. Kino. „Insel der Liebe;– Linde soup.– </ab></div>
-         <div type="ckp"><ab>3.6. Vorm. Stadt, Mittag Cari, Magdi, Fredi (alle sehr heiter). Nachm. Hofrätin Z. zum Thee. Anregende Konversation. Abend mit A. Kino (Insel der Liebe). Furchtbarer Schmarrn. Dann „Linde“ genachtmahlt. Lauere Stimmung. Wetter kühl, regnerisch. [II, 244]</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz NFP 24.5.1929, S. 12, für 31.5.1929. </ab></div>
+         <div type="as">
+            <ab>3/6 […] Mit C. P. Kino. „Insel der Liebe;– Linde soup.– </ab>
+         </div>
+         <div type="ckp">
+            <ab>3.6. Vorm. Stadt, Mittag Cari, Magdi, Fredi (alle sehr heiter). Nachm. Hofrätin Z. zum Thee. Anregende Konversation. Abend mit A. Kino (Insel der Liebe). Furchtbarer Schmarrn. Dann „Linde“ genachtmahlt. Lauere Stimmung. Wetter kühl, regnerisch. [II, 244]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz NFP 24.5.1929, S. 12, für 31.5.1929. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Insel der Liebe“ (Ot. „L’ile d’amour“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>F</placeName></cell>
-                  <cell role="data"><persName>[Jean] Durand, [Berthe Dagmar]</persName></cell>
-                  <cell role="data"><persName>[Saint-Sorny (Vorlage gleichnamiger Roman); Jean Durand]</persName></cell>
-                  <cell role="data"><orgName>Franco-Film</orgName></cell>
-                  <cell role="data">Claude France, Yvonne [Armor], Mlle. [Mistinguett], Pierre Batcheff, [Earl] Leslie u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Insel der Liebe“ (Ot. „L’ile d’amour“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>F</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Jean] Durand, [Berthe Dagmar]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Saint-Sorny (Vorlage gleichnamiger Roman); Jean Durand]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Franco-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Claude France, Yvonne [Armor], Mlle. [Mistinguett], Pierre Batcheff, [Earl] Leslie u.a.</cell>
                </row>
             </table>
          </div>
@@ -143,7 +150,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

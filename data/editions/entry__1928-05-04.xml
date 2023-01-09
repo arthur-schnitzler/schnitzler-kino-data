@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-05-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-05-04.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>4/5 Wien.– […] – Mit C. P. Kino („Ausgestoßene“), dann silb. Brunnen soup.</ab></div>
-         <div type="ckp"><ab>4.5. Es war ein recht gutes Zusammensein, aber in mir noch alles sehr stumm. Heute Abend Kino und Silberner Brunnen. Gute Gespräche. [II, 122]</ab></div>
-         <div type="anmerkung"><ab>Nachgewiesener Spielort: Weltspiegel-Kino, u. d. T. »Ausgestoßen«. In der »Filmrundschau« der NFP vom 27.4.1928 Titel ebenfalls »Ausgestoßen«. Für die Woche nach dem gemeinsamen Besuch ist der Film in einem Inserat in NFP 4.5.1928, S. 23, für zwölf Kinos angekündigt.</ab></div>
+         <div type="as">
+            <ab>4/5 Wien.– […] – Mit C. P. Kino („Ausgestoßene“), dann silb. Brunnen soup.</ab>
+         </div>
+         <div type="ckp">
+            <ab>4.5. Es war ein recht gutes Zusammensein, aber in mir noch alles sehr stumm. Heute Abend Kino und Silberner Brunnen. Gute Gespräche. [II, 122]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Nachgewiesener Spielort: Weltspiegel-Kino, u. d. T. »Ausgestoßen«. In der »Filmrundschau« der NFP vom 27.4.1928 Titel ebenfalls »Ausgestoßen«. Für die Woche nach dem gemeinsamen Besuch ist der Film in einem Inserat in NFP 4.5.1928, S. 23, für zwölf Kinos angekündigt.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Ausgestoßenen“ („Die Heimkehr des Herzens“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Martin Berger</persName></cell>
-                  <cell role="data"><persName>[Dosio Koffler]</persName></cell>
-                  <cell role="data"><orgName>Martin Berger Matadorfilm</orgName></cell>
-                  <cell role="data">Hans Stüwe, Fritz Kortner, Rudolf Lettinger, Luigi Serventi, Maly Delschaft, Mary Johnson</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Ausgestoßenen“ („Die Heimkehr des Herzens“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Martin Berger</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Dosio Koffler]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Martin Berger Matadorfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Hans Stüwe, Fritz Kortner, Rudolf Lettinger, Luigi Serventi, Maly Delschaft, Mary Johnson</cell>
                </row>
             </table>
          </div>
@@ -126,13 +133,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

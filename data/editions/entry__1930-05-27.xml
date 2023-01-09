@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-05-27.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-05-27.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>27/5 […] Gegen Abend Sil-Vara. Seine Erfahrungen aus Hollywood. Er hat das Drehbuch von Daybreak gemacht, aber man refusirt am Ende doch (der Vertrag mit mir längst ausbezahlt).–
+         <div type="as">
+            <ab>27/5 […] Gegen Abend Sil-Vara. Seine Erfahrungen aus Hollywood. Er hat das Drehbuch von Daybreak gemacht, aber man refusirt am Ende doch (der Vertrag mit mir längst ausbezahlt).–
 – Zu C. P., deren Sohn Harry heut geheiratet. Sie ist von der jungen Frau (die sie heut erst kennen gelernt) sehr entzückt.
-– Ins Kino „Sensation im Wintergarten“; dann Rest. Hahn. Um Mitternacht vor ihrem Hausthor ein Gespräch. „So gehe es nicht weiter;– meine Lieblosigkeit etc. – ich wolle mich nur ‚bewahren‘, in diesem Wunsch nach ‚Freiheit‘ zerstöre ich unsre Beziehung …“ Und wieder – O. – und Lili K…– Sie fühlt ja ganz richtig, und ich gestand ihr zu, dass sie zu ¾ recht habe. Wir schieden gut.–</ab></div>
-         <div type="anmerkung"><ab>»Lili K«: Lili Kraus, Pianistin
-Nachgewiesener Spielort: Löwen-Kino (NZG, 27.5.1930, S. 7).</ab></div>
+– Ins Kino „Sensation im Wintergarten“; dann Rest. Hahn. Um Mitternacht vor ihrem Hausthor ein Gespräch. „So gehe es nicht weiter;– meine Lieblosigkeit etc. – ich wolle mich nur ‚bewahren‘, in diesem Wunsch nach ‚Freiheit‘ zerstöre ich unsre Beziehung …“ Und wieder – O. – und Lili K…– Sie fühlt ja ganz richtig, und ich gestand ihr zu, dass sie zu ¾ recht habe. Wir schieden gut.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Lili K«: Lili Kraus, Pianistin
+Nachgewiesener Spielort: Löwen-Kino (NZG, 27.5.1930, S. 7).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Sensation im Wintergarten“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Gennaro Righelli</persName></cell>
-                  <cell role="data"><persName>A. M. Shail, A. Elton</persName></cell>
-                  <cell role="data"><orgName>Lothar Stark-Film</orgName></cell>
-                  <cell role="data">Claire Rommer, Erna Morena, Paul Richter, Gaston Jacquet, Wladimir Sokoloff, Adolphe Engers, Alfons Schünemann, Alexandra Nadler</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Sensation im Wintergarten“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Gennaro Righelli</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>A. M. Shail, A. Elton</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Lothar Stark-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Claire Rommer, Erna Morena, Paul Richter, Gaston Jacquet, Wladimir Sokoloff, Adolphe Engers, Alfons Schünemann, Alexandra Nadler</cell>
                </row>
             </table>
          </div>
@@ -160,7 +165,6 @@ Nachgewiesener Spielort: Löwen-Kino (NZG, 27.5.1930, S. 7).</ab></div>
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

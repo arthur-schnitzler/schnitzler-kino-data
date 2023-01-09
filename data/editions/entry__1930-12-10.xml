@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-12-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-12-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/12 […] – Um 9 mit C. P. Kino „Aufruhr der Geschlechter“ (Tschechowa) dann nachtm. sie bei mir.</ab></div>
-         <div type="ckp"><ab>10.12. Gesangsstunde, aber ich bin jetzt nie in Stimmung.
-A. war bei Dr. D. rief mich nachher an. Das Herz „angeblich“ ganz in Ordnung. Keinerlei Mittel, nur weniger Flüssigkeiten. Ich bin doch nicht beruhigt. Am Abend Kino mit A. „Geschlecht in Not“. Guter Film, dann Sternwartestrasse. A. elend ausgesehen. Ich lasse mich nicht nachhause begleiten, weil es schüttet. [III, 127]</ab></div>
-         <div type="anmerkung"><ab>Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Kino (NFP 10.12.1930, S. 19).</ab></div>
+         <div type="as">
+            <ab>10/12 […] – Um 9 mit C. P. Kino „Aufruhr der Geschlechter“ (Tschechowa) dann nachtm. sie bei mir.</ab>
+         </div>
+         <div type="ckp">
+            <ab>10.12. Gesangsstunde, aber ich bin jetzt nie in Stimmung.
+A. war bei Dr. D. rief mich nachher an. Das Herz „angeblich“ ganz in Ordnung. Keinerlei Mittel, nur weniger Flüssigkeiten. Ich bin doch nicht beruhigt. Am Abend Kino mit A. „Geschlecht in Not“. Guter Film, dann Sternwartestrasse. A. elend ausgesehen. Ich lasse mich nicht nachhause begleiten, weil es schüttet. [III, 127]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Kino (NFP 10.12.1930, S. 19).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Menschen im Sturm“ („Ein Mädel von der Reeperbahn“, „Geschlecht in Aufruhr“)</cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>&amp;#268;SR</placeName></cell>
-                  <cell role="data"><persName>Karl Anton</persName></cell>
-                  <cell role="data"><persName>Benno Vigny, Karl Anton</persName></cell>
-                  <cell role="data"><orgName>A. B.-Film</orgName></cell>
-                  <cell role="data">Olga Tschechowa, Trude Berliner, Hans Adalbert Schlettow, Josef Rovensky, André Pilot</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Menschen im Sturm“ („Ein Mädel von der Reeperbahn“, „Geschlecht in Aufruhr“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>&amp;#268;SR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Karl Anton</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Benno Vigny, Karl Anton</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>A. B.-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Olga Tschechowa, Trude Berliner, Hans Adalbert Schlettow, Josef Rovensky, André Pilot</cell>
                </row>
             </table>
          </div>
@@ -130,7 +137,6 @@ A. war bei Dr. D. rief mich nachher an. Das Herz „angeblich“ ganz in Ordnung
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-06-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-06-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/6 […] Ins Kino (allein), „Bekenntnisse einer Sechzehnjährigen“ – […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>7/6 […] Ins Kino (allein), „Bekenntnisse einer Sechzehnjährigen“ – […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Erotik einer Sechzehnjährigen“ ([„Vom Leben getötet. Die Bekenntnisse einer 16jährigen“)]</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Franz Hofer</persName></cell>
-                  <cell role="data"><persName>[Franz Hofer]</persName></cell>
-                  <cell role="data"><orgName>Einstein-Film</orgName></cell>
-                  <cell role="data">Gerdi Gerdt, Eva Speyer, Otto Reinald, Kurt von Wolowsky, Ernst Rückert, Eduard von Winterstein</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Erotik einer Sechzehnjährigen“ ([„Vom Leben getötet. Die Bekenntnisse einer 16jährigen“)]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Franz Hofer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Franz Hofer]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Einstein-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gerdi Gerdt, Eva Speyer, Otto Reinald, Kurt von Wolowsky, Ernst Rückert, Eduard von Winterstein</cell>
                </row>
             </table>
          </div>
@@ -124,7 +129,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

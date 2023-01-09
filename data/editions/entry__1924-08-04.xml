@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-08-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-08-04.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>4/8 […] Mit C. P. Kino (Brigantenrache, Asta Nielsen); bei Pohl mit ihr genachtm. Nervosität wegen der Sommereintheilung. N. d. N. mit H. K. im Türkenschanzpark.</ab></div>
-         <div type="anmerkung"><ab>»H. K.«: Hedy Kempny (1895–1986)</ab></div>
+         <div type="as">
+            <ab>4/8 […] Mit C. P. Kino (Brigantenrache, Asta Nielsen); bei Pohl mit ihr genachtm. Nervosität wegen der Sommereintheilung. N. d. N. mit H. K. im Türkenschanzpark.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»H. K.«: Hedy Kempny (1895–1986)</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Brigantenrache“</cell>
-                  <cell role="data"><date>[1921/22]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Reinhard Bruck</persName></cell>
-                  <cell role="data"><persName>[Julius Urgiß]</persName></cell>
-                  <cell role="data"><orgName>Decarlifilm</orgName></cell>
-                  <cell role="data">Asta Nielsen, Margit Barnay, Bruno Decarli, Walter [Brügmann]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Brigantenrache“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1921/22]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Reinhard Bruck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Julius Urgiß]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Decarlifilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Asta Nielsen, Margit Barnay, Bruno Decarli, Walter [Brügmann]</cell>
                </row>
             </table>
          </div>
@@ -120,7 +125,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

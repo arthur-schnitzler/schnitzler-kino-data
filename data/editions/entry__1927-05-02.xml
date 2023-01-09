@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-05-02.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-05-02.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>2/5 […] Mit C. P. Kino „Sadismus“; bei ihr genachtm.; leidliche Verständigung.</ab></div>
-         <div type="anmerkung"><ab>Besprechung von Lilly Klaudy in NFP 6.5.1927, S. 20: „[…] Der Film schwelgt geradezu in der Diabolik dieses grausamen Vernichters, in dessen unheilvollem Stirnrunzeln, in seinem lauernden Ränkeblick. […] Von Hugette Duflos wäre zu sagen, daß sie eine hübsche Blondine mit etwas zu wenig Eigenart ist. Ihre Blondheit, ihre Liebe, ihre Freude und ihr Schmerz sind gut und schön, rechtschaffen und brav, aber zu unpersönlich, zu konventionell, um wirklich zu packen. Was diesem Film dagegen entschieden Glanzlichter aufsetzt, ist eine Reihe wunderschöner Naturaufnahmen, die den Zauber der südfranzösischen Küste und die Schönheiten von Bordeaux zu eindrucksvoller Geltung bringen.“ Anzeige NFP 29.4.1927, S. 18. Dort nachgewiesene Spielorte: Elite-, Rotenturm-, Flotten-, Heimat- und Votivpark-Kino sowie Lichtspiele Wienzeile.</ab></div>
+         <div type="as">
+            <ab>2/5 […] Mit C. P. Kino „Sadismus“; bei ihr genachtm.; leidliche Verständigung.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung von Lilly Klaudy in NFP 6.5.1927, S. 20: „[…] Der Film schwelgt geradezu in der Diabolik dieses grausamen Vernichters, in dessen unheilvollem Stirnrunzeln, in seinem lauernden Ränkeblick. […] Von Hugette Duflos wäre zu sagen, daß sie eine hübsche Blondine mit etwas zu wenig Eigenart ist. Ihre Blondheit, ihre Liebe, ihre Freude und ihr Schmerz sind gut und schön, rechtschaffen und brav, aber zu unpersönlich, zu konventionell, um wirklich zu packen. Was diesem Film dagegen entschieden Glanzlichter aufsetzt, ist eine Reihe wunderschöner Naturaufnahmen, die den Zauber der südfranzösischen Küste und die Schönheiten von Bordeaux zu eindrucksvoller Geltung bringen.“ Anzeige NFP 29.4.1927, S. 18. Dort nachgewiesene Spielorte: Elite-, Rotenturm-, Flotten-, Heimat- und Votivpark-Kino sowie Lichtspiele Wienzeile.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Sadismus“ („L’homme à l’Hispano“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>F/I</placeName></cell>
-                  <cell role="data"><persName>Julien Duvivier</persName></cell>
-                  <cell role="data"><persName>Pierre Frondaie (Vorlage gleichnamiger Roman)</persName></cell>
-                  <cell role="data"><orgName>Gaumontfilm</orgName></cell>
-                  <cell role="data">Huguette Duflos, [Acho] Chakatouny, Galli</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Sadismus“ („L’homme à l’Hispano“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>F/I</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Julien Duvivier</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Pierre Frondaie (Vorlage gleichnamiger Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Gaumontfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Huguette Duflos, [Acho] Chakatouny, Galli</cell>
                </row>
             </table>
          </div>
@@ -117,13 +122,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__3" type="wirt">
+               <placeName>Wohnung Pollaczek</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__3" type="wirt">
-               <orgName>Wohnung Pollaczek</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

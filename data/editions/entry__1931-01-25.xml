@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-01-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-01-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/1 […] Mit C. P. Abend Kino, „Rendezvous“; mit ihr bei mir soup.– Schwerer Abend.</ab></div>
-         <div type="ckp"><ab><hi>26ten I.</hi> Nichts ist jetzt ärger, als das Alleinsein mit ihm. Gestern Abend erst Kino (kommen sie zum Rendez vous) dann bei ihm zum Nachtma[h]l – Conversation. Nicht <hi>ein</hi> herzliches Wort, nicht ein guter Blick. Wenn ich nicht zärtlich bin (und ich bin es nicht mehr) dann sitzen wir wie Fremde nebeneinander und er sieht verstohlen auf die Uhr. Ist er krank, ist er nicht normal? Was will er eigentlich von mir? Ich gehe in einer Stimmung von ihm fort, die an Verzweiflung grenzt.
-Heute wieder herrliches Wetter. Ich musste V. M. in die Stadt weil ich N. M. eine öde Damen-Jause habe, und Abend zu Wellesz. Ich möcht am liebsten durch 3 Tage Schlafmittel nehmen u. nichts wissen. [III, 144]</ab></div>
-         <div type="anmerkung"><ab>Ankündigung NFP 21.11.1930, S. 13. Premierennotiz NFP 25.11.1930, S. 9, für 28.11.1930. Nachgewiesener Spielort: Mozart-Ton-Kino (NZG 25.1.1931, S. 16). </ab></div>
+         <div type="as">
+            <ab>25/1 […] Mit C. P. Abend Kino, „Rendezvous“; mit ihr bei mir soup.– Schwerer Abend.</ab>
+         </div>
+         <div type="ckp">
+            <ab>
+               <hi>26ten I.</hi> Nichts ist jetzt ärger, als das Alleinsein mit ihm. Gestern Abend erst Kino (kommen sie zum Rendez vous) dann bei ihm zum Nachtma[h]l – Conversation. Nicht <hi>ein</hi> herzliches Wort, nicht ein guter Blick. Wenn ich nicht zärtlich bin (und ich bin es nicht mehr) dann sitzen wir wie Fremde nebeneinander und er sieht verstohlen auf die Uhr. Ist er krank, ist er nicht normal? Was will er eigentlich von mir? Ich gehe in einer Stimmung von ihm fort, die an Verzweiflung grenzt.
+Heute wieder herrliches Wetter. Ich musste V. M. in die Stadt weil ich N. M. eine öde Damen-Jause habe, und Abend zu Wellesz. Ich möcht am liebsten durch 3 Tage Schlafmittel nehmen u. nichts wissen. [III, 144]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Ankündigung NFP 21.11.1930, S. 13. Premierennotiz NFP 25.11.1930, S. 9, für 28.11.1930. Nachgewiesener Spielort: Mozart-Ton-Kino (NZG 25.1.1931, S. 16). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Komm zu mir zum Rendezvous“ (Ut. „So lebt Paris“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Carl Boese</persName></cell>
-                  <cell role="data"><persName>[Robert Florey, Carl Boese, Walter Hasenclever]</persName></cell>
-                  <cell role="data"><orgName>Harmonie-Klangfilm</orgName></cell>
-                  <cell role="data">Ralph Arthur Roberts, Szöke Szakall, Fritz Schulz, Paul Morgan, Lucie Englisch, Alexa [von] Engström, Trude Lieske, Margarete Kupfer u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Komm zu mir zum Rendezvous“ (Ut. „So lebt Paris“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Carl Boese</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Robert Florey, Carl Boese, Walter Hasenclever]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Harmonie-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ralph Arthur Roberts, Szöke Szakall, Fritz Schulz, Paul Morgan, Lucie Englisch, Alexa [von] Engström, Trude Lieske, Margarete Kupfer u.a.</cell>
                </row>
             </table>
          </div>
@@ -145,7 +153,6 @@ Heute wieder herrliches Wetter. Ich musste V. M. in die Stadt weil ich N. M. ein
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

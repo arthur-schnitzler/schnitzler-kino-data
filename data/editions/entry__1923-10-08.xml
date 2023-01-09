@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1923-10-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1923-10-08.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>8/10 […] Mit C. P. Fliegerkino; bei ihr […].</ab></div>
-         <div type="anmerkung"><ab>Der Filmtitel ist erschlossen nach NFP 8.10.1923, S. 10: »Flieger-Kino […] Newyork bei Nacht.«</ab></div>
+         <div type="as">
+            <ab>8/10 […] Mit C. P. Fliegerkino; bei ihr […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Der Filmtitel ist erschlossen nach NFP 8.10.1923, S. 10: »Flieger-Kino […] Newyork bei Nacht.«</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„New-York bei Nacht“ („The lights of New York“)</cell>
-                  <cell role="data"><date>[1922]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Charles J. Brabin</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Fox Film Corporation</orgName></cell>
-                  <cell role="data">Clarence Nordstrom, Margaret Seddon, Frank Currier, Charles Gerard, Marc MacDermott, Estelle Taylor</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„New-York bei Nacht“ („The lights of New York“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Charles J. Brabin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox Film Corporation</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Clarence Nordstrom, Margaret Seddon, Frank Currier, Charles Gerard, Marc MacDermott, Estelle Taylor</cell>
                </row>
             </table>
          </div>
@@ -121,18 +126,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__23" type="kino">
-               <orgName>Fliegerkino</orgName>
-               <location><address><addrLine>09., Liechtensteinstraße 37</addrLine></address></location>
+            <place  xml:id="ask_kino__23" type="kino">
+               <placeName>Fliegerkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Liechtensteinstraße 37</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Tonfilm ab 1930. Freiluftkino ab 1927 (Im Garten des Palais Clam-Gallas. Betrieb auf den Sommer beschränkt.). Fassungsraum: 1922: 659 Sitzplätze (davon 68 Logenplätze), 1927: 15 Stehplätze bewilligt.</note>
-            </org>
-            <org xml:id="ask_wirt__3" type="wirt">
-               <orgName>Wohnung Pollaczek</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__3" type="wirt">
+               <placeName>Wohnung Pollaczek</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

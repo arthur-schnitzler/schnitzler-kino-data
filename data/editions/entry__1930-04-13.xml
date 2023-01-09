@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-04-13.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-04-13.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>13/4 […] – Mit C. P. Abds. Kino („Palast“ zum 1. Mal) – „Im Prater blühn wieder die Bäume“; unergründlich albern und banal,– von jener innerlichen Ordinärheit, die ein besondres Geheimnis der Filmdichter scheint. Im „Hahn“ mit C. P. genachtm.;– ihre fast immer wache Besorgtheit rührt wohl aber macht ungeduldig.– </ab></div>
-         <div type="anmerkung"><ab>Anzeige NFP 11.4.1930, S. 11. Nachgewiesener Spielort lt. NFP: Löwenkino.
+         <div type="as">
+            <ab>13/4 […] – Mit C. P. Abds. Kino („Palast“ zum 1. Mal) – „Im Prater blühn wieder die Bäume“; unergründlich albern und banal,– von jener innerlichen Ordinärheit, die ein besondres Geheimnis der Filmdichter scheint. Im „Hahn“ mit C. P. genachtm.;– ihre fast immer wache Besorgtheit rührt wohl aber macht ungeduldig.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige NFP 11.4.1930, S. 11. Nachgewiesener Spielort lt. NFP: Löwenkino.
 Weder NFP noch NZG weisen ein Kino namens »Palast« in ihren Programmen aus. Schwarz 1992 nennt zwei Kinos mit diesem Namen, beide im achten Bezirk: Palast Kino, Alserstr. 23. und Palast, Josefstädterstraße. Hinzu kommt das Münstedt-Kino, das ebenfalls »Palast« genannt wurde.
-Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterstraße besucht (Übereinstimmung des Filmtitels mit dem Kinoprogramm). Etwas unsicherer hingegen ist ein Besuch im Münstedt-Kino am 20. Mai 1925. Vorläufig steht also zu vermuten, daß dieses »1. Mal« das Kino in der Alserstraße meint.</ab></div>
+Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterstraße besucht (Übereinstimmung des Filmtitels mit dem Kinoprogramm). Etwas unsicherer hingegen ist ein Besuch im Münstedt-Kino am 20. Mai 1925. Vorläufig steht also zu vermuten, daß dieses »1. Mal« das Kino in der Alserstraße meint.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Im Prater blüh’n wieder die Bäume“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>E. W. Emo</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Hegewald-Film</orgName></cell>
-                  <cell role="data">Werner Fütterer, Albert Paulig, Robert Thiem, Fritz Spira, Carl Auen, Teddy Bill, Lilian Ellis, Valeria Blanka</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Im Prater blüh’n wieder die Bäume“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>E. W. Emo</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hegewald-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Werner Fütterer, Albert Paulig, Robert Thiem, Fritz Spira, Carl Auen, Teddy Bill, Lilian Ellis, Valeria Blanka</cell>
                </row>
             </table>
          </div>
@@ -133,15 +138,16 @@ Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterst
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__51" type="kino">
-               <orgName>Palast Kino / Arkadenlichtspiele</orgName>
-               <location><address><addrLine>08., Alserstraße 23</addrLine></address></location>
+            <place  xml:id="ask_kino__51" type="kino">
+               <placeName>Palast Kino / Arkadenlichtspiele</placeName>
+               <location>
+                  <address>
+                     <addrLine>08., Alserstraße 23</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1911. Tonfilm ab 1930. Fassungsraum: 1914: Ca. 320 Sitzplätze, 1918 Einbau von Logen, 1922: 301 Sitzplätze (davon 34 Logenplätze), 1934: 304 (37).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

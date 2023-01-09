@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-09-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-09-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/9 Marienbad. […] Mit C. P. Kino „Frau Ilse’s Scheidung“. Teplerhaus genachtm. </ab></div>
-         <div type="ckp"><ab>3.9. Heute Vormittag erklärte A., er wolle allein spazieren gehen. Ich war sehr einverstanden. Ich lief in die Stadt hinunter, war sehr vergnügt und hatte das Gefühl gut auszusehen. Ich wollte verschiedenes besorgen,– ging in eine Bank Schillinge wechseln, erblickte zufällig den ehemaligen Rittmeister Kerst (mein Kriegsflirt), den ich 15 Jahre nicht gesehen. Ich habe gewusst, dass er verheiratet ist und in M. lebt, aber wusste nicht wo. […] Nachdem ich mich durch eine Frage am Schalter vergewissert habe, dass er es wirklich ist, klopfte ich an der offenstehenden Türe an. Er erkannte mich sofort, schien sehr erfreut, fand mich unglaublich unverändert, kurzum mein Selbstbewusstsein wurde etwas gehoben. […] So schön und elegant wie einst ist der Herr Rittmeister nicht mehr. Immerhin war es nett ihn gesprochen zu haben. Ich erzählte es A., als ich heimkam. A. fand mich glänzend aussehend, wurde zärtlich, fast stürmisch. Ich bin zurückhaltend. Ich sagte, ich mag keine Sinnlichkeit, wenn nicht auch die Seele dabei ist. Er antwortete: „Ich habe dich immer gleich lieb. Nie ändert sich etwas in meinen Gefühlen zu dir, nur die Fähigkeit sich zu äussern ist verschieden[“] und hänge mit seinem jeweiligen Befinden, seiner Stimmung zusammen. Es ist als ob Nebel sich teilen würde. Er bewundert wieder alles an mir. Ich frage lachend, fast übermütig: „Warst du mir immer treu?“ Er: „Ich schwöre dir, mir ist noch nie der Wunsch gekommen dich zu betrügen.“ Stundenlang wirbt er um mich. Ich werde nicht mehr widerstehen können[.] […]
+         <div type="as">
+            <ab>3/9 Marienbad. […] Mit C. P. Kino „Frau Ilse’s Scheidung“. Teplerhaus genachtm. </ab>
+         </div>
+         <div type="ckp">
+            <ab>3.9. Heute Vormittag erklärte A., er wolle allein spazieren gehen. Ich war sehr einverstanden. Ich lief in die Stadt hinunter, war sehr vergnügt und hatte das Gefühl gut auszusehen. Ich wollte verschiedenes besorgen,– ging in eine Bank Schillinge wechseln, erblickte zufällig den ehemaligen Rittmeister Kerst (mein Kriegsflirt), den ich 15 Jahre nicht gesehen. Ich habe gewusst, dass er verheiratet ist und in M. lebt, aber wusste nicht wo. […] Nachdem ich mich durch eine Frage am Schalter vergewissert habe, dass er es wirklich ist, klopfte ich an der offenstehenden Türe an. Er erkannte mich sofort, schien sehr erfreut, fand mich unglaublich unverändert, kurzum mein Selbstbewusstsein wurde etwas gehoben. […] So schön und elegant wie einst ist der Herr Rittmeister nicht mehr. Immerhin war es nett ihn gesprochen zu haben. Ich erzählte es A., als ich heimkam. A. fand mich glänzend aussehend, wurde zärtlich, fast stürmisch. Ich bin zurückhaltend. Ich sagte, ich mag keine Sinnlichkeit, wenn nicht auch die Seele dabei ist. Er antwortete: „Ich habe dich immer gleich lieb. Nie ändert sich etwas in meinen Gefühlen zu dir, nur die Fähigkeit sich zu äussern ist verschieden[“] und hänge mit seinem jeweiligen Befinden, seiner Stimmung zusammen. Es ist als ob Nebel sich teilen würde. Er bewundert wieder alles an mir. Ich frage lachend, fast übermütig: „Warst du mir immer treu?“ Er: „Ich schwöre dir, mir ist noch nie der Wunsch gekommen dich zu betrügen.“ Stundenlang wirbt er um mich. Ich werde nicht mehr widerstehen können[.] […]
 Abends. Nach einer wundervollen Liebesstunde noch in meinen Armen sagt er: „Irgend etwas in unserer Beziehung stimmt nicht,– wir dürfen in Wien nicht zu viel zusammen sein.“ […] Ich erhebe mich, gehe zur Türe, sende ihm von dort gleichfalls lachend den modernen Gruss: „Freundschaft!“ mit der erhobenen Hand.
 <hi>Er:</hi> Sei nicht so dämonisch!
-<hi>Ich:</hi> Das nennst du dämonisch –? Ich nenne es anders. (Ab in mein Zimmer. Dies das Ende eines Schäferstündchens. – Später im Kino, sehr hübscher Film: „Frau Irenens Scheidung“ mit Brigitte Helm. A. möglichst kühl. – – – – – [III, 92-94]</ab></div>
-         <div type="anmerkung"><ab>Zahlreiche Titelvarianten erschließbar über die genannten Darsteller. Vgl. Marienbader Zeitung, 3.9.1930, S. 3: »Bio Globus. Mittwoch, den 3., und Donnerstag, den 4. September, der neueste Film mit Brigitte Helm: ›Frau Irenes Scheidung‹ (›Krisen der Ehe‹).«</ab></div>
+<hi>Ich:</hi> Das nennst du dämonisch –? Ich nenne es anders. (Ab in mein Zimmer. Dies das Ende eines Schäferstündchens. – Später im Kino, sehr hübscher Film: „Frau Irenens Scheidung“ mit Brigitte Helm. A. möglichst kühl. – – – – – [III, 92-94]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Zahlreiche Titelvarianten erschließbar über die genannten Darsteller. Vgl. Marienbader Zeitung, 3.9.1930, S. 3: »Bio Globus. Mittwoch, den 3., und Donnerstag, den 4. September, der neueste Film mit Brigitte Helm: ›Frau Irenes Scheidung‹ (›Krisen der Ehe‹).«</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Abwege“ („Begierde“ / „Krise“ / „Abwehr“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>G. W. Pabst</persName></cell>
-                  <cell role="data"><persName>[Adolf Lantz, Ladislaus Vajda, Helen Gosewisch]</persName></cell>
-                  <cell role="data"><orgName>Erda-Film</orgName></cell>
-                  <cell role="data">Brigitte Helm, Fritz Odemar, Gustav Dissel, Hertha von Walter, Jack Trevor, Peter Leska u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Abwege“ („Begierde“ / „Krise“ / „Abwehr“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>G. W. Pabst</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Adolf Lantz, Ladislaus Vajda, Helen Gosewisch]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Erda-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Brigitte Helm, Fritz Odemar, Gustav Dissel, Hertha von Walter, Jack Trevor, Peter Leska u.a.</cell>
                </row>
             </table>
          </div>
@@ -141,7 +148,6 @@ Abends. Nach einer wundervollen Liebesstunde noch in meinen Armen sagt er: „Ir
                <placeName>Marienbad</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

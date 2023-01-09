@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-05-09.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-05-09.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>9/5 […] Mit C. P. Kino („geheimnisvolle Nacht“).</ab></div>
-         <div type="anmerkung"><ab>Besprechung von –e. NFP 1.2.1924, S. 16: „Eine sehr spannend gebaute Detektivgeschichte, die in Afrika beginnt und etwa zwanzig Jahre später in Amerika endet, und zwar gerade noch rechtzeitig in eben der Nacht, die jenem Tag vorangeht, an dem, wenn nicht alles bis dahin aufgeklärt gewesen wäre, das Riesenerbe der hierüber ahnungslosen Heldin anderwertig hätte aufgeteilt werden müssen. […] Farblos und nichtssagend M. Wallace als Gentleman, der sich als Häuptling einer Schmugglerbande und als mehrfacher Mörder entpuppt. – Technisch tadellos.“ </ab></div>
+         <div type="as">
+            <ab>9/5 […] Mit C. P. Kino („geheimnisvolle Nacht“).</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung von –e. NFP 1.2.1924, S. 16: „Eine sehr spannend gebaute Detektivgeschichte, die in Afrika beginnt und etwa zwanzig Jahre später in Amerika endet, und zwar gerade noch rechtzeitig in eben der Nacht, die jenem Tag vorangeht, an dem, wenn nicht alles bis dahin aufgeklärt gewesen wäre, das Riesenerbe der hierüber ahnungslosen Heldin anderwertig hätte aufgeteilt werden müssen. […] Farblos und nichtssagend M. Wallace als Gentleman, der sich als Häuptling einer Schmugglerbande und als mehrfacher Mörder entpuppt. – Technisch tadellos.“ </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Eine geheimnisvolle Nacht“ [Ot. „One Exciting Night“]</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>D. W. Griffith</persName></cell>
-                  <cell role="data"><persName>[Irene Sinclair (Story)]</persName></cell>
-                  <cell role="data"><orgName>Griffith-Film</orgName></cell>
-                  <cell role="data">Carol Dempster, Percy Carr, [Margaret] Dale, [Carol Dempster, Henry Hull] u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Eine geheimnisvolle Nacht“ [Ot. „One Exciting Night“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>D. W. Griffith</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Irene Sinclair (Story)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Griffith-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Carol Dempster, Percy Carr, [Margaret] Dale, [Carol Dempster, Henry Hull] u.a.</cell>
                </row>
             </table>
          </div>
@@ -120,7 +125,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

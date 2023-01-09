@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-04-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-04-08.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>8/4 […] Abds. Mit C. P. Saschakino (Chaplin City lights), dann mit ihr Meißl genachtm.–</ab></div>
-         <div type="ckp"><ab>8.4. Mit A. im Kino Chaplin, „Lichter der Grossstadt“, dann bei Meisl genachtmahlt. A. wieder sehr kühl. Bei Carry, dem es sehr gut geht. [III, 161]</ab></div>
-         <div type="anmerkung"><ab>„eine Folge der herrlichsten Pantomimen“ (SK II, S. 473). 
-Telegramm zur Londoner Uraufführung NFP 28.2.1931, S. 8. Ankündigung der Alleinaufführung im Sascha-Palast NFP 13.3.1931, S. 8. Premierennotiz NFP 24.3.1931, S. 7, für 4.4.1931. Notiz NFP 6.3.1931, S. 7. Anzeige NFP 4.4.1931, S. 7. Spielort nochmals bestätigt NFP 8.4.1931, S. 20.</ab></div>
+         <div type="as">
+            <ab>8/4 […] Abds. Mit C. P. Saschakino (Chaplin City lights), dann mit ihr Meißl genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>8.4. Mit A. im Kino Chaplin, „Lichter der Grossstadt“, dann bei Meisl genachtmahlt. A. wieder sehr kühl. Bei Carry, dem es sehr gut geht. [III, 161]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„eine Folge der herrlichsten Pantomimen“ (SK II, S. 473). 
+Telegramm zur Londoner Uraufführung NFP 28.2.1931, S. 8. Ankündigung der Alleinaufführung im Sascha-Palast NFP 13.3.1931, S. 8. Premierennotiz NFP 24.3.1931, S. 7, für 4.4.1931. Notiz NFP 6.3.1931, S. 7. Anzeige NFP 4.4.1931, S. 7. Spielort nochmals bestätigt NFP 8.4.1931, S. 20.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Lichter der Großstadt“ (Ot. „City Lights“)</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Charlie Chaplin</persName></cell>
-                  <cell role="data"><persName>Charles Chaplin</persName></cell>
-                  <cell role="data"><orgName>Charles Chaplin Productions</orgName></cell>
-                  <cell role="data">Charlie Chaplin,  Harry Myers, Virginia Cherrill, Florence Lee u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Lichter der Großstadt“ (Ot. „City Lights“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Charlie Chaplin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Charles Chaplin</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Charles Chaplin Productions</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Charlie Chaplin,  Harry Myers, Virginia Cherrill, Florence Lee u.a.</cell>
                </row>
             </table>
          </div>
@@ -115,15 +122,16 @@ Telegramm zur Londoner Uraufführung NFP 28.2.1931, S. 8. Ankündigung der Allei
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__24" type="kino">
-               <orgName>Eos Lichtspiele / Sascha Palast</orgName>
-               <location><address><addrLine>03., Ungargasse 60</addrLine></address></location>
+            <place  xml:id="ask_kino__24" type="kino">
+               <placeName>Eos Lichtspiele / Sascha Palast</placeName>
+               <location>
+                  <address>
+                     <addrLine>03., Ungargasse 60</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Umbenennung 1931. Tonfilm ab 1931. Fassungsraum: Galerie. 1922: 1088 Sitzplätze (davon 122 Logenplätze). Das Kino wurde in der ehemaligen Winterreitschule eingerichtet. – Beschreibung von Architektur und Ausstattung anläßlich der Eröffnung in „Die Filmwelt“ Jg. 1922, Nr. 3, S. 3f. Nicht ident mit dem späteren Eos-Kino in der Landstraßer Hauptstraße. </note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

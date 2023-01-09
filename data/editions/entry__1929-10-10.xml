@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-10-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-10-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/10 Telegr. Curtis Brown – Daybreak Tonfilm 10.000 d. – – leider Verhandlungen mit Feher kaum mehr zu storniren. […] Mit C. P. Kino Manolescu (Mosjoukine), bei Hartmann soup.</ab></div>
-         <div type="anmerkung"><ab>»Daybreak«: Schnitzler arbeitete an der Novelle »Spiel im Morgengrauen«, die 1927 bei Fischer in Berlin erscheint. Eine Verfilmung durch die Bilton-Film erscheint möglich, Verhandlungen nimmt Friedrich Feher als Regisseur auf, das Projekt platzt aber letztlich und Schnitzler verkauft die Rechte ertragreich an MGM. Dazu vgl. ausführlich Wolf 2006, S. 130–139. 
-Besprechung von Lilly Klaudy in NFP 2.10.1929, S. 9. Notiz NFP 8.11.1929, S. 8, kündigt die Aufnahme des Films in zahlreichen Kinos ab 15.11.1929 an, vorher sei der Film mehrere Wochen im Ufa-Tonkino gezeigt worden. </ab></div>
+         <div type="as">
+            <ab>10/10 Telegr. Curtis Brown – Daybreak Tonfilm 10.000 d. – – leider Verhandlungen mit Feher kaum mehr zu storniren. […] Mit C. P. Kino Manolescu (Mosjoukine), bei Hartmann soup.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Daybreak«: Schnitzler arbeitete an der Novelle »Spiel im Morgengrauen«, die 1927 bei Fischer in Berlin erscheint. Eine Verfilmung durch die Bilton-Film erscheint möglich, Verhandlungen nimmt Friedrich Feher als Regisseur auf, das Projekt platzt aber letztlich und Schnitzler verkauft die Rechte ertragreich an MGM. Dazu vgl. ausführlich Wolf 2006, S. 130–139. 
+Besprechung von Lilly Klaudy in NFP 2.10.1929, S. 9. Notiz NFP 8.11.1929, S. 8, kündigt die Aufnahme des Films in zahlreichen Kinos ab 15.11.1929 an, vorher sei der Film mehrere Wochen im Ufa-Tonkino gezeigt worden. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Manolescu“</cell>
-                  <cell role="data"><date>[1929]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>V. Tourjansky</persName></cell>
-                  <cell role="data"><persName>Hans Szekely (Vorlage Novelle)</persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Iwan Mosjoukine, Heinrich George, Brigitte Helm, Dita Parlo, Elsa Wagner</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Manolescu“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>V. Tourjansky</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hans Szekely (Vorlage Novelle)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Iwan Mosjoukine, Heinrich George, Brigitte Helm, Dita Parlo, Elsa Wagner</cell>
                </row>
             </table>
          </div>
@@ -127,7 +132,6 @@ Besprechung von Lilly Klaudy in NFP 2.10.1929, S. 9. Notiz NFP 8.11.1929, S. 8, 
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

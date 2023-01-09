@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-11-04.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-11-04.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>4/11 […] – Nm. bei mir Dir. Fett (Hegewald), mit Secretärin (Polly) die Freiwild Regiebuch Film vorlas;– gut, viel besser als Lbl. Film.– Mit C. P. Kino (Casanova (Mosjoukine)), dann silb. Brunnen genachtm. […]</ab></div>
-         <div type="anmerkung"><ab>Besprechung NFP 6.11.1927, S. 19. Anzeige NFP 4.11.1927, S. 18, dort nachgewiesene Spielorte: Gartenbau-, Opern-, Rotenturm-, Schottenring-, Flotten-, Phönix-, Heimat-, Kolosseum- und Abbazia-Kino sowie Raimund-Lichtspiele und Eos-Lichtspiele.</ab></div>
+         <div type="as">
+            <ab>4/11 […] – Nm. bei mir Dir. Fett (Hegewald), mit Secretärin (Polly) die Freiwild Regiebuch Film vorlas;– gut, viel besser als Lbl. Film.– Mit C. P. Kino (Casanova (Mosjoukine)), dann silb. Brunnen genachtm. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung NFP 6.11.1927, S. 19. Anzeige NFP 4.11.1927, S. 18, dort nachgewiesene Spielorte: Gartenbau-, Opern-, Rotenturm-, Schottenring-, Flotten-, Phönix-, Heimat-, Kolosseum- und Abbazia-Kino sowie Raimund-Lichtspiele und Eos-Lichtspiele.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Casanova“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>F</placeName></cell>
-                  <cell role="data"><persName>Alexander Volkoff</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Ciné Alliance</orgName></cell>
-                  <cell role="data">Iwan Mosjoukine, Paul Guidé, Rudolf Klein-Rogge, Rina de Liguoro, Diana Karenne, Jenny Jugo, Suzanne Bianchetti</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Casanova“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>F</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alexander Volkoff</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ciné Alliance</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Iwan Mosjoukine, Paul Guidé, Rudolf Klein-Rogge, Rina de Liguoro, Diana Karenne, Jenny Jugo, Suzanne Bianchetti</cell>
                </row>
             </table>
          </div>
@@ -134,13 +139,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

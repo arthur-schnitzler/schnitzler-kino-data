@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-11-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-11-08.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>8/11 […] Zu C. P.; mit ihr Lustspth. Kino, Sous les toits de Paris (Préjean), mit ihr Linde soup.– </ab></div>
-         <div type="ckp"><ab>8.11. Viel gearbeitet. Abend im Kino „Unter den Dächern von Paris“. Nachher „Linde.“ Auf der Heimfahrt schlang A. seinen Arm um mich. Zärtlichkeit? Mitleid? Ich glaube nichts mehr. Zum ersten Mal seit Wochen eine herzliche Bewegung – vielleicht, weil er übermorgen nach Berlin fährt. [III, 108]</ab></div>
-         <div type="anmerkung"><ab>René Clairs erster Tonfilm hatte am 15. August 1930 in Deutschland Premiere.
+         <div type="as">
+            <ab>8/11 […] Zu C. P.; mit ihr Lustspth. Kino, Sous les toits de Paris (Préjean), mit ihr Linde soup.– </ab>
+         </div>
+         <div type="ckp">
+            <ab>8.11. Viel gearbeitet. Abend im Kino „Unter den Dächern von Paris“. Nachher „Linde.“ Auf der Heimfahrt schlang A. seinen Arm um mich. Zärtlichkeit? Mitleid? Ich glaube nichts mehr. Zum ersten Mal seit Wochen eine herzliche Bewegung – vielleicht, weil er übermorgen nach Berlin fährt. [III, 108]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>René Clairs erster Tonfilm hatte am 15. August 1930 in Deutschland Premiere.
 »René Clair hat bisher als der einzige in seinem Werk […] die Kräfte abgewogen, die das Auge antreffen und zum Ohr hindrängen« (SK II, S. 411; vgl. ebd. S. 392–395).
-Ankündigungen NFP 28.10.1930, S. 11, und NFP 4.11.1930, S. 11 (dort zwei weitere Spielorte). Spielort bestätigt NFP 8.11.1930, S. 21.</ab></div>
+Ankündigungen NFP 28.10.1930, S. 11, und NFP 4.11.1930, S. 11 (dort zwei weitere Spielorte). Spielort bestätigt NFP 8.11.1930, S. 21.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Unter den Dächern von Paris“ (Ot. „Sous les toits de Paris“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>F[/D]</placeName></cell>
-                  <cell role="data"><persName>René Clair</persName></cell>
-                  <cell role="data"><persName>[René Clair]</persName></cell>
-                  <cell role="data"><orgName>Films Sonor. Tobis</orgName></cell>
-                  <cell role="data">Albert Préjean, [Edmond T.] Gréville, Gaston Modot, [Pola] Illery u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Unter den Dächern von Paris“ (Ot. „Sous les toits de Paris“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>F[/D]</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>René Clair</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[René Clair]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Films Sonor. Tobis</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Albert Préjean, [Edmond T.] Gréville, Gaston Modot, [Pola] Illery u.a.</cell>
                </row>
             </table>
          </div>
@@ -118,16 +125,17 @@ Ankündigungen NFP 28.10.1930, S. 11, und NFP 4.11.1930, S. 11 (dort zwei weiter
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__1" type="kino">
-               <orgName>Lustspieltheater</orgName>
-               <location><address><addrLine>02., Prater</addrLine></address></location>
+            <place  xml:id="ask_kino__1" type="kino">
+               <placeName>Lustspieltheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Prater</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1927. Tonfilm ab 1929
 Fassungsraum: ehemaliges Theater, 3 Ränge. 1927: 1065 Sitzplätze.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

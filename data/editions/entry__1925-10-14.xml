@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-10-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-10-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/10 Berlin. […] Mit Dora und ihrem Mann Alhambra Kino (Briefe, die ihn nicht erreichten); zum Austernmeyer. […].– […]
+         <div type="as">
+            <ab>14/10 Berlin. […] Mit Dora und ihrem Mann Alhambra Kino (Briefe, die ihn nicht erreichten); zum Austernmeyer. […].– […]
 
 [AS an CP am 16.10.1925:]
-[…] Nachher einige geschäftliche Correspondenz u. dgl. Kino (Briefe, die ihn nicht erreichten, Bassermann) mit Dr. Michaelis, Dora und Lor.– […] [I, 232]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] Nachher einige geschäftliche Correspondenz u. dgl. Kino (Briefe, die ihn nicht erreichten, Bassermann) mit Dr. Michaelis, Dora und Lor.– […] [I, 232]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Briefe, die ihn nicht erreichten“</cell>
-                  <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Friedrich Zelnik</persName></cell>
-                  <cell role="data"><persName>Paul Merzbach, Siegfried Philippi</persName></cell>
-                  <cell role="data"><orgName>Zelnik-Film</orgName></cell>
-                  <cell role="data">Albert Bassermann, Marcella Albani, Mia Pankau, Oreste Bilancia, Nils Asther, Bernhard Goetzke, Manja Tzatschewa, Alf Blütecher, Mira Brandt, Wilhelm Diegelmann, Edith Sklarz, Nien Sön Ling</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Briefe, die ihn nicht erreichten“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Friedrich Zelnik</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Paul Merzbach, Siegfried Philippi</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Zelnik-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Albert Bassermann, Marcella Albani, Mia Pankau, Oreste Bilancia, Nils Asther, Bernhard Goetzke, Manja Tzatschewa, Alf Blütecher, Mira Brandt, Wilhelm Diegelmann, Edith Sklarz, Nien Sön Ling</cell>
                </row>
             </table>
          </div>
@@ -162,7 +167,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Berlin</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-09-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>15/9 […] Mit C. P. Kino (Margarethen Bürger) – Herr mit dem Monocle (Ekman); nachher „Hirsch“ soup.–</ab></div>
-         <div type="anmerkung"><ab>Vgl. Notat Pollaczeks vom 18.9.1928 zu den Kinobesuchen am 14. und 15.9.1928. Der Film ist als Premiere für die kommende Woche angekündigt in der »Filmrundschau« der NFP 31.8.1928, S. 8.</ab></div>
+         <div type="as">
+            <ab>15/9 […] Mit C. P. Kino (Margarethen Bürger) – Herr mit dem Monocle (Ekman); nachher „Hirsch“ soup.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Vgl. Notat Pollaczeks vom 18.9.1928 zu den Kinobesuchen am 14. und 15.9.1928. Der Film ist als Premiere für die kommende Woche angekündigt in der »Filmrundschau« der NFP 31.8.1928, S. 8.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Herr mit dem Monokel“ [Ot. „En perfekt gentleman“]</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>SWE</placeName></cell>
-                  <cell role="data"><persName>[Vilhelm] Bryde, Gösta Ekman</persName></cell>
-                  <cell role="data"><persName>[Hjalmar Bergman]</persName></cell>
-                  <cell role="data"><orgName>Film AB Minerva</orgName></cell>
-                  <cell role="data">Gösta Ekman, Hans Albers, [La] Jana, Karin [Swanström]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Herr mit dem Monokel“ [Ot. „En perfekt gentleman“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>SWE</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Vilhelm] Bryde, Gösta Ekman</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Hjalmar Bergman]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Film AB Minerva</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gösta Ekman, Hans Albers, [La] Jana, Karin [Swanström]</cell>
                </row>
             </table>
          </div>
@@ -119,18 +124,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__56" type="kino">
-               <orgName>Margaretner Bürger-Kino</orgName>
-               <location><address><addrLine>05., Margaretenstraße 78</addrLine></address></location>
+            <place  xml:id="ask_kino__56" type="kino">
+               <placeName>Margaretner Bürger-Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>05., Margaretenstraße 78</addrLine>
+                  </address>
+               </location>
                <note type="info"> Schwarz 1992 S. 214 gibt den Bestand eines „Kinematographentheater[s]“ an diesem Standort lediglich bis 1919 an. Die „Kino-Premierentafel“, eine bezahlte Einschaltung in NFP 24.2.1922 S. 13 sowie eine Anzeige ebd. S. 12 nennen hingegen das „Marg[aretner] Bürger-Kino“ mit dieser Anschrift als Spielort des Films „Unter Räubern und Bestien“.</note>
-            </org>
-            <org xml:id="ask_wirt__30" type="wirt">
-               <orgName>Zum Hirschen</orgName>
-               <location><address><addrLine>?</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__30" type="wirt">
+               <placeName>Zum Hirschen</placeName>
+               <location>
+                  <address>
+                     <addrLine>?</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

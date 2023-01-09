@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1900-01-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1900-01-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>Zitat Arthur Schnitzler aus: Tagebuch: 1879-1931 Arthur Schnitzler. Unter Mitw. von Peter Michael Braunwarth hrsg. von d. Kommission für Literarische Gebrauchsformen d. Österreichischen Akademie d. Wissenschaften. Wien: Verl. d. Österr. Akad. d. Wiss. 1987-2000</ab></div>
-         <div type="ckp"><ab>Zitat Clara Katharina Pollaczek aus: Arthur Schnitzler und ich. Unveröff. Typoskript mit handschriftlichen Ergänzungen, Wienbibliothek (vormals Wr. Stadt- und Landesbibliothek) H.I.N. 155550 unter Angabe von Band- und Blattnummer. </ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>Zitat Arthur Schnitzler aus: Tagebuch: 1879-1931 Arthur Schnitzler. Unter Mitw. von Peter Michael Braunwarth hrsg. von d. Kommission für Literarische Gebrauchsformen d. Österreichischen Akademie d. Wissenschaften. Wien: Verl. d. Österr. Akad. d. Wiss. 1987-2000</ab>
+         </div>
+         <div type="ckp">
+            <ab>Zitat Clara Katharina Pollaczek aus: Arthur Schnitzler und ich. Unveröff. Typoskript mit handschriftlichen Ergänzungen, Wienbibliothek (vormals Wr. Stadt- und Landesbibliothek) H.I.N. 155550 unter Angabe von Band- und Blattnummer. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">Titel</cell>
-                  <cell role="data"><date>[Jahr]</date></cell>
-                  <cell role="data">Genre</cell>
-                  <cell role="data"><placeName>Land</placeName></cell>
-                  <cell role="data"><persName>Regie</persName></cell>
-                  <cell role="data"><persName>Buch</persName></cell>
-                  <cell role="data"><orgName>Produktionsfirma</orgName></cell>
-                  <cell role="data">Darsteller</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">Titel</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[Jahr]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Genre</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Land</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Regie</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Buch</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Produktionsfirma</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Darsteller</cell>
                </row>
             </table>
          </div>
@@ -736,7 +743,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

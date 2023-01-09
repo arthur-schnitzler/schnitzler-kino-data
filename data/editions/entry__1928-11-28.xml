@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-11-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-11-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/11 […] Dictirt Film Spiel Morgengraun, Briefe. […] Nm. weiter mit Filmnotizen Spiel beschäftigt.– […] Mit C. P. Kino „Wera Mirzewa“, „Auge Gottes“ soup.–</ab></div>
-         <div type="anmerkung"><ab>Das Drehbuch zu Schnitzlers Erzählung (siehe auch Eintrag zum 1.10.1928) ist nicht fertiggestellt worden. 
-Anzeige und Notiz NFP 23.11.1928, S. 9, dort nachgewiesene Spielorte: Imperial-, Opern-, Schottenring-, Phönix- und Schönbrunner Schloßkino. Besprechung von Felix Cleve in NFP 25.11.1928, S. 20.</ab></div>
+         <div type="as">
+            <ab>28/11 […] Dictirt Film Spiel Morgengraun, Briefe. […] Nm. weiter mit Filmnotizen Spiel beschäftigt.– […] Mit C. P. Kino „Wera Mirzewa“, „Auge Gottes“ soup.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Das Drehbuch zu Schnitzlers Erzählung (siehe auch Eintrag zum 1.10.1928) ist nicht fertiggestellt worden. 
+Anzeige und Notiz NFP 23.11.1928, S. 9, dort nachgewiesene Spielorte: Imperial-, Opern-, Schottenring-, Phönix- und Schönbrunner Schloßkino. Besprechung von Felix Cleve in NFP 25.11.1928, S. 20.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Wera Mirzewa“</cell>
-                  <cell role="data"><date>[1927/28]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Rudolf Meinert</persName></cell>
-                  <cell role="data"><persName>[Norbert Falk]</persName></cell>
-                  <cell role="data"><orgName>[Phönix-Film]</orgName></cell>
-                  <cell role="data">Maria Jacobini, Elza Temary, Ida Wüst, Warwick Ward, Jean Angelo, Grigori Chamra</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Wera Mirzewa“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927/28]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Rudolf Meinert</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Norbert Falk]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Phönix-Film]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Maria Jacobini, Elza Temary, Ida Wüst, Warwick Ward, Jean Angelo, Grigori Chamra</cell>
                </row>
             </table>
          </div>
@@ -127,13 +132,15 @@ Anzeige und Notiz NFP 23.11.1928, S. 9, dort nachgewiesene Spielorte: Imperial-,
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__8" type="wirt">
+               <placeName>Restaurant Auge Gottes</placeName>
+               <location>
+                  <address>
+                     <addrLine>Nußdorferstraße 73, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__8" type="wirt">
-               <orgName>Restaurant Auge Gottes</orgName>
-               <location><address><addrLine>Nußdorferstraße 73, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

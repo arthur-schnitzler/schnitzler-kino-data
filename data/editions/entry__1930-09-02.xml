@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-09-02.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-09-02.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>2/9 Marienbad. […] Kino;– ein (altes) Kriegstück „Flandern“ – ; genachtm. bei „Winterling“.– […]</ab></div>
-         <div type="ckp"><ab>2.9. Gestern Abend im Theater, Gastspiel Werbezirk. Sie sehr unterhaltend, aber eine Hoheit kommt in dem Stück vor, die in der Maske Kaiser Franz Josefs auftritt, der Comble der Gemeinheit und Geschmacklosigkeit. Ich war wütend. Heute Abend Kino. Langweiliger englischer Kriegsfilm „Nichts Neues in Flandern“. Jeden Nachmittag kommt A. zu mir oder ruft mich, – schüchterne, aber zunehmende Zärtlichkeit. [III, 92]</ab></div>
-         <div type="anmerkung"><ab>Marienbader Zeitung, 2.9.1930, S. 3: »Bio Globus. Dienstag, den 2. September, der mit größter Spannung erwartete Film der Menschenverbrüderung und des Weltfriedens ›In Flandern nichts Neues‹. Drama eines Helden in 7 Akten mit Jameson Thomas, Eve Gray und Malcolm Tod in den Hauptrollen. ›Im Westen nichts Neues‹ schrieben die Zeitungen zu einer Zeit, wo der Kampf der Nationen im Weltkriege den Höhepunkt erreichte. Während man das Hinterland einlullte, opferten die Helden draußen im Höhepunkt des Krieges ihr Leben. Im Rahmen einer spannenden Handlung bringt der Film unvergleichlich schöne Bilder und Prinzipien, die für das kommende Geschlecht von Bedeutung und ausschlaggebend sein sollen. Mit Rücksicht auf das große Interesse findet Dienstag den 2. September, um 1/2 11 Uhr abends eine separate Nachtvorstellung statt. Trotz der hohen Regie kein Preiszuschlag.«
-Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als »alt«. Den in der NFP Anfang 1931 heftig diskutierten Remarque-Film »Im Westen nichts Neues« haben weder Pollaczek noch Schnitzler als gesehen protokolliert (vgl. etwa NFP 4.1.1931, S. 13). Pollaczek erwähnt jedoch die in der Tagespresse belegten Proteste gegen den Film am 5. Jänner 1931: »Gestern Abend grosse Krawalle wegen der Aufführung des Remarque-Films, antisemitisches Strassengesindel und Lausbuben, die keine Ahnung haben, was vorgeht« (CKP III, 135).</ab></div>
+         <div type="as">
+            <ab>2/9 Marienbad. […] Kino;– ein (altes) Kriegstück „Flandern“ – ; genachtm. bei „Winterling“.– […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>2.9. Gestern Abend im Theater, Gastspiel Werbezirk. Sie sehr unterhaltend, aber eine Hoheit kommt in dem Stück vor, die in der Maske Kaiser Franz Josefs auftritt, der Comble der Gemeinheit und Geschmacklosigkeit. Ich war wütend. Heute Abend Kino. Langweiliger englischer Kriegsfilm „Nichts Neues in Flandern“. Jeden Nachmittag kommt A. zu mir oder ruft mich, – schüchterne, aber zunehmende Zärtlichkeit. [III, 92]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Marienbader Zeitung, 2.9.1930, S. 3: »Bio Globus. Dienstag, den 2. September, der mit größter Spannung erwartete Film der Menschenverbrüderung und des Weltfriedens ›In Flandern nichts Neues‹. Drama eines Helden in 7 Akten mit Jameson Thomas, Eve Gray und Malcolm Tod in den Hauptrollen. ›Im Westen nichts Neues‹ schrieben die Zeitungen zu einer Zeit, wo der Kampf der Nationen im Weltkriege den Höhepunkt erreichte. Während man das Hinterland einlullte, opferten die Helden draußen im Höhepunkt des Krieges ihr Leben. Im Rahmen einer spannenden Handlung bringt der Film unvergleichlich schöne Bilder und Prinzipien, die für das kommende Geschlecht von Bedeutung und ausschlaggebend sein sollen. Mit Rücksicht auf das große Interesse findet Dienstag den 2. September, um 1/2 11 Uhr abends eine separate Nachtvorstellung statt. Trotz der hohen Regie kein Preiszuschlag.«
+Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als »alt«. Den in der NFP Anfang 1931 heftig diskutierten Remarque-Film »Im Westen nichts Neues« haben weder Pollaczek noch Schnitzler als gesehen protokolliert (vgl. etwa NFP 4.1.1931, S. 13). Pollaczek erwähnt jedoch die in der Tagespresse belegten Proteste gegen den Film am 5. Jänner 1931: »Gestern Abend grosse Krawalle wegen der Aufführung des Remarque-Films, antisemitisches Strassengesindel und Lausbuben, die keine Ahnung haben, was vorgeht« (CKP III, 135).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„In Flandern nichts Neues“ („Poppies of Flanders“)</cell>
-                  <cell role="data"><date>1927</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>UK</placeName></cell>
-                  <cell role="data"><persName>Arthur Maude</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>British International Pictures</orgName></cell>
-                  <cell role="data">Jameson Thomas, Eve Gray, Malcolm Tod</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„In Flandern nichts Neues“ („Poppies of Flanders“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>1927</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>UK</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Arthur Maude</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>British International Pictures</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Jameson Thomas, Eve Gray, Malcolm Tod</cell>
                </row>
             </table>
          </div>
@@ -122,7 +129,6 @@ Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als �
                <placeName>Marienbad</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

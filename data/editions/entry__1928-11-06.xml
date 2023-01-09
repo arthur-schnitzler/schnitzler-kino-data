@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-11-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-11-06.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>6/11 […] – Mit C. P. Kino „die große Abenteurerin“ (Damita) – In der „Linde“ soup.</ab></div>
-         <div type="anmerkung"><ab>Premierennotizen NFP 19.10.1928, S. 9 und NFP 26.10.1928, S. 8. Anzeige NFP 2.11.1928, S. 7. </ab></div>
+         <div type="as">
+            <ab>6/11 […] – Mit C. P. Kino „die große Abenteurerin“ (Damita) – In der „Linde“ soup.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotizen NFP 19.10.1928, S. 9 und NFP 26.10.1928, S. 8. Anzeige NFP 2.11.1928, S. 7. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Große Abenteuerin“</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Robert Wiene</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>F. P. S.-Film</orgName></cell>
-                  <cell role="data">Lily Damita, Trude Hesterberg, Georg Alexander, Fred Solm, Heinrich Schroth</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Große Abenteuerin“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Robert Wiene</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>F. P. S.-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lily Damita, Trude Hesterberg, Georg Alexander, Fred Solm, Heinrich Schroth</cell>
                </row>
             </table>
          </div>
@@ -117,13 +122,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__37" type="wirt">
+               <placeName>Zur Linde</placeName>
+               <location>
+                  <address>
+                     <addrLine>Rotenturmstraße 12, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__37" type="wirt">
-               <orgName>Zur Linde</orgName>
-               <location><address><addrLine>Rotenturmstraße 12, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

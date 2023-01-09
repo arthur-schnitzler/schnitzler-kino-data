@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-03-02.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-03-02.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>2/3 […] Mit C. P. Kino „Drei Tage Liebe“ (Albers, Dorsch); jeder für sich nach Hause.– […] </ab></div>
-         <div type="ckp"><ab>3.3. Bei Carry im Spital gewesen, erst jetzt erfahren, dass man ein Abszess an der Rippe geöffnet hat (in Narkose). Man hat es mir verheimlicht, da ich mit Grippe doch nicht zu ihm hätte dürfen. Er ist gottlob fieberfrei und fidel. Nachher mit A. in einem langweiligen Film und jeder für sich nachhause. Heute sollen wir in die Oper (Opernball) und ich will auch nachher zu mir nachhause, das Zusammensein ist zur Qual geworden. [III, 155]</ab></div>
-         <div type="anmerkung"><ab>Datierung bei Pollaczek unklar: Der Eintrag bezieht sich offensichtlich auf den Nachmittag und Abend des Vortags, da sie im vorangehenden Notat lediglich den Vormittag des 2. März protokolliert. Pollaczeks Sohn Karl war über einen längeren Zeitraum hin krank.
-„Das verlogene und ambitiöse Zeug schmeckt ranzig wie eine verdorbene Speise“ (SK II, S. 461). Ankündigung NFP 17.2.1931, S. 9. Anzeige und Premierennotiz NFP 24.2.1931, S. 7 bzw. 9, Besprechung von Eduard Siebrecht NFP 28.2.1931, S. 11. Nachgewiesene Spielorte: Gartenbau-, Stafa- und Kolosseum-Kino (NFP 2.3.1931, S. 8).</ab></div>
+         <div type="as">
+            <ab>2/3 […] Mit C. P. Kino „Drei Tage Liebe“ (Albers, Dorsch); jeder für sich nach Hause.– […] </ab>
+         </div>
+         <div type="ckp">
+            <ab>3.3. Bei Carry im Spital gewesen, erst jetzt erfahren, dass man ein Abszess an der Rippe geöffnet hat (in Narkose). Man hat es mir verheimlicht, da ich mit Grippe doch nicht zu ihm hätte dürfen. Er ist gottlob fieberfrei und fidel. Nachher mit A. in einem langweiligen Film und jeder für sich nachhause. Heute sollen wir in die Oper (Opernball) und ich will auch nachher zu mir nachhause, das Zusammensein ist zur Qual geworden. [III, 155]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Datierung bei Pollaczek unklar: Der Eintrag bezieht sich offensichtlich auf den Nachmittag und Abend des Vortags, da sie im vorangehenden Notat lediglich den Vormittag des 2. März protokolliert. Pollaczeks Sohn Karl war über einen längeren Zeitraum hin krank.
+„Das verlogene und ambitiöse Zeug schmeckt ranzig wie eine verdorbene Speise“ (SK II, S. 461). Ankündigung NFP 17.2.1931, S. 9. Anzeige und Premierennotiz NFP 24.2.1931, S. 7 bzw. 9, Besprechung von Eduard Siebrecht NFP 28.2.1931, S. 11. Nachgewiesene Spielorte: Gartenbau-, Stafa- und Kolosseum-Kino (NFP 2.3.1931, S. 8).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Drei Tage Liebe“</cell>
-                  <cell role="data"><date>[1930/31]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Heinz Hilpert</persName></cell>
-                  <cell role="data"><persName>Heinz Hilpert, Joe Lederer</persName></cell>
-                  <cell role="data"><orgName>Felsom-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Hans Albers, Käthe Dorsch, Trude Berliner u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Drei Tage Liebe“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930/31]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Heinz Hilpert</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Heinz Hilpert, Joe Lederer</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Felsom-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Hans Albers, Käthe Dorsch, Trude Berliner u.a.</cell>
                </row>
             </table>
          </div>
@@ -125,7 +132,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

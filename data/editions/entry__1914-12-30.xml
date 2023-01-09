@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1914-12-30.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1914-12-30.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>30/12 […] Mit O. und Kara Leitner in der Urania (Kinematogramme) […].</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>30/12 […] Mit O. und Kara Leitner in der Urania (Kinematogramme) […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data"></cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName></placeName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName></orgName></cell>
-                  <cell role="data"></cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel"/>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName/>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName/>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen"/>
                </row>
             </table>
          </div>
@@ -93,15 +98,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__37" type="kino">
-               <orgName>Urania</orgName>
-               <location><address><addrLine>01., Uraniaplatz 1</addrLine></address></location>
+            <place  xml:id="ask_kino__37" type="kino">
+               <placeName>Urania</placeName>
+               <location>
+                  <address>
+                     <addrLine>01., Uraniaplatz 1</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1910. Fassungsraum: 1927: 476 Sitzplätze, 1930: 600. Das Vorgängerlokal der Urania in der Wollzeile wurde 1912 zum „Elite Kino“ Die Urania hatte eine eingeschränkte Konzession zur Veranstaltung von Vorträgen mit kinematographischen Bildern, zur Vorführung von künstlerisch wertvollen Filmen sowie zu Vorführungen in Schulkinos, Arbeiterheimen und kommerziellen Kinos. (Lizenz von 1924)</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

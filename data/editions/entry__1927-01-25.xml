@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-01-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-01-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/1 […] Mit C. P. Kino. Königin der Riviera.– Das Niveau dieses Films ist unwahrscheinlich; immer wieder, neben der Dummheit und Unbildung die Niedrigkeit der Charaktere (der Verfasser) bemerkenswerth. Im silbernen Brunnen mit C. P. gegessen. </ab></div>
-         <div type="anmerkung"><ab>Anzeige NFP 21.1.1927, S. 17. Nachgewiesene Spielorte: Burg- und Votivpark-Kino sowie Kammerlichtspiele Schwarzenbergplatz (NFP 25.1.1927, S. 18).</ab></div>
+         <div type="as">
+            <ab>25/1 […] Mit C. P. Kino. Königin der Riviera.– Das Niveau dieses Films ist unwahrscheinlich; immer wieder, neben der Dummheit und Unbildung die Niedrigkeit der Charaktere (der Verfasser) bemerkenswerth. Im silbernen Brunnen mit C. P. gegessen. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige NFP 21.1.1927, S. 17. Nachgewiesene Spielorte: Burg- und Votivpark-Kino sowie Kammerlichtspiele Schwarzenbergplatz (NFP 25.1.1927, S. 18).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Königin der Riviera“ („Good and Naughty“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Malcolm St. Clair</persName></cell>
-                  <cell role="data"><persName>René Peter, Henri Falk (Stückvorlage „Naughty Cindarella“), [Pierre Collings (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Famous Players-Lasky Corp.</orgName></cell>
-                  <cell role="data">Pola Negri, Miss du Pont, Tom [Moore], Stuart Holmes, Ford Sterling, Marie Mosquini, Warner Richmond</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Königin der Riviera“ („Good and Naughty“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Malcolm St. Clair</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>René Peter, Henri Falk (Stückvorlage „Naughty Cindarella“), [Pierre Collings (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Famous Players-Lasky Corp.</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Pola Negri, Miss du Pont, Tom [Moore], Stuart Holmes, Ford Sterling, Marie Mosquini, Warner Richmond</cell>
                </row>
             </table>
          </div>
@@ -136,13 +141,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

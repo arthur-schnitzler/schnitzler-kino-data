@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-12-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-12-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/12 […] Mit C. P. Kino Westfront 1918 (wegen Pabst);– erschütternder unerträglicher Film.– […]</ab></div>
-         <div type="ckp"><ab>18.12. Gestern Abend mit A. im Kino. „Westfront 1918“. Erschütternd, aber nichts für unsere Nerven. Da sollen die Jungen hineingehen. [III, 129]</ab></div>
-         <div type="anmerkung"><ab>»Ich kann mich nicht erinnern, daß der Krieg, und zwar der Stellungskrieg in seiner letzten, schrecklichsten Phase, im Film je so realistisch dargestellt worden wäre […]. Es ist, als seien mittelalterliche Marterbilder lebendig geworden« (SK II, S. 360 f.).
-Ankündigung NFP 15.8.1930, S. 7. Premierennotiz NFP 22.8.1930, S. 10, für 30.8.1930. Nachgewiesener Spielort: Mozart-Ton-Kino (NZG 17.12.1930, S. 7).</ab></div>
+         <div type="as">
+            <ab>17/12 […] Mit C. P. Kino Westfront 1918 (wegen Pabst);– erschütternder unerträglicher Film.– […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>18.12. Gestern Abend mit A. im Kino. „Westfront 1918“. Erschütternd, aber nichts für unsere Nerven. Da sollen die Jungen hineingehen. [III, 129]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Ich kann mich nicht erinnern, daß der Krieg, und zwar der Stellungskrieg in seiner letzten, schrecklichsten Phase, im Film je so realistisch dargestellt worden wäre […]. Es ist, als seien mittelalterliche Marterbilder lebendig geworden« (SK II, S. 360 f.).
+Ankündigung NFP 15.8.1930, S. 7. Premierennotiz NFP 22.8.1930, S. 10, für 30.8.1930. Nachgewiesener Spielort: Mozart-Ton-Kino (NZG 17.12.1930, S. 7).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Westfront 1918“ (Ut. „Vier von der Infanterie“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>G. W. Pabst</persName></cell>
-                  <cell role="data"><persName>Ernst Johannsen (Vorlage Roman „Vier von der Infanterie“), [Ladislaus Vajda]</persName></cell>
-                  <cell role="data"><orgName>Nero-Tobis</orgName></cell>
-                  <cell role="data">Fritz Kampers, Gustav Diessl, Hans Joachim Moebis, Carl Balhaus, Claus Clausen, Jackie Monnier, Hanna Hössrich, Else Heller u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Westfront 1918“ (Ut. „Vier von der Infanterie“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>G. W. Pabst</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Ernst Johannsen (Vorlage Roman „Vier von der Infanterie“), [Ladislaus Vajda]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Nero-Tobis</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Fritz Kampers, Gustav Diessl, Hans Joachim Moebis, Carl Balhaus, Claus Clausen, Jackie Monnier, Hanna Hössrich, Else Heller u.a.</cell>
                </row>
             </table>
          </div>
@@ -148,7 +155,6 @@ Ankündigung NFP 15.8.1930, S. 7. Premierennotiz NFP 22.8.1930, S. 10, für 30.8
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

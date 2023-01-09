@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-02-23.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-02-23.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>23/2 […] Mit C. P. Kino Tonfilmoperette Hochzeit in Hollywood – – von so unerreichter Läpperei, dass es wie eine vollkommene Parodie wirkte. C. P. nachm. bei mir. […] wie ungeduldig und ungerecht machen die Thränen einer Frau, die man nicht liebt; und die Tragik entwickelt nur „Langeweile“ – </ab></div>
-         <div type="anmerkung"><ab>Notiz NFP 7.2.1930, S. 8. Anzeige NFP 18.2.1930, S. 2. Besprechung von L. HM. in NFP 21.2.1930, S. 10. Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Ton-Kino (NFP 23.2.1930, S. 39).</ab></div>
+         <div type="as">
+            <ab>23/2 […] Mit C. P. Kino Tonfilmoperette Hochzeit in Hollywood – – von so unerreichter Läpperei, dass es wie eine vollkommene Parodie wirkte. C. P. nachm. bei mir. […] wie ungeduldig und ungerecht machen die Thränen einer Frau, die man nicht liebt; und die Tragik entwickelt nur „Langeweile“ – </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Notiz NFP 7.2.1930, S. 8. Anzeige NFP 18.2.1930, S. 2. Besprechung von L. HM. in NFP 21.2.1930, S. 10. Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Ton-Kino (NFP 23.2.1930, S. 39).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Hochzeit in Hollywood“ („Married in Hollywood“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Marcel Silver, Edward Royce</persName></cell>
-                  <cell role="data"><persName>Leopold Jacobson, [Bruno Hardt-]Warde[n]</persName></cell>
-                  <cell role="data"><orgName>Fox-Movietone-Film</orgName></cell>
-                  <cell role="data">Irene Palasthy, Norma Terris, Leila Carnelly, J. Harold Murray, Douglas Gilmore</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Hochzeit in Hollywood“ („Married in Hollywood“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Marcel Silver, Edward Royce</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Leopold Jacobson, [Bruno Hardt-]Warde[n]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox-Movietone-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Irene Palasthy, Norma Terris, Leila Carnelly, J. Harold Murray, Douglas Gilmore</cell>
                </row>
             </table>
          </div>
@@ -128,7 +133,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

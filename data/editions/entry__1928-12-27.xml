@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-12-27.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-12-27.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>27/12 Ankunft Berlin. […] Mit Arnoldo Kino: Ungar. Rhapsodie (gut); […]
+         <div type="as">
+            <ab>27/12 Ankunft Berlin. […] Mit Arnoldo Kino: Ungar. Rhapsodie (gut); […]
 
 [AS an CP am 28.12.1928:]
-[…] um ½7 holt mich A.; – in ein ziemlich fern gelegenes Kino, fast unbekannt, aber besonders hübsch; – Ungarische Rhapsodie; vorzüglich – das Ende albern, wegen des dringenden „Happy“ – – dann entdeckte ich (durch Vermittlung eines der Espl.-Direktoren) ein angenehmes stilles Alt-Berliner Restaurant an der Po[ts]damer Brücke (also recht nah) wo ich mit Arnoldo nachtmahlte. – […] [II, 174]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] um ½7 holt mich A.; – in ein ziemlich fern gelegenes Kino, fast unbekannt, aber besonders hübsch; – Ungarische Rhapsodie; vorzüglich – das Ende albern, wegen des dringenden „Happy“ – – dann entdeckte ich (durch Vermittlung eines der Espl.-Direktoren) ein angenehmes stilles Alt-Berliner Restaurant an der Po[ts]damer Brücke (also recht nah) wo ich mit Arnoldo nachtmahlte. – […] [II, 174]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Ungarische Rhapsodie“</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Hanns Schwarz</persName></cell>
-                  <cell role="data"><persName>[Joe May, Hans Székely]</persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Willy Fritsch, Fritz Greiner, Erich Kaiser-Titz, Harry Hardt, Andor Heltai, Dita Parlo, Lil Dagover</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Ungarische Rhapsodie“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Hanns Schwarz</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Joe May, Hans Székely]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Willy Fritsch, Fritz Greiner, Erich Kaiser-Titz, Harry Hardt, Andor Heltai, Dita Parlo, Lil Dagover</cell>
                </row>
             </table>
          </div>
@@ -150,7 +155,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Berlin</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

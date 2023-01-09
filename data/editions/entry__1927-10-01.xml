@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-10-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-10-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>1/10 […] Mit C. P. Kino: Die Liebschaften der Leopoldine Habsburger. Dann mit ihr Opernrest. genachtm.– </ab></div>
-         <div type="anmerkung"><ab>Anzeige NFP 30.9.1927, S. 17.</ab></div>
+         <div type="as">
+            <ab>1/10 […] Mit C. P. Kino: Die Liebschaften der Leopoldine Habsburger. Dann mit ihr Opernrest. genachtm.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige NFP 30.9.1927, S. 17.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Liebschaften der Leopoldine Habsburger“ („Die drei Niemandskinder“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fritz Freisler</persName></cell>
-                  <cell role="data"><persName>Karl Rössler (Vorlage gleichnamiger Roman)</persName></cell>
-                  <cell role="data"><orgName>Greenbaumfilm</orgName></cell>
-                  <cell role="data">Xenia Desni, Greta Graal, Adele Sandrock, Willi Forst, Fritz Alberti, Kurt Vespermann, Wilhelm Diegelmann, Hermann Vallentin, Hermann Picha</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Liebschaften der Leopoldine Habsburger“ („Die drei Niemandskinder“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fritz Freisler</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Karl Rössler (Vorlage gleichnamiger Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Greenbaumfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Xenia Desni, Greta Graal, Adele Sandrock, Willi Forst, Fritz Alberti, Kurt Vespermann, Wilhelm Diegelmann, Hermann Vallentin, Hermann Picha</cell>
                </row>
             </table>
          </div>
@@ -137,13 +142,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

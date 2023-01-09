@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-02-23.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-02-23.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>23/2 […] Mit C. P. Kino „Sturm“ (Barrymore), Auge Gottes soup.–</ab></div>
-         <div type="ckp"><ab>24.2. Gestern Abend noch im Kino mit A. Etwas gemütlicher, wenn auch ohne jede Zärtlichkeit. Heute Vormittag war ich beim Eisstoss auf der Reichsbrücke mit ihm, dann in der Hauptallee. Eisiger Wind. Wann wird dieser Winter ein Ende nehmen? Am Abend soll ich zu ihm. Ich fürchte mich. Eine Aussprache wird sich nicht umgehen lassen und wenn, dann ist es eine Verlogenheit. [II, 196]</ab></div>
-         <div type="anmerkung"><ab>Ankündigung NFP 22.2.1929, S. 11. Besprechung von Felix Cleve NFP 24.2.1929, S. 16. Nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Schottenring-, Busch-, Eos-, Haydn-, Palast-, Kolosseum-, Heimat- und Theater-Kino (NFP 23.2.1929, S. 15).</ab></div>
+         <div type="as">
+            <ab>23/2 […] Mit C. P. Kino „Sturm“ (Barrymore), Auge Gottes soup.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>24.2. Gestern Abend noch im Kino mit A. Etwas gemütlicher, wenn auch ohne jede Zärtlichkeit. Heute Vormittag war ich beim Eisstoss auf der Reichsbrücke mit ihm, dann in der Hauptallee. Eisiger Wind. Wann wird dieser Winter ein Ende nehmen? Am Abend soll ich zu ihm. Ich fürchte mich. Eine Aussprache wird sich nicht umgehen lassen und wenn, dann ist es eine Verlogenheit. [II, 196]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Ankündigung NFP 22.2.1929, S. 11. Besprechung von Felix Cleve NFP 24.2.1929, S. 16. Nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Schottenring-, Busch-, Eos-, Haydn-, Palast-, Kolosseum-, Heimat- und Theater-Kino (NFP 23.2.1929, S. 15).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Sturm“ (Ot. „Tempest“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Sam Taylor</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>[Joseph M. Schenck Productions]</orgName></cell>
-                  <cell role="data">John Barrymore, Louis Wolheim, George Fawcett, Boris de [Fast], Camilla Horn u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Sturm“ (Ot. „Tempest“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Sam Taylor</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Joseph M. Schenck Productions]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">John Barrymore, Louis Wolheim, George Fawcett, Boris de [Fast], Camilla Horn u.a.</cell>
                </row>
             </table>
          </div>
@@ -124,7 +131,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

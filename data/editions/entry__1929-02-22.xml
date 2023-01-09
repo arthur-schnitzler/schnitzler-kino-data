@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-02-22.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-02-22.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>22/2 […] Mit C. P. Kino, „sieben Adler“ (Colleen Moore); Linde mit ihr genachtm. (in übelster Stimmung) –</ab></div>
-         <div type="ckp"><ab>22.2. Kino. Dann „Linde“. Fader Film „Sieben Adler“, fader, ennervanter Abend. Am Nachmittag Anna bei mir. Ich liess mir viel von ihr erzählen, schwieg über mich und meine Angelegenheiten. Helfen kann einem doch niemand. [II, 195]</ab></div>
-         <div type="anmerkung"><ab>»Anna«: Anna Epstein, geb. Loeb, Pollaczeks Schwester. 
-Ankündigung NFP 15.2.1929, S. 10. </ab></div>
+         <div type="as">
+            <ab>22/2 […] Mit C. P. Kino, „sieben Adler“ (Colleen Moore); Linde mit ihr genachtm. (in übelster Stimmung) –</ab>
+         </div>
+         <div type="ckp">
+            <ab>22.2. Kino. Dann „Linde“. Fader Film „Sieben Adler“, fader, ennervanter Abend. Am Nachmittag Anna bei mir. Ich liess mir viel von ihr erzählen, schwieg über mich und meine Angelegenheiten. Helfen kann einem doch niemand. [II, 195]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Anna«: Anna Epstein, geb. Loeb, Pollaczeks Schwester. 
+Ankündigung NFP 15.2.1929, S. 10. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Lilac Time“ (Ut. „Die Sieben Adler“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>George Fitzmaurice</persName></cell>
-                  <cell role="data"><persName>[Jane Cowl, Jane Murfin (Vorlage gleichnamiges Bühnenstück); Carey Wilson (Drehbuch); Willis Goldbeck (Adaption); George Marion (Titel)]</persName></cell>
-                  <cell role="data"><orgName>First Nationalfilm</orgName></cell>
-                  <cell role="data">Gary Cooper, Colle[e]n [Moore] u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Lilac Time“ (Ut. „Die Sieben Adler“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>George Fitzmaurice</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Jane Cowl, Jane Murfin (Vorlage gleichnamiges Bühnenstück); Carey Wilson (Drehbuch); Willis Goldbeck (Adaption); George Marion (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>First Nationalfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gary Cooper, Colle[e]n [Moore] u.a.</cell>
                </row>
             </table>
          </div>
@@ -134,7 +141,6 @@ Ankündigung NFP 15.2.1929, S. 10. </ab></div>
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

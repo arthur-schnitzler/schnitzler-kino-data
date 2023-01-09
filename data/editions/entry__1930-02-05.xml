@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-02-05.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-02-05.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>5/2 […] mit C. P. Kino Dame von Moskau (Pola Negri);– im Grabenrestaurant (zum 1. Mal) genachtm.– […]</ab></div>
-         <div type="anmerkung"><ab>Anzeige und Premierennotiz NFP 31.1.1930, S. 7, mit Angabe zweier Spielorte: Maria-Theresien-Kino und Tuchlauben-Lichtspiele.</ab></div>
+         <div type="as">
+            <ab>5/2 […] mit C. P. Kino Dame von Moskau (Pola Negri);– im Grabenrestaurant (zum 1. Mal) genachtm.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige und Premierennotiz NFP 31.1.1930, S. 7, mit Angabe zweier Spielorte: Maria-Theresien-Kino und Tuchlauben-Lichtspiele.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Dame aus Moskau“ („Fédora“, [Ot. „The Woman From Moscow“])</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Ludwig Berger</persName></cell>
-                  <cell role="data"><persName>Victorien Sardou (Vorlage Roman „Fedora, comédie en quatre actes“); [John Farrow (Drehbuch, Titel)]</persName></cell>
-                  <cell role="data"><orgName>Paramount-Film</orgName></cell>
-                  <cell role="data">Pola Negri, Norman Kerry, Paul Lukas, Otto Mattiesen, Jack Luden u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Dame aus Moskau“ („Fédora“, [Ot. „The Woman From Moscow“])</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ludwig Berger</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Victorien Sardou (Vorlage Roman „Fedora, comédie en quatre actes“); [John Farrow (Drehbuch, Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Pola Negri, Norman Kerry, Paul Lukas, Otto Mattiesen, Jack Luden u.a.</cell>
                </row>
             </table>
          </div>
@@ -126,7 +131,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

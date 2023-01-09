@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1923-10-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1923-10-18.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>18/10 […] – Kino, mit C. P., und Barjanskis. (Schlechte Verfilmung des „Idioten“ mit Asta Nielsen.)</ab></div>
-         <div type="anmerkung"><ab>»Barjanskis«: Alexander Barjanski (1883–1961, Cellist) und Gattin
-Dostojewskis Romane sind in den frühen 1920er Jahren vielfach verfilmt worden (vgl. SK II, S. 423). Als Spielort nachgewiesen NFP 18.10.1923, S. 17: Flieger-Kino.</ab></div>
+         <div type="as">
+            <ab>18/10 […] – Kino, mit C. P., und Barjanskis. (Schlechte Verfilmung des „Idioten“ mit Asta Nielsen.)</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Barjanskis«: Alexander Barjanski (1883–1961, Cellist) und Gattin
+Dostojewskis Romane sind in den frühen 1920er Jahren vielfach verfilmt worden (vgl. SK II, S. 423). Als Spielort nachgewiesen NFP 18.10.1923, S. 17: Flieger-Kino.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Irrende Seelen“ („Der Idiot“)</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>[Carl Froelich]</persName></cell>
-                  <cell role="data"><persName>Fjodor Dostojewski (Vorlage Roman)</persName></cell>
-                  <cell role="data"><orgName>Russo-Decla Bioskop-Film</orgName></cell>
-                  <cell role="data">Asta Nielsen, Lyda Salmonova, Walter Janssen, Alfred Abel, Ernst Rotmund, Leonhard Haskel</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Irrende Seelen“ („Der Idiot“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Carl Froelich]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Fjodor Dostojewski (Vorlage Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Russo-Decla Bioskop-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Asta Nielsen, Lyda Salmonova, Walter Janssen, Alfred Abel, Ernst Rotmund, Leonhard Haskel</cell>
                </row>
             </table>
          </div>
@@ -132,7 +137,6 @@ Dostojewskis Romane sind in den frühen 1920er Jahren vielfach verfilmt worden (
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

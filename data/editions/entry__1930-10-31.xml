@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-10-31.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-10-31.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>31/10 […] – ich mit C. P. Ufa Kino „Sahara“film und andres.– In die „Linde“. </ab></div>
-         <div type="ckp"><ab>31.10. Mit A. im Kino. Sehr langweiliger Film und der ganze Abend trübselig. [III, 107]</ab></div>
-         <div type="anmerkung"><ab>„Ein trefflicher Gedanke: die Vertreibung der Langeweile mit Hilfe der Fabel. Nur leider ist hier die Fabel so hilflos geraten, daß sie auf Dauer langweiliger wirkt als die Kulturbilder, die ausgezeichnet sind“ (SK II, S. 366). 
-Besprechung von Philipp Winter in NFP 4.11.1930, S. 10. Spielort bestätigt NZG 31.10.1930, S. 7.</ab></div>
+         <div type="as">
+            <ab>31/10 […] – ich mit C. P. Ufa Kino „Sahara“film und andres.– In die „Linde“. </ab>
+         </div>
+         <div type="ckp">
+            <ab>31.10. Mit A. im Kino. Sehr langweiliger Film und der ganze Abend trübselig. [III, 107]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Ein trefflicher Gedanke: die Vertreibung der Langeweile mit Hilfe der Fabel. Nur leider ist hier die Fabel so hilflos geraten, daß sie auf Dauer langweiliger wirkt als die Kulturbilder, die ausgezeichnet sind“ (SK II, S. 366). 
+Besprechung von Philipp Winter in NFP 4.11.1930, S. 10. Spielort bestätigt NZG 31.10.1930, S. 7.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Am Rande der Sahara“</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Natur</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Martin Rikli, Rudolf Biebrach</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Ufa-Klangfilm</orgName></cell>
-                  <cell role="data">Harry Frank, Fritz Spira, Erich Kestin, Rudolf Biebrach, Leni Sponholz</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Am Rande der Sahara“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Natur</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Martin Rikli, Rudolf Biebrach</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harry Frank, Fritz Spira, Erich Kestin, Rudolf Biebrach, Leni Sponholz</cell>
                </row>
             </table>
          </div>
@@ -125,15 +132,16 @@ Besprechung von Philipp Winter in NFP 4.11.1930, S. 10. Spielort bestätigt NZG 
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__8" type="kino">
-               <orgName>Zentralkino / Ufa-Ton-Kino</orgName>
-               <location><address><addrLine>02., Taborstraße 8</addrLine></address></location>
+            <place  xml:id="ask_kino__8" type="kino">
+               <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Taborstraße 8</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1916. Umbenennung 1929. Tonfilm ab 1929.  Fassungsraum: Ehemalige Singspielhalle, Galerie. 1922: insgesamt 1008 Sitzplätze (davon 110 Logenplätze), 1923: 984 (128). – Schwarz 1992, S. 208 nennt außerdem noch ein „Wiedner Zentralkino“, 04., Favoritenplatz 5.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

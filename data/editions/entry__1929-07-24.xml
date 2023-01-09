@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-07-24.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-07-24.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>24/7 […] Zu C. P., mit ihr, Kolap Schinnerer Film – „Exot. Club“. Jammervoll. Alle im freien beim „Gruss“ genachtm.– </ab></div>
-         <div type="ckp"><ab>24.7. Mit A., Schinnerer und Frieda im Kino. Elender Film. Beim Gruss genachtmahlt. Gute Stimmung. An einem Tisch ein Herr van Hanen, der ein Flirt von Lili gewesen ist. Was für einen schlechten Geschmack hatte dieses arme Kind. Abenteurerphysiognomie. [II, 252]</ab></div>
-         <div type="anmerkung"><ab>»Schinnerer«: Otto P. Schinnerer (1890–1942), amerikanischer Literaturwissenschaftler und Übersetzer, der sich früh in monographischer Form mit Schnitzler beschäftigte, die »Traumnovelle« ins Englische übersetzte und deren Verfasser auch zum Freund wurde (vgl. Schnitzler 1943). 
-Nachgewiesener Spielort: Flieger-Kino (NZG 24.7.1929, S. 8). In PFL ist der Kinostart erst für die neue Saison angegeben.</ab></div>
+         <div type="as">
+            <ab>24/7 […] Zu C. P., mit ihr, Kolap Schinnerer Film – „Exot. Club“. Jammervoll. Alle im freien beim „Gruss“ genachtm.– </ab>
+         </div>
+         <div type="ckp">
+            <ab>24.7. Mit A., Schinnerer und Frieda im Kino. Elender Film. Beim Gruss genachtmahlt. Gute Stimmung. An einem Tisch ein Herr van Hanen, der ein Flirt von Lili gewesen ist. Was für einen schlechten Geschmack hatte dieses arme Kind. Abenteurerphysiognomie. [II, 252]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Schinnerer«: Otto P. Schinnerer (1890–1942), amerikanischer Literaturwissenschaftler und Übersetzer, der sich früh in monographischer Form mit Schnitzler beschäftigte, die »Traumnovelle« ins Englische übersetzte und deren Verfasser auch zum Freund wurde (vgl. Schnitzler 1943). 
+Nachgewiesener Spielort: Flieger-Kino (NZG 24.7.1929, S. 8). In PFL ist der Kinostart erst für die neue Saison angegeben.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Exotische Klub“ („Man ist nur einmal jung…“) [Ot. „Red Wine“]</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Raymond Cannon</persName></cell>
-                  <cell role="data"><persName>[Raymond Cannon (Story); Andrew Bennison, Charles Condon (Adaption); Garrett Graham (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Fox-Film</orgName></cell>
-                  <cell role="data">Conrad Nagel, June Collyer u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Exotische Klub“ („Man ist nur einmal jung…“) [Ot. „Red Wine“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Raymond Cannon</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Raymond Cannon (Story); Andrew Bennison, Charles Condon (Adaption); Garrett Graham (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conrad Nagel, June Collyer u.a.</cell>
                </row>
             </table>
          </div>
@@ -137,7 +144,6 @@ Nachgewiesener Spielort: Flieger-Kino (NZG 24.7.1929, S. 8). In PFL ist der Kino
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

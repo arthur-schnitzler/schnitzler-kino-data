@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-04-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-04-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/4 […] Mit C. P. (Elite) Kino Hollywood (von Bermann) und ein Chaplin Film. Mit ihr Linde soup. </ab></div>
-         <div type="anmerkung"><ab>1. PFL: »Reisebilder von Arnold Höllriegel« (vgl. auch Eintrag vom 24.2.1924). Anzeige und Notiz NFP 19.4.1929, S. 7. Besprechung von Philipp Winter in NFP 20.4.1929, S. 11.
+         <div type="as">
+            <ab>25/4 […] Mit C. P. (Elite) Kino Hollywood (von Bermann) und ein Chaplin Film. Mit ihr Linde soup. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>1. PFL: »Reisebilder von Arnold Höllriegel« (vgl. auch Eintrag vom 24.2.1924). Anzeige und Notiz NFP 19.4.1929, S. 7. Besprechung von Philipp Winter in NFP 20.4.1929, S. 11.
 2. Im Elite-Kino wurde »Wir in Hollywood« und ferner: »Der Doppelgänger« mit Charlie Chaplin gezeigt (NFP 23.4.1929, S. 17), der allerdings in den gängigen Quellen zu Chaplin nicht aufscheint. 
-Spielorte: Es gab neben dem (auch in der NFP 19.4.1929, S. 7) mit dem Doppelprogramm beworbenen Kino mehrere weitere namens »Elite«, u. a. ein – in nächster Nähe zu Schnitzlers Wohnung gelegenes, recht kleines – »Gersthofer Elitetheater« (vgl. dazu Liste der bei Schnitzler notierten Kinos).</ab></div>
+Spielorte: Es gab neben dem (auch in der NFP 19.4.1929, S. 7) mit dem Doppelprogramm beworbenen Kino mehrere weitere namens »Elite«, u. a. ein – in nächster Nähe zu Schnitzlers Wohnung gelegenes, recht kleines – »Gersthofer Elitetheater« (vgl. dazu Liste der bei Schnitzler notierten Kinos).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Wir in Hollywood“ („Hollywood“ / „Die Filmstadt Hollywood“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Natur</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>[Max Goldschmidt]</persName></cell>
-                  <cell role="data"><persName>[Arnold Höllriegel]</persName></cell>
-                  <cell role="data"><orgName>Höllriegel-Film</orgName></cell>
-                  <cell role="data">[Dolores del Rio, Emil Jannings, Conrad Veidt, Charles Chaplin, F. W. Murnau, Arnold Höllriegel]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Wir in Hollywood“ („Hollywood“ / „Die Filmstadt Hollywood“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Natur</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Max Goldschmidt]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Arnold Höllriegel]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Höllriegel-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">[Dolores del Rio, Emil Jannings, Conrad Veidt, Charles Chaplin, F. W. Murnau, Arnold Höllriegel]</cell>
                </row>
             </table>
          </div>
@@ -131,15 +136,16 @@ Spielorte: Es gab neben dem (auch in der NFP 19.4.1929, S. 7) mit dem Doppelprog
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__27" type="kino">
-               <orgName>Elitekino</orgName>
-               <location><address><addrLine>01., Wollzeile 34</addrLine></address></location>
+            <place  xml:id="ask_kino__27" type="kino">
+               <placeName>Elitekino</placeName>
+               <location>
+                  <address>
+                     <addrLine>01., Wollzeile 34</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 29.3.1912. Ehemaliger Theatersaal. Fassungsraum: 1914: 400 Sitzplätze, 1922: 373 Sitzplätze (davon ca. 120 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

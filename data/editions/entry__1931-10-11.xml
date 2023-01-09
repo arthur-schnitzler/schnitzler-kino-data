@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-10-11.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-10-11.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>11/10 […] Mit C. P. (Gersthofer) Kino, Eva (Mosheim);– mit C. P. bei „Pohl“ genachtm.</ab></div>
-         <div type="ckp"><ab>Sonntag II[t]en Okt. Mit A. aufs Kobenzl gefahren, zu Fuss herunter. Wieder ein wunder-voller Herbst-Tag aber A. so elend dass ich an meinen Tränen würgte. Mittag bei ihm gegessen dann nach Tisch in der Sonne gesessen. Er schlummerte. Abend mit ihm bei einem dummen Film „EVA“ dann bei Pohl genachtmahlt. A. kaum gegessen. Magen-Verstimmung u. Finanzielle Sorgen. [III, 249f.]</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz NFP 1.9.1931, S. 10, für 4.9.1931. Besprechung von Lilly Klaudy in NFP 9.9.1931, S. 10.</ab></div>
+         <div type="as">
+            <ab>11/10 […] Mit C. P. (Gersthofer) Kino, Eva (Mosheim);– mit C. P. bei „Pohl“ genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>Sonntag II[t]en Okt. Mit A. aufs Kobenzl gefahren, zu Fuss herunter. Wieder ein wunder-voller Herbst-Tag aber A. so elend dass ich an meinen Tränen würgte. Mittag bei ihm gegessen dann nach Tisch in der Sonne gesessen. Er schlummerte. Abend mit ihm bei einem dummen Film „EVA“ dann bei Pohl genachtmahlt. A. kaum gegessen. Magen-Verstimmung u. Finanzielle Sorgen. [III, 249f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz NFP 1.9.1931, S. 10, für 4.9.1931. Besprechung von Lilly Klaudy in NFP 9.9.1931, S. 10.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Eva“ („Arme, kleine Eva!“)</cell>
-                  <cell role="data"><date>[1930/31]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Edmund Heuberger</persName></cell>
-                  <cell role="data"><persName>Paul Langenscheidt (Vorlage gleichnamiger Roman); [Walter] Wassermann, [Walter] Schlee (Drehbuch)</persName></cell>
-                  <cell role="data"><orgName>Aco-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Grete Mosheim, Hilde Hildebrandt, Lotte Spira, Anna Müller-Linke, Hedwig Wangel, Harry Hardt, Eduard von Winterstein, Ferdinand von Alten, Harry Nestor, Willy Clever</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Eva“ („Arme, kleine Eva!“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930/31]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Edmund Heuberger</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Paul Langenscheidt (Vorlage gleichnamiger Roman); [Walter] Wassermann, [Walter] Schlee (Drehbuch)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Aco-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Grete Mosheim, Hilde Hildebrandt, Lotte Spira, Anna Müller-Linke, Hedwig Wangel, Harry Hardt, Eduard von Winterstein, Ferdinand von Alten, Harry Nestor, Willy Clever</cell>
                </row>
             </table>
          </div>
@@ -153,15 +160,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__54" type="kino">
-               <orgName>Gersthofer Elitetheater</orgName>
-               <location><address><addrLine>18., Gersthoferstraße 73</addrLine></address></location>
+            <place  xml:id="ask_kino__54" type="kino">
+               <placeName>Gersthofer Elitetheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gersthoferstraße 73</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912, Fassungsraum: 1914: 284 Sitzplätze, 1922: 252 Sitzplätze (davon 16 Logenplätze), 1934: 240 (16). – Das einzige Kino im Bezirksteil Gersthof. Schwarz gibt keine Adaption des Kinos für den Tonfilm an, was im Widerspruch zu den letzten 5 bei Schnitzler notierten Besuchen in diesem Kino steht.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-03-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/3 […] – Mit C. P. Kino Auferstehung (Rocque, Rio); im Opernrest. soupirt.– Weitres im Mscrpt. des neuen Romans von C. P. gelesen.– </ab></div>
-         <div type="anmerkung"><ab>»neuen Romans«: Pollaczek arbeitete an einem nicht weiter nachgewiesenen Roman (Nr. 32 der Bibliographie)
-„Dieser amerikanische Großfilm […] macht aus dem Tolstoi-Roman einen immerhin groß angelegten Film“ (SK I, S. 406). Premierennotiz NFP 2.3.1928, S. 19, für 8.3.1928.</ab></div>
+         <div type="as">
+            <ab>10/3 […] – Mit C. P. Kino Auferstehung (Rocque, Rio); im Opernrest. soupirt.– Weitres im Mscrpt. des neuen Romans von C. P. gelesen.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»neuen Romans«: Pollaczek arbeitete an einem nicht weiter nachgewiesenen Roman (Nr. 32 der Bibliographie)
+„Dieser amerikanische Großfilm […] macht aus dem Tolstoi-Roman einen immerhin groß angelegten Film“ (SK I, S. 406). Premierennotiz NFP 2.3.1928, S. 19, für 8.3.1928.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Auferstehung“ [Ot. „Resurrection“]</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Henry King</persName></cell>
-                  <cell role="data"><persName>Leo Tolstoi (Vorlage gleichnamiger Roman)</persName></cell>
-                  <cell role="data"><orgName>[Edwin Carewe Productions, Inspiration Pictures]</orgName></cell>
-                  <cell role="data">Rod la Rocque, Dolores del Rio, u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Auferstehung“ [Ot. „Resurrection“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Henry King</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Leo Tolstoi (Vorlage gleichnamiger Roman)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Edwin Carewe Productions, Inspiration Pictures]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Rod la Rocque, Dolores del Rio, u.a.</cell>
                </row>
             </table>
          </div>
@@ -114,13 +119,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

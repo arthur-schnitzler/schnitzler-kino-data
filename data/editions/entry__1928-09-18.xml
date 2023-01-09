@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-09-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-09-18.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>18/9 […] Mit C. P. Kino (der Mann zwischen 3 Frauen); dann mit ihr Rest. Heumühle – vielleicht zum ersten Mal, seit ich – mit M. G. dort war;– vor 35–36 Jahren.–</ab></div>
-         <div type="anmerkung"><ab>„eine nicht schmackhafte Mischung aus verschiedenen Filmlustspielmotiven“ (SK II, S. 126). Titeländerung nachgewiesen PFL 28.9.1928, Nr. 651, S. 154. Laut NFP 18.9.1928, S. 16, ausschließlich im Elite-Kino, hingegen NZG 18.9.1928, S. 8, unter dem Titel »Der Tanz um die Ehe« auch in den Raimund-Lichtspielen.</ab></div>
+         <div type="as">
+            <ab>18/9 […] Mit C. P. Kino (der Mann zwischen 3 Frauen); dann mit ihr Rest. Heumühle – vielleicht zum ersten Mal, seit ich – mit M. G. dort war;– vor 35–36 Jahren.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„eine nicht schmackhafte Mischung aus verschiedenen Filmlustspielmotiven“ (SK II, S. 126). Titeländerung nachgewiesen PFL 28.9.1928, Nr. 651, S. 154. Laut NFP 18.9.1928, S. 16, ausschließlich im Elite-Kino, hingegen NZG 18.9.1928, S. 8, unter dem Titel »Der Tanz um die Ehe« auch in den Raimund-Lichtspielen.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Zwischen drei Frauen“ („Der Tanz um die Ehe“, „Der Tanzstudent“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Johannes Guter</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Albert Paulig, Fritz Alberti, Carl Auen, Margit Manstad, Suzy Vernon, Valery Boothby, Willy Fritsch</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Zwischen drei Frauen“ („Der Tanz um die Ehe“, „Der Tanzstudent“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Johannes Guter</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Albert Paulig, Fritz Alberti, Carl Auen, Margit Manstad, Suzy Vernon, Valery Boothby, Willy Fritsch</cell>
                </row>
             </table>
          </div>
@@ -130,13 +135,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__36" type="wirt">
+               <placeName>Franz Kargls Gastwirtschaft Zur Heumühle</placeName>
+               <location>
+                  <address>
+                     <addrLine>Schönbrunnerstraße 2, 4.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__36" type="wirt">
-               <orgName>Franz Kargls Gastwirtschaft Zur Heumühle</orgName>
-               <location><address><addrLine>Schönbrunnerstraße 2, 4.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-03-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-03-25.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>25/3 Abends mit C. P. Kino Tonfilm Maurice Chevalier.– Meissl soupirt.– […]</ab></div>
-         <div type="anmerkung"><ab>»Es hat sich aber doch gelohnt, daß Chevalier zum fahrenden Ritter geworden ist. Sein erster, jetzt in Wien gezeigter Tonfilm läuft allerdings geradezu Sturm auf die Absatzmärkte in sämtlichen Kontinenten« (SK II, S. 347). »Tuchlauben-Tonfilm-Theater: Tonfilmsensation für Wien! Maurice Chevalier in ›Das Lied von Paris‹.« (NFP 25.3.1930, S. 17). Vgl. auch die Premierennotiz und die zweispaltige Anzeige NFP 21.3.1930, S. 11, (inkl. Portrait von Chevalier), welche die »Erst- und Alleinaufführung ab heute [Widerspruch zu PFL] täglich im Tuchlauben-Tonfilm-Theater« und Kino Schäffer ankündigt. NZG 25.3.1930, S. 8, hingegen nennt für diesen Tag in den »Tuchlauben-Lichtspielen« den Film »Liebschaften einer Schauspielerin«, den Schnitzler wohl schon am 19.3.1930 gesehen hat.</ab></div>
+         <div type="as">
+            <ab>25/3 Abends mit C. P. Kino Tonfilm Maurice Chevalier.– Meissl soupirt.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Es hat sich aber doch gelohnt, daß Chevalier zum fahrenden Ritter geworden ist. Sein erster, jetzt in Wien gezeigter Tonfilm läuft allerdings geradezu Sturm auf die Absatzmärkte in sämtlichen Kontinenten« (SK II, S. 347). »Tuchlauben-Tonfilm-Theater: Tonfilmsensation für Wien! Maurice Chevalier in ›Das Lied von Paris‹.« (NFP 25.3.1930, S. 17). Vgl. auch die Premierennotiz und die zweispaltige Anzeige NFP 21.3.1930, S. 11, (inkl. Portrait von Chevalier), welche die »Erst- und Alleinaufführung ab heute [Widerspruch zu PFL] täglich im Tuchlauben-Tonfilm-Theater« und Kino Schäffer ankündigt. NZG 25.3.1930, S. 8, hingegen nennt für diesen Tag in den »Tuchlauben-Lichtspielen« den Film »Liebschaften einer Schauspielerin«, den Schnitzler wohl schon am 19.3.1930 gesehen hat.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Lied von Paris“ („Innocents of Paris“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Richard Wallace</persName></cell>
-                  <cell role="data"><persName>C. E. Andrews</persName></cell>
-                  <cell role="data"><orgName>Paramount-Movietone-Film</orgName></cell>
-                  <cell role="data">Maurice Chevalier, Russel Simpson, John Miljan, George Fawcett, Jack Luden, Silvia Beecherer, Margaret Livingston, David Turant</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Lied von Paris“ („Innocents of Paris“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Richard Wallace</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>C. E. Andrews</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Movietone-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Maurice Chevalier, Russel Simpson, John Miljan, George Fawcett, Jack Luden, Silvia Beecherer, Margaret Livingston, David Turant</cell>
                </row>
             </table>
          </div>
@@ -133,7 +138,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

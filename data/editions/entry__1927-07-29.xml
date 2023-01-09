@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-07-29.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-07-29.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>29/7 Vm. R. L. Behandlung.– Reist über Böhmen nach Schweden.
+         <div type="as">
+            <ab>29/7 Vm. R. L. Behandlung.– Reist über Böhmen nach Schweden.
 Dictirt aphoristisches.–
 Dr. Müller und ein Dr. Berg (?). Dieser will die „Dramatisirungrechte“ Frl. Else erwerben. D. h. er hat meine Idee, Else monologisch, aber mit andern aufzuführen, etc., die ich mit der Bergner besprochen – und will mich quasi sich steuerpflichtig machen. Nein.– Die Filmgustlsache zerschlagen; nun „interessirt man sich für Spiel im Morgengraun“.– […]
-Mit C. P. Kino Postmeister (russ.), dann mit ihr silb. Brunnen gen.</ab></div>
-         <div type="anmerkung"><ab>R. L.: Ruth Lindberg, Heilgymnastin.
-Anzeige (elf Spielorte) und Besprechung von Kurt Sonnenfeld in NFP 29.7.1929, S. 18: „In der Kunst der Nuancen ist der russische Film der unübertroffene Meister: er beherrscht mit vollendeter Meisterschaft ‚den leisen, feinen Uebergang, die Abstufung, den halben Klang, wo Träume sich mit Träumen gatten‘. Herrlich und ans Herz greifend ist dieser leise, feine Uebergang im ‚Postmeister‘. Ganz unmerklich wandelt sich Dur in Moll, verschieben sich die Linien eines behaglichen Lustspiels zur hoffnungslosen Tragödie. […]“ </ab></div>
+Mit C. P. Kino Postmeister (russ.), dann mit ihr silb. Brunnen gen.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>R. L.: Ruth Lindberg, Heilgymnastin.
+Anzeige (elf Spielorte) und Besprechung von Kurt Sonnenfeld in NFP 29.7.1929, S. 18: „In der Kunst der Nuancen ist der russische Film der unübertroffene Meister: er beherrscht mit vollendeter Meisterschaft ‚den leisen, feinen Uebergang, die Abstufung, den halben Klang, wo Träume sich mit Träumen gatten‘. Herrlich und ans Herz greifend ist dieser leise, feine Uebergang im ‚Postmeister‘. Ganz unmerklich wandelt sich Dur in Moll, verschieben sich die Linien eines behaglichen Lustspiels zur hoffnungslosen Tragödie. […]“ </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Postmeister“ [Ot. „Kollezhskiy registrator“]</cell>
-                  <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>UdSSR</placeName></cell>
-                  <cell role="data"><persName>[Iwan] Moskwin, [Jurij] Scheljabuschki</persName></cell>
-                  <cell role="data"><persName>A[lexander] Puschkin (Vorlage gleichnamige Erzählung); [Fedor Ozep, Valentin Turkin]</persName></cell>
-                  <cell role="data"><orgName>Meschrabhom-Film</orgName></cell>
-                  <cell role="data">I. Moskwin, B. Tamarin, W. S. Malinowskaja</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Postmeister“ [Ot. „Kollezhskiy registrator“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UdSSR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Iwan] Moskwin, [Jurij] Scheljabuschki</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>A[lexander] Puschkin (Vorlage gleichnamige Erzählung); [Fedor Ozep, Valentin Turkin]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Meschrabhom-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">I. Moskwin, B. Tamarin, W. S. Malinowskaja</cell>
                </row>
             </table>
          </div>
@@ -136,13 +141,15 @@ Anzeige (elf Spielorte) und Besprechung von Kurt Sonnenfeld in NFP 29.7.1929, S.
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

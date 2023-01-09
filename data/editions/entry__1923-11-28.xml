@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1923-11-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1923-11-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/11 […] C. P. bei mir, nachher mit ihr Kino (Polikuschka). […]</ab></div>
-         <div type="anmerkung"><ab>»Der Regisseur A. Ssanin hat, als er diese ganz anspruchslose Handlung der Bearbeitung für den Film unterzog, ein verdienstvolles Werk geleistet. In ›Polikuschka‹ ersteht das russische Dorf und die Kleinstadt vor uns. Keine gemachten Aufnahmen, nirgends ›Bühne‹, überall Leben in jeder Form. Wir lernen Menschen kennen, von denen wir noch nichts wußten, wir sehen wie sie denken, fühlen und wie sie – leiden. (Ferdinand Kaska: Russische Filmkunst. Zur Erstaufführung von »Polikuschka«. In: Filmwelt 1923, Nr. 25, S. 6). Dort auch für den Zeitraum von 27.–29.11. folgende Spielorte: Schwarzenberg-Kino, Flotten-Kino, Flieger-Kino. – Das Publikum reagierte offenbar eher unwillig: »Ich habe ›Polikuschka‹ gesehen. Das Kino war kaum – kaum halb voll. Und welche Wirkung hat dieser Film auf mich ausgeübt! »Polikuschka!« Ich habe einen anderen Film gesehen, ich weiß nicht mehr, wie er geheißen hat. Etwa: ›Wie werde ich …‹, ›Frauenkörper…‹ oder – aber der Titel tut nichts, jedenfalls war das Kino überfüllt. Eigentlich muß ich mich jetzt schon korrigieren, denn der Titel tut schon etwas, er zieht und das Publikum strömt! Das ist die Hauptsache. Die enttäuschten Gesichter nach so einer Vorstellung – die söhnen mich aus. Da haben die meisten erwartet, etwas Nacktes zu sehen oder sonst etwas ›Schönes‹ – aber es war weder nackt, noch war es schön! Aber ›Polikuschka!‹ Ja, wenn es heißt Alkohol – oder Prostitution oder gar beides in seiner Wechselwirkung – dann laufen sie hinein. Aber Polikuschka! Wer kennt Polikuschka?! Eher noch ›Nanuk!‹ So einen berühmten Eskimo muß man gesehen haben – aber Polikuschka! Was kümmert sich das Publikum um so einen armen russischen Bauern!« (H. K. Breslauer: Unverständnis. Gedanken und Gefühltes über ›Polikuschka‹. In: Filmwelt, Jg. 1923, Nr. 27, S. 6).</ab></div>
+         <div type="as">
+            <ab>28/11 […] C. P. bei mir, nachher mit ihr Kino (Polikuschka). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Der Regisseur A. Ssanin hat, als er diese ganz anspruchslose Handlung der Bearbeitung für den Film unterzog, ein verdienstvolles Werk geleistet. In ›Polikuschka‹ ersteht das russische Dorf und die Kleinstadt vor uns. Keine gemachten Aufnahmen, nirgends ›Bühne‹, überall Leben in jeder Form. Wir lernen Menschen kennen, von denen wir noch nichts wußten, wir sehen wie sie denken, fühlen und wie sie – leiden. (Ferdinand Kaska: Russische Filmkunst. Zur Erstaufführung von »Polikuschka«. In: Filmwelt 1923, Nr. 25, S. 6). Dort auch für den Zeitraum von 27.–29.11. folgende Spielorte: Schwarzenberg-Kino, Flotten-Kino, Flieger-Kino. – Das Publikum reagierte offenbar eher unwillig: »Ich habe ›Polikuschka‹ gesehen. Das Kino war kaum – kaum halb voll. Und welche Wirkung hat dieser Film auf mich ausgeübt! »Polikuschka!« Ich habe einen anderen Film gesehen, ich weiß nicht mehr, wie er geheißen hat. Etwa: ›Wie werde ich …‹, ›Frauenkörper…‹ oder – aber der Titel tut nichts, jedenfalls war das Kino überfüllt. Eigentlich muß ich mich jetzt schon korrigieren, denn der Titel tut schon etwas, er zieht und das Publikum strömt! Das ist die Hauptsache. Die enttäuschten Gesichter nach so einer Vorstellung – die söhnen mich aus. Da haben die meisten erwartet, etwas Nacktes zu sehen oder sonst etwas ›Schönes‹ – aber es war weder nackt, noch war es schön! Aber ›Polikuschka!‹ Ja, wenn es heißt Alkohol – oder Prostitution oder gar beides in seiner Wechselwirkung – dann laufen sie hinein. Aber Polikuschka! Wer kennt Polikuschka?! Eher noch ›Nanuk!‹ So einen berühmten Eskimo muß man gesehen haben – aber Polikuschka! Was kümmert sich das Publikum um so einen armen russischen Bauern!« (H. K. Breslauer: Unverständnis. Gedanken und Gefühltes über ›Polikuschka‹. In: Filmwelt, Jg. 1923, Nr. 27, S. 6).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Polikuschka“</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>UdSSR</placeName></cell>
-                  <cell role="data"><persName>Alexander Ssanin</persName></cell>
-                  <cell role="data"><persName>Leo Tolstoi (Vorlage gleichnamige Erzählung)</persName></cell>
-                  <cell role="data"><orgName>Russ.Film</orgName></cell>
-                  <cell role="data">Iwan Moskwin, E. Rajewskaja, Warwara Bulgakowa, S. Aidarow, S. Golowin, A. Istomin, W. Paschvskaja, W. Masalstinov</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Polikuschka“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UdSSR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alexander Ssanin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Leo Tolstoi (Vorlage gleichnamige Erzählung)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Russ.Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Iwan Moskwin, E. Rajewskaja, Warwara Bulgakowa, S. Aidarow, S. Golowin, A. Istomin, W. Paschvskaja, W. Masalstinov</cell>
                </row>
             </table>
          </div>
@@ -138,7 +143,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

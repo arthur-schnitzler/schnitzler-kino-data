@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-05-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-05-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>15/5 […] Hole C. P. ab („der junge Aar“, mit der Kallina, den ich sehen wollte, war abgesagt) – Kino Busch im Prater, woselbst einige amerik. Possen und ein Film der chinesische Papagei (von besondrer Albernheit) herabgehetzt wurden. […]</ab></div>
-         <div type="ckp"><ab>15.5. Wundervoller, erster wirklicher Frühlingstag. Vormittag bei ihm, dann Autofahrt nach Mödling über Purkersdorf, Heiligenkreuz, Gaden. Mittagmahl bei Hayek in der Brühl. Fröhlichste Stimmung. Am Abend Kino und Nachtmahl im Prater (Prohaska). Dieser Tag wie ein kostbares Geschenk. Gott schütze ihn und erhalte ihn mir so wie er heute war. [II, 122]</ab></div>
-         <div type="anmerkung"><ab>„um die glückliche Auflösung braucht niemand bange zu sein“ (SK I, S. 422). Ankündigung NFP 11.5.1928, S. 18. Besprechung von Felix Cleve in NFP 13.5.1928, S. 18.</ab></div>
+         <div type="as">
+            <ab>15/5 […] Hole C. P. ab („der junge Aar“, mit der Kallina, den ich sehen wollte, war abgesagt) – Kino Busch im Prater, woselbst einige amerik. Possen und ein Film der chinesische Papagei (von besondrer Albernheit) herabgehetzt wurden. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>15.5. Wundervoller, erster wirklicher Frühlingstag. Vormittag bei ihm, dann Autofahrt nach Mödling über Purkersdorf, Heiligenkreuz, Gaden. Mittagmahl bei Hayek in der Brühl. Fröhlichste Stimmung. Am Abend Kino und Nachtmahl im Prater (Prohaska). Dieser Tag wie ein kostbares Geschenk. Gott schütze ihn und erhalte ihn mir so wie er heute war. [II, 122]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„um die glückliche Auflösung braucht niemand bange zu sein“ (SK I, S. 422). Ankündigung NFP 11.5.1928, S. 18. Besprechung von Felix Cleve in NFP 13.5.1928, S. 18.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Chinesische Papagei“ (Ot. „The Chinese Parrot“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Paul Leni</persName></cell>
-                  <cell role="data"><persName>[Earl Derr Biggers (Vorlage gleichnamige Novelle); J. Grubb Alexander (Adaption und Drehbuch); Walter Anthony (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Universal-Film</orgName></cell>
-                  <cell role="data">[Edward] Burns, Hobart Bosworth, Albert Conti, [Marian] Nixon u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Chinesische Papagei“ (Ot. „The Chinese Parrot“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Leni</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Earl Derr Biggers (Vorlage gleichnamige Novelle); J. Grubb Alexander (Adaption und Drehbuch); Walter Anthony (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Universal-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">[Edward] Burns, Hobart Bosworth, Albert Conti, [Marian] Nixon u.a.</cell>
                </row>
             </table>
          </div>
@@ -130,18 +137,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__41" type="kino">
-               <orgName>Zirkus Busch Kino</orgName>
-               <location><address><addrLine>02., Ausstellungsstraße 145</addrLine></address></location>
+            <place  xml:id="ask_kino__41" type="kino">
+               <placeName>Zirkus Busch Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Ausstellungsstraße 145</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1920. Tonfilm ab November 1929. Fassungsraum: In drei Etagen. 1922: insgesamt 1767 Sitzplätze.</note>
-            </org>
-            <org xml:id="ask_wirt__6" type="wirt">
-               <orgName>Prochaska</orgName>
-               <location><address><addrLine>Prater 37, 2.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__6" type="wirt">
+               <placeName>Prochaska</placeName>
+               <location>
+                  <address>
+                     <addrLine>Prater 37, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

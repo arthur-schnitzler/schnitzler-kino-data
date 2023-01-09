@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-09-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-09-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/9 […] Mit C. P. Kino (der gelbe Schmetterling; Damita).</ab></div>
-         <div type="anmerkung"><ab>Die Kinosaison 1926/27 begann im September „nach einer kurzen Ruhepause“ (vgl. „Vorwort zum Saisonbeginn“ von KR Artur Stern, dem Präsidenten des Verbandes österreichischer Filmleihanstalten, NFP 27.8.1926, S. 15). 
-Premierennotiz und Anzeige NFP 10.9.1926, S. 16. </ab></div>
+         <div type="as">
+            <ab>14/9 […] Mit C. P. Kino (der gelbe Schmetterling; Damita).</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Die Kinosaison 1926/27 begann im September „nach einer kurzen Ruhepause“ (vgl. „Vorwort zum Saisonbeginn“ von KR Artur Stern, dem Präsidenten des Verbandes österreichischer Filmleihanstalten, NFP 27.8.1926, S. 15). 
+Premierennotiz und Anzeige NFP 10.9.1926, S. 16. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Goldene Schmetterling“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Mihaly Kertész</persName></cell>
-                  <cell role="data"><persName>Adolf Lantz, Jane Beß</persName></cell>
-                  <cell role="data"><orgName>Sascha-Film</orgName></cell>
-                  <cell role="data">Hermann Leffler, Lily Damita, Nils Asther, Jack Trevor, Curt Bois, Kurt Gerron, Karl Platen, Ferdinand Bonn, Julius von Szöreghy</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Goldene Schmetterling“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Mihaly Kertész</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Adolf Lantz, Jane Beß</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Sascha-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Hermann Leffler, Lily Damita, Nils Asther, Jack Trevor, Curt Bois, Kurt Gerron, Karl Platen, Ferdinand Bonn, Julius von Szöreghy</cell>
                </row>
             </table>
          </div>
@@ -148,7 +153,6 @@ Premierennotiz und Anzeige NFP 10.9.1926, S. 16. </ab></div>
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

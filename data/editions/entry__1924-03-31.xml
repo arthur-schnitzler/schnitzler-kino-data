@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-03-31.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-03-31.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>31/3 […] Mit C. P. Kino (Alt-Heidelberg). […]</ab></div>
-         <div type="anmerkung"><ab>PFL verzeichnen einen weiteren möglichen Titel (1919/20), einen Einakter, der »[i]nteressante Aufnahmen diverser Plätze und Bauten Heidelbergs« zeigt (PFL 1919/20-284, Nr. 186). Da Schnitzler in einem Brief an Pollaczek vier Jahre später einen »seinerzeitige[n]« gleichnamigen Film (siehe 17.10.1928) erwähnt, ist anzunehmen, daß die beiden hier die Verfilmung des populären Bühnenstücks von Wilhelm Meyer-Förster sahen. Vgl. Anzeige NFP 16.11.1923, S. 12.</ab></div>
+         <div type="as">
+            <ab>31/3 […] Mit C. P. Kino (Alt-Heidelberg). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>PFL verzeichnen einen weiteren möglichen Titel (1919/20), einen Einakter, der »[i]nteressante Aufnahmen diverser Plätze und Bauten Heidelbergs« zeigt (PFL 1919/20-284, Nr. 186). Da Schnitzler in einem Brief an Pollaczek vier Jahre später einen »seinerzeitige[n]« gleichnamigen Film (siehe 17.10.1928) erwähnt, ist anzunehmen, daß die beiden hier die Verfilmung des populären Bühnenstücks von Wilhelm Meyer-Förster sahen. Vgl. Anzeige NFP 16.11.1923, S. 12.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Alt Heidelberg“</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Hans Behrendt</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Czerepyfilm</orgName></cell>
-                  <cell role="data">Eva May, Paul Hartmann, Heinrich Peer, Eugen Burg, Werner Krauß, Karl Harbacher</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Alt Heidelberg“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Hans Behrendt</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Czerepyfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Eva May, Paul Hartmann, Heinrich Peer, Eugen Burg, Werner Krauß, Karl Harbacher</cell>
                </row>
             </table>
          </div>
@@ -123,7 +128,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

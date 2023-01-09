@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-04-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-04-07.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>7/4 […] – Mit C. P. Kino „Herrin der Dschungeln“ (Kitsch), dann silb. Brunnen genachtm.– […] ich frage mich: wie soll das weiter gehn, wenn nicht wieder – und immer wieder Glücksfälle (Film) – und neue Werke kommen?–</ab></div>
-         <div type="anmerkung"><ab>Höchstwahrscheinlich der genannte Film, obwohl PFL unter dem von Schnitzler angegebenen Titel einen fünfteiligen Film verzeichnen: NFP 10.4.1928, S. 11, gibt als Darsteller Regina Thomas und Bernhard Goetzke an. Anzeige NFP 7.4.1928, S. 13. Besprechung von Lilly Klaudy NFP 8.4.1928, S. 22.</ab></div>
+         <div type="as">
+            <ab>7/4 […] – Mit C. P. Kino „Herrin der Dschungeln“ (Kitsch), dann silb. Brunnen genachtm.– […] ich frage mich: wie soll das weiter gehn, wenn nicht wieder – und immer wieder Glücksfälle (Film) – und neue Werke kommen?–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Höchstwahrscheinlich der genannte Film, obwohl PFL unter dem von Schnitzler angegebenen Titel einen fünfteiligen Film verzeichnen: NFP 10.4.1928, S. 11, gibt als Darsteller Regina Thomas und Bernhard Goetzke an. Anzeige NFP 7.4.1928, S. 13. Besprechung von Lilly Klaudy NFP 8.4.1928, S. 22.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Königin der Dschungeln“ („Die Vestalin des Ganges“) [Ot. „La Vestale du Gange“]</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>F</placeName></cell>
-                  <cell role="data"><persName>André Hugon</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Französisch. Fabrikat</orgName></cell>
-                  <cell role="data">Bernhard G[oe]tzke, Camille Bert, Georges Melchior, Regina Thomas u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Königin der Dschungeln“ („Die Vestalin des Ganges“) [Ot. „La Vestale du Gange“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>F</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>André Hugon</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Französisch. Fabrikat</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Bernhard G[oe]tzke, Camille Bert, Georges Melchior, Regina Thomas u.a.</cell>
                </row>
             </table>
          </div>
@@ -120,13 +125,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

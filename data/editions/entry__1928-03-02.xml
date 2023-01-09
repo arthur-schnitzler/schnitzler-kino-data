@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-02.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-03-02.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>2/3 […] Mit C. P. Kino Fürst der Gasse (mit Veidt und Barrymore) – ganz besonders dumm und widerwärtig.– 
-Mit C. P. Opernrest. </ab></div>
-         <div type="anmerkung"><ab>Besprechung von Felix Cleve in NFP 4.3.1928, S. 17. Spielorte nicht nachgewiesen.</ab></div>
+         <div type="as">
+            <ab>2/3 […] Mit C. P. Kino Fürst der Gasse (mit Veidt und Barrymore) – ganz besonders dumm und widerwärtig.– 
+Mit C. P. Opernrest. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung von Felix Cleve in NFP 4.3.1928, S. 17. Spielorte nicht nachgewiesen.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Fürst der Gasse“ („Der Bettelpoet“, „The beloved Rogue“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Alan Crosland</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>United Artist-Film</orgName></cell>
-                  <cell role="data">John Barrymore, Conrad Veidt, Marceline Day</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Fürst der Gasse“ („Der Bettelpoet“, „The beloved Rogue“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alan Crosland</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>United Artist-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">John Barrymore, Conrad Veidt, Marceline Day</cell>
                </row>
             </table>
          </div>
@@ -116,13 +121,15 @@ Mit C. P. Opernrest. </ab></div>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__25" type="wirt">
+               <placeName>Klara Wimberger Opernrestaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Operngasse 8, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__25" type="wirt">
-               <orgName>Klara Wimberger Opernrestaurant</orgName>
-               <location><address><addrLine>Operngasse 8, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

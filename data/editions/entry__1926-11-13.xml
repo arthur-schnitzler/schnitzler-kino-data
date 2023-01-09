@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-11-13.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-11-13.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>13/11 Abds. Mit C. P. Kino (Heiliger Berg); bei ihr; ganz peinliche Discussion, wegen O. Ich erklärte diesen „ewigen“ Conflicten nicht länger gewachsen zu sein. Minutenlange stumme Pausen. „Versöhnung“ – ganz von außen her.–</ab></div>
-         <div type="anmerkung"><ab>„[…] eine gigantische Komposition aus Körperkultur-Phantasien, Sonnentrottelei und kosmischem Geschwöge. Selbst der härteste Routinier, den die alltäglichen Gefühlsfaseleien nicht mehr berühren, findet sich hier aus seinem Gleichgewicht gebracht“ (SK I, S. 298). Anzeige NFP 5.11.1926, S. 18. Besprechung NFP 12.11.1926, S. 28. Nachgewiesener Spielort: Kärntner-Kino (NZG 13.11.1926, S. 4). </ab></div>
+         <div type="as">
+            <ab>13/11 Abds. Mit C. P. Kino (Heiliger Berg); bei ihr; ganz peinliche Discussion, wegen O. Ich erklärte diesen „ewigen“ Conflicten nicht länger gewachsen zu sein. Minutenlange stumme Pausen. „Versöhnung“ – ganz von außen her.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„[…] eine gigantische Komposition aus Körperkultur-Phantasien, Sonnentrottelei und kosmischem Geschwöge. Selbst der härteste Routinier, den die alltäglichen Gefühlsfaseleien nicht mehr berühren, findet sich hier aus seinem Gleichgewicht gebracht“ (SK I, S. 298). Anzeige NFP 5.11.1926, S. 18. Besprechung NFP 12.11.1926, S. 28. Nachgewiesener Spielort: Kärntner-Kino (NZG 13.11.1926, S. 4). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Heiliger Berg“</cell>
-                  <cell role="data"><date>[1925/26]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Arnold Fanck</persName></cell>
-                  <cell role="data"><persName>[Arnold Fanck]</persName></cell>
-                  <cell role="data"><orgName>Ufa-Film</orgName></cell>
-                  <cell role="data">Luis Trenker, Hannes Schneider, Leni Riefenstahl, Frida Richard</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Heiliger Berg“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925/26]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Arnold Fanck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Arnold Fanck]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Luis Trenker, Hannes Schneider, Leni Riefenstahl, Frida Richard</cell>
                </row>
             </table>
          </div>
@@ -117,13 +122,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__3" type="wirt">
+               <placeName>Wohnung Pollaczek</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__3" type="wirt">
-               <orgName>Wohnung Pollaczek</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

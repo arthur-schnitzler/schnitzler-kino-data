@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-11.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-03-11.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>11/3 […] Mit C. P. Kino „Hochzeitsreise“; zuhause allein genachtm. […]</ab></div>
-         <div type="anmerkung"><ab>„In jedem seiner Filme – so auch in dem neuesten: ‚Mein Freund Harry‘ – bezwingt Harry Liedtke das Herz einer reichen Erbin; er muß sich schon Millionen auf diese Weise erworben haben“ (SK II, S. 23). Ankündigung NFP 2.3.1928, S. 19 für 9.3.1928. Nachgewiesene Spielorte: Opern- und Zirkus Busch-Kino (NFP 11.3.1928, S. 26).</ab></div>
+         <div type="as">
+            <ab>11/3 […] Mit C. P. Kino „Hochzeitsreise“; zuhause allein genachtm. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„In jedem seiner Filme – so auch in dem neuesten: ‚Mein Freund Harry‘ – bezwingt Harry Liedtke das Herz einer reichen Erbin; er muß sich schon Millionen auf diese Weise erworben haben“ (SK II, S. 23). Ankündigung NFP 2.3.1928, S. 19 für 9.3.1928. Nachgewiesene Spielorte: Opern- und Zirkus Busch-Kino (NFP 11.3.1928, S. 26).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Hochzeitsreise“ („Mein Freund Harry – Harry Mc.Gills geheime Sendung“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Max Opal</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Aafa-Film</orgName></cell>
-                  <cell role="data">Harry Liedtke, Otto Wallburg, Bruno Kastner, Maria Paudler, Ida Wüst, Rina Maggi</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Hochzeitsreise“ („Mein Freund Harry – Harry Mc.Gills geheime Sendung“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Max Opal</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Aafa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harry Liedtke, Otto Wallburg, Bruno Kastner, Maria Paudler, Ida Wüst, Rina Maggi</cell>
                </row>
             </table>
          </div>
@@ -122,13 +127,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__1" type="wirt">
+               <placeName>Wohnung Schnitzler</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__1" type="wirt">
-               <orgName>Wohnung Schnitzler</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

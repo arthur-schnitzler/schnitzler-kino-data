@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-11-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-11-08.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>8/11 […] Dr. Müller; Filmangelegenheit;– Provision für Lbl. Abschluss. Abds. C. P.; Kino: Kurier des Czaren;– bei ihr genachtm.–</ab></div>
-         <div type="anmerkung"><ab>„Die Ufa-Lichtspiele haben diesen älteren Prunkfilm wieder aufgenommen, in dem Russen- und Tartarenheere sich mit echt gestellter Echtheit bekämpfen“ (SK II 93). Anzeige und Besprechung von a. m. in NFP 5.11.1926, S. 18, dort nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Busch-, Haydn-, Palast-, Kolosseum-, Park- und Abbazia-Kino.</ab></div>
+         <div type="as">
+            <ab>8/11 […] Dr. Müller; Filmangelegenheit;– Provision für Lbl. Abschluss. Abds. C. P.; Kino: Kurier des Czaren;– bei ihr genachtm.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Die Ufa-Lichtspiele haben diesen älteren Prunkfilm wieder aufgenommen, in dem Russen- und Tartarenheere sich mit echt gestellter Echtheit bekämpfen“ (SK II 93). Anzeige und Besprechung von a. m. in NFP 5.11.1926, S. 18, dort nachgewiesene Spielorte: Gartenbau-, Imperial-, Opern-, Busch-, Haydn-, Palast-, Kolosseum-, Park- und Abbazia-Kino.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Kurier des Zaren“ (Ot. „Michel Strogoff“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>F</placeName></cell>
-                  <cell role="data"><persName>V[iatcheslav] Tourjansky</persName></cell>
-                  <cell role="data"><persName>Jules Verne (Vorlage gleichnamiger Roman); [Boris de Fast, Ivan Mosjoukine, Viatcheslav Tourjansky]</persName></cell>
-                  <cell role="data"><orgName>Ciné-France</orgName></cell>
-                  <cell role="data">I[w]an Mosjoukine, [Acho] Chakatouny, Henry Debain, Gabriel de Gravonne, Natalie Kovanko, Jeanne Brindeau</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Kurier des Zaren“ (Ot. „Michel Strogoff“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>F</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>V[iatcheslav] Tourjansky</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Jules Verne (Vorlage gleichnamiger Roman); [Boris de Fast, Ivan Mosjoukine, Viatcheslav Tourjansky]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ciné-France</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">I[w]an Mosjoukine, [Acho] Chakatouny, Henry Debain, Gabriel de Gravonne, Natalie Kovanko, Jeanne Brindeau</cell>
                </row>
             </table>
          </div>
@@ -133,13 +138,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__3" type="wirt">
+               <placeName>Wohnung Pollaczek</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__3" type="wirt">
-               <orgName>Wohnung Pollaczek</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1920-10-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1920-10-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>1/10 […] Kino (Schottenring). […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>1/10 […] Kino (Schottenring). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Maciste, der Athlet“ [Ot. „Maciste atleta“]</cell>
-                  <cell role="data"><date>[1918]</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>I</placeName></cell>
-                  <cell role="data"><persName>Vincenzo Denizot, Giovanni Pastrone</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Itala Film</orgName></cell>
-                  <cell role="data">Italia Almirante-Manzini, Bartolomeo Pagano (Maciste)</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Maciste, der Athlet“ [Ot. „Maciste atleta“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1918]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>I</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Vincenzo Denizot, Giovanni Pastrone</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Itala Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Italia Almirante-Manzini, Bartolomeo Pagano (Maciste)</cell>
                </row>
             </table>
          </div>
@@ -111,15 +116,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__47" type="kino">
-               <orgName>Schottenringkino</orgName>
-               <location><address><addrLine>01., Schottenring 5</addrLine></address></location>
+            <place  xml:id="ask_kino__47" type="kino">
+               <placeName>Schottenringkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>01., Schottenring 5</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1913. Fassungsraum: 1914: 376 Sitzplätze, 1922: 370 Sitzplätze (davon 39 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

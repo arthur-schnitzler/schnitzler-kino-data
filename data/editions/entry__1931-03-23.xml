@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-03-23.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-03-23.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>23/3 […] Abd. mit C. P. Kino „Afrika spricht“;– dann allein zu Haus genachtm.–</ab></div>
-         <div type="ckp"><ab>23.3. Carry Morgentemperatur 37.9. Schwips mit Tokayer 1874 von einem anonymen Spender, ich glaube von meinem alten Freund Globoznik, aber Carry lacht mich aus und sagt: „Von einem einfachen Mann aus dem Ambulatorium.“
-Mittag 39–39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino „Afrika spricht“, dann allein nach Haus. [III, 158]</ab></div>
-         <div type="anmerkung"><ab>»Man sieht, wie ein Eingeborener von einem Löwen hingestreckt wird und vernimmt Schreie der Todesangst: die Kinoleute, die in diesem Fall ihre Apparate nicht im Stich lassen, wirken schlimmer als Kannibalen. Leider hat die Filmzensur die günstige Gelegenheit verpaßt, sich einmal aus triftigen Gründen empfindlich zu zeigen« (SK II, S. 440). Der Film wurde bereits seit Mitte Januar 1931 in Wien gezeigt: »Das Schweden-Kino zeigt gleichzeitig mit dem Kultursprechfilm ›Afrika spricht!‹ die ersten Tonfilmaufnahmen mit dem Wiener Männergesangverein, der unter Leitung seines Ehrenchormeisters Professor Karl Luze ›An der schönen blauen Donau‹ zu Gehör bringt« (NFP 13.1.1931, S. 10; NFP 13.3.1931, S. 20, für das Atlantis-Ton-Kino dasselbe Doppelprogramm).</ab></div>
+         <div type="as">
+            <ab>23/3 […] Abd. mit C. P. Kino „Afrika spricht“;– dann allein zu Haus genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>23.3. Carry Morgentemperatur 37.9. Schwips mit Tokayer 1874 von einem anonymen Spender, ich glaube von meinem alten Freund Globoznik, aber Carry lacht mich aus und sagt: „Von einem einfachen Mann aus dem Ambulatorium.“
+Mittag 39–39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino „Afrika spricht“, dann allein nach Haus. [III, 158]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Man sieht, wie ein Eingeborener von einem Löwen hingestreckt wird und vernimmt Schreie der Todesangst: die Kinoleute, die in diesem Fall ihre Apparate nicht im Stich lassen, wirken schlimmer als Kannibalen. Leider hat die Filmzensur die günstige Gelegenheit verpaßt, sich einmal aus triftigen Gründen empfindlich zu zeigen« (SK II, S. 440). Der Film wurde bereits seit Mitte Januar 1931 in Wien gezeigt: »Das Schweden-Kino zeigt gleichzeitig mit dem Kultursprechfilm ›Afrika spricht!‹ die ersten Tonfilmaufnahmen mit dem Wiener Männergesangverein, der unter Leitung seines Ehrenchormeisters Professor Karl Luze ›An der schönen blauen Donau‹ zu Gehör bringt« (NFP 13.1.1931, S. 10; NFP 13.3.1931, S. 20, für das Atlantis-Ton-Kino dasselbe Doppelprogramm).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Afrika spricht!“ („Das Paradies der Hölle“) [Ot. „Africa Speaks“]</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Natur</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Paul L. Höfler</persName></cell>
-                  <cell role="data"><persName>[Walter Futter]</persName></cell>
-                  <cell role="data"><orgName>Columbia-Movietone</orgName></cell>
-                  <cell role="data"></cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Afrika spricht!“ („Das Paradies der Hölle“) [Ot. „Africa Speaks“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Natur</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul L. Höfler</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Walter Futter]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Columbia-Movietone</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen"/>
                </row>
             </table>
          </div>
@@ -117,7 +124,6 @@ Mittag 39–39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino �
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

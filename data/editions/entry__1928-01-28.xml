@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-01-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-01-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/1 […] was gab es sonst noch heute? […] Brief von Dr. Müller aus Berlin (wegen Verfilmung Comt. Mizi) mit lächerlichen Bedingungen;– […] Mit C. P. Heimatkino Dirnenschiff, ein widerlicher Film (Barrymore), aus Manon zusammengestohlen, letzte Samstagvorstellung ½ 9 – üble Gerüche.– Mit C. P. im silb. Brunnen; […]</ab></div>
-         <div type="anmerkung"><ab>Vorlage des Films war Abbé Prevosts Roman »Manon Lescaut« (1731). Weitere Titel: »Die Abenteuer einer schönen Kurtisane« und »When a man loves«. „Die einzelnen Episoden reihen sich mehr oder weniger frei nach der Romanvorlage aneinander, ohne filmisch durchdrungen zu sein“ (SK II, S. 208). Anzeige und Notiz NFP 27.1.1928, S. 19, dort nachgewiesene Spielorte u. a. ab 27.1.1928 im Heimat-Kino. Besprechung von Lilly Klaudy in NFP 28.1.1928, S. 8.</ab></div>
+         <div type="as">
+            <ab>28/1 […] was gab es sonst noch heute? […] Brief von Dr. Müller aus Berlin (wegen Verfilmung Comt. Mizi) mit lächerlichen Bedingungen;– […] Mit C. P. Heimatkino Dirnenschiff, ein widerlicher Film (Barrymore), aus Manon zusammengestohlen, letzte Samstagvorstellung ½ 9 – üble Gerüche.– Mit C. P. im silb. Brunnen; […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Vorlage des Films war Abbé Prevosts Roman »Manon Lescaut« (1731). Weitere Titel: »Die Abenteuer einer schönen Kurtisane« und »When a man loves«. „Die einzelnen Episoden reihen sich mehr oder weniger frei nach der Romanvorlage aneinander, ohne filmisch durchdrungen zu sein“ (SK II, S. 208). Anzeige und Notiz NFP 27.1.1928, S. 19, dort nachgewiesene Spielorte u. a. ab 27.1.1928 im Heimat-Kino. Besprechung von Lilly Klaudy in NFP 28.1.1928, S. 8.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Frauen der Liebe“ („Das Dirnenschiff“, „Sein Weib – Wenn ein Mann liebt…“) [Ot. „When a Man Loves“]</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Alan Crosland</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>Warner-Brothers-Film</orgName></cell>
-                  <cell role="data">John Barrymore, Warner Oland, Sam de Grasse, Stuart Holmes, Dolores Costello</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Frauen der Liebe“ („Das Dirnenschiff“, „Sein Weib – Wenn ein Mann liebt…“) [Ot. „When a Man Loves“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alan Crosland</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Warner-Brothers-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">John Barrymore, Warner Oland, Sam de Grasse, Stuart Holmes, Dolores Costello</cell>
                </row>
             </table>
          </div>
@@ -129,18 +134,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__17" type="kino">
-               <orgName>Heimatkino</orgName>
-               <location><address><addrLine>09., Porzellangasse 19</addrLine></address></location>
+            <place  xml:id="ask_kino__17" type="kino">
+               <placeName>Heimatkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Porzellangasse 19</addrLine>
+                  </address>
+               </location>
                <note type="info"> Gründung 7.3.1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914: 593 Sitzplätze (davon 4 Logenplätze), 1922: 617 (60).</note>
-            </org>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

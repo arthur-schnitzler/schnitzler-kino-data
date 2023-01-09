@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-11-24.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-11-24.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>24/11 […] Mit C. P. Kino Ben-Hur.– Bei ihr genachtm. […]</ab></div>
-         <div type="anmerkung"><ab>»Es ist in der Tat ein Monstrefilmwerk, in dem durch Regiekunst, unerhörtes Massenaufgebot, Großbauten und Hintergründe die Handlung des bekannten Romans nicht ohne Großartigkeit vergegenwärtigt wird« (SK I, S. 263). Premierennotiz NFP 5.11.1926, S. 18. Anzeige NFP 12.11.1926, S. 28. Besprechung NFP 19.11.1926, S. 19, Eine Anzeige in NFP 26.11.1926, S. 19 gibt bekannt, daß sich das Central-Kino die Alleinaufführungsrechte gesichert hatte.</ab></div>
+         <div type="as">
+            <ab>24/11 […] Mit C. P. Kino Ben-Hur.– Bei ihr genachtm. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Es ist in der Tat ein Monstrefilmwerk, in dem durch Regiekunst, unerhörtes Massenaufgebot, Großbauten und Hintergründe die Handlung des bekannten Romans nicht ohne Großartigkeit vergegenwärtigt wird« (SK I, S. 263). Premierennotiz NFP 5.11.1926, S. 18. Anzeige NFP 12.11.1926, S. 28. Besprechung NFP 19.11.1926, S. 19, Eine Anzeige in NFP 26.11.1926, S. 19 gibt bekannt, daß sich das Central-Kino die Alleinaufführungsrechte gesichert hatte.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Ben Hur“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Fred Niblo</persName></cell>
-                  <cell role="data"><persName>June Mathis</persName></cell>
-                  <cell role="data"><orgName>Metro-Goldwyn-Film</orgName></cell>
-                  <cell role="data">Ramon N[a]varro, Francis X. Bushman, May McAvoy, Betty Bronson, Claire McDowell, Kathleen Key, Carmel Myers, Nigel De Brulier, Mitchell Lewis, Leo White, Frank Currier, Charles Belcher u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Ben Hur“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fred Niblo</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>June Mathis</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Goldwyn-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ramon N[a]varro, Francis X. Bushman, May McAvoy, Betty Bronson, Claire McDowell, Kathleen Key, Carmel Myers, Nigel De Brulier, Mitchell Lewis, Leo White, Frank Currier, Charles Belcher u.a.</cell>
                </row>
             </table>
          </div>
@@ -151,13 +156,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__3" type="wirt">
+               <placeName>Wohnung Pollaczek</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__3" type="wirt">
-               <orgName>Wohnung Pollaczek</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

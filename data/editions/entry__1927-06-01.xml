@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-06-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-06-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>1/6 […] – C. P. bei mir, mit ihr ins Kino (Zorro, mit Fairbanks) – dann auf der Terrasse des Kursalons (zum ersten Mal in meinem Leben) genachtm.</ab></div>
-         <div type="anmerkung"><ab>Illustrierte Anzeige zur Uraufführung NFP 6.10.1925, S. 16. Besprechung (Pressevorführung) von ss in ebd., S. 12. Anzeige NFP 27.5.1927, S. 10. Nachgewiesene Spielorte vom 31.5.–2.6.: Schottenring-, Flieger- und Kolosseum-Kino sowie Lichtspiele Wienzeile.</ab></div>
+         <div type="as">
+            <ab>1/6 […] – C. P. bei mir, mit ihr ins Kino (Zorro, mit Fairbanks) – dann auf der Terrasse des Kursalons (zum ersten Mal in meinem Leben) genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Illustrierte Anzeige zur Uraufführung NFP 6.10.1925, S. 16. Besprechung (Pressevorführung) von ss in ebd., S. 12. Anzeige NFP 27.5.1927, S. 10. Nachgewiesene Spielorte vom 31.5.–2.6.: Schottenring-, Flieger- und Kolosseum-Kino sowie Lichtspiele Wienzeile.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Zorro, der Rächer“ [Ot. „The Mark of Zorro“]</cell>
-                  <cell role="data"><date>[1920]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>[Fred Niblo]</persName></cell>
-                  <cell role="data"><persName>[Eugene Miller]</persName></cell>
-                  <cell role="data"><orgName>[Douglas Fairbanks Pictures]</orgName></cell>
-                  <cell role="data">Douglas Fairbanks, [Noah Beery, Charles Hill Mailes]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Zorro, der Rächer“ [Ot. „The Mark of Zorro“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1920]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Fred Niblo]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Eugene Miller]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Douglas Fairbanks Pictures]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Douglas Fairbanks, [Noah Beery, Charles Hill Mailes]</cell>
                </row>
             </table>
          </div>
@@ -114,13 +119,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__26" type="wirt">
+               <placeName>Kursalon</placeName>
+               <location>
+                  <address>
+                     <addrLine>Johannesgasse 33, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__26" type="wirt">
-               <orgName>Kursalon</orgName>
-               <location><address><addrLine>Johannesgasse 33, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

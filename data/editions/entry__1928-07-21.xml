@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-07-21.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-07-21.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>21/7 […] Mit C. P. Palastkino, den Christusfilm mit tiefstem Widerwillen angesehn. Hier ist wirklich Blasphemie, Verlogenheit und Feigheit im Verein;– und auf allen Seiten.– 
-In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Concert schon aus); aßen in einer der improvisirten Buden. […]</ab></div>
-         <div type="ckp"><ab>21.7. […] Am Abend mit A. in der Sängerhalle im Prater. Unten genachtmahlt. Dann mit Liliputbahn in den Wurstelprater. Fülle und Leben. Wien steht im Zeichen des Sängerfestes (Schubertfeier). Aus dem Riesenrad herunter tönt ein Waldhorn, Melodie der Volkshymne, es ist aber auch gleichzeitig „Deutschland, Deutschland über alles“. Wir gingen Arm in Arm. Um 3/4 1 nachhause. [II, 130f.]</ab></div>
-         <div type="anmerkung"><ab>„religiöses Monstrum“ (SK II, S. 370). NFP 21.7.1928, S. 23, belegt als Spielort: Palast-Kino.</ab></div>
+         <div type="as">
+            <ab>21/7 […] Mit C. P. Palastkino, den Christusfilm mit tiefstem Widerwillen angesehn. Hier ist wirklich Blasphemie, Verlogenheit und Feigheit im Verein;– und auf allen Seiten.– 
+In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Concert schon aus); aßen in einer der improvisirten Buden. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>21.7. […] Am Abend mit A. in der Sängerhalle im Prater. Unten genachtmahlt. Dann mit Liliputbahn in den Wurstelprater. Fülle und Leben. Wien steht im Zeichen des Sängerfestes (Schubertfeier). Aus dem Riesenrad herunter tönt ein Waldhorn, Melodie der Volkshymne, es ist aber auch gleichzeitig „Deutschland, Deutschland über alles“. Wir gingen Arm in Arm. Um 3/4 1 nachhause. [II, 130f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„religiöses Monstrum“ (SK II, S. 370). NFP 21.7.1928, S. 23, belegt als Spielort: Palast-Kino.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„König der Könige“ („King of the kings“)</cell>
-                  <cell role="data"><date>[1928]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Cecil B. de Mille</persName></cell>
-                  <cell role="data"><persName>Jeanie Macpherson</persName></cell>
-                  <cell role="data"><orgName>P. D. C.-Film</orgName></cell>
-                  <cell role="data">H. B. Warner, Ernest Torrence, Joseph Schildkraut, Robert Edeson, Rudolf Schildkraut, [Michael] Victor Várkonyi, Jacqueline Logan, Dorothy Cumming</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„König der Könige“ („King of the kings“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Cecil B. de Mille</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Jeanie Macpherson</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>P. D. C.-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">H. B. Warner, Ernest Torrence, Joseph Schildkraut, Robert Edeson, Rudolf Schildkraut, [Michael] Victor Várkonyi, Jacqueline Logan, Dorothy Cumming</cell>
                </row>
             </table>
          </div>
@@ -131,15 +138,16 @@ In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Co
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__43" type="kino">
-               <orgName>Palace Grand Kinotheater / Palast Kino</orgName>
-               <location><address><addrLine>08., Josefstädterstraße 43-45</addrLine></address></location>
+            <place  xml:id="ask_kino__43" type="kino">
+               <placeName>Palace Grand Kinotheater / Palast Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>08., Josefstädterstraße 43-45</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1914. Umbenennung 1914. Tonfilm ab 1930. Fassungsraum: 1914: 706 Sitzplätze (davon 40 Logenplätze), 1920: 788 (70).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

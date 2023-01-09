@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-11-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-11-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/11 […] Mit C. P. Kino „Spanische Nächte“, und gleich darauf, etwas angewidert vom ersten in ein andres („Spielerin“), dann im silb. Brunnen genachtm.</ab></div>
-         <div type="ckp"><ab>17.11. Viel gearbeitet und geordnet. Am Abend mit A. in zwei Kinos. Erst „Spanische Liebesnächte“, dann „Die Spielerin“. A. ist manchmal wie ein kleines Kind. „Silberner Brunnen“ genachtmahlt. [II, 68]</ab></div>
-         <div type="anmerkung"><ab>1. „Dieser Valencia ist natürlich alle Welt verfallen“ (SK I 366). 
+         <div type="as">
+            <ab>17/11 […] Mit C. P. Kino „Spanische Nächte“, und gleich darauf, etwas angewidert vom ersten in ein andres („Spielerin“), dann im silb. Brunnen genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>17.11. Viel gearbeitet und geordnet. Am Abend mit A. in zwei Kinos. Erst „Spanische Liebesnächte“, dann „Die Spielerin“. A. ist manchmal wie ein kleines Kind. „Silberner Brunnen“ genachtmahlt. [II, 68]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>1. „Dieser Valencia ist natürlich alle Welt verfallen“ (SK I 366). 
 2. „Auch die Routine ist etwas wert“ (SK I 415).
-Notizen und Anzeigen für beide Filme NFP 11.11.1927, S. 22/23.</ab></div>
+Notizen und Anzeigen für beide Filme NFP 11.11.1927, S. 22/23.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Spanische Liebesnächte“ („Love Song“, „Südliche Liebesnächte“; Ot. „Valencia“)</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Dimitri Buchowetzky</persName></cell>
-                  <cell role="data"><persName>[Dimitri Buchowetzki, Alice D.G. Miller]</persName></cell>
-                  <cell role="data"><orgName>Metro-Goldwyn-Film</orgName></cell>
-                  <cell role="data">Mae Murray, Lloyd Hughes, Roy d’Arcy</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Spanische Liebesnächte“ („Love Song“, „Südliche Liebesnächte“; Ot. „Valencia“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Dimitri Buchowetzky</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Dimitri Buchowetzki, Alice D.G. Miller]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Goldwyn-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Mae Murray, Lloyd Hughes, Roy d’Arcy</cell>
                </row>
             </table>
          </div>
@@ -96,13 +103,15 @@ Notizen und Anzeigen für beide Filme NFP 11.11.1927, S. 22/23.</ab></div>
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

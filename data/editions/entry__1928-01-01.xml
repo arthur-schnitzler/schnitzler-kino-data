@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-01-01.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-01-01.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>1/1 […] Mit C. P. Kino Heimat;– Blond und brünett (Menjou).– […]</ab></div>
-         <div type="ckp"><ab>1. Jänner. Sylvesterabend wollte A. mit mir in ein Theater und dann zu mir kommen. Ich riet ihm mit Lili und Gatten auszugehen und <hi>dann</hi> erst bei mir. Und so war es. Das neue Jahr sehr schön und in Zärtlichkeit und guter Stimmung begonnen. Vormittag mit A. spazieren, Mittag Fredi und Herry zu Tisch. Abend mit A. im Kino. [II, 90]</ab></div>
-         <div type="anmerkung"><ab>»Fredi und Herry«: Pollaczeks Bruder Alfred und ihr älterer Sohn Hermann Erich.
-Anzeige NFP 30.12.1927, S. 19: : „Die Neujahrsgabe der fanamet für die Kinobesucher / Adolphe Menjou vor der Frage / Blond oder Brünett? / (Kurzschluss der Liebe) / Sehen Sie sich den Film an – Sie werden verstehen, dass Menjou die Wahl schwer fällt.“</ab></div>
+         <div type="as">
+            <ab>1/1 […] Mit C. P. Kino Heimat;– Blond und brünett (Menjou).– […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>1. Jänner. Sylvesterabend wollte A. mit mir in ein Theater und dann zu mir kommen. Ich riet ihm mit Lili und Gatten auszugehen und <hi>dann</hi> erst bei mir. Und so war es. Das neue Jahr sehr schön und in Zärtlichkeit und guter Stimmung begonnen. Vormittag mit A. spazieren, Mittag Fredi und Herry zu Tisch. Abend mit A. im Kino. [II, 90]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Fredi und Herry«: Pollaczeks Bruder Alfred und ihr älterer Sohn Hermann Erich.
+Anzeige NFP 30.12.1927, S. 19: : „Die Neujahrsgabe der fanamet für die Kinobesucher / Adolphe Menjou vor der Frage / Blond oder Brünett? / (Kurzschluss der Liebe) / Sehen Sie sich den Film an – Sie werden verstehen, dass Menjou die Wahl schwer fällt.“</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Blond oder brünett“ (Ot. „Blonde or Brunette“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Richard [Rosson]</persName></cell>
-                  <cell role="data"><persName>[Jacques Bousquet, Henri Falk (Vorlage Kurzgeschichte „Un Ange passe“); John McDermott (Adaption, Drehbuch); George Marion Jr. (Titel)]</persName></cell>
-                  <cell role="data"><orgName>Famous Players-Lasky</orgName></cell>
-                  <cell role="data">Adolphe Menjou, Emile Chautard, Greta Nissen, Arlette [Marchal], Mary Carr u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Blond oder brünett“ (Ot. „Blonde or Brunette“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Richard [Rosson]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Jacques Bousquet, Henri Falk (Vorlage Kurzgeschichte „Un Ange passe“); John McDermott (Adaption, Drehbuch); George Marion Jr. (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Famous Players-Lasky</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Adolphe Menjou, Emile Chautard, Greta Nissen, Arlette [Marchal], Mary Carr u.a.</cell>
                </row>
             </table>
          </div>
@@ -151,15 +158,16 @@ Anzeige NFP 30.12.1927, S. 19: : „Die Neujahrsgabe der fanamet für die Kinobe
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__17" type="kino">
-               <orgName>Heimatkino</orgName>
-               <location><address><addrLine>09., Porzellangasse 19</addrLine></address></location>
+            <place  xml:id="ask_kino__17" type="kino">
+               <placeName>Heimatkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Porzellangasse 19</addrLine>
+                  </address>
+               </location>
                <note type="info"> Gründung 7.3.1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914: 593 Sitzplätze (davon 4 Logenplätze), 1922: 617 (60).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

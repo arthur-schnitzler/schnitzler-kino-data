@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1915-04-12.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1915-04-12.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>12/4 […] Im Opernkino (Moissi, Kulissenzauber). […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>12/4 […] Im Opernkino (Moissi, Kulissenzauber). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Kulissenzauber“</cell>
-                  <cell role="data"><date>1914/15</date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Heinrich Bolten-Baeckers</persName></cell>
-                  <cell role="data"><persName>Heinrich Bolten-Baeckers</persName></cell>
-                  <cell role="data"><orgName>BB-Film-Fabrikation Bolten-Baeckers</orgName></cell>
-                  <cell role="data">Alexander Moissi, Thea Sandten</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Kulissenzauber“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>1914/15</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Heinrich Bolten-Baeckers</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Heinrich Bolten-Baeckers</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>BB-Film-Fabrikation Bolten-Baeckers</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Alexander Moissi, Thea Sandten</cell>
                </row>
             </table>
          </div>
@@ -107,15 +112,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__34" type="kino">
-               <orgName>Opernkino</orgName>
-               <location><address><addrLine>01., Friedrichstraße 4</addrLine></address></location>
+            <place  xml:id="ask_kino__34" type="kino">
+               <placeName>Opernkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>01., Friedrichstraße 4</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1913. Tonfilmanlage: Eröffnung 9.8.1930. Fassungsraum: 1914: 390 Sitzplätze, 1922: 374 Sitzplätze (davon 56 Logenplätze).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

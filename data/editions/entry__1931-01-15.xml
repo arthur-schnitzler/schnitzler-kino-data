@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-01-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-01-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,34 +62,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>15/1 […] Abds. mit C. P. Kino (Insel der verlornen Schiffe; Kortner, George, Veidt); dann Weißer Hahn mit ihr soup.–</ab></div>
-         <div type="ckp"><ab>15.1.1931. Mein Geburtstag. Ich habe es endlich so weit gebracht, dass Kinder und Geschwister den Tag unbeachtet lassen. Und wenn nicht die alten Tanten und Emmy R. mir durchaus an diesem Tag ihre Aufmerksamkeiten aufdrängen würden, (für die ich ihnen gar keinen Dank weiss) könnte man so schön vergessen – 
-Else krank, wenn auch unbeträchtliche Erkältung. Ich habe sie zu Bett geschickt und aufgeräumt. Mittag bei A. gegessen, wo auch Frieda war (er hat keine Ahnung, dass mein Geburtstag ist). Abend mit A. im Kino (Cap der Verlorenen mit Kortner, George, Birell), Besonders guter Film. Dann Weissen Hahn genachtmahlt. Kühle Freundlichkeit von beiden Seiten. Meine innere Müdigkeit ist oft grenzenlos. Böses liegt hinter mir und vor mir. [III, 140]</ab></div>
-         <div type="anmerkung"><ab>»Emmy R.«: Emmy Redlich. – »Else«: Das Hausmädchen Pollaczeks, der Familienname ist nicht überliefert.
+         <div type="as">
+            <ab>15/1 […] Abds. mit C. P. Kino (Insel der verlornen Schiffe; Kortner, George, Veidt); dann Weißer Hahn mit ihr soup.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>15.1.1931. Mein Geburtstag. Ich habe es endlich so weit gebracht, dass Kinder und Geschwister den Tag unbeachtet lassen. Und wenn nicht die alten Tanten und Emmy R. mir durchaus an diesem Tag ihre Aufmerksamkeiten aufdrängen würden, (für die ich ihnen gar keinen Dank weiss) könnte man so schön vergessen – 
+Else krank, wenn auch unbeträchtliche Erkältung. Ich habe sie zu Bett geschickt und aufgeräumt. Mittag bei A. gegessen, wo auch Frieda war (er hat keine Ahnung, dass mein Geburtstag ist). Abend mit A. im Kino (Cap der Verlorenen mit Kortner, George, Birell), Besonders guter Film. Dann Weissen Hahn genachtmahlt. Kühle Freundlichkeit von beiden Seiten. Meine innere Müdigkeit ist oft grenzenlos. Böses liegt hinter mir und vor mir. [III, 140]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Emmy R.«: Emmy Redlich. – »Else«: Das Hausmädchen Pollaczeks, der Familienname ist nicht überliefert.
 »Ich kenne keinen deutschen Tonfilm, der so sehr Tonfilm und nichts anderes wäre wie dieser« (SK II, S. 424).
-Berichte zu Dreharbeiten NFP 1.8.1930, S. 12, und 5.9.1930, S. 8. Ankündigungen NFP 19.12.1930, S. 11, und 30.12.1930, S. 10. Anzeige NFP 9.1.1931, S. 2. Besprechung von Fritz Frankl in NFP 10.1.1931, S. 14. Nachge­wiesene Spielorte: Gartenbau- und Kolosseum-Kino (NFP 15.1.1931, S. 18).</ab></div>
+Berichte zu Dreharbeiten NFP 1.8.1930, S. 12, und 5.9.1930, S. 8. Ankündigungen NFP 19.12.1930, S. 11, und 30.12.1930, S. 10. Anzeige NFP 9.1.1931, S. 2. Besprechung von Fritz Frankl in NFP 10.1.1931, S. 14. Nachge­wiesene Spielorte: Gartenbau- und Kolosseum-Kino (NFP 15.1.1931, S. 18).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Kap der Verlorenen“ (At. „Menschen im Käfig“ / „Cape Forlorn“)</cell>
-                  <cell role="data"><date>[1930]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>UK</placeName></cell>
-                  <cell role="data"><persName>E. A. Dupont</persName></cell>
-                  <cell role="data"><persName>Frank Harvey (Vorlage Bühnenstück); [Victor Kendall, E. A. Dupont]</persName></cell>
-                  <cell role="data"><orgName>British Int. R. C. A.</orgName></cell>
-                  <cell role="data">Conrad Veidt, Heinrich George, Fritz Kortner, Julius Brandt, Tala Birell</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Kap der Verlorenen“ (At. „Menschen im Käfig“ / „Cape Forlorn“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UK</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>E. A. Dupont</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Frank Harvey (Vorlage Bühnenstück); [Victor Kendall, E. A. Dupont]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>British Int. R. C. A.</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conrad Veidt, Heinrich George, Fritz Kortner, Julius Brandt, Tala Birell</cell>
                </row>
             </table>
          </div>
@@ -141,7 +148,6 @@ Berichte zu Dreharbeiten NFP 1.8.1930, S. 12, und 5.9.1930, S. 8. Ankündigungen
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

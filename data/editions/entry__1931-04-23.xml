@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-04-23.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-04-23.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>23/4 […] Mit C. P. Michelbeuern-Kino Sturm im Wasserglas (Niese) zu Haus allein genachtm.</ab></div>
-         <div type="ckp"><ab>23.4. Die Ehe Ruth-Heini scheint schon erledigt zu sein, Heini hat seinem Vater geschrieben, also genau das getan, was ich durch Dr. D., (der sich nicht meldet) verhüten lassen wollte.
-Abend mit A. Kino bei „Sturm im Wasserglas“. Er ist nervös, unfreundlich. Wir gingen dann Jeder für sich nachhause nachtmahlen. Er begleitete mich bis zu meiner Tür (zu Fuss), obwohl ich noch hinke nahm er nicht einmal meinen Arm. Mir ist oft, als müsse ich auf und davon. [III, 165]</ab></div>
-         <div type="anmerkung"><ab>Notiz NFP 25.2.1931, S. 11. Premierennotiz NFP 27.2.1931, S. 14. Notiz NFP 3.3.1931, S. 11, mit Ankündigung für Mitte März. Premierennotiz NFP 10.3.1931, S. 13 für 14.3.1931.</ab></div>
+         <div type="as">
+            <ab>23/4 […] Mit C. P. Michelbeuern-Kino Sturm im Wasserglas (Niese) zu Haus allein genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>23.4. Die Ehe Ruth-Heini scheint schon erledigt zu sein, Heini hat seinem Vater geschrieben, also genau das getan, was ich durch Dr. D., (der sich nicht meldet) verhüten lassen wollte.
+Abend mit A. Kino bei „Sturm im Wasserglas“. Er ist nervös, unfreundlich. Wir gingen dann Jeder für sich nachhause nachtmahlen. Er begleitete mich bis zu meiner Tür (zu Fuss), obwohl ich noch hinke nahm er nicht einmal meinen Arm. Mir ist oft, als müsse ich auf und davon. [III, 165]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Notiz NFP 25.2.1931, S. 11. Premierennotiz NFP 27.2.1931, S. 14. Notiz NFP 3.3.1931, S. 11, mit Ankündigung für Mitte März. Premierennotiz NFP 10.3.1931, S. 13 für 14.3.1931.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Sturm im Wasserglas“</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>Ö</placeName></cell>
-                  <cell role="data"><persName>Georg Jacoby</persName></cell>
-                  <cell role="data"><persName>Bruno Frank (Vorlage Bühnenstück); [Walter] Wassermann, [Walter] Schlee, Felix Salten (Dialog)</persName></cell>
-                  <cell role="data"><orgName>Sascha-Tobis</orgName></cell>
-                  <cell role="data">Hansi Niese, Renate Müller, Grete Maren, Harald Paulsen, Paul Otto, Herbert Hübner, Otto Tressler, Oskar Sabo</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Sturm im Wasserglas“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Georg Jacoby</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Bruno Frank (Vorlage Bühnenstück); [Walter] Wassermann, [Walter] Schlee, Felix Salten (Dialog)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Sascha-Tobis</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Hansi Niese, Renate Müller, Grete Maren, Harald Paulsen, Paul Otto, Herbert Hübner, Otto Tressler, Oskar Sabo</cell>
                </row>
             </table>
          </div>
@@ -158,15 +165,16 @@ Abend mit A. Kino bei „Sturm im Wasserglas“. Er ist nervös, unfreundlich. W
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__52" type="kino">
-               <orgName>Michelbeuerntheater</orgName>
-               <location><address><addrLine>18., Kreuzgasse 27</addrLine></address></location>
+            <place  xml:id="ask_kino__52" type="kino">
+               <placeName>Michelbeuerntheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Kreuzgasse 27</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1919. Tonfilm: 1931. Fassungsraum: 1922: 558 Sitzplätze (davon 38 Logenplätze), 1934: 576 (32).</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

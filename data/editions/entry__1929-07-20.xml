@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-07-20.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-07-20.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>20/7 […] Mit C. P. ins (Bürger-)Kino; Buster Keaton (Seefahrer); dann nach langer Zeit „Gruss“ im Garten; beflissene Begrüßung durch den Wirt (Pohl) […]</ab></div>
-         <div type="ckp"><ab>20.7.1929. Kinoabend mit A. „Lustige Seefahrer“, aber nicht sehr lustig. Nachtmahl beim Gruss im Freien, wundervoller warmer Abend. Nachm. waren Tante Clara, Emmy R. und Anna bei mir. Hals weniger gut. [II, 251]</ab></div>
-         <div type="anmerkung"><ab>»Tante Clara«: nicht nachgewiesen; »Emmy R.«: Emilie Redlich
-Laut DKB 20.7.1929, S. 16: »›Der Seefahrer.‹ Lustspiel« im Amalien-Kino, X. Laxenburgerstraße 8/10. – Wohl eine in PFL nicht belegte Reprise des Buster-Keaton-Filmes a. d. J. 1925, den Schnitzler und Pollaczek am 24.11.1925 gesehen hatten.</ab></div>
+         <div type="as">
+            <ab>20/7 […] Mit C. P. ins (Bürger-)Kino; Buster Keaton (Seefahrer); dann nach langer Zeit „Gruss“ im Garten; beflissene Begrüßung durch den Wirt (Pohl) […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>20.7.1929. Kinoabend mit A. „Lustige Seefahrer“, aber nicht sehr lustig. Nachtmahl beim Gruss im Freien, wundervoller warmer Abend. Nachm. waren Tante Clara, Emmy R. und Anna bei mir. Hals weniger gut. [II, 251]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Tante Clara«: nicht nachgewiesen; »Emmy R.«: Emilie Redlich
+Laut DKB 20.7.1929, S. 16: »›Der Seefahrer.‹ Lustspiel« im Amalien-Kino, X. Laxenburgerstraße 8/10. – Wohl eine in PFL nicht belegte Reprise des Buster-Keaton-Filmes a. d. J. 1925, den Schnitzler und Pollaczek am 24.11.1925 gesehen hatten.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Seefahrer“ (Ot. „The navigator“)</cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName></placeName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName></orgName></cell>
-                  <cell role="data"></cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Seefahrer“ (Ot. „The navigator“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName/>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName/>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen"/>
                </row>
             </table>
          </div>
@@ -105,15 +112,16 @@ Laut DKB 20.7.1929, S. 16: »›Der Seefahrer.‹ Lustspiel« im Amalien-Kino, X
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__40" type="kino">
-               <orgName>Währinger Bürgertheater</orgName>
-               <location><address><addrLine>18., Gentzgasse 119</addrLine></address></location>
+            <place  xml:id="ask_kino__40" type="kino">
+               <placeName>Währinger Bürgertheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gentzgasse 119</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 8.11.1912. Tonfilm ab 1930. Fassungsraum: 1914: 311 Sitzplätze (davon 20 Logenplätze), 1922: 335 (unbek.), 1934: 345 (28). – Schnitzler notiert (mit in einer einzigen Ausnahme am 15.9.1928) nur sehr allgemein Besuche in einem nicht näher bestimmten „Bürger“-Kino, daher kommen theoretisch auch zahlreiche andere Lokalitäten in Frage; Kinos mit diesem Namen bestehen unter anderem im 3. (vgl. Schwarz 1992, S. 202f.), 4. (vgl. Schwarz 1992, S. 210), 5. (siehe Eintrag unten) oder 7. Bezirk (vgl. Schwarz 1992, S. 228). Jedoch belegen die Kinoprogramme von Tageszeitungen oder Filmzeitschriften an mindestens vier Tagen die Aufführung des bei Schnitzler protokollierten Films im unweit von dessen Wohnung gelegenen „Währinger Bürgertheater“, was die Annahme erlaubt, dass es sich bei den gleichlautend notierten Ortsangaben ebenfalls um dieses Kino handelt.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-06-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-06-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/6 Ischl. – Regen. […] Mit C. P. Kino.</ab></div>
-         <div type="ckp"><ab>17.6. Aus dem Ausseer Ausflug ist nichts geworden, denn es regnet, regnet. A. kam zeitlich in der Früh zu mir herein, setzte sich auf mein Bett. Wir gingen erst gegen Mittag fort (Kaisergarten). A. den ganzen Tag sehr lieb und zärtlich. Nach Tisch wieder bei Zauner, eine Frau Flegmann gesprochen. (Alte, kluge Jüdin, einst mit Brahms befreundet). Gegen Abend im Kino „Liebe einer Nonne“. Unbeträchtlicher, aber nicht allzu langweiliger Film. Nach dem Nachtmahl in der Halle gelesen (Rahel Sanzara, „Das verlorene Kind“). Sehr begabt, aber scheusslich. Sehr beglückendes Zusammensein und Einvernehmen zwischen A. und mir. [II, 126f.]</ab></div>
-         <div type="anmerkung"><ab>»Flegmann«: Bertha Flegmann (1853–?); Rahel Sanzaras Roman, der den Sexualmord an einer Vierjährigen behandelt, erschien 1926. 
+         <div type="as">
+            <ab>17/6 Ischl. – Regen. […] Mit C. P. Kino.</ab>
+         </div>
+         <div type="ckp">
+            <ab>17.6. Aus dem Ausseer Ausflug ist nichts geworden, denn es regnet, regnet. A. kam zeitlich in der Früh zu mir herein, setzte sich auf mein Bett. Wir gingen erst gegen Mittag fort (Kaisergarten). A. den ganzen Tag sehr lieb und zärtlich. Nach Tisch wieder bei Zauner, eine Frau Flegmann gesprochen. (Alte, kluge Jüdin, einst mit Brahms befreundet). Gegen Abend im Kino „Liebe einer Nonne“. Unbeträchtlicher, aber nicht allzu langweiliger Film. Nach dem Nachtmahl in der Halle gelesen (Rahel Sanzara, „Das verlorene Kind“). Sehr begabt, aber scheusslich. Sehr beglückendes Zusammensein und Einvernehmen zwischen A. und mir. [II, 126f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Flegmann«: Bertha Flegmann (1853–?); Rahel Sanzaras Roman, der den Sexualmord an einer Vierjährigen behandelt, erschien 1926. 
 Pollaczek und Schnitzler unternahmen von 11. bis 21. Juni eine gemeinsame Reise ins Salzkammergut. 
-Besprechung von Lilly Klaudy in NFP 23.10.1927, S. 17. Spielort in Ischl nicht nachgewiesen.</ab></div>
+Besprechung von Lilly Klaudy in NFP 23.10.1927, S. 17. Spielort in Ischl nicht nachgewiesen.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Liebe einer Nonne“ („Erinnerungen einer Nonne“)</cell>
-                  <cell role="data"><date>[1926/27]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Arthur Bergen</persName></cell>
-                  <cell role="data"><persName>Erich Arndt (Vorlage); [Ernst Iros, Arthur Bergen]</persName></cell>
-                  <cell role="data"><orgName>Emelka-Film</orgName></cell>
-                  <cell role="data">Imogen Robertson, Camilla von Hollay, Ellen Kürti, Hermine Sterler, Werner Pittschau, Georg John</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Liebe einer Nonne“ („Erinnerungen einer Nonne“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926/27]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Arthur Bergen</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Erich Arndt (Vorlage); [Ernst Iros, Arthur Bergen]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Emelka-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Imogen Robertson, Camilla von Hollay, Ellen Kürti, Hermine Sterler, Werner Pittschau, Georg John</cell>
                </row>
             </table>
          </div>
@@ -149,7 +156,6 @@ Besprechung von Lilly Klaudy in NFP 23.10.1927, S. 17. Spielort in Ischl nicht n
                <placeName>Ischl</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

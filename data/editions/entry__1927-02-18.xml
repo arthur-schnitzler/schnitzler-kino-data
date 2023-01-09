@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-02-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-02-18.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>18/2 […] Mit C. P. Kino „Familie ohne Moral“ – (Ledige Leut); dann mit ihr silb. Brunnen.– […]</ab></div>
-         <div type="anmerkung"><ab>Zwischen 1927 und 1929 drehte Max Neufeld für die »Hugo Engel Filmges.m.b.H.« insgesamt neun Filme (Biographie und Filmographie zu Max Neufeld von Armin Loacker in Büttner/Dewald, S. 66–74). Bei dieser Firma handelte es sich ursprünglich um eine reine Verleih- und Vertriebsgesellschaft, die in die Produktion investierte, um so ausländische Filme vertreiben zu können, deren Einfuhr seit 1926 an die inländische Filmproduktion gekoppelt war.
-Nachgewiesene Spielorte: Elite-, Flotten-, Phönix-, Flieger- und Kolosseum-Kino sowie Kammerlichtspiele am Schwarzenbergplatz und Münstedts Kino-Palast (NFP 18.2.1927, S. 23).</ab></div>
+         <div type="as">
+            <ab>18/2 […] Mit C. P. Kino „Familie ohne Moral“ – (Ledige Leut); dann mit ihr silb. Brunnen.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Zwischen 1927 und 1929 drehte Max Neufeld für die »Hugo Engel Filmges.m.b.H.« insgesamt neun Filme (Biographie und Filmographie zu Max Neufeld von Armin Loacker in Büttner/Dewald, S. 66–74). Bei dieser Firma handelte es sich ursprünglich um eine reine Verleih- und Vertriebsgesellschaft, die in die Produktion investierte, um so ausländische Filme vertreiben zu können, deren Einfuhr seit 1926 an die inländische Filmproduktion gekoppelt war.
+Nachgewiesene Spielorte: Elite-, Flotten-, Phönix-, Flieger- und Kolosseum-Kino sowie Kammerlichtspiele am Schwarzenbergplatz und Münstedts Kino-Palast (NFP 18.2.1927, S. 23).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Familie ohne Moral“ [At. „Ledige Leute“]</cell>
-                  <cell role="data"><date>[1926/27]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>Ö</placeName></cell>
-                  <cell role="data"><persName>Max Neufeld</persName></cell>
-                  <cell role="data"><persName>Felix Dörmann (Vorlage Bühnenstück „Ledige Leut’“); [Ida Jenbach, Max Neufeld (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Hugo Engel-Prod.</orgName></cell>
-                  <cell role="data">Colette Brettel, Carmen Cartellieri, Mizzi Griebl, Anna Kallina, Daisy Holms, Paul Hartmann, Fred Louis Lerch, Hermann Thimig, Otto Schmöle, Eugen Neufeld, Hans Moser, Rudi Merstallinger</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Familie ohne Moral“ [At. „Ledige Leute“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926/27]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Max Neufeld</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Felix Dörmann (Vorlage Bühnenstück „Ledige Leut’“); [Ida Jenbach, Max Neufeld (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hugo Engel-Prod.</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Colette Brettel, Carmen Cartellieri, Mizzi Griebl, Anna Kallina, Daisy Holms, Paul Hartmann, Fred Louis Lerch, Hermann Thimig, Otto Schmöle, Eugen Neufeld, Hans Moser, Rudi Merstallinger</cell>
                </row>
             </table>
          </div>
@@ -159,13 +164,15 @@ Nachgewiesene Spielorte: Elite-, Flotten-, Phönix-, Flieger- und Kolosseum-Kino
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

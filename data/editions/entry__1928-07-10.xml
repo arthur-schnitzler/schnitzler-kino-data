@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-07-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-07-10.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>10/7 […] Abds. mit C. P. Planetarium; dann Kino „die letzten Nächte einer schönen Frau“ (Dagover);– bei „Hartmann“ soupirt.</ab></div>
-         <div type="ckp"><ab>10.7. Mit A. im Planetarium. Dann im Kino „Die letzten Nächte einer schönen Frau“. Dann bei Hartmann am Ring im Freien genachtmahlt. Mein Befinden elend. Kongestionen und Schwindel. Mein Aussehen dabei sehr gut. A. besonders nett. Rundfahrt um den Ring in der Nachtkühle. [II, 128f.]</ab></div>
-         <div type="anmerkung"><ab>„‚Der Anwalt des Herzens‘ […] plädiert für die Abschaffung der Todesstrafe“ (SK II, S. 24). Einziger nachgewiesener Spielort: Burg-Kino (NFP 10.7.1928, S. 17). Die Filmrundschau der Woche (NFP 6.7.1928, S. 10) dagegen: „erscheint ab heute in zahlreichen Wiener Kinos“.</ab></div>
+         <div type="as">
+            <ab>10/7 […] Abds. mit C. P. Planetarium; dann Kino „die letzten Nächte einer schönen Frau“ (Dagover);– bei „Hartmann“ soupirt.</ab>
+         </div>
+         <div type="ckp">
+            <ab>10.7. Mit A. im Planetarium. Dann im Kino „Die letzten Nächte einer schönen Frau“. Dann bei Hartmann am Ring im Freien genachtmahlt. Mein Befinden elend. Kongestionen und Schwindel. Mein Aussehen dabei sehr gut. A. besonders nett. Rundfahrt um den Ring in der Nachtkühle. [II, 128f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„‚Der Anwalt des Herzens‘ […] plädiert für die Abschaffung der Todesstrafe“ (SK II, S. 24). Einziger nachgewiesener Spielort: Burg-Kino (NFP 10.7.1928, S. 17). Die Filmrundschau der Woche (NFP 6.7.1928, S. 10) dagegen: „erscheint ab heute in zahlreichen Wiener Kinos“.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Letzten Nächte einer schönen Frau“ („Der Anwalt des Herzens“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Wilhelm Thiele</persName></cell>
-                  <cell role="data"><persName>Georg Fröschel (Vorlage); [Werner Scheff, Wilhelm Thiele]</persName></cell>
-                  <cell role="data"><orgName>Greenbaum-Phöbusfilm</orgName></cell>
-                  <cell role="data">Lil Dagover, Jean Murat, Ernst Stahl-Nachbaur, Hans Mierendorff, Jaro Fürth u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Letzten Nächte einer schönen Frau“ („Der Anwalt des Herzens“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Wilhelm Thiele</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Georg Fröschel (Vorlage); [Werner Scheff, Wilhelm Thiele]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Greenbaum-Phöbusfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lil Dagover, Jean Murat, Ernst Stahl-Nachbaur, Hans Mierendorff, Jaro Fürth u.a.</cell>
                </row>
             </table>
          </div>
@@ -127,13 +134,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__34" type="wirt">
+               <placeName>Restaurant Franz Hartmann</placeName>
+               <location>
+                  <address>
+                     <addrLine>Kärntnerring 10, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__34" type="wirt">
-               <orgName>Restaurant Franz Hartmann</orgName>
-               <location><address><addrLine>Kärntnerring 10, 1.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

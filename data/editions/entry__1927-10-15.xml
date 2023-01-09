@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-10-15.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-10-15.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>15/10 […] Mit C. P. Kino „Ausschluss der Öffentlichkeit“ – mit C. P. beim „Hirschen“ genachtm. […]</ab></div>
-         <div type="anmerkung"><ab>Anzeige und Notiz NFP 14.10.1927, S. 18/19. Auf derselben Seite findet sich die neunte Fortsetzung von Pollaczeks Roman „Der Aufstieg“ (Ankündigung des von 4.10.–28.12.1927 in 73 Teilen erschienenen Romans in NFP 2.10.1927, S. 13). Besprechung NFP 15.10.1927, S. 9.</ab></div>
+         <div type="as">
+            <ab>15/10 […] Mit C. P. Kino „Ausschluss der Öffentlichkeit“ – mit C. P. beim „Hirschen“ genachtm. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige und Notiz NFP 14.10.1927, S. 18/19. Auf derselben Seite findet sich die neunte Fortsetzung von Pollaczeks Roman „Der Aufstieg“ (Ankündigung des von 4.10.–28.12.1927 in 73 Teilen erschienenen Romans in NFP 2.10.1927, S. 13). Besprechung NFP 15.10.1927, S. 9.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Unter Ausschluß der Öffentlichkeit“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Conrad Wiene</persName></cell>
-                  <cell role="data"><persName>[Josef Than, Johannes Brandt]</persName></cell>
-                  <cell role="data"><orgName>Internationale Film Exchange</orgName></cell>
-                  <cell role="data">Werner Krauß, Jakob Tiedtke, Henry Stuart, Wilhelm Dieterle, Julius Falkenstein, Maly Delschaft, Vivian Gibson, Ida Wüst</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Unter Ausschluß der Öffentlichkeit“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Conrad Wiene</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Josef Than, Johannes Brandt]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Internationale Film Exchange</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Werner Krauß, Jakob Tiedtke, Henry Stuart, Wilhelm Dieterle, Julius Falkenstein, Maly Delschaft, Vivian Gibson, Ida Wüst</cell>
                </row>
             </table>
          </div>
@@ -138,13 +143,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__30" type="wirt">
+               <placeName>Zum Hirschen</placeName>
+               <location>
+                  <address>
+                     <addrLine>?</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__30" type="wirt">
-               <orgName>Zum Hirschen</orgName>
-               <location><address><addrLine>?</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

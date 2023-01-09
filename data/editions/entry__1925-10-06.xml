@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-10-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-10-06.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>6/10 […] – Hole C. P. Peregring. ab – heute ist sie dort wieder eingezogen. Kino (Wiener Mädl, Olaf Fönss);– […].</ab></div>
-         <div type="anmerkung"><ab>»Peregring.«: Die Wohnung Pollaczeks in der Peregringasse 4, 2. Stock, war vermietet gewesen, weshalb sie ein Jahr lang im Hotel Regina (Wien 9., Freiheitsplatz 16) gewohnt hatte. 
-»Olaf Fönss« ist in den Quellen zum Film nicht nachgewiesen, allerdings kommt aufgrund der Kinoprogramme nur dieser Film in Frage. Premierennotiz und Anzeige NFP 2.10.1925, S. 20. Dort nachgewiesene Spielorte ab 6.10.1925: Wiedner Grand-, Bellaria- und Votivpark-Kino, Raimund- und Künstler-Lichtspiele. </ab></div>
+         <div type="as">
+            <ab>6/10 […] – Hole C. P. Peregring. ab – heute ist sie dort wieder eingezogen. Kino (Wiener Mädl, Olaf Fönss);– […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Peregring.«: Die Wohnung Pollaczeks in der Peregringasse 4, 2. Stock, war vermietet gewesen, weshalb sie ein Jahr lang im Hotel Regina (Wien 9., Freiheitsplatz 16) gewohnt hatte. 
+»Olaf Fönss« ist in den Quellen zum Film nicht nachgewiesen, allerdings kommt aufgrund der Kinoprogramme nur dieser Film in Frage. Premierennotiz und Anzeige NFP 2.10.1925, S. 20. Dort nachgewiesene Spielorte ab 6.10.1925: Wiedner Grand-, Bellaria- und Votivpark-Kino, Raimund- und Künstler-Lichtspiele. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Das Mädel aus Wien“ [Ot. „Wienerbarnet“]</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>DK</placeName></cell>
-                  <cell role="data"><persName>A. W. Sandberg</persName></cell>
-                  <cell role="data"><persName>Svend Rindom (Vorlage gleichnamiges Bühnenstück); [Sam Ask]</persName></cell>
-                  <cell role="data"><orgName>Nordiskfilm</orgName></cell>
-                  <cell role="data">Gunnar [Tolnæs], Karina Bell, [Gerhard Jessen, Karen Caspersen, Martin Herzberg, Nils Asther, Mathilde Nielsen, Else Nielsen]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Mädel aus Wien“ [Ot. „Wienerbarnet“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>DK</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>A. W. Sandberg</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Svend Rindom (Vorlage gleichnamiges Bühnenstück); [Sam Ask]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Nordiskfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gunnar [Tolnæs], Karina Bell, [Gerhard Jessen, Karen Caspersen, Martin Herzberg, Nils Asther, Mathilde Nielsen, Else Nielsen]</cell>
                </row>
             </table>
          </div>
@@ -140,7 +145,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

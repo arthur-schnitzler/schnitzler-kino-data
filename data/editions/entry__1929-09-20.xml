@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-09-20.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-09-20.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>20/9 Marienbad. […] Mit R. und P. Kino „Hotelratten“, […].</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>20/9 Marienbad. […] Mit R. und P. Kino „Hotelratten“, […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Hotelratten“ („Der Fall H.“)</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Jaap Speyer</persName></cell>
-                  <cell role="data"><persName>[Johannes Brandt]</persName></cell>
-                  <cell role="data"><orgName>Ewe-Film</orgName></cell>
-                  <cell role="data">Alfred Gerasch, Nils Asther, Hans Mierendorf[f], Julius von Szöreghy, Ellen Kürti, Mia Pankau, Helene Hallier</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Hotelratten“ („Der Fall H.“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Jaap Speyer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Johannes Brandt]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ewe-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Alfred Gerasch, Nils Asther, Hans Mierendorf[f], Julius von Szöreghy, Ellen Kürti, Mia Pankau, Helene Hallier</cell>
                </row>
             </table>
          </div>
@@ -131,7 +136,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Marienbad</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

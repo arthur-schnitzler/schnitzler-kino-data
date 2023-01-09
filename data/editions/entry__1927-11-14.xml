@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-11-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-11-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/11 […] Mit C. P. und Kolap Kino, „Napoleon“; mit C. P. Tonello genachtm.</ab></div>
-         <div type="ckp"><ab>14.11. Nachmittag Frieda diktiert. Dann mit ihr und A. beim Napoleon-Film. [II, 67]</ab></div>
-         <div type="anmerkung"><ab>»Kolap«: Frieda Pollak (1881–1937)
-Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in NFP 12.11.1927, S. 21. Nachgewiesene Spielorte: Burg-, Kärntner-, Schottenring-, Central-, Löwen- und Maria-Theresien-Kino (NFP 11.11.1927, S. 23).</ab></div>
+         <div type="as">
+            <ab>14/11 […] Mit C. P. und Kolap Kino, „Napoleon“; mit C. P. Tonello genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>14.11. Nachmittag Frieda diktiert. Dann mit ihr und A. beim Napoleon-Film. [II, 67]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Kolap«: Frieda Pollak (1881–1937)
+Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in NFP 12.11.1927, S. 21. Nachgewiesene Spielorte: Burg-, Kärntner-, Schottenring-, Central-, Löwen- und Maria-Theresien-Kino (NFP 11.11.1927, S. 23).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Napoleon“ [„Napoléon vu par Abel Gance“]</cell>
-                  <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>F</placeName></cell>
-                  <cell role="data"><persName>Abel Gance</persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName>[Société Général de Films]</orgName></cell>
-                  <cell role="data">Albert Dieudonné, [Wladimir Roudenko], Nikolai Kolin, [Acho] Chakatouny, [Harry Krimer], Maurice Sch[u]tz, Pierre Ba[t]cheff, Gina Manès, Suzy Vernon, Anto[ni]n Art[aud]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Napoleon“ [„Napoléon vu par Abel Gance“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>F</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Abel Gance</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Société Général de Films]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Albert Dieudonné, [Wladimir Roudenko], Nikolai Kolin, [Acho] Chakatouny, [Harry Krimer], Maurice Sch[u]tz, Pierre Ba[t]cheff, Gina Manès, Suzy Vernon, Anto[ni]n Art[aud]</cell>
                </row>
             </table>
          </div>
@@ -151,13 +158,15 @@ Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in N
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__24" type="wirt">
+               <placeName>Tonello beim Dianabad</placeName>
+               <location>
+                  <address>
+                     <addrLine>Lilienbrunngasse 2, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__24" type="wirt">
-               <orgName>Tonello beim Dianabad</orgName>
-               <location><address><addrLine>Lilienbrunngasse 2, 2.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

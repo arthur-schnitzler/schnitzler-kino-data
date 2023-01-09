@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-11-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-11-28.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>28/11 […] Mit C. P. Kino (Rund um die Ehe).</ab></div>
-         <div type="anmerkung"><ab>Erwähnung in Artikel »Der Film im Kreise. Eine Berliner Betrachtung« von Willi Wolfradt in NFP 21.10.1924, S. 9: »Ein entzückend verflochtener, listig manövrierter Film, dem alles fehlt, was sonst dem ›Kino‹ unerläßlich scheint – der sich im engsten Kreise bewegt, keinerlei mächtige Anläufe nimmt und eigentlich nichts ist als ein ungemein scharmantes Spiel koketter und verlegener Blicke, gleichgültiger und vielsagender Mienen, verschmitzten und aufatmenden Lächelns, ängstlichen und boshaften Blinzelns. […] Oft sind nur die Hände im Bilde – und man versteht ganz genau, man sieht die Gesichter.«
-Anzeige NFP 7.11.1924, S. 13f., dort Spielorte von 7.–13.11.1924.</ab></div>
+         <div type="as">
+            <ab>28/11 […] Mit C. P. Kino (Rund um die Ehe).</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Erwähnung in Artikel »Der Film im Kreise. Eine Berliner Betrachtung« von Willi Wolfradt in NFP 21.10.1924, S. 9: »Ein entzückend verflochtener, listig manövrierter Film, dem alles fehlt, was sonst dem ›Kino‹ unerläßlich scheint – der sich im engsten Kreise bewegt, keinerlei mächtige Anläufe nimmt und eigentlich nichts ist als ein ungemein scharmantes Spiel koketter und verlegener Blicke, gleichgültiger und vielsagender Mienen, verschmitzten und aufatmenden Lächelns, ängstlichen und boshaften Blinzelns. […] Oft sind nur die Hände im Bilde – und man versteht ganz genau, man sieht die Gesichter.«
+Anzeige NFP 7.11.1924, S. 13f., dort Spielorte von 7.–13.11.1924.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Rund um die Ehe“ („The Marriage Circle“)</cell>
-                  <cell role="data"><date>[1924]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Ernst Lubitsch</persName></cell>
-                  <cell role="data"><persName>[Lothar Schmidt (Vorlage „Nur ein Traum, Lustspiel in 3 Akten“); Paul Bern (Adaption, Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>Warner-Brothers-Film</orgName></cell>
-                  <cell role="data">Florence Vidor, Monte Blue, [Marie] Prevost, Creighton Hale, Adolphe Menjou, [Harry Myers, Dale Fuller, Esther Ralston]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Rund um die Ehe“ („The Marriage Circle“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ernst Lubitsch</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Lothar Schmidt (Vorlage „Nur ein Traum, Lustspiel in 3 Akten“); Paul Bern (Adaption, Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Warner-Brothers-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Florence Vidor, Monte Blue, [Marie] Prevost, Creighton Hale, Adolphe Menjou, [Harry Myers, Dale Fuller, Esther Ralston]</cell>
                </row>
             </table>
          </div>
@@ -145,7 +150,6 @@ Anzeige NFP 7.11.1924, S. 13f., dort Spielorte von 7.–13.11.1924.</ab></div>
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

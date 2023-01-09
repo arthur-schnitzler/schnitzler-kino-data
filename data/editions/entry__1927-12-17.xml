@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-12-17.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1927-12-17.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>17/12 […] Mit C. P. Kino Katzensteg, mit ihr silb. Brunnen genachtm. […] </ab></div>
-         <div type="ckp"><ab>17.12. Kälte nimmt weiter zu. Sonst gute, glückliche Tage. Weihnachtseinkäufe, Besuche etc. [II, 89]</ab></div>
-         <div type="anmerkung"><ab>Vgl. Artikel Hermann Sudermanns »Wie ›Der Katzensteg‹ entstand« in NFP 9.12.1927, S. 14. Besprechung NFP 17.12.1927, S. 11.</ab></div>
+         <div type="as">
+            <ab>17/12 […] Mit C. P. Kino Katzensteg, mit ihr silb. Brunnen genachtm. […] </ab>
+         </div>
+         <div type="ckp">
+            <ab>17.12. Kälte nimmt weiter zu. Sonst gute, glückliche Tage. Weihnachtseinkäufe, Besuche etc. [II, 89]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Vgl. Artikel Hermann Sudermanns »Wie ›Der Katzensteg‹ entstand« in NFP 9.12.1927, S. 14. Besprechung NFP 17.12.1927, S. 11.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Katzensteg“</cell>
-                  <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Gerhard Lamprecht</persName></cell>
-                  <cell role="data"><persName>Hermann Sudermann (Vorlage gleichnamiger Roman), [Gerhard Lamprecht, Luise Heilborn-Körbitz (Drehbuch)]</persName></cell>
-                  <cell role="data"><orgName>National-Film</orgName></cell>
-                  <cell role="data">Jack Trevor, Jack Mylong-Münz, Rudolf Lettinger, Lissi Arna, [Andreas Behrens-Klausen, Louise Woldera, Max Maximilian, Gustav Rodegg] u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Katzensteg“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Gerhard Lamprecht</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hermann Sudermann (Vorlage gleichnamiger Roman), [Gerhard Lamprecht, Luise Heilborn-Körbitz (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>National-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Jack Trevor, Jack Mylong-Münz, Rudolf Lettinger, Lissi Arna, [Andreas Behrens-Klausen, Louise Woldera, Max Maximilian, Gustav Rodegg] u.a.</cell>
                </row>
             </table>
          </div>
@@ -140,13 +147,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
+            <place  xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__22" type="wirt">
-               <orgName>Zum silbernen Brunnen</orgName>
-               <location><address><addrLine>Berggasse 5, 9.0</addrLine></address></location>
-            </org>
-         </listOrg>
       </back>
    </text>
 </TEI>

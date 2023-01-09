@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-21.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1931-05-21.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>21/5 […] Abds. mit C. P. (Sascha) Kino, Seitensprünge; mit ihr Meißl genachtm.; dann „Metrophon“.–</ab></div>
-         <div type="ckp"><ab>21.5. Heini hat mich noch gestern Abend angerufen, um mir für Erdbeeren zu danken, die ich ihm zur Begrüssung hinüberschickte. Er war etwas forciert liebenswürdig.
+         <div type="as">
+            <ab>21/5 […] Abds. mit C. P. (Sascha) Kino, Seitensprünge; mit ihr Meißl genachtm.; dann „Metrophon“.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>21.5. Heini hat mich noch gestern Abend angerufen, um mir für Erdbeeren zu danken, die ich ihm zur Begrüssung hinüberschickte. Er war etwas forciert liebenswürdig.
 Nachmittag mit Emmy Tolnay bei Emmy Sachs im Sanatorium, die vor wenigen Wochen ihren Mann verloren hat und jetzt an Star operiert wurde. Sie war in Lichtrosa drapiert,– ein wenig lächerlich für eine 62jährige Witwe in Trauer,– eher wie eine Wöchnerin.
-Am Abend mit A. Erst im Kino „Seitensprünge“, saudumm. Dann bei Meisl genachtmahlt und nachher Pathephon. Ein Abend zum sterben öd und traurig. Was er mir von Heinis Scheidung erzählt ist <hi>unwahr</hi>, wie sein ganzes Gehaben. [III, 175]</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz der Uraufführung im Sascha-Palast NFP 8.5.1931, S. 13, für 12.5.1931. Anzeige und Notiz NFP 12.5.1931, S. 4 bzw. 13. Besprechung von –nd– in NFP 16.5.1931, S. 8. Spielort nochmals bestätigt NFP 21.5.1931, S. 17.</ab></div>
+Am Abend mit A. Erst im Kino „Seitensprünge“, saudumm. Dann bei Meisl genachtmahlt und nachher Pathephon. Ein Abend zum sterben öd und traurig. Was er mir von Heinis Scheidung erzählt ist <hi>unwahr</hi>, wie sein ganzes Gehaben. [III, 175]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz der Uraufführung im Sascha-Palast NFP 8.5.1931, S. 13, für 12.5.1931. Anzeige und Notiz NFP 12.5.1931, S. 4 bzw. 13. Besprechung von –nd– in NFP 16.5.1931, S. 8. Spielort nochmals bestätigt NFP 21.5.1931, S. 17.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Seitensprünge“</cell>
-                  <cell role="data"><date>[1931]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Stefan Szekely</persName></cell>
-                  <cell role="data"><persName>Lajos Biró, Bobby E. Lüthge, Karl Noti</persName></cell>
-                  <cell role="data"><orgName>Cicero-Tobis-Klangfilm</orgName></cell>
-                  <cell role="data">Gerda Maurus, Oskar Sima, Paul Vincenti, Adele Sandrock u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Seitensprünge“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Stefan Szekely</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Lajos Biró, Bobby E. Lüthge, Karl Noti</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Cicero-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gerda Maurus, Oskar Sima, Paul Vincenti, Adele Sandrock u.a.</cell>
                </row>
             </table>
          </div>
@@ -142,15 +149,16 @@ Am Abend mit A. Erst im Kino „Seitensprünge“, saudumm. Dann bei Meisl genac
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__24" type="kino">
-               <orgName>Eos Lichtspiele / Sascha Palast</orgName>
-               <location><address><addrLine>03., Ungargasse 60</addrLine></address></location>
+            <place  xml:id="ask_kino__24" type="kino">
+               <placeName>Eos Lichtspiele / Sascha Palast</placeName>
+               <location>
+                  <address>
+                     <addrLine>03., Ungargasse 60</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1921. Umbenennung 1931. Tonfilm ab 1931. Fassungsraum: Galerie. 1922: 1088 Sitzplätze (davon 122 Logenplätze). Das Kino wurde in der ehemaligen Winterreitschule eingerichtet. – Beschreibung von Architektur und Ausstattung anläßlich der Eröffnung in „Die Filmwelt“ Jg. 1922, Nr. 3, S. 3f. Nicht ident mit dem späteren Eos-Kino in der Landstraßer Hauptstraße. </note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

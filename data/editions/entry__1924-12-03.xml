@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-12-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-12-03.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>3/12 […] Bei C. P. […].– Mit ihr Kino (Nibelungen), in der Pilsenetzer genachtm. (Regina).</ab></div>
-         <div type="anmerkung"><ab>An diesem Tag vermutlich Besuch des zweiten Teils, für den folgende Spielorte nachgewiesen sind: Burg-, Elite-, Schottenring- und Eos-Kino (NAB, 3.12.1924, S. 8). </ab></div>
+         <div type="as">
+            <ab>3/12 […] Bei C. P. […].– Mit ihr Kino (Nibelungen), in der Pilsenetzer genachtm. (Regina).</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>An diesem Tag vermutlich Besuch des zweiten Teils, für den folgende Spielorte nachgewiesen sind: Burg-, Elite-, Schottenring- und Eos-Kino (NAB, 3.12.1924, S. 8). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Nibelungen“ (2.Teil: „Kriemhild’s Rache“)</cell>
-                  <cell role="data"><date>[1922-24]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Fritz Lang</persName></cell>
-                  <cell role="data"><persName>Thea von Harbou</persName></cell>
-                  <cell role="data"><orgName>Decla-Bioskop-Film</orgName></cell>
-                  <cell role="data">Margarete Schön, Gertrud Arnold, Theodor Loos, Hans Carl Mueller, Erwin Biswanger, Bernhard Goetzke, Hans Adalbert Schlettow, Hardy von Francois, Yuri Yurovsky, Iris Roberts, Rudolf Klein-Rogge, Georg John, Hubert Heinrich, Rudolf Rittner, Aenne R[ö]ttgen, Fritz Alberti, Georg August Koch u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Nibelungen“ (2.Teil: „Kriemhild’s Rache“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922-24]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fritz Lang</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Thea von Harbou</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Decla-Bioskop-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Margarete Schön, Gertrud Arnold, Theodor Loos, Hans Carl Mueller, Erwin Biswanger, Bernhard Goetzke, Hans Adalbert Schlettow, Hardy von Francois, Yuri Yurovsky, Iris Roberts, Rudolf Klein-Rogge, Georg John, Hubert Heinrich, Rudolf Rittner, Aenne R[ö]ttgen, Fritz Alberti, Georg August Koch u.a.</cell>
                </row>
             </table>
          </div>
@@ -168,7 +173,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

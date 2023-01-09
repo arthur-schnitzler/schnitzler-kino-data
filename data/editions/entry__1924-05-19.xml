@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1924-05-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1924-05-19.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>19/5 Dict. Verf., Bezahlt.– Mit C. P. spazieren, dann Kino „Glas Wasser“.</ab></div>
-         <div type="anmerkung"><ab>Anzeige NFP 25.4.1924, S. 18. Besprechung von Kurt Sonnenfeld in NFP 2.5.1924, S. 13, wo der Rezensent Vergleiche zwischen dem Bühnenstück und der Filmversion zieht: »In der Verfilmung ist jene vornehme Burgtheateratmosphäre gewahrt, in der das graziöse Werk heimisch ist«. Vgl. Hätte ich das Kino 1976, S. 358.</ab></div>
+         <div type="as">
+            <ab>19/5 Dict. Verf., Bezahlt.– Mit C. P. spazieren, dann Kino „Glas Wasser“.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige NFP 25.4.1924, S. 18. Besprechung von Kurt Sonnenfeld in NFP 2.5.1924, S. 13, wo der Rezensent Vergleiche zwischen dem Bühnenstück und der Filmversion zieht: »In der Verfilmung ist jene vornehme Burgtheateratmosphäre gewahrt, in der das graziöse Werk heimisch ist«. Vgl. Hätte ich das Kino 1976, S. 358.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Ein Glas Wasser“ [Ut. „Das Spiel der Königin“]</cell>
-                  <cell role="data"><date>[1922/23]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Ludwig Berger</persName></cell>
-                  <cell role="data"><persName>Augustin Eugéne Scribe (Vorlage gleichnamiges Bühnenstück); [Ludwig Berger, Adolf Lantz]</persName></cell>
-                  <cell role="data"><orgName>Decla-Bioskop-Film</orgName></cell>
-                  <cell role="data">Mady Christians, Helga Thomas, Lucie Höflich, Rudolf Rittner, Hans [Wassmann], Hans Brausewetter, Bruno Decarli, Hugo Döblin u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Ein Glas Wasser“ [Ut. „Das Spiel der Königin“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922/23]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ludwig Berger</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Augustin Eugéne Scribe (Vorlage gleichnamiges Bühnenstück); [Ludwig Berger, Adolf Lantz]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Decla-Bioskop-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Mady Christians, Helga Thomas, Lucie Höflich, Rudolf Rittner, Hans [Wassmann], Hans Brausewetter, Bruno Decarli, Hugo Döblin u.a.</cell>
                </row>
             </table>
          </div>
@@ -141,7 +146,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

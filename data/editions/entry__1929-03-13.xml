@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-03-13.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1929-03-13.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,33 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>13/3 Ankunft Berlin. […] Ins Capitol. Film Else. Mit O.;– Dora und Karl M., und Tommy.– Die Bergner außerordentlich; ebenso Steinrück; gut, aber sehr Theater Bassermann. Im Anfang manches gute; der Schluß überhetzt und albern. Im Hotel Elisabeth B. […] Sage ihr meine Meinung über den Film. Sie war aus Aufregung vor der Première abgereist, hatte in London Tonfilme gesehen; falls Mißerfolg,– hätte sie von der Bühnenelse abgesehn. […]
+         <div type="as">
+            <ab>13/3 Ankunft Berlin. […] Ins Capitol. Film Else. Mit O.;– Dora und Karl M., und Tommy.– Die Bergner außerordentlich; ebenso Steinrück; gut, aber sehr Theater Bassermann. Im Anfang manches gute; der Schluß überhetzt und albern. Im Hotel Elisabeth B. […] Sage ihr meine Meinung über den Film. Sie war aus Aufregung vor der Première abgereist, hatte in London Tonfilme gesehen; falls Mißerfolg,– hätte sie von der Bühnenelse abgesehn. […]
 
 [AS an CP am 15.3.1929:]
-[…] Um 7 im Film „Fräulein Else“ mit Dora, Gatten und Sohn (Tommy). Der Anfang nicht übel; das letzte Viertel dumm und schlecht. Ich begreife jetzt warum man mir das Buch nicht schickte. Der Einfall, gegen den ich mich bei einem ersten Gespräch (Czinner Mayer) gewendet hatte: dass Else Veronal nimmt, <hi>ehe</hi> sie unbekleidet unter dem Mantel in die Halle geht, blieb bestehen – Czinner war zu überheblich und talentlos, um davon abzugehen; – und da wurde nicht nur ein komplet[t]er Unsinn daraus, sondern viele Möglichkeiten für Elisabeth gingen verloren. Die Episode Vater nimmt viel zu viel Raum ein; – und man weiss weder was aus ihm noch aus Dorsday am Ende wird. Bassermann sehr gut, aber sehr Theater; – unvergleich Steinrück als Dorsday (besser als von mir) – die Episode Paul-Sissy ist überhaupt nicht vorhanden. Die Wohnung des Dr. Thalhof (so heisst nämlich im Film Elses Vater) lächerlicher Kinoluxus. St. Moritzer Landschaft und winterlicher Sport ist nicht umzubringen. – Die Leistung von Elisabeth wundervoll – nur ist es (durch den Filmtext) – eine ganz andere Else, als ich gedichtet hatte. – All dies sagte ich Elisabeth, mit der ich nach dem Film im Esplanadehotel zusammen war; – sie spürte sehr, dass ich Recht hatte – und ich begriff nun auch, dass dieser Film sie von der Gestalt der Else keineswegs erlöst haben konnte. Sie gestand mir, dass sie noch nie so erregt gewesen sei, als <hi>vor</hi> dieser Filmpremière, der sie auch nicht beigewohnt hatte: sie war während der letzten Tage in Dresden gewesen. Ueberdies entschlossen, – falls der Film und sie <hi>keinen</hi> Erfolg gehabt hätten – die Bühnen-Else <hi>nicht</hi> zu machen. Ich sagte ihr, wie ich ihr Schwanken in Wien gespürt hätte; sprach wieder von ihrer Unverlässlichkeit – sie hatte die dringend gewünschten Masse bisher <hi>keinem</hi> Direktor gezeigt – und – trotz ihres Versprechens – nun auch nicht ins Hotel mitgebracht […] Sie scheint sich auch in einer Art von Lebenskrise zu befinden. Als Beweis, dass sie nicht so unverlässlich sei, wie ich behaupte, – führte sie – nicht ganz im Scherz an – dass sie Dein Stück gelesen – und dass es überhaupt noch nach zwei Jahren vorhanden gewesen sei! – […] Herr <hi>Kortner</hi> räth Elisabeth <hi>sehr</hi> von ihrem Else-Plan ab; – er kennt die Novelle zwar <hi>nicht</hi> – aber er stellt sich darunter so eine Geschichte mit – „Hängezöpfen“ vor – – – – Soweit geht die von Jhering kritisch geführte Parteitrottelei! […] [II, 203-206]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+[…] Um 7 im Film „Fräulein Else“ mit Dora, Gatten und Sohn (Tommy). Der Anfang nicht übel; das letzte Viertel dumm und schlecht. Ich begreife jetzt warum man mir das Buch nicht schickte. Der Einfall, gegen den ich mich bei einem ersten Gespräch (Czinner Mayer) gewendet hatte: dass Else Veronal nimmt, <hi>ehe</hi> sie unbekleidet unter dem Mantel in die Halle geht, blieb bestehen – Czinner war zu überheblich und talentlos, um davon abzugehen; – und da wurde nicht nur ein komplet[t]er Unsinn daraus, sondern viele Möglichkeiten für Elisabeth gingen verloren. Die Episode Vater nimmt viel zu viel Raum ein; – und man weiss weder was aus ihm noch aus Dorsday am Ende wird. Bassermann sehr gut, aber sehr Theater; – unvergleich Steinrück als Dorsday (besser als von mir) – die Episode Paul-Sissy ist überhaupt nicht vorhanden. Die Wohnung des Dr. Thalhof (so heisst nämlich im Film Elses Vater) lächerlicher Kinoluxus. St. Moritzer Landschaft und winterlicher Sport ist nicht umzubringen. – Die Leistung von Elisabeth wundervoll – nur ist es (durch den Filmtext) – eine ganz andere Else, als ich gedichtet hatte. – All dies sagte ich Elisabeth, mit der ich nach dem Film im Esplanadehotel zusammen war; – sie spürte sehr, dass ich Recht hatte – und ich begriff nun auch, dass dieser Film sie von der Gestalt der Else keineswegs erlöst haben konnte. Sie gestand mir, dass sie noch nie so erregt gewesen sei, als <hi>vor</hi> dieser Filmpremière, der sie auch nicht beigewohnt hatte: sie war während der letzten Tage in Dresden gewesen. Ueberdies entschlossen, – falls der Film und sie <hi>keinen</hi> Erfolg gehabt hätten – die Bühnen-Else <hi>nicht</hi> zu machen. Ich sagte ihr, wie ich ihr Schwanken in Wien gespürt hätte; sprach wieder von ihrer Unverlässlichkeit – sie hatte die dringend gewünschten Masse bisher <hi>keinem</hi> Direktor gezeigt – und – trotz ihres Versprechens – nun auch nicht ins Hotel mitgebracht […] Sie scheint sich auch in einer Art von Lebenskrise zu befinden. Als Beweis, dass sie nicht so unverlässlich sei, wie ich behaupte, – führte sie – nicht ganz im Scherz an – dass sie Dein Stück gelesen – und dass es überhaupt noch nach zwei Jahren vorhanden gewesen sei! – […] Herr <hi>Kortner</hi> räth Elisabeth <hi>sehr</hi> von ihrem Else-Plan ab; – er kennt die Novelle zwar <hi>nicht</hi> – aber er stellt sich darunter so eine Geschichte mit – „Hängezöpfen“ vor – – – – Soweit geht die von Jhering kritisch geführte Parteitrottelei! […] [II, 203-206]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Fräulein Else“</cell>
-                  <cell role="data"><date>[1928/29]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Paul Czinner</persName></cell>
-                  <cell role="data"><persName>Arthur Schnitzler (Vorlage gleichnamige Novelle); [Paul Czinner, Béla Balázs (Drehbuch); Carl Mayer (Mitarbeit Dramaturgie)]</persName></cell>
-                  <cell role="data"><orgName>Poetic-Film</orgName></cell>
-                  <cell role="data">Elisabeth Bergner, Else Heller, Grit Hegesa, Adele Sandrock, Albert Bassermann, Jack Trevor, Albert Steinrück u.a.</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Fräulein Else“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928/29]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Czinner</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Arthur Schnitzler (Vorlage gleichnamige Novelle); [Paul Czinner, Béla Balázs (Drehbuch); Carl Mayer (Mitarbeit Dramaturgie)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Poetic-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Elisabeth Bergner, Else Heller, Grit Hegesa, Adele Sandrock, Albert Bassermann, Jack Trevor, Albert Steinrück u.a.</cell>
                </row>
             </table>
          </div>
@@ -173,7 +178,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Berlin</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

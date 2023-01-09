@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1923-11-30.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1923-11-30.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>30/11 […] – Mit C. P. Gersthofer Kino („Herrenhofsage“). […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="as">
+            <ab>30/11 […] – Mit C. P. Gersthofer Kino („Herrenhofsage“). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Herrenhofsage“ [Ot.: „Gunnar Hedes saga“]</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>SWE</placeName></cell>
-                  <cell role="data"><persName>[Mauritz Stiller]</persName></cell>
-                  <cell role="data"><persName>Selma Lagerlöf (Vorlage Roman „En herrgårdssägen“), [Mauritz Stiller, Alma Söderhjelm]</persName></cell>
-                  <cell role="data"><orgName>Svenskafilm</orgName></cell>
-                  <cell role="data">[Einar Hanson, Pauline Brunius, Hugo Björne, Mary Johnson, Adolf Olschansky u.a.]</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Herrenhofsage“ [Ot.: „Gunnar Hedes saga“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>SWE</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Mauritz Stiller]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Selma Lagerlöf (Vorlage Roman „En herrgårdssägen“), [Mauritz Stiller, Alma Söderhjelm]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Svenskafilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">[Einar Hanson, Pauline Brunius, Hugo Björne, Mary Johnson, Adolf Olschansky u.a.]</cell>
                </row>
             </table>
          </div>
@@ -134,15 +139,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__54" type="kino">
-               <orgName>Gersthofer Elitetheater</orgName>
-               <location><address><addrLine>18., Gersthoferstraße 73</addrLine></address></location>
+            <place  xml:id="ask_kino__54" type="kino">
+               <placeName>Gersthofer Elitetheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gersthoferstraße 73</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1912, Fassungsraum: 1914: 284 Sitzplätze, 1922: 252 Sitzplätze (davon 16 Logenplätze), 1934: 240 (16). – Das einzige Kino im Bezirksteil Gersthof. Schwarz gibt keine Adaption des Kinos für den Tonfilm an, was im Widerspruch zu den letzten 5 bei Schnitzler notierten Besuchen in diesem Kino steht.</note>
-            </org>
-            
-         </listOrg>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

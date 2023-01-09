@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-08-14.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1926-08-14.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>14/8 Bern. […] Mit C. P. Kino „Heimliche Sünder“ (wirklich amüsirt). […]</ab></div>
-         <div type="ckp"><ab>14.8. Seit gestern hier. Das Wiedersehen so schön, wie es noch nie war. Der Himmel blau und wolkenlos. Am Abend Bummel durch die Stadt. Wundervoller Sonnenuntergang. Ich fürchte mich so glücklich zu sein. Heute Ausflug an den Thunersee, es ist ½10 Uhr Früh.
-Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsympathisches Bad. Flitterwochenstimmung. Abend im Kino. Französischer Film „Heimliche Sünder“. [I, 339]</ab></div>
-         <div type="anmerkung"><ab>Der Spielort in Bern wurde nicht ermittelt. </ab></div>
+         <div type="as">
+            <ab>14/8 Bern. […] Mit C. P. Kino „Heimliche Sünder“ (wirklich amüsirt). […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>14.8. Seit gestern hier. Das Wiedersehen so schön, wie es noch nie war. Der Himmel blau und wolkenlos. Am Abend Bummel durch die Stadt. Wundervoller Sonnenuntergang. Ich fürchte mich so glücklich zu sein. Heute Ausflug an den Thunersee, es ist ½10 Uhr Früh.
+Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsympathisches Bad. Flitterwochenstimmung. Abend im Kino. Französischer Film „Heimliche Sünder“. [I, 339]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Der Spielort in Bern wurde nicht ermittelt. </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Heimliche Sünder“</cell>
-                  <cell role="data"><date>[1926]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>D</placeName></cell>
-                  <cell role="data"><persName>Franz Seitz</persName></cell>
-                  <cell role="data"><persName>[Max Ferner]</persName></cell>
-                  <cell role="data"><orgName>Bayern-Emelka-Film</orgName></cell>
-                  <cell role="data">Dorothea Wieck, [Mary] Kid, Margarete Kupfer, Maria Kamradek, Viktor [Colani], Hans Leibelt, Herman Pfanz</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Heimliche Sünder“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Franz Seitz</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Max Ferner]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Bayern-Emelka-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Dorothea Wieck, [Mary] Kid, Margarete Kupfer, Maria Kamradek, Viktor [Colani], Hans Leibelt, Herman Pfanz</cell>
                </row>
             </table>
          </div>
@@ -130,7 +137,6 @@ Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsy
                <placeName>Bern</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

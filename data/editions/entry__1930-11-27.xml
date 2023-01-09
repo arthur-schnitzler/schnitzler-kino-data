@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-11-27.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1930-11-27.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,31 +62,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>27/11 […] Mit C. P. eine üble Discussion; nur halb scherzhaft Drohung mit einem „Skandal wie ihn die Welt noch nicht gesehen“, wenn meine Flauheit gegenüber Fraun sich als „Schwindel“ herausstellen sollte und nur sie… Ich verwies ihr die Unfairness;– nachdem ich doch auf „Freiheit“ bestanden u. s. w.;– ins Kino mit ihr; jeder für sich nach Haus. […]</ab></div>
-         <div type="ckp"><ab>27.11. Emmy Sachs zum Thee. Ganz amüsante Frau. Später A. Nachdem sie fort ist sagt A., dass wir ins Kino gehen, aber nachher nach Hause, nachdem wir gestern auch nicht zusammen waren. Ich sage lachend: „Wenn du wirklich allein zuhause bist, bin ich sehr einverstanden, denn ich bin sehr froh noch arbeiten zu können, aber wehe, wenn ich dir auf einen Schwindel komm.“ – Anstatt es spasshaft zu nehmen, wie es gesagt, war er sofort gereizt, sagte, er vertrage keine Kontrolle, etc. bis ich selbst verstimmt wurde, dann erst lenkte er ein. Kino: „Geld auf der Straße“, sehr öder Film. [III, 124]</ab></div>
-         <div type="anmerkung"><ab>Zu »Geld auf der Straße« vgl. die Eintragung vom 23.11.1930, in der Schnitzler den Besuch notiert. Der Film ist allerdings für den 27.11.1930 nachgewiesen im Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 27.11.1930, S. 21, NZG 27.11.1930, S. 9). Sollte sich Schnitzlers Formulierung »ins Kino mit ihr« jedoch auf den Besuch eines anderen Films beziehen, so ist dieser nicht ermittelbar.</ab></div>
+         <div type="as">
+            <ab>27/11 […] Mit C. P. eine üble Discussion; nur halb scherzhaft Drohung mit einem „Skandal wie ihn die Welt noch nicht gesehen“, wenn meine Flauheit gegenüber Fraun sich als „Schwindel“ herausstellen sollte und nur sie… Ich verwies ihr die Unfairness;– nachdem ich doch auf „Freiheit“ bestanden u. s. w.;– ins Kino mit ihr; jeder für sich nach Haus. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>27.11. Emmy Sachs zum Thee. Ganz amüsante Frau. Später A. Nachdem sie fort ist sagt A., dass wir ins Kino gehen, aber nachher nach Hause, nachdem wir gestern auch nicht zusammen waren. Ich sage lachend: „Wenn du wirklich allein zuhause bist, bin ich sehr einverstanden, denn ich bin sehr froh noch arbeiten zu können, aber wehe, wenn ich dir auf einen Schwindel komm.“ – Anstatt es spasshaft zu nehmen, wie es gesagt, war er sofort gereizt, sagte, er vertrage keine Kontrolle, etc. bis ich selbst verstimmt wurde, dann erst lenkte er ein. Kino: „Geld auf der Straße“, sehr öder Film. [III, 124]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Zu »Geld auf der Straße« vgl. die Eintragung vom 23.11.1930, in der Schnitzler den Besuch notiert. Der Film ist allerdings für den 27.11.1930 nachgewiesen im Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 27.11.1930, S. 21, NZG 27.11.1930, S. 9). Sollte sich Schnitzlers Formulierung »ins Kino mit ihr« jedoch auf den Besuch eines anderen Films beziehen, so ist dieser nicht ermittelbar.</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data"></cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName></placeName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName></orgName></cell>
-                  <cell role="data"></cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel"/>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName/>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName/>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen"/>
                </row>
             </table>
          </div>
@@ -101,7 +108,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>

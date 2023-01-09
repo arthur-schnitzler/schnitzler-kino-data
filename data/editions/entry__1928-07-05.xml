@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-07-05.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1928-07-05.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,32 +62,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>5/7 […] Mit C. P. Buschkino der Pilgrim (Chaplin).– Dann Prochaska genachtm. (Prater).– </ab></div>
-         <div type="ckp"><ab>5.7. Im Busch-Kino beim „Pilgrim“ mit Charly Chaplin mit A. Dann bei Prohaska genachtmahlt. Gestern Unterredung mit Paul Zsolnay. Soll ihm den Roman schicken. Halte es für recht aussichtslos. [II, 128]</ab></div>
-         <div type="anmerkung"><ab>»Roman«: Pollaczek arbeitete an einem ungenannten Roman, die Korrekturen wurden am 19. Juni 1928 auf der Salzkammergut-Reise mit Schnitzler abgeschlossen. Eine Veröffentlichung bei Zsolnay kam nicht zustande. 
-„The Pilgrim steht am Übergang von den Grotesken zu den großen Werken“ (SK II, S. 312). Der Film wurde von 3.–8.8.1928 in zahlreichen weiteren Wiener Kinos gespielt (NFP 3.8.1928, S. 15).</ab></div>
+         <div type="as">
+            <ab>5/7 […] Mit C. P. Buschkino der Pilgrim (Chaplin).– Dann Prochaska genachtm. (Prater).– </ab>
+         </div>
+         <div type="ckp">
+            <ab>5.7. Im Busch-Kino beim „Pilgrim“ mit Charly Chaplin mit A. Dann bei Prohaska genachtmahlt. Gestern Unterredung mit Paul Zsolnay. Soll ihm den Roman schicken. Halte es für recht aussichtslos. [II, 128]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Roman«: Pollaczek arbeitete an einem ungenannten Roman, die Korrekturen wurden am 19. Juni 1928 auf der Salzkammergut-Reise mit Schnitzler abgeschlossen. Eine Veröffentlichung bei Zsolnay kam nicht zustande. 
+„The Pilgrim steht am Übergang von den Grotesken zu den großen Werken“ (SK II, S. 312). Der Film wurde von 3.–8.8.1928 in zahlreichen weiteren Wiener Kinos gespielt (NFP 3.8.1928, S. 15).</ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Der Pilgrim“</cell>
-                  <cell role="data"><date>[1923]</date></cell>
-                  <cell role="data">Komisch</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Charles Chaplin</persName></cell>
-                  <cell role="data"><persName>[Charles Chaplin]</persName></cell>
-                  <cell role="data"><orgName>Charlie Chaplin Film</orgName></cell>
-                  <cell role="data">Charlie Chaplin, Ma[c]k Swain, Edna Purviance, Florence King</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Pilgrim“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Charles Chaplin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Charles Chaplin]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Charlie Chaplin Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Charlie Chaplin, Ma[c]k Swain, Edna Purviance, Florence King</cell>
                </row>
             </table>
          </div>
@@ -116,18 +123,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <place type="location">
                <placeName>Wien</placeName>
             </place>
-         </listPlace>
-         <listOrg>
-            <org xml:id="ask_kino__41" type="kino">
-               <orgName>Zirkus Busch Kino</orgName>
-               <location><address><addrLine>02., Ausstellungsstraße 145</addrLine></address></location>
+            <place  xml:id="ask_kino__41" type="kino">
+               <placeName>Zirkus Busch Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Ausstellungsstraße 145</addrLine>
+                  </address>
+               </location>
                <note type="info"> Eröffnet 1920. Tonfilm ab November 1929. Fassungsraum: In drei Etagen. 1922: insgesamt 1767 Sitzplätze.</note>
-            </org>
-            <org xml:id="ask_wirt__6" type="wirt">
-               <orgName>Prochaska</orgName>
-               <location><address><addrLine>Prater 37, 2.0</addrLine></address></location>
-            </org>
-         </listOrg>
+            </place>
+            <place  xml:id="ask_wirt__6" type="wirt">
+               <placeName>Prochaska</placeName>
+               <location>
+                  <address>
+                     <addrLine>Prater 37, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
       </back>
    </text>
 </TEI>

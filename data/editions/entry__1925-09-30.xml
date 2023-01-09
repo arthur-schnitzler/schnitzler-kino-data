@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-09-30.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-09-30.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,30 +62,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as"><ab>30/9 […] Abd. C. P. vor der Pens. abgeholt, mit ihr Kino (Zarin) und bei Pohl genachtm.– […].–</ab></div>
-         <div type="anmerkung"><ab>Premierennotiz und Anzeige NFP 25.9.1925, S. 20. Kurzbesprechung NFP 2.10.1925, S. 20. Nachgewiesene Spielorte: Burg-, Kärntner-, Tuchlauben-, Heimat-, Votivpark-Kino, Münstedts Kinopalast (NFP 25.9.1925, S. 20). </ab></div>
+         <div type="as">
+            <ab>30/9 […] Abd. C. P. vor der Pens. abgeholt, mit ihr Kino (Zarin) und bei Pohl genachtm.– […].–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz und Anzeige NFP 25.9.1925, S. 20. Kurzbesprechung NFP 2.10.1925, S. 20. Nachgewiesene Spielorte: Burg-, Kärntner-, Tuchlauben-, Heimat-, Votivpark-Kino, Münstedts Kinopalast (NFP 25.9.1925, S. 20). </ab>
+         </div>
          <div type="film">
-            <table>
-               <head>Filme</head>
-               <row role="label">
-                  <cell role="label">Filmtitel</cell>
-                  <cell role="label">Jahr</cell>
-                  <cell role="label">Genre</cell>
-                  <cell role="label">Land</cell>
-                  <cell role="label">Regie</cell>
-                  <cell role="label">Buch</cell>
-                  <cell role="label">Produktion</cell>
-                  <cell role="label">Darsteller</cell>
-               </row>
-               <row role="data">
-                  <cell role="data">„Die Zarin“ („Forbidden paradise“)</cell>
-                  <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data">Drama</cell>
-                  <cell role="data"><placeName>USA</placeName></cell>
-                  <cell role="data"><persName>Ernst Lubitsch</persName></cell>
-                  <cell role="data"><persName>Agnes Christine Johnston</persName></cell>
-                  <cell role="data"><orgName>Paramount-Film</orgName></cell>
-                  <cell role="data">Pola Negri, Rod la Roque, Adolphe Menjou, Pauline Starke, Fred Malatesta, Nick De Ruiz, Carrie Daumery</cell>
+            <table  type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Zarin“ („Forbidden paradise“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1925]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ernst Lubitsch</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Agnes Christine Johnston</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Pola Negri, Rod la Roque, Adolphe Menjou, Pauline Starke, Fred Malatesta, Nick De Ruiz, Carrie Daumery</cell>
                </row>
             </table>
          </div>
@@ -131,7 +136,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         
       </back>
    </text>
 </TEI>
