@@ -92,53 +92,53 @@ Ankündigung NFP 15.8.1930, S. 7. Premierennotiz NFP 22.8.1930, S. 10, für 30.8
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-137">
+            <person xml:id="schnitzler-kino_person-137">
                <persName>Balhaus, Carl</persName>
             </person>
-            <person xml:id="ask-person-519">
+            <person xml:id="schnitzler-kino_person-519">
                <persName>Clausen, Claus</persName>
             </person>
-            <person xml:id="ask-person-675">
+            <person xml:id="schnitzler-kino_person-675">
                <persName>Diessl, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/129296856</idno>
             </person>
-            <person xml:id="ask-person-1245">
+            <person xml:id="schnitzler-kino_person-1245">
                <persName>Heller, Else</persName>
                <idno type="GND">https://d-nb.info/gnd/1019222352</idno>
             </person>
-            <person xml:id="ask-person-1334">
+            <person xml:id="schnitzler-kino_person-1334">
                <persName>Hössrich, Hanna</persName>
                <idno type="GND">https://d-nb.info/gnd/1061769674</idno>
             </person>
-            <person xml:id="ask-person-1400">
+            <person xml:id="schnitzler-kino_person-1400">
                <persName>Johannsen, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/101877935</idno>
             </person>
-            <person xml:id="ask-person-1442">
+            <person xml:id="schnitzler-kino_person-1442">
                <persName>Kampers, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/120558424</idno>
             </person>
-            <person xml:id="ask-person-1564">
+            <person xml:id="schnitzler-kino_person-1564">
                <persName>Krug, Hans-Jürgen</persName>
                <idno type="GND">https://d-nb.info/gnd/1043181342</idno>
             </person>
-            <person xml:id="ask-person-1936">
+            <person xml:id="schnitzler-kino_person-1936">
                <persName>Moebis, Hans Joachim</persName>
                <idno type="GND">https://d-nb.info/gnd/129296880</idno>
             </person>
-            <person xml:id="ask-person-1948">
+            <person xml:id="schnitzler-kino_person-1948">
                <persName>Monnier, Jackie</persName>
                <idno type="GND">https://d-nb.info/gnd/1062300386</idno>
             </person>
-            <person xml:id="ask-person-2106">
+            <person xml:id="schnitzler-kino_person-2106">
                <persName>Pabst, Georg Wilhelm </persName>
                <idno type="GND">https://d-nb.info/gnd/118942387</idno>
             </person>
-            <person xml:id="ask-person-2302">
+            <person xml:id="schnitzler-kino_person-2302">
                <persName>Remarque, Erich Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/118599631</idno>
             </person>
-            <person xml:id="ask-person-2803">
+            <person xml:id="schnitzler-kino_person-2803">
                <persName>Vajda, Ladislaus</persName>
                <idno type="GND">https://d-nb.info/gnd/129296805</idno>
             </person>

@@ -92,54 +92,54 @@ Von dem Film existieren neben der deutschen auch eine italienische, französisch
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-551">
+            <person xml:id="schnitzler-kino_person-551">
                <persName>Conrad, Joseph</persName>
             </person>
-            <person xml:id="ask-person-780">
+            <person xml:id="schnitzler-kino_person-780">
                <persName>Eis, Egon</persName>
                <idno type="GND">https://d-nb.info/gnd/1115839799</idno>
             </person>
-            <person xml:id="ask-person-970">
+            <person xml:id="schnitzler-kino_person-970">
                <persName>Fürst, Manfred</persName>
             </person>
-            <person xml:id="ask-person-1107">
+            <person xml:id="schnitzler-kino_person-1107">
                <persName>Greiner, Fritz</persName>
             </person>
-            <person xml:id="ask-person-1245">
+            <person xml:id="schnitzler-kino_person-1245">
                <persName>Heller, Else</persName>
                <idno type="GND">https://d-nb.info/gnd/1019222352</idno>
             </person>
-            <person xml:id="ask-person-1313">
+            <person xml:id="schnitzler-kino_person-1313">
                <persName>Hollmann, Werner</persName>
                <idno type="GND">https://d-nb.info/gnd/1067754091</idno>
             </person>
-            <person xml:id="ask-person-1410">
+            <person xml:id="schnitzler-kino_person-1410">
                <persName>Jones, Grover</persName>
                <idno type="GND">https://d-nb.info/gnd/142095001</idno>
             </person>
-            <person xml:id="ask-person-1458">
+            <person xml:id="schnitzler-kino_person-1458">
                <persName>Katscher, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/1051107830</idno>
             </person>
-            <person xml:id="ask-person-1876">
+            <person xml:id="schnitzler-kino_person-1876">
                <persName>McNutt, William Slavens</persName>
             </person>
-            <person xml:id="ask-person-1933">
+            <person xml:id="schnitzler-kino_person-1933">
                <persName>Mittler, Leo</persName>
                <idno type="GND">https://d-nb.info/gnd/117065129</idno>
             </person>
-            <person xml:id="ask-person-2125">
+            <person xml:id="schnitzler-kino_person-2125">
                <persName>Parlo, Dita</persName>
                <idno type="GND">https://d-nb.info/gnd/1014815126</idno>
             </person>
-            <person xml:id="ask-person-2202">
+            <person xml:id="schnitzler-kino_person-2202">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="ask-person-2274">
+            <person xml:id="schnitzler-kino_person-2274">
                <persName>Rasp, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-2736">
+            <person xml:id="schnitzler-kino_person-2736">
                <persName>Thoeren, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/117343110</idno>
             </person>

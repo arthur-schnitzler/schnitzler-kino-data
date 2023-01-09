@@ -90,30 +90,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-666">
+            <person xml:id="schnitzler-kino_person-666">
                <persName>Descovich, Emo</persName>
                <idno type="GND">https://d-nb.info/gnd/172503256</idno>
             </person>
-            <person xml:id="ask-person-1096">
+            <person xml:id="schnitzler-kino_person-1096">
                <persName>Graves, Ralph</persName>
             </person>
-            <person xml:id="ask-person-1283">
+            <person xml:id="schnitzler-kino_person-1283">
                <persName>Hill, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/1145733662</idno>
             </person>
-            <person xml:id="ask-person-2015">
+            <person xml:id="schnitzler-kino_person-2015">
                <persName>Navarro, Ramon</persName>
                <idno type="GND">https://d-nb.info/gnd/1030034095</idno>
             </person>
-            <person xml:id="ask-person-2065">
+            <person xml:id="schnitzler-kino_person-2065">
                <persName>Nugent, Edward</persName>
                <idno type="GND">https://d-nb.info/gnd/1204098840</idno>
             </person>
-            <person xml:id="ask-person-2066">
+            <person xml:id="schnitzler-kino_person-2066">
                <persName>Nye, Carroll</persName>
                <idno type="GND">https://d-nb.info/gnd/1055324135</idno>
             </person>
-            <person xml:id="ask-person-2109">
+            <person xml:id="schnitzler-kino_person-2109">
                <persName>Page, Anita</persName>
                <idno type="GND">https://d-nb.info/gnd/13624873X</idno>
             </person>

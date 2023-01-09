@@ -90,37 +90,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-841">
+            <person xml:id="schnitzler-kino_person-841">
                <persName>Falkenberg, Karl</persName>
             </person>
-            <person xml:id="ask-person-1315">
+            <person xml:id="schnitzler-kino_person-1315">
                <persName>Holm, Dary</persName>
                <idno type="GND">https://d-nb.info/gnd/138629285</idno>
             </person>
-            <person xml:id="ask-person-1671">
+            <person xml:id="schnitzler-kino_person-1671">
                <persName>Liercke, Hanna</persName>
             </person>
-            <person xml:id="ask-person-1838">
+            <person xml:id="schnitzler-kino_person-1838">
                <persName>Martini, Ferdinand</persName>
                <idno type="GND">https://d-nb.info/gnd/1101470372</idno>
             </person>
-            <person xml:id="ask-person-2006">
+            <person xml:id="schnitzler-kino_person-2006">
                <persName>Mylong-Münz, Jack</persName>
                <idno type="GND">https://d-nb.info/gnd/1021053074</idno>
             </person>
-            <person xml:id="ask-person-2088">
+            <person xml:id="schnitzler-kino_person-2088">
                <persName>Osten, Franz</persName>
                <idno type="GND">https://d-nb.info/gnd/120076667</idno>
             </person>
-            <person xml:id="ask-person-2146">
+            <person xml:id="schnitzler-kino_person-2146">
                <persName>Pelar, Renée</persName>
                <idno type="GND">https://d-nb.info/gnd/1061638189</idno>
             </person>
-            <person xml:id="ask-person-2467">
+            <person xml:id="schnitzler-kino_person-2467">
                <persName>Schnell, Georg Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/102694788X</idno>
             </person>
-            <person xml:id="ask-person-2492">
+            <person xml:id="schnitzler-kino_person-2492">
                <persName>Schrumpf, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/117106941</idno>
             </person>

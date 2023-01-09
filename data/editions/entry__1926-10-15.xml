@@ -90,77 +90,77 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-270">
+            <person xml:id="schnitzler-kino_person-270">
                <persName>Biancini, Ferruccio</persName>
                <idno type="GND">https://d-nb.info/gnd/1061384144</idno>
             </person>
-            <person xml:id="ask-person-307">
+            <person xml:id="schnitzler-kino_person-307">
                <persName>Bocci, Gildo</persName>
                <idno type="GND">https://d-nb.info/gnd/1057687375</idno>
             </person>
-            <person xml:id="ask-person-414">
+            <person xml:id="schnitzler-kino_person-414">
                <persName>Bulwer-Lytton, Edward George</persName>
                <idno type="GND">https://d-nb.info/gnd/11866493X</idno>
             </person>
-            <person xml:id="ask-person-565">
+            <person xml:id="schnitzler-kino_person-565">
                <persName>Corda, Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/115977420X</idno>
             </person>
-            <person xml:id="ask-person-584">
+            <person xml:id="schnitzler-kino_person-584">
                <persName>Creti, Vasco</persName>
                <idno type="GND">https://d-nb.info/gnd/1061690806</idno>
             </person>
-            <person xml:id="ask-person-826">
+            <person xml:id="schnitzler-kino_person-826">
                <persName>Evangelisti, Vittorio</persName>
                <idno type="GND">https://d-nb.info/gnd/1161416234</idno>
             </person>
-            <person xml:id="ask-person-845">
+            <person xml:id="schnitzler-kino_person-845">
                <persName>Fantis, Enrica</persName>
                <idno type="GND">https://d-nb.info/gnd/1061564304</idno>
             </person>
-            <person xml:id="ask-person-982">
+            <person xml:id="schnitzler-kino_person-982">
                <persName>Gallone, Carmine</persName>
                <idno type="GND">https://d-nb.info/gnd/119353199</idno>
             </person>
-            <person xml:id="ask-person-1026">
+            <person xml:id="schnitzler-kino_person-1026">
                <persName>Ghione, Emilio</persName>
                <idno type="GND">https://d-nb.info/gnd/138504253</idno>
             </person>
-            <person xml:id="ask-person-1055">
+            <person xml:id="schnitzler-kino_person-1055">
                <persName>Goetzke, Bernhard</persName>
             </person>
-            <person xml:id="ask-person-1129">
+            <person xml:id="schnitzler-kino_person-1129">
                <persName>Gualandri, Carlo</persName>
             </person>
-            <person xml:id="ask-person-1674">
+            <person xml:id="schnitzler-kino_person-1674">
                <persName>Liguoro, Rina de</persName>
                <idno type="GND">https://d-nb.info/gnd/1062131320</idno>
             </person>
-            <person xml:id="ask-person-1819">
+            <person xml:id="schnitzler-kino_person-1819">
                <persName>Maris, Lia</persName>
                <idno type="GND">https://d-nb.info/gnd/141354526</idno>
             </person>
-            <person xml:id="ask-person-1837">
+            <person xml:id="schnitzler-kino_person-1837">
                <persName>Martinelli, Alfredo</persName>
                <idno type="GND">https://d-nb.info/gnd/1062088476</idno>
             </person>
-            <person xml:id="ask-person-1952">
+            <person xml:id="schnitzler-kino_person-1952">
                <persName>Monti, Enrico</persName>
                <idno type="GND">https://d-nb.info/gnd/120859289</idno>
             </person>
-            <person xml:id="ask-person-2120">
+            <person xml:id="schnitzler-kino_person-2120">
                <persName>Panzini, Alfredo</persName>
                <idno type="GND">https://d-nb.info/gnd/118789546</idno>
             </person>
-            <person xml:id="ask-person-2124">
+            <person xml:id="schnitzler-kino_person-2124">
                <persName>Parlermi, Amleto</persName>
                <idno type="GND">https://d-nb.info/gnd/119353180</idno>
             </person>
-            <person xml:id="ask-person-2171">
+            <person xml:id="schnitzler-kino_person-2171">
                <persName>Pierozzi, Giuseppe</persName>
                <idno type="GND">https://d-nb.info/gnd/1171866046</idno>
             </person>
-            <person xml:id="ask-person-2813">
+            <person xml:id="schnitzler-kino_person-2813">
                <persName>Várkonyi, [Michael] Victor</persName>
             </person>
          </listPerson>

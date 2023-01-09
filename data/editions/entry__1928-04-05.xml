@@ -90,45 +90,45 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-89">
+            <person xml:id="schnitzler-kino_person-89">
                <persName>Arno, Siegfried</persName>
             </person>
-            <person xml:id="ask-person-110">
+            <person xml:id="schnitzler-kino_person-110">
                <persName>Auen, Carl</persName>
                <idno type="GND">https://d-nb.info/gnd/116376805</idno>
             </person>
-            <person xml:id="ask-person-321">
+            <person xml:id="schnitzler-kino_person-321">
                <persName>Bolvary, Helene von</persName>
                <idno type="GND">https://d-nb.info/gnd/1062311477</idno>
             </person>
-            <person xml:id="ask-person-790">
+            <person xml:id="schnitzler-kino_person-790">
                <persName>Ellis, Lilian</persName>
                <idno type="GND">https://d-nb.info/gnd/1061396495</idno>
             </person>
-            <person xml:id="ask-person-1055">
+            <person xml:id="schnitzler-kino_person-1055">
                <persName>Goetzke, Bernhard</persName>
             </person>
-            <person xml:id="ask-person-1474">
+            <person xml:id="schnitzler-kino_person-1474">
                <persName>Kempny, Hedy</persName>
                <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="ask-person-1569">
+            <person xml:id="schnitzler-kino_person-1569">
                <persName>Kürti, Ellen</persName>
                <idno type="GND">https://d-nb.info/gnd/106177368X</idno>
             </person>
-            <person xml:id="ask-person-1678">
+            <person xml:id="schnitzler-kino_person-1678">
                <persName>Lind, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/141913711</idno>
             </person>
-            <person xml:id="ask-person-2157">
+            <person xml:id="schnitzler-kino_person-2157">
                <persName>Petersen, Armin</persName>
                <idno type="GND">https://d-nb.info/gnd/126403694</idno>
             </person>
-            <person xml:id="ask-person-2182">
+            <person xml:id="schnitzler-kino_person-2182">
                <persName>Pittschau, Werner</persName>
                <idno type="GND">https://d-nb.info/gnd/1062207742</idno>
             </person>
-            <person xml:id="ask-person-2209">
+            <person xml:id="schnitzler-kino_person-2209">
                <persName>Pollak, Frieda </persName>
                <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>

@@ -90,27 +90,27 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-27">
+            <person xml:id="schnitzler-kino_person-27">
                <persName>Albers, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="ask-person-241">
+            <person xml:id="schnitzler-kino_person-241">
                <persName>Bergman, Hjalmar</persName>
                <idno type="GND">https://d-nb.info/gnd/118658395</idno>
             </person>
-            <person xml:id="ask-person-405">
+            <person xml:id="schnitzler-kino_person-405">
                <persName>Bryde, Vilhelm</persName>
                <idno type="GND">https://d-nb.info/gnd/1061458849</idno>
             </person>
-            <person xml:id="ask-person-786">
+            <person xml:id="schnitzler-kino_person-786">
                <persName>Ekman, Gösta</persName>
                <idno type="GND">https://d-nb.info/gnd/130418595</idno>
             </person>
-            <person xml:id="ask-person-1377">
+            <person xml:id="schnitzler-kino_person-1377">
                <persName>Jana, La</persName>
                <idno type="GND">https://d-nb.info/gnd/135927838</idno>
             </person>
-            <person xml:id="ask-person-2689">
+            <person xml:id="schnitzler-kino_person-2689">
                <persName>Swanström, Karin</persName>
                <idno type="GND">https://d-nb.info/gnd/1061915026</idno>
             </person>

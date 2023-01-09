@@ -92,57 +92,57 @@ Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in N
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-93">
+            <person xml:id="schnitzler-kino_person-93">
                <persName>Artaud, Antonin</persName>
                <idno type="GND">https://d-nb.info/gnd/118504495</idno>
             </person>
-            <person xml:id="ask-person-176">
+            <person xml:id="schnitzler-kino_person-176">
                <persName>Batcheff, Pierre</persName>
                <idno type="GND">https://d-nb.info/gnd/137697716</idno>
             </person>
-            <person xml:id="ask-person-486">
+            <person xml:id="schnitzler-kino_person-486">
                <persName>Chakatouny, Acho</persName>
                <idno type="GND">https://d-nb.info/gnd/1062429265</idno>
             </person>
-            <person xml:id="ask-person-681">
+            <person xml:id="schnitzler-kino_person-681">
                <persName>Dieudonné, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/1028906978</idno>
             </person>
-            <person xml:id="ask-person-985">
+            <person xml:id="schnitzler-kino_person-985">
                <persName>Gance, Abel</persName>
                <idno type="GND">https://d-nb.info/gnd/119451352</idno>
             </person>
-            <person xml:id="ask-person-1532">
+            <person xml:id="schnitzler-kino_person-1532">
                <persName>Kolin, Nikolai</persName>
                <idno type="GND">https://d-nb.info/gnd/1252275269</idno>
             </person>
-            <person xml:id="ask-person-1559">
+            <person xml:id="schnitzler-kino_person-1559">
                <persName>Krimer, Harry</persName>
             </person>
-            <person xml:id="ask-person-1796">
+            <person xml:id="schnitzler-kino_person-1796">
                <persName>Manés, Gina</persName>
                <idno type="GND">https://d-nb.info/gnd/1061778851</idno>
             </person>
-            <person xml:id="ask-person-2013">
+            <person xml:id="schnitzler-kino_person-2013">
                <persName>Napoleon I.</persName>
                <idno type="GND">https://d-nb.info/gnd/134574516</idno>
             </person>
-            <person xml:id="ask-person-2209">
+            <person xml:id="schnitzler-kino_person-2209">
                <persName>Pollak, Frieda </persName>
                <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="ask-person-2390">
+            <person xml:id="schnitzler-kino_person-2390">
                <persName>Roudenko, Wladimir</persName>
                <idno type="GND">https://d-nb.info/gnd/1028924402</idno>
             </person>
-            <person xml:id="ask-person-2500">
+            <person xml:id="schnitzler-kino_person-2500">
                <persName>Schutz, Maurice</persName>
                <idno type="GND">https://d-nb.info/gnd/1062033671</idno>
             </person>
-            <person xml:id="ask-person-2584">
+            <person xml:id="schnitzler-kino_person-2584">
                <persName>Sonnenfeld, Kurt</persName>
             </person>
-            <person xml:id="ask-person-2828">
+            <person xml:id="schnitzler-kino_person-2828">
                <persName>Vernon, Suzy</persName>
                <idno type="GND">https://d-nb.info/gnd/1061527891</idno>
             </person>

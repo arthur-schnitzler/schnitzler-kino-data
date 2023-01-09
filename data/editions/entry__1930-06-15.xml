@@ -91,39 +91,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-79">
+            <person xml:id="schnitzler-kino_person-79">
                <persName>Arendt, Ekkehard</persName>
                <idno type="GND">https://d-nb.info/gnd/1054791686</idno>
             </person>
-            <person xml:id="ask-person-206">
+            <person xml:id="schnitzler-kino_person-206">
                <persName>Bell, Karina</persName>
                <idno type="GND">https://d-nb.info/gnd/141914335</idno>
             </person>
-            <person xml:id="ask-person-623">
+            <person xml:id="schnitzler-kino_person-623">
                <persName>Darnys, Yvette</persName>
                <idno type="GND">https://d-nb.info/gnd/1062385756</idno>
             </person>
-            <person xml:id="ask-person-1592">
+            <person xml:id="schnitzler-kino_person-1592">
                <persName>Landgut, Inge</persName>
                <idno type="GND">https://d-nb.info/gnd/1061396479</idno>
             </person>
-            <person xml:id="ask-person-1935">
+            <person xml:id="schnitzler-kino_person-1935">
                <persName>Modot, Gaston</persName>
                <idno type="GND">https://d-nb.info/gnd/119241528</idno>
             </person>
-            <person xml:id="ask-person-2498">
+            <person xml:id="schnitzler-kino_person-2498">
                <persName>Schünzel, Reinhold</persName>
                <idno type="GND">https://d-nb.info/gnd/118892223</idno>
             </person>
-            <person xml:id="ask-person-2557">
+            <person xml:id="schnitzler-kino_person-2557">
                <persName>Sima, Oskar</persName>
                <idno type="GND">https://d-nb.info/gnd/130872091</idno>
             </person>
-            <person xml:id="ask-person-2694">
+            <person xml:id="schnitzler-kino_person-2694">
                <persName>Szatmari, Eugen</persName>
                <idno type="GND">https://d-nb.info/gnd/143952986</idno>
             </person>
-            <person xml:id="ask-person-2776">
+            <person xml:id="schnitzler-kino_person-2776">
                <persName>Tschechoff, Michael</persName>
             </person>
          </listPerson>

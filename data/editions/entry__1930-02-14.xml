@@ -93,55 +93,55 @@ Seine Übersetzerin Suzanne Clauser ist Schnitzlers letzte Liebe. Er registriert
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-235">
+            <person xml:id="schnitzler-kino_person-235">
                <persName>Berger, Gisela</persName>
                <idno type="GND">https://d-nb.info/gnd/136132812</idno>
             </person>
-            <person xml:id="ask-person-237">
+            <person xml:id="schnitzler-kino_person-237">
                <persName>Berger, Ludwig</persName>
             </person>
-            <person xml:id="ask-person-508">
+            <person xml:id="schnitzler-kino_person-508">
                <persName>Christians, Mady</persName>
                <idno type="GND">https://d-nb.info/gnd/116509430</idno>
             </person>
-            <person xml:id="ask-person-520">
+            <person xml:id="schnitzler-kino_person-520">
                <persName>Clauser, Suzanne</persName>
                <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="ask-person-761">
+            <person xml:id="schnitzler-kino_person-761">
                <persName>Edthofer, Anton</persName>
                <idno type="GND">https://d-nb.info/gnd/13014407X</idno>
             </person>
-            <person xml:id="ask-person-960">
+            <person xml:id="schnitzler-kino_person-960">
                <persName>Fröhlich, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/118693794</idno>
             </person>
-            <person xml:id="ask-person-1462">
+            <person xml:id="schnitzler-kino_person-1462">
                <persName>Kayssler, Friedrich</persName>
             </person>
-            <person xml:id="ask-person-1788">
+            <person xml:id="schnitzler-kino_person-1788">
                <persName>Malena, Lena</persName>
                <idno type="GND">https://d-nb.info/gnd/1061869350</idno>
             </person>
-            <person xml:id="ask-person-1892">
+            <person xml:id="schnitzler-kino_person-1892">
                <persName>Menasse, Lotte</persName>
             </person>
-            <person xml:id="ask-person-1981">
+            <person xml:id="schnitzler-kino_person-1981">
                <persName>Müller, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/1140252038</idno>
             </person>
-            <person xml:id="ask-person-2193">
+            <person xml:id="schnitzler-kino_person-2193">
                <persName>Pointner, Anton</persName>
             </person>
-            <person xml:id="ask-person-2317">
+            <person xml:id="schnitzler-kino_person-2317">
                <persName>Richard, Frida</persName>
                <idno type="GND">https://d-nb.info/gnd/116505826</idno>
             </person>
-            <person xml:id="ask-person-2806">
+            <person xml:id="schnitzler-kino_person-2806">
                <persName>Valetti, Rosa</persName>
                <idno type="GND">https://d-nb.info/gnd/117341150</idno>
             </person>
-            <person xml:id="ask-person-2987">
+            <person xml:id="schnitzler-kino_person-2987">
                <persName>Wüst, Ida</persName>
                <idno type="GND">https://d-nb.info/gnd/116119667</idno>
             </person>

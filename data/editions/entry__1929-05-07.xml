@@ -94,55 +94,55 @@ Premierennotiz NFP 26.4.1929, S. 10. Nachgewiesene Spielorte: Zirkus Busch- und 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-680">
+            <person xml:id="schnitzler-kino_person-680">
                <persName>Dietzenschmidt, Anton</persName>
                <idno type="GND">https://d-nb.info/gnd/105306134</idno>
             </person>
-            <person xml:id="ask-person-897">
+            <person xml:id="schnitzler-kino_person-897">
                <persName>Fleck, Jakob</persName>
                <idno type="GND">https://d-nb.info/gnd/1011893878</idno>
             </person>
-            <person xml:id="ask-person-898">
+            <person xml:id="schnitzler-kino_person-898">
                <persName>Fleck, Louise</persName>
                <idno type="GND">https://d-nb.info/gnd/116598271</idno>
             </person>
-            <person xml:id="ask-person-1058">
+            <person xml:id="schnitzler-kino_person-1058">
                <persName>Goldberg, Heinz</persName>
                <idno type="GND">https://d-nb.info/gnd/116748508</idno>
             </person>
-            <person xml:id="ask-person-1274">
+            <person xml:id="schnitzler-kino_person-1274">
                <persName>Hesterberg, Trude</persName>
                <idno type="GND">https://d-nb.info/gnd/118704257</idno>
             </person>
-            <person xml:id="ask-person-1383">
+            <person xml:id="schnitzler-kino_person-1383">
                <persName>Janssen, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/136550592</idno>
             </person>
-            <person xml:id="ask-person-1651">
+            <person xml:id="schnitzler-kino_person-1651">
                <persName>Lerch, Fred Louis</persName>
                <idno type="GND">https://d-nb.info/gnd/1062287835</idno>
             </person>
-            <person xml:id="ask-person-1796">
+            <person xml:id="schnitzler-kino_person-1796">
                <persName>Manés, Gina</persName>
                <idno type="GND">https://d-nb.info/gnd/1061778851</idno>
             </person>
-            <person xml:id="ask-person-1973">
+            <person xml:id="schnitzler-kino_person-1973">
                <persName>Mosheim, Grete</persName>
                <idno type="GND">https://d-nb.info/gnd/116939966</idno>
             </person>
-            <person xml:id="ask-person-2261">
+            <person xml:id="schnitzler-kino_person-2261">
                <persName>Ralph, Louis</persName>
                <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="ask-person-2287">
+            <person xml:id="schnitzler-kino_person-2287">
                <persName>Rehfisch, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/116392401</idno>
             </person>
-            <person xml:id="ask-person-2318">
+            <person xml:id="schnitzler-kino_person-2318">
                <persName>Richard, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-2472">
+            <person xml:id="schnitzler-kino_person-2472">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
                <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>

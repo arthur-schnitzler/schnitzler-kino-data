@@ -93,43 +93,43 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1114">
+            <person xml:id="schnitzler-kino_person-1114">
                <persName>Grey, John</persName>
                <idno type="GND">https://d-nb.info/gnd/140981276</idno>
             </person>
-            <person xml:id="ask-person-1696">
+            <person xml:id="schnitzler-kino_person-1696">
                <persName>Lloyd, Harold</persName>
                <idno type="GND">https://d-nb.info/gnd/118573667</idno>
             </person>
-            <person xml:id="ask-person-1844">
+            <person xml:id="schnitzler-kino_person-1844">
                <persName>Mason, Jim</persName>
                <idno type="GND">https://d-nb.info/gnd/1081159588</idno>
             </person>
-            <person xml:id="ask-person-2209">
+            <person xml:id="schnitzler-kino_person-2209">
                <persName>Pollak, Frieda </persName>
                <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="ask-person-2263">
+            <person xml:id="schnitzler-kino_person-2263">
                <persName>Ralston, Jobyna</persName>
                <idno type="GND">https://d-nb.info/gnd/141271361</idno>
             </person>
-            <person xml:id="ask-person-2469">
+            <person xml:id="schnitzler-kino_person-2469">
                <persName>Schnitzler, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="ask-person-2472">
+            <person xml:id="schnitzler-kino_person-2472">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
                <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="ask-person-2713">
+            <person xml:id="schnitzler-kino_person-2713">
                <persName>Taylor, Sam</persName>
                <idno type="GND">https://d-nb.info/gnd/140979778</idno>
             </person>
-            <person xml:id="ask-person-2899">
+            <person xml:id="schnitzler-kino_person-2899">
                <persName>Weigel, Paul</persName>
                <idno type="GND">https://d-nb.info/gnd/1097247759</idno>
             </person>
-            <person xml:id="ask-person-2995">
+            <person xml:id="schnitzler-kino_person-2995">
                <persName>Young, Noah</persName>
             </person>
          </listPerson>

@@ -94,24 +94,24 @@ Anzeige NFP 18.11.1927, S. 19 (14 Spielorte). Besprechung NFP 19.11.1927, S. 9.<
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-146">
+            <person xml:id="schnitzler-kino_person-146">
                <persName>Baranowskaja, Wera</persName>
                <idno type="GND">https://d-nb.info/gnd/1202742041</idno>
             </person>
-            <person xml:id="ask-person-175">
+            <person xml:id="schnitzler-kino_person-175">
                <persName>Bataloff, Nikolai</persName>
                <idno type="GND">https://d-nb.info/gnd/1252275269</idno>
             </person>
-            <person xml:id="ask-person-1069">
+            <person xml:id="schnitzler-kino_person-1069">
                <persName>Gorki, Maxim</persName>
             </person>
-            <person xml:id="ask-person-1646">
+            <person xml:id="schnitzler-kino_person-1646">
                <persName>Lenistjakoff, A.</persName>
             </person>
-            <person xml:id="ask-person-2246">
+            <person xml:id="schnitzler-kino_person-2246">
                <persName>Pudowkin, Wsewolod</persName>
             </person>
-            <person xml:id="ask-person-2434">
+            <person xml:id="schnitzler-kino_person-2434">
                <persName>Sarchi, Nathan</persName>
                <idno type="GND">https://d-nb.info/gnd/120688743</idno>
             </person>

@@ -90,34 +90,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-39">
+            <person xml:id="schnitzler-kino_person-39">
                <persName>Alexander, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
             </person>
-            <person xml:id="ask-person-280">
+            <person xml:id="schnitzler-kino_person-280">
                <persName>Bird, Betty</persName>
                <idno type="GND">https://d-nb.info/gnd/1062280075</idno>
             </person>
-            <person xml:id="ask-person-1474">
+            <person xml:id="schnitzler-kino_person-1474">
                <persName>Kempny, Hedy</persName>
                <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="ask-person-1589">
+            <person xml:id="schnitzler-kino_person-1589">
                <persName>Land, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/116669942</idno>
             </person>
-            <person xml:id="ask-person-1717">
+            <person xml:id="schnitzler-kino_person-1717">
                <persName>Lorring, Lotte</persName>
                <idno type="GND">https://d-nb.info/gnd/1031430938</idno>
             </person>
-            <person xml:id="ask-person-2449">
+            <person xml:id="schnitzler-kino_person-2449">
                <persName>Schipper, Max</persName>
                <idno type="GND">https://d-nb.info/gnd/106240078X</idno>
             </person>
-            <person xml:id="ask-person-2495">
+            <person xml:id="schnitzler-kino_person-2495">
                <persName>Schulz, Franz</persName>
             </person>
-            <person xml:id="ask-person-2602">
+            <person xml:id="schnitzler-kino_person-2602">
                <persName>Spira, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>

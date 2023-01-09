@@ -90,26 +90,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-773">
+            <person xml:id="schnitzler-kino_person-773">
                <persName>Ehren, Beate</persName>
                <idno type="GND">https://d-nb.info/gnd/1061469409</idno>
             </person>
-            <person xml:id="ask-person-1566">
+            <person xml:id="schnitzler-kino_person-1566">
                <persName>Kühne, Friedrich</persName>
             </person>
-            <person xml:id="ask-person-2377">
+            <person xml:id="schnitzler-kino_person-2377">
                <persName>Rosen, Lia</persName>
                <idno type="GND">https://d-nb.info/gnd/116621370</idno>
             </person>
-            <person xml:id="ask-person-2422">
+            <person xml:id="schnitzler-kino_person-2422">
                <persName>Salten, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>
-            <person xml:id="ask-person-2446">
+            <person xml:id="schnitzler-kino_person-2446">
                <persName>Schildkraut, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/117265861</idno>
             </person>
-            <person xml:id="ask-person-2943">
+            <person xml:id="schnitzler-kino_person-2943">
                <persName>Wilhelm, Carl</persName>
             </person>
          </listPerson>

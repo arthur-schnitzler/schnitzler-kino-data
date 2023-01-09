@@ -90,18 +90,18 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1616">
+            <person xml:id="schnitzler-kino_person-1616">
                <persName>Lauritzen, Lau Sr.</persName>
             </person>
-            <person xml:id="ask-person-1774">
+            <person xml:id="schnitzler-kino_person-1774">
                <persName>Madsen, Harald, s. Pat und Patachon</persName>
                <idno type="GND">https://d-nb.info/gnd/118730045</idno>
             </person>
-            <person xml:id="ask-person-2443">
+            <person xml:id="schnitzler-kino_person-2443">
                <persName>Schenstrøm, Carl, siehe Pat und Patachon</persName>
                <idno type="GND">https://d-nb.info/gnd/118754602</idno>
             </person>
-            <person xml:id="ask-person-2665">
+            <person xml:id="schnitzler-kino_person-2665">
                <persName>Stribolt, Oscar</persName>
                <idno type="GND">https://d-nb.info/gnd/1062057821</idno>
             </person>

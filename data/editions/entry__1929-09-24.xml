@@ -91,36 +91,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-62">
+            <person xml:id="schnitzler-kino_person-62">
                <persName>Anderson, Robert</persName>
             </person>
-            <person xml:id="ask-person-302">
+            <person xml:id="schnitzler-kino_person-302">
                <persName>Blue, Monte</persName>
                <idno type="GND">https://d-nb.info/gnd/1026977673</idno>
             </person>
-            <person xml:id="ask-person-544">
+            <person xml:id="schnitzler-kino_person-544">
                <persName>Colton, John</persName>
                <idno type="GND">https://d-nb.info/gnd/137647433</idno>
             </person>
-            <person xml:id="ask-person-600">
+            <person xml:id="schnitzler-kino_person-600">
                <persName>Cunningham, Jack</persName>
             </person>
-            <person xml:id="ask-person-709">
+            <person xml:id="schnitzler-kino_person-709">
                <persName>Doyle, Ray</persName>
                <idno type="GND">https://d-nb.info/gnd/139811613</idno>
             </person>
-            <person xml:id="ask-person-741">
+            <person xml:id="schnitzler-kino_person-741">
                <persName>Dyke, W. S. Van</persName>
                <idno type="GND">https://d-nb.info/gnd/119505495</idno>
             </person>
-            <person xml:id="ask-person-1299">
+            <person xml:id="schnitzler-kino_person-1299">
                <persName>Hoffmann, Dr.</persName>
                <idno type="GND">https://d-nb.info/gnd/1050486609</idno>
             </person>
-            <person xml:id="ask-person-2095">
+            <person xml:id="schnitzler-kino_person-2095">
                <persName>O’Brien, Fred</persName>
             </person>
-            <person xml:id="ask-person-2759">
+            <person xml:id="schnitzler-kino_person-2759">
                <persName>Torres, Raquel</persName>
             </person>
          </listPerson>

@@ -93,66 +93,66 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-2">
+            <person xml:id="schnitzler-kino_person-2">
                <persName>?, Bettina</persName>
             </person>
-            <person xml:id="ask-person-27">
+            <person xml:id="schnitzler-kino_person-27">
                <persName>Albers, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="ask-person-187">
+            <person xml:id="schnitzler-kino_person-187">
                <persName>Becker, Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-199">
+            <person xml:id="schnitzler-kino_person-199">
                <persName>Behrendt, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/11611083X</idno>
             </person>
-            <person xml:id="ask-person-346">
+            <person xml:id="schnitzler-kino_person-346">
                <persName>Brande, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/106209803X</idno>
             </person>
-            <person xml:id="ask-person-460">
+            <person xml:id="schnitzler-kino_person-460">
                <persName>Carlsen, Fanny</persName>
                <idno type="GND">https://d-nb.info/gnd/1020639490</idno>
             </person>
-            <person xml:id="ask-person-505">
+            <person xml:id="schnitzler-kino_person-505">
                <persName>Chmara, Grigori</persName>
                <idno type="GND">https://d-nb.info/gnd/1064689515</idno>
             </person>
-            <person xml:id="ask-person-825">
+            <person xml:id="schnitzler-kino_person-825">
                <persName>Eva, Evi</persName>
                <idno type="GND">https://d-nb.info/gnd/106178925X</idno>
             </person>
-            <person xml:id="ask-person-1540">
+            <person xml:id="schnitzler-kino_person-1540">
                <persName>Korff, Arnold</persName>
                <idno type="GND">https://d-nb.info/gnd/101334071X</idno>
             </person>
-            <person xml:id="ask-person-2040">
+            <person xml:id="schnitzler-kino_person-2040">
                <persName>Nielsen, Asta</persName>
                <idno type="GND">https://d-nb.info/gnd/118587854</idno>
             </person>
-            <person xml:id="ask-person-2222">
+            <person xml:id="schnitzler-kino_person-2222">
                <persName>Potechina, Lydia</persName>
                <idno type="GND">https://d-nb.info/gnd/1043652914</idno>
             </person>
-            <person xml:id="ask-person-2469">
+            <person xml:id="schnitzler-kino_person-2469">
                <persName>Schnitzler, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="ask-person-2642">
+            <person xml:id="schnitzler-kino_person-2642">
                <persName>Sternberg, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/1260498751</idno>
             </person>
-            <person xml:id="ask-person-2675">
+            <person xml:id="schnitzler-kino_person-2675">
                <persName>Sturm, Emmy</persName>
                <idno type="GND">https://d-nb.info/gnd/134973534</idno>
             </person>
-            <person xml:id="ask-person-2831">
+            <person xml:id="schnitzler-kino_person-2831">
                <persName>Vespermann, Kurt</persName>
                <idno type="GND">https://d-nb.info/gnd/1031195793</idno>
             </person>
-            <person xml:id="ask-person-3005">
+            <person xml:id="schnitzler-kino_person-3005">
                <persName>Zelnik, Friedrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116978899</idno>
             </person>

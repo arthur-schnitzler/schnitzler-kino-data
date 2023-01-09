@@ -91,46 +91,46 @@ Ankündigung NFP 18.8.1931, S. 10. Notiz NFP 21.8.1931, S. 10. Premierennotiz NF
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-128">
+            <person xml:id="schnitzler-kino_person-128">
                <persName>Bahr, Hermann</persName>
             </person>
-            <person xml:id="ask-person-522">
+            <person xml:id="schnitzler-kino_person-522">
                <persName>Cleve, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="ask-person-824">
+            <person xml:id="schnitzler-kino_person-824">
                <persName>Etlinger, Karl</persName>
                <idno type="GND">https://d-nb.info/gnd/1050467310</idno>
             </person>
-            <person xml:id="ask-person-827">
+            <person xml:id="schnitzler-kino_person-827">
                <persName>Evans, Karin</persName>
                <idno type="GND">https://d-nb.info/gnd/129342084</idno>
             </person>
-            <person xml:id="ask-person-1081">
+            <person xml:id="schnitzler-kino_person-1081">
                <persName>Grabley, Ursula</persName>
                <idno type="GND">https://d-nb.info/gnd/1061520633</idno>
             </person>
-            <person xml:id="ask-person-1383">
+            <person xml:id="schnitzler-kino_person-1383">
                <persName>Janssen, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/136550592</idno>
             </person>
-            <person xml:id="ask-person-1452">
+            <person xml:id="schnitzler-kino_person-1452">
                <persName>Karlweis, Oskar</persName>
                <idno type="GND">https://d-nb.info/gnd/116055766</idno>
             </person>
-            <person xml:id="ask-person-1717">
+            <person xml:id="schnitzler-kino_person-1717">
                <persName>Lorring, Lotte</persName>
                <idno type="GND">https://d-nb.info/gnd/1031430938</idno>
             </person>
-            <person xml:id="ask-person-1933">
+            <person xml:id="schnitzler-kino_person-1933">
                <persName>Mittler, Leo</persName>
                <idno type="GND">https://d-nb.info/gnd/117065129</idno>
             </person>
-            <person xml:id="ask-person-2777">
+            <person xml:id="schnitzler-kino_person-2777">
                <persName>Tschechowa, Olga</persName>
                <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
-            <person xml:id="ask-person-3006">
+            <person xml:id="schnitzler-kino_person-3006">
                <persName>Zerlett, Hans Heinz</persName>
                <idno type="GND">https://d-nb.info/gnd/116983191</idno>
             </person>

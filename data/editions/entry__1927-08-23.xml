@@ -91,11 +91,11 @@ Der Film konnte nicht ermittelt werden. </ab></div>
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-2468">
+            <person xml:id="schnitzler-kino_person-2468">
                <persName>Schnitzler, Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
-            <person xml:id="ask-person-4096">
+            <person xml:id="schnitzler-kino_person-4096">
                <persName>Pollaczek, Clara Katharina</persName>
                <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
             </person>

@@ -90,76 +90,76 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-28">
+            <person xml:id="schnitzler-kino_person-28">
                <persName>Alberti, Fritz</persName>
             </person>
-            <person xml:id="ask-person-91">
+            <person xml:id="schnitzler-kino_person-91">
                <persName>Arnold, Gertrud</persName>
                <idno type="GND">https://d-nb.info/gnd/1050400291</idno>
             </person>
-            <person xml:id="ask-person-286">
+            <person xml:id="schnitzler-kino_person-286">
                <persName>Biswanger, Erwin</persName>
                <idno type="GND">https://d-nb.info/gnd/12926685X</idno>
             </person>
-            <person xml:id="ask-person-933">
+            <person xml:id="schnitzler-kino_person-933">
                <persName>Francois, Hardy von</persName>
             </person>
-            <person xml:id="ask-person-1055">
+            <person xml:id="schnitzler-kino_person-1055">
                <persName>Goetzke, Bernhard</persName>
             </person>
-            <person xml:id="ask-person-1196">
+            <person xml:id="schnitzler-kino_person-1196">
                <persName>Harbou, Thea von</persName>
                <idno type="GND">https://d-nb.info/gnd/118701495</idno>
             </person>
-            <person xml:id="ask-person-1244">
+            <person xml:id="schnitzler-kino_person-1244">
                <persName>Heinrich, Hubert</persName>
                <idno type="GND">https://d-nb.info/gnd/11857809X</idno>
             </person>
-            <person xml:id="ask-person-1401">
+            <person xml:id="schnitzler-kino_person-1401">
                <persName>John, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/1194256775</idno>
             </person>
-            <person xml:id="ask-person-1510">
+            <person xml:id="schnitzler-kino_person-1510">
                <persName>Klein-Rogge, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/116212861</idno>
             </person>
-            <person xml:id="ask-person-1523">
+            <person xml:id="schnitzler-kino_person-1523">
                <persName>Koch, Georg August</persName>
                <idno type="GND">https://d-nb.info/gnd/117295752</idno>
             </person>
-            <person xml:id="ask-person-1599">
+            <person xml:id="schnitzler-kino_person-1599">
                <persName>Lang, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118569244</idno>
             </person>
-            <person xml:id="ask-person-1712">
+            <person xml:id="schnitzler-kino_person-1712">
                <persName>Loos, Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-1977">
+            <person xml:id="schnitzler-kino_person-1977">
                <persName>Mueller, Hans Carl</persName>
                <idno type="GND">https://d-nb.info/gnd/1038346398</idno>
             </person>
-            <person xml:id="ask-person-2341">
+            <person xml:id="schnitzler-kino_person-2341">
                <persName>Rittner, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/118788981</idno>
             </person>
-            <person xml:id="ask-person-2350">
+            <person xml:id="schnitzler-kino_person-2350">
                <persName>Roberts, Iris</persName>
                <idno type="GND">https://d-nb.info/gnd/1062249364</idno>
             </person>
-            <person xml:id="ask-person-2389">
+            <person xml:id="schnitzler-kino_person-2389">
                <persName>Röttgen, Aenne</persName>
                <idno type="GND">https://d-nb.info/gnd/1061768872</idno>
             </person>
-            <person xml:id="ask-person-2454">
+            <person xml:id="schnitzler-kino_person-2454">
                <persName>Schlettow, Hans Adalbert</persName>
                <idno type="GND">https://d-nb.info/gnd/117326747</idno>
             </person>
-            <person xml:id="ask-person-2478">
+            <person xml:id="schnitzler-kino_person-2478">
                <persName>Schön, Margarete</persName>
                <idno type="GND">https://d-nb.info/gnd/1216900655</idno>
             </person>
-            <person xml:id="ask-person-2997">
+            <person xml:id="schnitzler-kino_person-2997">
                <persName>Yurovsky, Yuri</persName>
             </person>
          </listPerson>

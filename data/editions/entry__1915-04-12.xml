@@ -90,15 +90,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-318">
+            <person xml:id="schnitzler-kino_person-318">
                <persName>Bolten-Baeckers, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116035765</idno>
             </person>
-            <person xml:id="ask-person-1938">
+            <person xml:id="schnitzler-kino_person-1938">
                <persName>Moissi, Alexander</persName>
                <idno type="GND">https://d-nb.info/gnd/118583271</idno>
             </person>
-            <person xml:id="ask-person-2430">
+            <person xml:id="schnitzler-kino_person-2430">
                <persName>Sandten, Thea</persName>
                <idno type="GND">https://d-nb.info/gnd/1062224531</idno>
             </person>

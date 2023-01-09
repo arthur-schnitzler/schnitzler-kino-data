@@ -92,34 +92,34 @@ Anzeigen und Notiz 19.10.1928, S. 8f. Nochmals Anzeige und Notiz NFP 23.11.1928,
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-257">
+            <person xml:id="schnitzler-kino_person-257">
                <persName>Bernis, Blanche</persName>
             </person>
-            <person xml:id="ask-person-342">
+            <person xml:id="schnitzler-kino_person-342">
                <persName>Bradin, Jean</persName>
                <idno type="GND">https://d-nb.info/gnd/1061425886</idno>
             </person>
-            <person xml:id="ask-person-567">
+            <person xml:id="schnitzler-kino_person-567">
                <persName>Corday, Charlotte</persName>
                <idno type="GND">https://d-nb.info/gnd/118676881</idno>
             </person>
-            <person xml:id="ask-person-730">
+            <person xml:id="schnitzler-kino_person-730">
                <persName>Dupont, E. A.</persName>
                <idno type="GND">https://d-nb.info/gnd/119061872</idno>
             </person>
-            <person xml:id="ask-person-1099">
+            <person xml:id="schnitzler-kino_person-1099">
                <persName>Gray, Eve</persName>
                <idno type="GND">https://d-nb.info/gnd/1061875628</idno>
             </person>
-            <person xml:id="ask-person-2773">
+            <person xml:id="schnitzler-kino_person-2773">
                <persName>Trivell, Georges</persName>
                <idno type="GND">https://d-nb.info/gnd/1153414082</idno>
             </person>
-            <person xml:id="ask-person-2777">
+            <person xml:id="schnitzler-kino_person-2777">
                <persName>Tschechowa, Olga</persName>
                <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
-            <person xml:id="ask-person-2833">
+            <person xml:id="schnitzler-kino_person-2833">
                <persName>Vibert, Marcel</persName>
                <idno type="GND">https://d-nb.info/gnd/1061520722</idno>
             </person>

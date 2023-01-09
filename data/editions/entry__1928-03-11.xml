@@ -90,30 +90,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1457">
+            <person xml:id="schnitzler-kino_person-1457">
                <persName>Kastner, Bruno</persName>
                <idno type="GND">https://d-nb.info/gnd/116066008</idno>
             </person>
-            <person xml:id="ask-person-1670">
+            <person xml:id="schnitzler-kino_person-1670">
                <persName>Liedtke, Harry</persName>
                <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
             </person>
-            <person xml:id="ask-person-1777">
+            <person xml:id="schnitzler-kino_person-1777">
                <persName>Maggi, Rina</persName>
                <idno type="GND">https://d-nb.info/gnd/1061986543</idno>
             </person>
-            <person xml:id="ask-person-2080">
+            <person xml:id="schnitzler-kino_person-2080">
                <persName>Opal, Max</persName>
             </person>
-            <person xml:id="ask-person-2135">
+            <person xml:id="schnitzler-kino_person-2135">
                <persName>Paudler, Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/118592041</idno>
             </person>
-            <person xml:id="ask-person-2864">
+            <person xml:id="schnitzler-kino_person-2864">
                <persName>Wallburg, Otto</persName>
                <idno type="GND">https://d-nb.info/gnd/119368080</idno>
             </person>
-            <person xml:id="ask-person-2987">
+            <person xml:id="schnitzler-kino_person-2987">
                <persName>Wüst, Ida</persName>
                <idno type="GND">https://d-nb.info/gnd/116119667</idno>
             </person>

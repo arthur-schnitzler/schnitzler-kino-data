@@ -90,52 +90,52 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-533">
+            <person xml:id="schnitzler-kino_person-533">
                <persName>Coleburn, Catherine</persName>
             </person>
-            <person xml:id="ask-person-556">
+            <person xml:id="schnitzler-kino_person-556">
                <persName>Converse, Thelma</persName>
             </person>
-            <person xml:id="ask-person-573">
+            <person xml:id="schnitzler-kino_person-573">
                <persName>Cortez, Ricardo</persName>
                <idno type="GND">https://d-nb.info/gnd/1013862333</idno>
             </person>
-            <person xml:id="ask-person-697">
+            <person xml:id="schnitzler-kino_person-697">
                <persName>Donovan, Wilfred</persName>
                <idno type="GND">https://d-nb.info/gnd/141832304</idno>
             </person>
-            <person xml:id="ask-person-740">
+            <person xml:id="schnitzler-kino_person-740">
                <persName>Dwan, Allan</persName>
                <idno type="GND">https://d-nb.info/gnd/124321208</idno>
             </person>
-            <person xml:id="ask-person-1180">
+            <person xml:id="schnitzler-kino_person-1180">
                <persName>Halsey, Forrest</persName>
                <idno type="GND">https://d-nb.info/gnd/139705503</idno>
             </person>
-            <person xml:id="ask-person-1344">
+            <person xml:id="schnitzler-kino_person-1344">
                <persName>Hughes, Yvonne</persName>
                <idno type="GND">https://d-nb.info/gnd/138798400</idno>
             </person>
-            <person xml:id="ask-person-2240">
+            <person xml:id="schnitzler-kino_person-2240">
                <persName>Proctor, Catherine</persName>
             </person>
-            <person xml:id="ask-person-2361">
+            <person xml:id="schnitzler-kino_person-2361">
                <persName>Rocque, Rod La</persName>
                <idno type="GND">https://d-nb.info/gnd/140894314</idno>
             </person>
-            <person xml:id="ask-person-2542">
+            <person xml:id="schnitzler-kino_person-2542">
                <persName>Shelton, Marie</persName>
                <idno type="GND">https://d-nb.info/gnd/137746792</idno>
             </person>
-            <person xml:id="ask-person-2560">
+            <person xml:id="schnitzler-kino_person-2560">
                <persName>Simpson, Allan</persName>
                <idno type="GND">https://d-nb.info/gnd/1083033476</idno>
             </person>
-            <person xml:id="ask-person-2688">
+            <person xml:id="schnitzler-kino_person-2688">
                <persName>Swanson, Gloria</persName>
                <idno type="GND">https://d-nb.info/gnd/122997506</idno>
             </person>
-            <person xml:id="ask-person-2890">
+            <person xml:id="schnitzler-kino_person-2890">
                <persName>Waterman, Ida</persName>
             </person>
          </listPerson>

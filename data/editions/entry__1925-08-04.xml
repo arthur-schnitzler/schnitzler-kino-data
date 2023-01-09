@@ -93,15 +93,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1673">
+            <person xml:id="schnitzler-kino_person-1673">
                <persName>Lighton, Louis D.</persName>
                <idno type="GND">https://d-nb.info/gnd/104736767X</idno>
             </person>
-            <person xml:id="ask-person-1716">
+            <person xml:id="schnitzler-kino_person-1716">
                <persName>Loring, Hope</persName>
                <idno type="GND">https://d-nb.info/gnd/1047367130</idno>
             </person>
-            <person xml:id="ask-person-2204">
+            <person xml:id="schnitzler-kino_person-2204">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
          </listPerson>

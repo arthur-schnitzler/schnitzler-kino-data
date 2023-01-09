@@ -92,32 +92,32 @@ Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</ab></div>
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-790">
+            <person xml:id="schnitzler-kino_person-790">
                <persName>Ellis, Lilian</persName>
                <idno type="GND">https://d-nb.info/gnd/1061396495</idno>
             </person>
-            <person xml:id="ask-person-820">
+            <person xml:id="schnitzler-kino_person-820">
                <persName>Erzherzog Otto</persName>
             </person>
-            <person xml:id="ask-person-952">
+            <person xml:id="schnitzler-kino_person-952">
                <persName>Friedmanova, Martha</persName>
             </person>
-            <person xml:id="ask-person-975">
+            <person xml:id="schnitzler-kino_person-975">
                <persName>Fütterer, Werner</persName>
                <idno type="GND">https://d-nb.info/gnd/138898278</idno>
             </person>
-            <person xml:id="ask-person-1440">
+            <person xml:id="schnitzler-kino_person-1440">
                <persName>Kallina, Anna</persName>
                <idno type="GND">https://d-nb.info/gnd/116032413</idno>
             </person>
-            <person xml:id="ask-person-1485">
+            <person xml:id="schnitzler-kino_person-1485">
                <persName>Kersten, Albert von</persName>
                <idno type="GND">https://d-nb.info/gnd/1097234576</idno>
             </person>
-            <person xml:id="ask-person-2202">
+            <person xml:id="schnitzler-kino_person-2202">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="ask-person-2436">
+            <person xml:id="schnitzler-kino_person-2436">
                <persName>Sauer, Fred</persName>
                <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
             </person>

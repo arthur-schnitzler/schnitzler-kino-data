@@ -90,42 +90,42 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-15">
+            <person xml:id="schnitzler-kino_person-15">
                <persName>Adamson, Ewart</persName>
                <idno type="GND">https://d-nb.info/gnd/101386266X</idno>
             </person>
-            <person xml:id="ask-person-279">
+            <person xml:id="schnitzler-kino_person-279">
                <persName>Bingham, Edfrid A.</persName>
                <idno type="GND">https://d-nb.info/gnd/174356315</idno>
             </person>
-            <person xml:id="ask-person-388">
+            <person xml:id="schnitzler-kino_person-388">
                <persName>Brower, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/141417218</idno>
             </person>
-            <person xml:id="ask-person-423">
+            <person xml:id="schnitzler-kino_person-423">
                <persName>Burt, Katharine Newlin</persName>
                <idno type="GND">https://d-nb.info/gnd/1036332780</idno>
             </person>
-            <person xml:id="ask-person-618">
+            <person xml:id="schnitzler-kino_person-618">
                <persName>Daniels, Bébé</persName>
                <idno type="GND">https://d-nb.info/gnd/135402816</idno>
             </person>
-            <person xml:id="ask-person-1896">
+            <person xml:id="schnitzler-kino_person-1896">
                <persName>Menjou, Adolphe</persName>
                <idno type="GND">https://d-nb.info/gnd/140668217</idno>
             </person>
-            <person xml:id="ask-person-2008">
+            <person xml:id="schnitzler-kino_person-2008">
                <persName>Nagel, Conrad</persName>
                <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
             </person>
-            <person xml:id="ask-person-2614">
+            <person xml:id="schnitzler-kino_person-2614">
                <persName>Stanlaws, Penrhyn</persName>
             </person>
-            <person xml:id="ask-person-2758">
+            <person xml:id="schnitzler-kino_person-2758">
                <persName>Torrence, Ernest</persName>
                <idno type="GND">https://d-nb.info/gnd/173538924</idno>
             </person>
-            <person xml:id="ask-person-2775">
+            <person xml:id="schnitzler-kino_person-2775">
                <persName>Trunnelle, Mabel</persName>
             </person>
          </listPerson>

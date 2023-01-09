@@ -90,29 +90,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-77">
+            <person xml:id="schnitzler-kino_person-77">
                <persName>Arbeiter des Waldenburger Industriereviers</persName>
             </person>
-            <person xml:id="ask-person-1360">
+            <person xml:id="schnitzler-kino_person-1360">
                <persName>Industrierevier, Arbeiter des Waldenburger</persName>
             </person>
-            <person xml:id="ask-person-1428">
+            <person xml:id="schnitzler-kino_person-1428">
                <persName>Jutzi, Phil</persName>
                <idno type="GND">https://d-nb.info/gnd/119383276</idno>
             </person>
-            <person xml:id="ask-person-1604">
+            <person xml:id="schnitzler-kino_person-1604">
                <persName>Lania, Leo</persName>
                <idno type="GND">https://d-nb.info/gnd/11672949X</idno>
             </person>
-            <person xml:id="ask-person-2455">
+            <person xml:id="schnitzler-kino_person-2455">
                <persName>Schloß, Sybille</persName>
                <idno type="GND">https://d-nb.info/gnd/132276739</idno>
             </person>
-            <person xml:id="ask-person-2859">
+            <person xml:id="schnitzler-kino_person-2859">
                <persName>Waldenburger Industrierevier, Arbeiter des</persName>
                <idno type="GND">https://d-nb.info/gnd/1145799949</idno>
             </person>
-            <person xml:id="ask-person-3020">
+            <person xml:id="schnitzler-kino_person-3020">
                <persName>Zimmermann, Holmes</persName>
                <idno type="GND">https://d-nb.info/gnd/1028551916</idno>
             </person>

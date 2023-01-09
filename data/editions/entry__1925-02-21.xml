@@ -90,42 +90,42 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-725">
+            <person xml:id="schnitzler-kino_person-725">
                <persName>Dumont, Eugen</persName>
                <idno type="GND">https://d-nb.info/gnd/1146104952</idno>
             </person>
-            <person xml:id="ask-person-1289">
+            <person xml:id="schnitzler-kino_person-1289">
                <persName>Hindenburg, Paul von</persName>
                <idno type="GND">https://d-nb.info/gnd/118551264</idno>
             </person>
-            <person xml:id="ask-person-1485">
+            <person xml:id="schnitzler-kino_person-1485">
                <persName>Kersten, Albert von</persName>
                <idno type="GND">https://d-nb.info/gnd/1097234576</idno>
             </person>
-            <person xml:id="ask-person-1731">
+            <person xml:id="schnitzler-kino_person-1731">
                <persName>Löwenstein, Hans Otto</persName>
                <idno type="GND">https://d-nb.info/gnd/101189369X</idno>
             </person>
-            <person xml:id="ask-person-2027">
+            <person xml:id="schnitzler-kino_person-2027">
                <persName>Neufeld, Eugen</persName>
             </person>
-            <person xml:id="ask-person-2054">
+            <person xml:id="schnitzler-kino_person-2054">
                <persName>Norbert, Harry</persName>
                <idno type="GND">https://d-nb.info/gnd/1062245245</idno>
             </person>
-            <person xml:id="ask-person-2513">
+            <person xml:id="schnitzler-kino_person-2513">
                <persName>Seeliger, Emil</persName>
                <idno type="GND">https://d-nb.info/gnd/117444995</idno>
             </person>
-            <person xml:id="ask-person-2514">
+            <person xml:id="schnitzler-kino_person-2514">
                <persName>Seemann, Louis</persName>
                <idno type="GND">https://d-nb.info/gnd/1062462823</idno>
             </person>
-            <person xml:id="ask-person-2531">
+            <person xml:id="schnitzler-kino_person-2531">
                <persName>Servaes, Dagny</persName>
                <idno type="GND">https://d-nb.info/gnd/117467944</idno>
             </person>
-            <person xml:id="ask-person-2804">
+            <person xml:id="schnitzler-kino_person-2804">
                <persName>Valberg, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/1019704306</idno>
             </person>

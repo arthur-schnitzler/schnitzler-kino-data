@@ -93,26 +93,26 @@ Spielort bestätigt NZG 17.8.1930, S. 12.</ab></div>
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-316">
+            <person xml:id="schnitzler-kino_person-316">
                <persName>Boles, John</persName>
                <idno type="GND">https://d-nb.info/gnd/101945623X</idno>
             </person>
-            <person xml:id="ask-person-344">
+            <person xml:id="schnitzler-kino_person-344">
                <persName>Branch, Hurston</persName>
                <idno type="GND">https://d-nb.info/gnd/11904949X</idno>
             </person>
-            <person xml:id="ask-person-2185">
+            <person xml:id="schnitzler-kino_person-2185">
                <persName>Plante, Laura la</persName>
                <idno type="GND">https://d-nb.info/gnd/1166586103</idno>
             </person>
-            <person xml:id="ask-person-2336">
+            <person xml:id="schnitzler-kino_person-2336">
                <persName>Ripley, Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/13869754X</idno>
             </person>
-            <person xml:id="ask-person-2354">
+            <person xml:id="schnitzler-kino_person-2354">
                <persName>Robertson, John S.</persName>
             </person>
-            <person xml:id="ask-person-2892">
+            <person xml:id="schnitzler-kino_person-2892">
                <persName>Watters, George Manker</persName>
                <idno type="GND">https://d-nb.info/gnd/126910529</idno>
             </person>

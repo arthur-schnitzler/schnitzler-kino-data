@@ -90,22 +90,22 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-463">
+            <person xml:id="schnitzler-kino_person-463">
                <persName>Carmi, Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/116456604</idno>
             </person>
-            <person xml:id="ask-person-464">
+            <person xml:id="schnitzler-kino_person-464">
                <persName>Carminati, Tullio</persName>
                <idno type="GND">https://d-nb.info/gnd/138049645</idno>
             </person>
-            <person xml:id="ask-person-538">
+            <person xml:id="schnitzler-kino_person-538">
                <persName>Collo, Alberto</persName>
             </person>
-            <person xml:id="ask-person-1026">
+            <person xml:id="schnitzler-kino_person-1026">
                <persName>Ghione, Emilio</persName>
                <idno type="GND">https://d-nb.info/gnd/138504253</idno>
             </person>
-            <person xml:id="ask-person-1594">
+            <person xml:id="schnitzler-kino_person-1594">
                <persName>Landowska	, Stephanie</persName>
             </person>
          </listPerson>

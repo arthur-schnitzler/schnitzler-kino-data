@@ -91,43 +91,43 @@ Besprechung von Lilly Klaudy in NFP, 17.6.1927, S. 14. Nachgewiesene Spielorte: 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-431">
+            <person xml:id="schnitzler-kino_person-431">
                <persName>Butler, David</persName>
                <idno type="GND">https://d-nb.info/gnd/119177625</idno>
             </person>
-            <person xml:id="ask-person-440">
+            <person xml:id="schnitzler-kino_person-440">
                <persName>Calhoun, Kathleen</persName>
             </person>
-            <person xml:id="ask-person-494">
+            <person xml:id="schnitzler-kino_person-494">
                <persName>Chaplin, Charles</persName>
             </person>
-            <person xml:id="ask-person-495">
+            <person xml:id="schnitzler-kino_person-495">
                <persName>Chaplin, Syd</persName>
                <idno type="GND">https://d-nb.info/gnd/1015024882</idno>
             </person>
-            <person xml:id="ask-person-575">
+            <person xml:id="schnitzler-kino_person-575">
                <persName>Costello, Helene</persName>
             </person>
-            <person xml:id="ask-person-1022">
+            <person xml:id="schnitzler-kino_person-1022">
                <persName>Gerrard, Charles</persName>
                <idno type="GND">https://d-nb.info/gnd/1055210237</idno>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-1710">
+            <person xml:id="schnitzler-kino_person-1710">
                <persName>Logue, Charles A.</persName>
                <idno type="GND">https://d-nb.info/gnd/1260506606</idno>
             </person>
-            <person xml:id="ask-person-1761">
+            <person xml:id="schnitzler-kino_person-1761">
                <persName>MacGrath, Harold</persName>
                <idno type="GND">https://d-nb.info/gnd/127448004</idno>
             </person>
-            <person xml:id="ask-person-2300">
+            <person xml:id="schnitzler-kino_person-2300">
                <persName>Reisner, Charles</persName>
                <idno type="GND">https://d-nb.info/gnd/141833580</idno>
             </person>
-            <person xml:id="ask-person-2628">
+            <person xml:id="schnitzler-kino_person-2628">
                <persName>Stein, Lisa</persName>
             </person>
          </listPerson>

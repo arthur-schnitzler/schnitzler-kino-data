@@ -90,23 +90,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-809">
+            <person xml:id="schnitzler-kino_person-809">
                <persName>Enright, Ray</persName>
                <idno type="GND">https://d-nb.info/gnd/141090537</idno>
             </person>
-            <person xml:id="ask-person-1732">
+            <person xml:id="schnitzler-kino_person-1732">
                <persName>Loy, Myrna</persName>
                <idno type="GND">https://d-nb.info/gnd/119007940</idno>
             </person>
-            <person xml:id="ask-person-2008">
+            <person xml:id="schnitzler-kino_person-2008">
                <persName>Nagel, Conrad</persName>
                <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
             </person>
-            <person xml:id="ask-person-2066">
+            <person xml:id="schnitzler-kino_person-2066">
                <persName>Nye, Carroll</persName>
                <idno type="GND">https://d-nb.info/gnd/1055324135</idno>
             </person>
-            <person xml:id="ask-person-2408">
+            <person xml:id="schnitzler-kino_person-2408">
                <persName>Russel, William</persName>
                <idno type="GND">https://d-nb.info/gnd/1032981571</idno>
             </person>

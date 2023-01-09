@@ -94,27 +94,27 @@ Der Film lief in Wien einige Monate früher: Premierennotiz NFP 11.4.1930, S. 11
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-251">
+            <person xml:id="schnitzler-kino_person-251">
                <persName>Bernard, Alexandre</persName>
                <idno type="GND">https://d-nb.info/gnd/1234121913</idno>
             </person>
-            <person xml:id="ask-person-946">
+            <person xml:id="schnitzler-kino_person-946">
                <persName>Freshman, William</persName>
                <idno type="GND">https://d-nb.info/gnd/1062196953</idno>
             </person>
-            <person xml:id="ask-person-1261">
+            <person xml:id="schnitzler-kino_person-1261">
                <persName>Héribel, Renée</persName>
                <idno type="GND">https://d-nb.info/gnd/1061287009</idno>
             </person>
-            <person xml:id="ask-person-1543">
+            <person xml:id="schnitzler-kino_person-1543">
                <persName>Kortner, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-1712">
+            <person xml:id="schnitzler-kino_person-1712">
                <persName>Loos, Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-2327">
+            <person xml:id="schnitzler-kino_person-2327">
                <persName>Righelli, Gennaro</persName>
                <idno type="GND">https://d-nb.info/gnd/1061722260</idno>
             </person>

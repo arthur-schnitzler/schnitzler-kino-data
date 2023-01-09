@@ -92,31 +92,31 @@ Besprechung von Philipp Winter in NFP 4.11.1930, S. 10. Spielort bestätigt NZG 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-272">
+            <person xml:id="schnitzler-kino_person-272">
                <persName>Biebrach, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/143974416</idno>
             </person>
-            <person xml:id="ask-person-936">
+            <person xml:id="schnitzler-kino_person-936">
                <persName>Frank, Harry</persName>
                <idno type="GND">https://d-nb.info/gnd/125270305</idno>
             </person>
-            <person xml:id="ask-person-1488">
+            <person xml:id="schnitzler-kino_person-1488">
                <persName>Kestin, Erich</persName>
                <idno type="GND">https://d-nb.info/gnd/1031392181</idno>
             </person>
-            <person xml:id="ask-person-2328">
+            <person xml:id="schnitzler-kino_person-2328">
                <persName>Rikli, Martin</persName>
                <idno type="GND">https://d-nb.info/gnd/120587971</idno>
             </person>
-            <person xml:id="ask-person-2602">
+            <person xml:id="schnitzler-kino_person-2602">
                <persName>Spira, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-2604">
+            <person xml:id="schnitzler-kino_person-2604">
                <persName>Sponholz, Leni</persName>
                <idno type="GND">https://d-nb.info/gnd/1062226933</idno>
             </person>
-            <person xml:id="ask-person-2957">
+            <person xml:id="schnitzler-kino_person-2957">
                <persName>Winter, Philipp</persName>
                <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>

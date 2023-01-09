@@ -90,30 +90,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-10">
+            <person xml:id="schnitzler-kino_person-10">
                <persName>Abel, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/116001313</idno>
             </person>
-            <person xml:id="ask-person-960">
+            <person xml:id="schnitzler-kino_person-960">
                <persName>Fröhlich, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/118693794</idno>
             </person>
-            <person xml:id="ask-person-1013">
+            <person xml:id="schnitzler-kino_person-1013">
                <persName>George, Heinrich</persName>
             </person>
-            <person xml:id="ask-person-1196">
+            <person xml:id="schnitzler-kino_person-1196">
                <persName>Harbou, Thea von</persName>
                <idno type="GND">https://d-nb.info/gnd/118701495</idno>
             </person>
-            <person xml:id="ask-person-1356">
+            <person xml:id="schnitzler-kino_person-1356">
                <persName>Ihering, Herbert</persName>
                <idno type="GND">https://d-nb.info/gnd/118708627</idno>
             </person>
-            <person xml:id="ask-person-1510">
+            <person xml:id="schnitzler-kino_person-1510">
                <persName>Klein-Rogge, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/116212861</idno>
             </person>
-            <person xml:id="ask-person-1599">
+            <person xml:id="schnitzler-kino_person-1599">
                <persName>Lang, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118569244</idno>
             </person>

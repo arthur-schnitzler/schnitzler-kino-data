@@ -90,26 +90,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-172">
+            <person xml:id="schnitzler-kino_person-172">
                <persName>Bassermann, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/118653407</idno>
             </person>
-            <person xml:id="ask-person-173">
+            <person xml:id="schnitzler-kino_person-173">
                <persName>Bassermann, Else</persName>
                <idno type="GND">https://d-nb.info/gnd/116080027</idno>
             </person>
-            <person xml:id="ask-person-997">
+            <person xml:id="schnitzler-kino_person-997">
                <persName>Gärtner, Adolf</persName>
                <idno type="GND">https://d-nb.info/gnd/1229999515</idno>
             </person>
-            <person xml:id="ask-person-1668">
+            <person xml:id="schnitzler-kino_person-1668">
                <persName>Liechtenstein, Rosa</persName>
             </person>
-            <person xml:id="ask-person-2402">
+            <person xml:id="schnitzler-kino_person-2402">
                <persName>Ruhbeck, Max</persName>
                <idno type="GND">https://d-nb.info/gnd/1061365018</idno>
             </person>
-            <person xml:id="ask-person-2422">
+            <person xml:id="schnitzler-kino_person-2422">
                <persName>Salten, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>

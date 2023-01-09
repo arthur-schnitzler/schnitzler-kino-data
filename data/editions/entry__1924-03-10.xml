@@ -90,30 +90,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1414">
+            <person xml:id="schnitzler-kino_person-1414">
                <persName>Jordan, Sid</persName>
                <idno type="GND">https://d-nb.info/gnd/1246998076</idno>
             </person>
-            <person xml:id="ask-person-1759">
+            <person xml:id="schnitzler-kino_person-1759">
                <persName>MacDonald, J. Farrell</persName>
                <idno type="GND">https://d-nb.info/gnd/1061708373</idno>
             </person>
-            <person xml:id="ask-person-1859">
+            <person xml:id="schnitzler-kino_person-1859">
                <persName>May, Karl</persName>
             </person>
-            <person xml:id="ask-person-1934">
+            <person xml:id="schnitzler-kino_person-1934">
                <persName>Mix, Tom</persName>
                <idno type="GND">https://d-nb.info/gnd/118817531</idno>
             </person>
-            <person xml:id="ask-person-2060">
+            <person xml:id="schnitzler-kino_person-2060">
                <persName>Novak, Eva</persName>
                <idno type="GND">https://d-nb.info/gnd/130318019</idno>
             </person>
-            <person xml:id="ask-person-2314">
+            <person xml:id="schnitzler-kino_person-2314">
                <persName>Reynolds, Lynn</persName>
                <idno type="GND">https://d-nb.info/gnd/142193801</idno>
             </person>
-            <person xml:id="ask-person-2619">
+            <person xml:id="schnitzler-kino_person-2619">
                <persName>Starr, James A.</persName>
             </person>
          </listPerson>

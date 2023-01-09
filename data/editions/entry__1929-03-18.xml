@@ -90,19 +90,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-727">
+            <person xml:id="schnitzler-kino_person-727">
                <persName>Dungern, Adolph von</persName>
                <idno type="GND">https://d-nb.info/gnd/127663088</idno>
             </person>
-            <person xml:id="ask-person-2055">
+            <person xml:id="schnitzler-kino_person-2055">
                <persName>Nordhaus, Gösta</persName>
                <idno type="GND">https://d-nb.info/gnd/1062349873</idno>
             </person>
-            <person xml:id="ask-person-2472">
+            <person xml:id="schnitzler-kino_person-2472">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
                <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="ask-person-2549">
+            <person xml:id="schnitzler-kino_person-2549">
                <persName>Siebrecht, Eduard</persName>
                <idno type="GND">https://d-nb.info/gnd/1205354077</idno>
             </person>

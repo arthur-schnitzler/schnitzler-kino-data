@@ -90,52 +90,52 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-114">
+            <person xml:id="schnitzler-kino_person-114">
                <persName>Ault, Marie</persName>
                <idno type="GND">https://d-nb.info/gnd/1061784568</idno>
             </person>
-            <person xml:id="ask-person-386">
+            <person xml:id="schnitzler-kino_person-386">
                <persName>Brook, Hugh</persName>
             </person>
-            <person xml:id="ask-person-605">
+            <person xml:id="schnitzler-kino_person-605">
                <persName>Cutts, Graham</persName>
                <idno type="GND">https://d-nb.info/gnd/1054235341</idno>
             </person>
-            <person xml:id="ask-person-892">
+            <person xml:id="schnitzler-kino_person-892">
                <persName>Fitzgibbons, Esme</persName>
                <idno type="GND">https://d-nb.info/gnd/118900021</idno>
             </person>
-            <person xml:id="ask-person-1037">
+            <person xml:id="schnitzler-kino_person-1037">
                <persName>Glasby, Lambart</persName>
                <idno type="GND">https://d-nb.info/gnd/137938462</idno>
             </person>
-            <person xml:id="ask-person-1113">
+            <person xml:id="schnitzler-kino_person-1113">
                <persName>Grey, Iris</persName>
             </person>
-            <person xml:id="ask-person-1390">
+            <person xml:id="schnitzler-kino_person-1390">
                <persName>Jeans, Isabel</persName>
                <idno type="GND">https://d-nb.info/gnd/1177544075</idno>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-1684">
+            <person xml:id="schnitzler-kino_person-1684">
                <persName>Lindsay, James</persName>
                <idno type="GND">https://d-nb.info/gnd/1199947946</idno>
             </person>
-            <person xml:id="ask-person-1832">
+            <person xml:id="schnitzler-kino_person-1832">
                <persName>Marsh, Mae</persName>
                <idno type="GND">https://d-nb.info/gnd/1011706962</idno>
             </person>
-            <person xml:id="ask-person-2061">
+            <person xml:id="schnitzler-kino_person-2061">
                <persName>Novello, Ivor</persName>
                <idno type="GND">https://d-nb.info/gnd/128687738</idno>
             </person>
-            <person xml:id="ask-person-2476">
+            <person xml:id="schnitzler-kino_person-2476">
                <persName>Scholz, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
             </person>
-            <person xml:id="ask-person-2682">
+            <person xml:id="schnitzler-kino_person-2682">
                <persName>Suedo, Julie</persName>
             </person>
          </listPerson>

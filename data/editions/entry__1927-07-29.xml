@@ -94,40 +94,40 @@ Anzeige (elf Spielorte) und Besprechung von Kurt Sonnenfeld in NFP 29.7.1929, S.
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-229">
+            <person xml:id="schnitzler-kino_person-229">
                <persName>Berg, Dr.</persName>
                <idno type="GND">https://d-nb.info/gnd/118007176X</idno>
             </person>
-            <person xml:id="ask-person-1681">
+            <person xml:id="schnitzler-kino_person-1681">
                <persName>Lindberg, Ruth</persName>
                <idno type="GND">https://d-nb.info/gnd/1061663531</idno>
             </person>
-            <person xml:id="ask-person-1790">
+            <person xml:id="schnitzler-kino_person-1790">
                <persName>Malinowskaja, W. S.</persName>
             </person>
-            <person xml:id="ask-person-1975">
+            <person xml:id="schnitzler-kino_person-1975">
                <persName>Moskwin, Iwan</persName>
             </person>
-            <person xml:id="ask-person-1980">
+            <person xml:id="schnitzler-kino_person-1980">
                <persName>Müller, E. Dr.</persName>
             </person>
-            <person xml:id="ask-person-2094">
+            <person xml:id="schnitzler-kino_person-2094">
                <persName>Ozep, Fedor</persName>
                <idno type="GND">https://d-nb.info/gnd/172959756</idno>
             </person>
-            <person xml:id="ask-person-2250">
+            <person xml:id="schnitzler-kino_person-2250">
                <persName>Puschkin, Alexander</persName>
                <idno type="GND">https://d-nb.info/gnd/137874537</idno>
             </person>
-            <person xml:id="ask-person-2442">
+            <person xml:id="schnitzler-kino_person-2442">
                <persName>Scheljabuschki, ? </persName>
                <idno type="GND">https://d-nb.info/gnd/118954474</idno>
             </person>
-            <person xml:id="ask-person-2705">
+            <person xml:id="schnitzler-kino_person-2705">
                <persName>Tamarin, B.</persName>
                <idno type="GND">https://d-nb.info/gnd/1124111573</idno>
             </person>
-            <person xml:id="ask-person-2784">
+            <person xml:id="schnitzler-kino_person-2784">
                <persName>Turkin, Valentin</persName>
                <idno type="GND">https://d-nb.info/gnd/1161764933</idno>
             </person>

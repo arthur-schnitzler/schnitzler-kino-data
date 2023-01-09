@@ -93,61 +93,61 @@ Quälende telefonische Gespräche mit Frieda. Sie wollte durchaus, dass ich mit 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-235">
+            <person xml:id="schnitzler-kino_person-235">
                <persName>Berger, Gisela</persName>
                <idno type="GND">https://d-nb.info/gnd/136132812</idno>
             </person>
-            <person xml:id="ask-person-392">
+            <person xml:id="schnitzler-kino_person-392">
                <persName>Brown, Melville</persName>
                <idno type="GND">https://d-nb.info/gnd/1260509397</idno>
             </person>
-            <person xml:id="ask-person-450">
+            <person xml:id="schnitzler-kino_person-450">
                <persName>Cappellini, Arnoldo</persName>
                <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="ask-person-525">
+            <person xml:id="schnitzler-kino_person-525">
                <persName>Clymer, John B.</persName>
                <idno type="GND">https://d-nb.info/gnd/122569024</idno>
             </person>
-            <person xml:id="ask-person-1105">
+            <person xml:id="schnitzler-kino_person-1105">
                <persName>Gregor, Malcolm Mac</persName>
             </person>
-            <person xml:id="ask-person-1115">
+            <person xml:id="schnitzler-kino_person-1115">
                <persName>Gribbon, Edwin</persName>
                <idno type="GND">https://d-nb.info/gnd/1012534588</idno>
             </person>
-            <person xml:id="ask-person-1582">
+            <person xml:id="schnitzler-kino_person-1582">
                <persName>Lake, Stuart N.</persName>
                <idno type="GND">https://d-nb.info/gnd/1075865379</idno>
             </person>
-            <person xml:id="ask-person-1810">
+            <person xml:id="schnitzler-kino_person-1810">
                <persName>Marcus, James A.</persName>
                <idno type="GND">https://d-nb.info/gnd/142491977</idno>
             </person>
-            <person xml:id="ask-person-1947">
+            <person xml:id="schnitzler-kino_person-1947">
                <persName>Mond, Albert De</persName>
             </person>
-            <person xml:id="ask-person-2181">
+            <person xml:id="schnitzler-kino_person-2181">
                <persName>Pitts, Zazu</persName>
                <idno type="GND">https://d-nb.info/gnd/141535598</idno>
             </person>
-            <person xml:id="ask-person-2209">
+            <person xml:id="schnitzler-kino_person-2209">
                <persName>Pollak, Frieda </persName>
                <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="ask-person-2252">
+            <person xml:id="schnitzler-kino_person-2252">
                <persName>Putti, Lya de</persName>
                <idno type="GND">https://d-nb.info/gnd/11911657X</idno>
             </person>
-            <person xml:id="ask-person-2469">
+            <person xml:id="schnitzler-kino_person-2469">
                <persName>Schnitzler, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="ask-person-2471">
+            <person xml:id="schnitzler-kino_person-2471">
                <persName>Schnitzler, Lili</persName>
                <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="ask-person-2472">
+            <person xml:id="schnitzler-kino_person-2472">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
                <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>

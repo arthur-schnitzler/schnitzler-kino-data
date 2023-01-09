@@ -95,62 +95,62 @@ Deutsche Version von »Les amants de minuit« von Marc Allégret und Augusto Gen
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-45">
+            <person xml:id="schnitzler-kino_person-45">
                <persName>Allégret, Marc</persName>
                <idno type="GND">https://d-nb.info/gnd/126419531</idno>
             </person>
-            <person xml:id="ask-person-176">
+            <person xml:id="schnitzler-kino_person-176">
                <persName>Batcheff, Pierre</persName>
                <idno type="GND">https://d-nb.info/gnd/137697716</idno>
             </person>
-            <person xml:id="ask-person-198">
+            <person xml:id="schnitzler-kino_person-198">
                <persName>Behr, Carl</persName>
                <idno type="GND">https://d-nb.info/gnd/1095130935</idno>
             </person>
-            <person xml:id="ask-person-298">
+            <person xml:id="schnitzler-kino_person-298">
                <persName>Bloch, Dr.</persName>
             </person>
-            <person xml:id="ask-person-520">
+            <person xml:id="schnitzler-kino_person-520">
                <persName>Clauser, Suzanne</persName>
                <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="ask-person-959">
+            <person xml:id="schnitzler-kino_person-959">
                <persName>Froelich, Carl</persName>
                <idno type="GND">https://d-nb.info/gnd/11683093X</idno>
             </person>
-            <person xml:id="ask-person-976">
+            <person xml:id="schnitzler-kino_person-976">
                <persName>Gael, Josseline</persName>
                <idno type="GND">https://d-nb.info/gnd/1062056701</idno>
             </person>
-            <person xml:id="ask-person-1008">
+            <person xml:id="schnitzler-kino_person-1008">
                <persName>Genina, Augusto</persName>
                <idno type="GND">https://d-nb.info/gnd/119039184</idno>
             </person>
-            <person xml:id="ask-person-1714">
+            <person xml:id="schnitzler-kino_person-1714">
                <persName>Loretto, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/1062470338</idno>
             </person>
-            <person xml:id="ask-person-2126">
+            <person xml:id="schnitzler-kino_person-2126">
                <persName>Parola, Daniela</persName>
                <idno type="GND">https://d-nb.info/gnd/1061455661</idno>
             </person>
-            <person xml:id="ask-person-2422">
+            <person xml:id="schnitzler-kino_person-2422">
                <persName>Salten, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>
-            <person xml:id="ask-person-2454">
+            <person xml:id="schnitzler-kino_person-2454">
                <persName>Schlettow, Hans Adalbert</persName>
                <idno type="GND">https://d-nb.info/gnd/117326747</idno>
             </person>
-            <person xml:id="ask-person-2468">
+            <person xml:id="schnitzler-kino_person-2468">
                <persName>Schnitzler, Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
-            <person xml:id="ask-person-2472">
+            <person xml:id="schnitzler-kino_person-2472">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
                <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="ask-person-4096">
+            <person xml:id="schnitzler-kino_person-4096">
                <persName>Pollaczek, Clara Katharina</persName>
                <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
             </person>

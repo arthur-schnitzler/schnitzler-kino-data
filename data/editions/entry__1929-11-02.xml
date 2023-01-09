@@ -91,33 +91,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-323">
+            <person xml:id="schnitzler-kino_person-323">
                <persName>Boni, Carmen</persName>
                <idno type="GND">https://d-nb.info/gnd/1061251675</idno>
             </person>
-            <person xml:id="ask-person-648">
+            <person xml:id="schnitzler-kino_person-648">
                <persName>Dekobra, Maurice</persName>
                <idno type="GND">https://d-nb.info/gnd/118524445</idno>
             </person>
-            <person xml:id="ask-person-1008">
+            <person xml:id="schnitzler-kino_person-1008">
                <persName>Genina, Augusto</persName>
                <idno type="GND">https://d-nb.info/gnd/119039184</idno>
             </person>
-            <person xml:id="ask-person-1384">
+            <person xml:id="schnitzler-kino_person-1384">
                <persName>Jaquet, Gaston</persName>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-1796">
+            <person xml:id="schnitzler-kino_person-1796">
                <persName>Manés, Gina</persName>
                <idno type="GND">https://d-nb.info/gnd/1061778851</idno>
             </person>
-            <person xml:id="ask-person-2161">
+            <person xml:id="schnitzler-kino_person-2161">
                <persName>Petrovich, Iwan</persName>
                <idno type="GND">https://d-nb.info/gnd/1031491554</idno>
             </person>
-            <person xml:id="ask-person-2738">
+            <person xml:id="schnitzler-kino_person-2738">
                <persName>Thomas, Helga</persName>
             </person>
          </listPerson>

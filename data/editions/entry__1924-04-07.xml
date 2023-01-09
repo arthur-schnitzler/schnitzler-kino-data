@@ -90,26 +90,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-534">
+            <person xml:id="schnitzler-kino_person-534">
                <persName>Colemann, Vincent</persName>
             </person>
-            <person xml:id="ask-person-1056">
+            <person xml:id="schnitzler-kino_person-1056">
                <persName>Goilding, Edmund</persName>
                <idno type="GND">https://d-nb.info/gnd/119164817</idno>
             </person>
-            <person xml:id="ask-person-1167">
+            <person xml:id="schnitzler-kino_person-1167">
                <persName>Hale, Creighton</persName>
                <idno type="GND">https://d-nb.info/gnd/1119262801</idno>
             </person>
-            <person xml:id="ask-person-1648">
+            <person xml:id="schnitzler-kino_person-1648">
                <persName>Leonard, Robert Z.</persName>
                <idno type="GND">https://d-nb.info/gnd/135726468</idno>
             </person>
-            <person xml:id="ask-person-1997">
+            <person xml:id="schnitzler-kino_person-1997">
                <persName>Murray, Mae</persName>
                <idno type="GND">https://d-nb.info/gnd/134183177</idno>
             </person>
-            <person xml:id="ask-person-2880">
+            <person xml:id="schnitzler-kino_person-2880">
                <persName>Ware, Helen</persName>
                <idno type="GND">https://d-nb.info/gnd/170811697</idno>
             </person>

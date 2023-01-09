@@ -91,47 +91,47 @@ Nachgewiesene Spielorte: Schottenring-, Tuchlauben- und Flieger-Kino sowie Kino 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-359">
+            <person xml:id="schnitzler-kino_person-359">
                <persName>Brausewetter, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/116430249</idno>
             </person>
-            <person xml:id="ask-person-960">
+            <person xml:id="schnitzler-kino_person-960">
                <persName>Fröhlich, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/118693794</idno>
             </person>
-            <person xml:id="ask-person-1312">
+            <person xml:id="schnitzler-kino_person-1312">
                <persName>Hollay, Camilla von</persName>
                <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
             </person>
-            <person xml:id="ask-person-1321">
+            <person xml:id="schnitzler-kino_person-1321">
                <persName>Homolka, Oskar</persName>
                <idno type="GND">https://d-nb.info/gnd/116976586</idno>
             </person>
-            <person xml:id="ask-person-1393">
+            <person xml:id="schnitzler-kino_person-1393">
                <persName>Jennings, Hilde</persName>
                <idno type="GND">https://d-nb.info/gnd/1061523101</idno>
             </person>
-            <person xml:id="ask-person-1395">
+            <person xml:id="schnitzler-kino_person-1395">
                <persName>Jerusalem, Else</persName>
                <idno type="GND">https://d-nb.info/gnd/119145146</idno>
             </person>
-            <person xml:id="ask-person-1664">
+            <person xml:id="schnitzler-kino_person-1664">
                <persName>Leyko, Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/1061573567</idno>
             </person>
-            <person xml:id="ask-person-1973">
+            <person xml:id="schnitzler-kino_person-1973">
                <persName>Mosheim, Grete</persName>
                <idno type="GND">https://d-nb.info/gnd/116939966</idno>
             </person>
-            <person xml:id="ask-person-2092">
+            <person xml:id="schnitzler-kino_person-2092">
                <persName>Oswald, Richard</persName>
                <idno type="GND">https://d-nb.info/gnd/118787322</idno>
             </person>
-            <person xml:id="ask-person-2093">
+            <person xml:id="schnitzler-kino_person-2093">
                <persName>Otto, Paul</persName>
                <idno type="GND">https://d-nb.info/gnd/1016966490</idno>
             </person>
-            <person xml:id="ask-person-2167">
+            <person xml:id="schnitzler-kino_person-2167">
                <persName>Picha, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/116177578</idno>
             </person>

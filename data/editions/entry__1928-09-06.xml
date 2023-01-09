@@ -91,30 +91,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-320">
+            <person xml:id="schnitzler-kino_person-320">
                <persName>Bolváry, Géza von</persName>
                <idno type="GND">https://d-nb.info/gnd/119489686</idno>
             </person>
-            <person xml:id="ask-person-670">
+            <person xml:id="schnitzler-kino_person-670">
                <persName>Deutsch, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/118678019</idno>
             </person>
-            <person xml:id="ask-person-761">
+            <person xml:id="schnitzler-kino_person-761">
                <persName>Edthofer, Anton</persName>
                <idno type="GND">https://d-nb.info/gnd/13014407X</idno>
             </person>
-            <person xml:id="ask-person-975">
+            <person xml:id="schnitzler-kino_person-975">
                <persName>Fütterer, Werner</persName>
                <idno type="GND">https://d-nb.info/gnd/138898278</idno>
             </person>
-            <person xml:id="ask-person-1403">
+            <person xml:id="schnitzler-kino_person-1403">
                <persName>Johnson, Mary</persName>
             </person>
-            <person xml:id="ask-person-2006">
+            <person xml:id="schnitzler-kino_person-2006">
                <persName>Mylong-Münz, Jack</persName>
                <idno type="GND">https://d-nb.info/gnd/1021053074</idno>
             </person>
-            <person xml:id="ask-person-2495">
+            <person xml:id="schnitzler-kino_person-2495">
                <persName>Schulz, Franz</persName>
             </person>
          </listPerson>

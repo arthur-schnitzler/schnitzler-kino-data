@@ -90,38 +90,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1076">
+            <person xml:id="schnitzler-kino_person-1076">
                <persName>Götz, Karl</persName>
             </person>
-            <person xml:id="ask-person-1535">
+            <person xml:id="schnitzler-kino_person-1535">
                <persName>Kolowrat, Alexander</persName>
                <idno type="GND">https://d-nb.info/gnd/119159295</idno>
             </person>
-            <person xml:id="ask-person-1650">
+            <person xml:id="schnitzler-kino_person-1650">
                <persName>Leopoldi, Ferdinand</persName>
                <idno type="GND">https://d-nb.info/gnd/1018479147</idno>
             </person>
-            <person xml:id="ask-person-2011">
+            <person xml:id="schnitzler-kino_person-2011">
                <persName>Naldi, Nita</persName>
                <idno type="GND">https://d-nb.info/gnd/1061771024</idno>
             </person>
-            <person xml:id="ask-person-2078">
+            <person xml:id="schnitzler-kino_person-2078">
                <persName>Ondra, Anny</persName>
                <idno type="GND">https://d-nb.info/gnd/1081829273</idno>
             </person>
-            <person xml:id="ask-person-2299">
+            <person xml:id="schnitzler-kino_person-2299">
                <persName>Reisch, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/116428953</idno>
             </person>
-            <person xml:id="ask-person-2691">
+            <person xml:id="schnitzler-kino_person-2691">
                <persName>Sym, Igo</persName>
                <idno type="GND">https://d-nb.info/gnd/1032625317</idno>
             </person>
-            <person xml:id="ask-person-2735">
+            <person xml:id="schnitzler-kino_person-2735">
                <persName>Thimig, Hugo</persName>
                <idno type="GND">https://d-nb.info/gnd/11875713X</idno>
             </person>
-            <person xml:id="ask-person-2794">
+            <person xml:id="schnitzler-kino_person-2794">
                <persName>Ucicky, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/119070812</idno>
             </person>

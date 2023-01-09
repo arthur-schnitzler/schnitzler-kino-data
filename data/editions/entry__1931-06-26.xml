@@ -95,62 +95,62 @@ Ankündigung NFP 22.5.1931, S. 12. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-427">
+            <person xml:id="schnitzler-kino_person-427">
                <persName>Busch, Ernst</persName>
             </person>
-            <person xml:id="ask-person-450">
+            <person xml:id="schnitzler-kino_person-450">
                <persName>Cappellini, Arnoldo</persName>
                <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="ask-person-695">
+            <person xml:id="schnitzler-kino_person-695">
                <persName>Donath, Ferdinand</persName>
                <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
             </person>
-            <person xml:id="ask-person-877">
+            <person xml:id="schnitzler-kino_person-877">
                <persName>Ferra, Margot</persName>
                <idno type="GND">https://d-nb.info/gnd/1062114744</idno>
             </person>
-            <person xml:id="ask-person-951">
+            <person xml:id="schnitzler-kino_person-951">
                <persName>Friedmann, Mitzi</persName>
                <idno type="GND">https://d-nb.info/gnd/116802944</idno>
             </person>
-            <person xml:id="ask-person-1087">
+            <person xml:id="schnitzler-kino_person-1087">
                <persName>Granowski, Alexis</persName>
                <idno type="GND">https://d-nb.info/gnd/1206293667</idno>
             </person>
-            <person xml:id="ask-person-1233">
+            <person xml:id="schnitzler-kino_person-1233">
                <persName>Hecht, Dr.</persName>
                <idno type="GND">https://d-nb.info/gnd/1047198002</idno>
             </person>
-            <person xml:id="ask-person-1618">
+            <person xml:id="schnitzler-kino_person-1618">
                <persName>Lechner, H.</persName>
                <idno type="GND">https://d-nb.info/gnd/1018730222</idno>
             </person>
-            <person xml:id="ask-person-1937">
+            <person xml:id="schnitzler-kino_person-1937">
                <persName>Mog, Aribert</persName>
                <idno type="GND">https://d-nb.info/gnd/1032675357</idno>
             </person>
-            <person xml:id="ask-person-2139">
+            <person xml:id="schnitzler-kino_person-2139">
                <persName>Paulsen, Harald</persName>
                <idno type="GND">https://d-nb.info/gnd/116065796</idno>
             </person>
-            <person xml:id="ask-person-2448">
+            <person xml:id="schnitzler-kino_person-2448">
                <persName>Schinnerer, Otto P.</persName>
                <idno type="GND">https://d-nb.info/gnd/105204042X</idno>
             </person>
-            <person xml:id="ask-person-2469">
+            <person xml:id="schnitzler-kino_person-2469">
                <persName>Schnitzler, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="ask-person-2472">
+            <person xml:id="schnitzler-kino_person-2472">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
                <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="ask-person-2772">
+            <person xml:id="schnitzler-kino_person-2772">
                <persName>Trivas, Victor</persName>
                <idno type="GND">https://d-nb.info/gnd/137797753</idno>
             </person>
-            <person xml:id="ask-person-2853">
+            <person xml:id="schnitzler-kino_person-2853">
                <persName>Wagner, Elsa</persName>
                <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
             </person>

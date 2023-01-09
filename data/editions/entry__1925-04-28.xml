@@ -90,87 +90,87 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-32">
+            <person xml:id="schnitzler-kino_person-32">
                <persName>Alcom, Olive Anne</persName>
             </person>
-            <person xml:id="ask-person-240">
+            <person xml:id="schnitzler-kino_person-240">
                <persName>Bergman, Henry</persName>
                <idno type="GND">https://d-nb.info/gnd/129190624</idno>
             </person>
-            <person xml:id="ask-person-291">
+            <person xml:id="schnitzler-kino_person-291">
                <persName>Blake, A.D.</persName>
             </person>
-            <person xml:id="ask-person-425">
+            <person xml:id="schnitzler-kino_person-425">
                <persName>Burton, Olive</persName>
             </person>
-            <person xml:id="ask-person-471">
+            <person xml:id="schnitzler-kino_person-471">
                <persName>Carson, Willie Mae</persName>
                <idno type="GND">https://d-nb.info/gnd/1116968134</idno>
             </person>
-            <person xml:id="ask-person-494">
+            <person xml:id="schnitzler-kino_person-494">
                <persName>Chaplin, Charles</persName>
             </person>
-            <person xml:id="ask-person-547">
+            <person xml:id="schnitzler-kino_person-547">
                <persName>Compson, Betty</persName>
                <idno type="GND">https://d-nb.info/gnd/1013030672</idno>
             </person>
-            <person xml:id="ask-person-588">
+            <person xml:id="schnitzler-kino_person-588">
                <persName>Crosland, Alan</persName>
                <idno type="GND">https://d-nb.info/gnd/123067006</idno>
             </person>
-            <person xml:id="ask-person-630">
+            <person xml:id="schnitzler-kino_person-630">
                <persName>Davidson, Lawford</persName>
                <idno type="GND">https://d-nb.info/gnd/105609382X</idno>
             </person>
-            <person xml:id="ask-person-885">
+            <person xml:id="schnitzler-kino_person-885">
                <persName>Finney, Benjamin F. Jr.</persName>
             </person>
-            <person xml:id="ask-person-926">
+            <person xml:id="schnitzler-kino_person-926">
                <persName>Fox, Lucy</persName>
                <idno type="GND">https://d-nb.info/gnd/139947388</idno>
             </person>
-            <person xml:id="ask-person-1254">
+            <person xml:id="schnitzler-kino_person-1254">
                <persName>Hendrix, N.E.</persName>
             </person>
-            <person xml:id="ask-person-1323">
+            <person xml:id="schnitzler-kino_person-1323">
                <persName>Hopper, Hedda</persName>
                <idno type="GND">https://d-nb.info/gnd/1030232857</idno>
             </person>
-            <person xml:id="ask-person-1411">
+            <person xml:id="schnitzler-kino_person-1411">
                <persName>Jones, J. Parks</persName>
                <idno type="GND">https://d-nb.info/gnd/137953267</idno>
             </person>
-            <person xml:id="ask-person-1529">
+            <person xml:id="schnitzler-kino_person-1529">
                <persName>Kohn, Helen</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-1748">
+            <person xml:id="schnitzler-kino_person-1748">
                <persName>Lynch, John</persName>
                <idno type="GND">https://d-nb.info/gnd/136930131</idno>
             </person>
-            <person xml:id="ask-person-2249">
+            <person xml:id="schnitzler-kino_person-2249">
                <persName>Purviance, Edna</persName>
                <idno type="GND">https://d-nb.info/gnd/1027251803</idno>
             </person>
-            <person xml:id="ask-person-2283">
+            <person xml:id="schnitzler-kino_person-2283">
                <persName>Redmond, Granville</persName>
                <idno type="GND">https://d-nb.info/gnd/119007649</idno>
             </person>
-            <person xml:id="ask-person-2544">
+            <person xml:id="schnitzler-kino_person-2544">
                <persName>Sherry, J. Barney</persName>
                <idno type="GND">https://d-nb.info/gnd/127545254X</idno>
             </person>
-            <person xml:id="ask-person-2722">
+            <person xml:id="schnitzler-kino_person-2722">
                <persName>Terriss, Tom</persName>
             </person>
-            <person xml:id="ask-person-2797">
+            <person xml:id="schnitzler-kino_person-2797">
                <persName>Underwood, Loyal</persName>
                <idno type="GND">https://d-nb.info/gnd/14045909X</idno>
             </person>
-            <person xml:id="ask-person-2952">
+            <person xml:id="schnitzler-kino_person-2952">
                <persName>Wilson, Tom</persName>
             </person>
-            <person xml:id="ask-person-2981">
+            <person xml:id="schnitzler-kino_person-2981">
                <persName>Wood, Tom</persName>
             </person>
          </listPerson>

@@ -92,15 +92,15 @@ Ankündigung NFP 4.8.1931, S. 10. Notiz NFP 7.8.1931, S. 10. Anzeige und Premier
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-896">
+            <person xml:id="schnitzler-kino_person-896">
                <persName>Flaherty, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/1088595197</idno>
             </person>
-            <person xml:id="ask-person-1991">
+            <person xml:id="schnitzler-kino_person-1991">
                <persName>Murnau, Friedrich Wilhelm</persName>
                <idno type="GND">https://d-nb.info/gnd/118585878</idno>
             </person>
-            <person xml:id="ask-person-2796">
+            <person xml:id="schnitzler-kino_person-2796">
                <persName>Ulmer, Edgar G.</persName>
                <idno type="GND">https://d-nb.info/gnd/124471196</idno>
             </person>

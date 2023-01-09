@@ -90,26 +90,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-96">
+            <person xml:id="schnitzler-kino_person-96">
                <persName>Asereth, Lenora</persName>
             </person>
-            <person xml:id="ask-person-366">
+            <person xml:id="schnitzler-kino_person-366">
                <persName>Brenon, Herbert</persName>
                <idno type="GND">https://d-nb.info/gnd/123048028</idno>
             </person>
-            <person xml:id="ask-person-850">
+            <person xml:id="schnitzler-kino_person-850">
                <persName>Farnum, William</persName>
                <idno type="GND">https://d-nb.info/gnd/1237463335</idno>
             </person>
-            <person xml:id="ask-person-1257">
+            <person xml:id="schnitzler-kino_person-1257">
                <persName>Herbert, Holmes</persName>
                <idno type="GND">https://d-nb.info/gnd/1062353846</idno>
             </person>
-            <person xml:id="ask-person-1979">
+            <person xml:id="schnitzler-kino_person-1979">
                <persName>Mullen, Sadie</persName>
                <idno type="GND">https://d-nb.info/gnd/13498577X</idno>
             </person>
-            <person xml:id="ask-person-1990">
+            <person xml:id="schnitzler-kino_person-1990">
                <persName>Murillo, Mary</persName>
                <idno type="GND">https://d-nb.info/gnd/131527967</idno>
             </person>

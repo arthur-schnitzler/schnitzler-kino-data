@@ -91,25 +91,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-113">
+            <person xml:id="schnitzler-kino_person-113">
                <persName>Auernheimer, Raoul</persName>
                <idno type="GND">https://d-nb.info/gnd/118505033</idno>
             </person>
-            <person xml:id="ask-person-438">
+            <person xml:id="schnitzler-kino_person-438">
                <persName>Cain, Robert</persName>
             </person>
-            <person xml:id="ask-person-1768">
+            <person xml:id="schnitzler-kino_person-1768">
                <persName>Mackaill, Dorothy</persName>
             </person>
-            <person xml:id="ask-person-2432">
+            <person xml:id="schnitzler-kino_person-2432">
                <persName>Santell, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/1062357728</idno>
             </person>
-            <person xml:id="ask-person-2715">
+            <person xml:id="schnitzler-kino_person-2715">
                <persName>Tearle, Conway</persName>
                <idno type="GND">https://d-nb.info/gnd/1122436181</idno>
             </person>
-            <person xml:id="ask-person-2832">
+            <person xml:id="schnitzler-kino_person-2832">
                <persName>Vibart, Henry</persName>
             </person>
          </listPerson>

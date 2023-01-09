@@ -93,54 +93,54 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-10">
+            <person xml:id="schnitzler-kino_person-10">
                <persName>Abel, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/116001313</idno>
             </person>
-            <person xml:id="ask-person-138">
+            <person xml:id="schnitzler-kino_person-138">
                <persName>Balogh, Béla</persName>
                <idno type="GND">https://d-nb.info/gnd/1019415754</idno>
             </person>
-            <person xml:id="ask-person-193">
+            <person xml:id="schnitzler-kino_person-193">
                <persName>Beer-Hofmann, Paula</persName>
                <idno type="GND">https://d-nb.info/gnd/119044994</idno>
             </person>
-            <person xml:id="ask-person-194">
+            <person xml:id="schnitzler-kino_person-194">
                <persName>Beer-Hofmann, Richard</persName>
                <idno type="GND">https://d-nb.info/gnd/118654756</idno>
             </person>
-            <person xml:id="ask-person-960">
+            <person xml:id="schnitzler-kino_person-960">
                <persName>Fröhlich, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/118693794</idno>
             </person>
-            <person xml:id="ask-person-1413">
+            <person xml:id="schnitzler-kino_person-1413">
                <persName>Jordan, Egon von</persName>
                <idno type="GND">https://d-nb.info/gnd/117177199</idno>
             </person>
-            <person xml:id="ask-person-1540">
+            <person xml:id="schnitzler-kino_person-1540">
                <persName>Korff, Arnold</persName>
                <idno type="GND">https://d-nb.info/gnd/101334071X</idno>
             </person>
-            <person xml:id="ask-person-1912">
+            <person xml:id="schnitzler-kino_person-1912">
                <persName>Mierendorff, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/1020648120</idno>
             </person>
-            <person xml:id="ask-person-2167">
+            <person xml:id="schnitzler-kino_person-2167">
                <persName>Picha, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/116177578</idno>
             </person>
-            <person xml:id="ask-person-2462">
+            <person xml:id="schnitzler-kino_person-2462">
                <persName>Schmitterlöw, Vera von</persName>
             </person>
-            <person xml:id="ask-person-2476">
+            <person xml:id="schnitzler-kino_person-2476">
                <persName>Scholz, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
             </person>
-            <person xml:id="ask-person-2596">
+            <person xml:id="schnitzler-kino_person-2596">
                <persName>Speyer, Eva</persName>
                <idno type="GND">https://d-nb.info/gnd/102129926X</idno>
             </person>
-            <person xml:id="ask-person-2870">
+            <person xml:id="schnitzler-kino_person-2870">
                <persName>Walter, Hertha von</persName>
             </person>
          </listPerson>

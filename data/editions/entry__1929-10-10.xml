@@ -91,33 +91,33 @@ Besprechung von Lilly Klaudy in NFP 2.10.1929, S. 9. Notiz NFP 8.11.1929, S. 8, 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1013">
+            <person xml:id="schnitzler-kino_person-1013">
                <persName>George, Heinrich</persName>
             </person>
-            <person xml:id="ask-person-1249">
+            <person xml:id="schnitzler-kino_person-1249">
                <persName>Helm, Brigitte</persName>
                <idno type="GND">https://d-nb.info/gnd/116690585</idno>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-1974">
+            <person xml:id="schnitzler-kino_person-1974">
                <persName>Mosjoukine, Iwan</persName>
                <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="ask-person-2125">
+            <person xml:id="schnitzler-kino_person-2125">
                <persName>Parlo, Dita</persName>
                <idno type="GND">https://d-nb.info/gnd/1014815126</idno>
             </person>
-            <person xml:id="ask-person-2695">
+            <person xml:id="schnitzler-kino_person-2695">
                <persName>Székely, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/129820016</idno>
             </person>
-            <person xml:id="ask-person-2761">
+            <person xml:id="schnitzler-kino_person-2761">
                <persName>Tourjansky, Viatcheslav</persName>
                <idno type="GND">https://d-nb.info/gnd/119140195</idno>
             </person>
-            <person xml:id="ask-person-2853">
+            <person xml:id="schnitzler-kino_person-2853">
                <persName>Wagner, Elsa</persName>
                <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
             </person>

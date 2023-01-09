@@ -91,26 +91,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-23">
+            <person xml:id="schnitzler-kino_person-23">
                <persName>Aires, Lew</persName>
             </person>
-            <person xml:id="ask-person-882">
+            <person xml:id="schnitzler-kino_person-882">
                <persName>Feyder, Jacques</persName>
                <idno type="GND">https://d-nb.info/gnd/116485485</idno>
             </person>
-            <person xml:id="ask-person-987">
+            <person xml:id="schnitzler-kino_person-987">
                <persName>Garbo, Greta</persName>
                <idno type="GND">https://d-nb.info/gnd/118537571</idno>
             </person>
-            <person xml:id="ask-person-1257">
+            <person xml:id="schnitzler-kino_person-1257">
                <persName>Herbert, Holmes</persName>
                <idno type="GND">https://d-nb.info/gnd/1062353846</idno>
             </person>
-            <person xml:id="ask-person-2008">
+            <person xml:id="schnitzler-kino_person-2008">
                <persName>Nagel, Conrad</persName>
                <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
             </person>
-            <person xml:id="ask-person-2268">
+            <person xml:id="schnitzler-kino_person-2268">
                <persName>Randolph, Anders</persName>
             </person>
          </listPerson>

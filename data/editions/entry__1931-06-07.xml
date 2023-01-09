@@ -93,49 +93,49 @@ Notizen NFP 19.5.1931, S. 10, und 29.5.1931, S. 13. Anzeige und Premierennotiz f
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-4">
+            <person xml:id="schnitzler-kino_person-4">
                <persName>Schwarzkopf, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/1014997828</idno>
             </person>
-            <person xml:id="ask-person-391">
+            <person xml:id="schnitzler-kino_person-391">
                <persName>Brown, Martin</persName>
                <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
             </person>
-            <person xml:id="ask-person-408">
+            <person xml:id="schnitzler-kino_person-408">
                <persName>Buchowetzki, Dimitri</persName>
                <idno type="GND">https://d-nb.info/gnd/1062126793</idno>
             </person>
-            <person xml:id="ask-person-1159">
+            <person xml:id="schnitzler-kino_person-1159">
                <persName>Zirkus Hagenbeck</persName>
                <idno type="GND">https://d-nb.info/gnd/123198690</idno>
             </person>
-            <person xml:id="ask-person-1274">
+            <person xml:id="schnitzler-kino_person-1274">
                <persName>Hesterberg, Trude</persName>
                <idno type="GND">https://d-nb.info/gnd/118704257</idno>
             </person>
-            <person xml:id="ask-person-1711">
+            <person xml:id="schnitzler-kino_person-1711">
                <persName>Long, Louise</persName>
                <idno type="GND">https://d-nb.info/gnd/1079037624</idno>
             </person>
-            <person xml:id="ask-person-2202">
+            <person xml:id="schnitzler-kino_person-2202">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="ask-person-2469">
+            <person xml:id="schnitzler-kino_person-2469">
                <persName>Schnitzler, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="ask-person-2777">
+            <person xml:id="schnitzler-kino_person-2777">
                <persName>Tschechowa, Olga</persName>
                <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
-            <person xml:id="ask-person-2818">
+            <person xml:id="schnitzler-kino_person-2818">
                <persName>Veidt, Conrad</persName>
                <idno type="GND">https://d-nb.info/gnd/119228866</idno>
             </person>
-            <person xml:id="ask-person-2847">
+            <person xml:id="schnitzler-kino_person-2847">
                <persName>Voß, Peter</persName>
             </person>
-            <person xml:id="ask-person-3016">
+            <person xml:id="schnitzler-kino_person-3016">
                <persName>Zilahy, L.</persName>
                <idno type="GND">https://d-nb.info/gnd/101207433</idno>
             </person>

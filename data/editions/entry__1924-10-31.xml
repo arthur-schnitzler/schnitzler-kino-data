@@ -90,34 +90,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-75">
+            <person xml:id="schnitzler-kino_person-75">
                <persName>Aoki, Tsuru</persName>
             </person>
-            <person xml:id="ask-person-638">
+            <person xml:id="schnitzler-kino_person-638">
                <persName>Dax, Jean</persName>
                <idno type="GND">https://d-nb.info/gnd/114707576X</idno>
             </person>
-            <person xml:id="ask-person-852">
+            <person xml:id="schnitzler-kino_person-852">
                <persName>Farrère, Claude</persName>
                <idno type="GND">https://d-nb.info/gnd/118875558</idno>
             </person>
-            <person xml:id="ask-person-914">
+            <person xml:id="schnitzler-kino_person-914">
                <persName>Ford, Félix</persName>
                <idno type="GND">https://d-nb.info/gnd/126265879</idno>
             </person>
-            <person xml:id="ask-person-1229">
+            <person xml:id="schnitzler-kino_person-1229">
                <persName>Hayakawa, Sessue</persName>
                <idno type="GND">https://d-nb.info/gnd/13301780X</idno>
             </person>
-            <person xml:id="ask-person-2113">
+            <person xml:id="schnitzler-kino_person-2113">
                <persName>Palerme, Gina</persName>
                <idno type="GND">https://d-nb.info/gnd/1061778851</idno>
             </person>
-            <person xml:id="ask-person-2785">
+            <person xml:id="schnitzler-kino_person-2785">
                <persName>Turnbull, Margaret</persName>
                <idno type="GND">https://d-nb.info/gnd/1062387457</idno>
             </person>
-            <person xml:id="ask-person-2842">
+            <person xml:id="schnitzler-kino_person-2842">
                <persName>Violet, Édouard-Émile</persName>
                <idno type="GND">https://d-nb.info/gnd/1061675750</idno>
             </person>

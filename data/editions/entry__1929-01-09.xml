@@ -93,56 +93,56 @@ Die fünfte Schnitzler-Verfilmung. Uraufführung am 21.2.1928. Vgl. Tatsachen 20
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-376">
+            <person xml:id="schnitzler-kino_person-376">
                <persName>Briese, Gerd</persName>
                <idno type="GND">https://d-nb.info/gnd/116508248</idno>
             </person>
-            <person xml:id="ask-person-1189">
+            <person xml:id="schnitzler-kino_person-1189">
                <persName>Hansen, Max</persName>
             </person>
-            <person xml:id="ask-person-1306">
+            <person xml:id="schnitzler-kino_person-1306">
                <persName>Hofmannsthal, Gerty</persName>
                <idno type="GND">https://d-nb.info/gnd/116952199</idno>
             </person>
-            <person xml:id="ask-person-1307">
+            <person xml:id="schnitzler-kino_person-1307">
                <persName>Hofmannsthal, Hugo von </persName>
                <idno type="GND">https://d-nb.info/gnd/118552759</idno>
             </person>
-            <person xml:id="ask-person-1318">
+            <person xml:id="schnitzler-kino_person-1318">
                <persName>Holt, Evelyn</persName>
                <idno type="GND">https://d-nb.info/gnd/1017759952</idno>
             </person>
-            <person xml:id="ask-person-1457">
+            <person xml:id="schnitzler-kino_person-1457">
                <persName>Kastner, Bruno</persName>
                <idno type="GND">https://d-nb.info/gnd/116066008</idno>
             </person>
-            <person xml:id="ask-person-1651">
+            <person xml:id="schnitzler-kino_person-1651">
                <persName>Lerch, Fred Louis</persName>
                <idno type="GND">https://d-nb.info/gnd/1062287835</idno>
             </person>
-            <person xml:id="ask-person-1700">
+            <person xml:id="schnitzler-kino_person-1700">
                <persName>Loder, John</persName>
             </person>
-            <person xml:id="ask-person-1775">
+            <person xml:id="schnitzler-kino_person-1775">
                <persName>Madsen, Holger</persName>
                <idno type="GND">https://d-nb.info/gnd/141911395</idno>
             </person>
-            <person xml:id="ask-person-1828">
+            <person xml:id="schnitzler-kino_person-1828">
                <persName>Maroff, Hilde</persName>
                <idno type="GND">https://d-nb.info/gnd/106175555X</idno>
             </person>
-            <person xml:id="ask-person-2468">
+            <person xml:id="schnitzler-kino_person-2468">
                <persName>Schnitzler, Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
-            <person xml:id="ask-person-2584">
+            <person xml:id="schnitzler-kino_person-2584">
                <persName>Sonnenfeld, Kurt</persName>
             </person>
-            <person xml:id="ask-person-2921">
+            <person xml:id="schnitzler-kino_person-2921">
                <persName>Werner-Kahle, Hugo</persName>
                <idno type="GND">https://d-nb.info/gnd/116024925</idno>
             </person>
-            <person xml:id="ask-person-2969">
+            <person xml:id="schnitzler-kino_person-2969">
                <persName>Wolf, Claudia</persName>
             </person>
          </listPerson>

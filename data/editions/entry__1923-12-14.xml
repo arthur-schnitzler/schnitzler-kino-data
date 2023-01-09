@@ -90,18 +90,18 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-509">
+            <person xml:id="schnitzler-kino_person-509">
                <persName>Christmas, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/140892745</idno>
             </person>
-            <person xml:id="ask-person-910">
+            <person xml:id="schnitzler-kino_person-910">
                <persName>Fönss, Aage</persName>
             </person>
-            <person xml:id="ask-person-2413">
+            <person xml:id="schnitzler-kino_person-2413">
                <persName>Rygaard, Grete</persName>
                <idno type="GND">https://d-nb.info/gnd/1187771678</idno>
             </person>
-            <person xml:id="ask-person-2427">
+            <person xml:id="schnitzler-kino_person-2427">
                <persName>Sandberg, A. W.</persName>
                <idno type="GND">https://d-nb.info/gnd/141914289</idno>
             </person>

@@ -93,54 +93,54 @@ Premierennotiz NFP 16.12.1930, S. 13. Besprechung von Philipp Winter in NFP 19.1
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-375">
+            <person xml:id="schnitzler-kino_person-375">
                <persName>Brian, Mary</persName>
                <idno type="GND">https://d-nb.info/gnd/1061795144</idno>
             </person>
-            <person xml:id="ask-person-520">
+            <person xml:id="schnitzler-kino_person-520">
                <persName>Clauser, Suzanne</persName>
                <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="ask-person-686">
+            <person xml:id="schnitzler-kino_person-686">
                <persName>Dix, Marion</persName>
                <idno type="GND">https://d-nb.info/gnd/1113615060</idno>
             </person>
-            <person xml:id="ask-person-1103">
+            <person xml:id="schnitzler-kino_person-1103">
                <persName>Green, Harry</persName>
             </person>
-            <person xml:id="ask-person-1184">
+            <person xml:id="schnitzler-kino_person-1184">
                <persName>Hamilton, Neil</persName>
                <idno type="GND">https://d-nb.info/gnd/1208770217</idno>
             </person>
-            <person xml:id="ask-person-1928">
+            <person xml:id="schnitzler-kino_person-1928">
                <persName>Mintz, Sam</persName>
                <idno type="GND">https://d-nb.info/gnd/142047651</idno>
             </person>
-            <person xml:id="ask-person-2114">
+            <person xml:id="schnitzler-kino_person-2114">
                <persName>Palette, Eugéne</persName>
                <idno type="GND">https://d-nb.info/gnd/1053495528</idno>
             </person>
-            <person xml:id="ask-person-2356">
+            <person xml:id="schnitzler-kino_person-2356">
                <persName>Robinson, Edward G.</persName>
                <idno type="GND">https://d-nb.info/gnd/128700130</idno>
             </person>
-            <person xml:id="ask-person-2471">
+            <person xml:id="schnitzler-kino_person-2471">
                <persName>Schnitzler, Lili</persName>
                <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="ask-person-2546">
+            <person xml:id="schnitzler-kino_person-2546">
                <persName>Shore, Viola Brothers</persName>
                <idno type="GND">https://d-nb.info/gnd/1167358465</idno>
             </person>
-            <person xml:id="ask-person-2573">
+            <person xml:id="schnitzler-kino_person-2573">
                <persName>Sloman, Edward</persName>
                <idno type="GND">https://d-nb.info/gnd/1227959710</idno>
             </person>
-            <person xml:id="ask-person-2690">
+            <person xml:id="schnitzler-kino_person-2690">
                <persName>Swerling, Joseph</persName>
                <idno type="GND">https://d-nb.info/gnd/140455310</idno>
             </person>
-            <person xml:id="ask-person-2957">
+            <person xml:id="schnitzler-kino_person-2957">
                <persName>Winter, Philipp</persName>
                <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>

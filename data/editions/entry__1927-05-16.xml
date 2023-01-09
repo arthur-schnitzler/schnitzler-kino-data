@@ -90,24 +90,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-212">
+            <person xml:id="schnitzler-kino_person-212">
                <persName>Bendelin, Natascha</persName>
                <idno type="GND">https://d-nb.info/gnd/173347487</idno>
             </person>
-            <person xml:id="ask-person-690">
+            <person xml:id="schnitzler-kino_person-690">
                <persName>Dogdanowsky, A.</persName>
             </person>
-            <person xml:id="ask-person-961">
+            <person xml:id="schnitzler-kino_person-961">
                <persName>Frolik, Oleag</persName>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-2699">
+            <person xml:id="schnitzler-kino_person-2699">
                <persName>Talanow, John</persName>
                <idno type="GND">https://d-nb.info/gnd/1068372133</idno>
             </person>
-            <person xml:id="ask-person-2960">
+            <person xml:id="schnitzler-kino_person-2960">
                <persName>Wirskowksy, K. W.</persName>
                <idno type="GND">https://d-nb.info/gnd/144055473</idno>
             </person>

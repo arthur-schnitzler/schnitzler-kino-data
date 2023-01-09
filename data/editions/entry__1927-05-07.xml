@@ -90,29 +90,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-117">
+            <person xml:id="schnitzler-kino_person-117">
                <persName>Austin, William</persName>
             </person>
-            <person xml:id="ask-person-663">
+            <person xml:id="schnitzler-kino_person-663">
                <persName>Denny, Reginald</persName>
                <idno type="GND">https://d-nb.info/gnd/1023970252</idno>
             </person>
-            <person xml:id="ask-person-1203">
+            <person xml:id="schnitzler-kino_person-1203">
                <persName>Harlan, Otis</persName>
                <idno type="GND">https://d-nb.info/gnd/1062430638</idno>
             </person>
-            <person xml:id="ask-person-1253">
+            <person xml:id="schnitzler-kino_person-1253">
                <persName>Hendricks, Ben</persName>
                <idno type="GND">https://d-nb.info/gnd/1021970360</idno>
             </person>
-            <person xml:id="ask-person-2050">
+            <person xml:id="schnitzler-kino_person-2050">
                <persName>Nixon, Marian</persName>
             </person>
-            <person xml:id="ask-person-2181">
+            <person xml:id="schnitzler-kino_person-2181">
                <persName>Pitts, Zazu</persName>
                <idno type="GND">https://d-nb.info/gnd/141535598</idno>
             </person>
-            <person xml:id="ask-person-2656">
+            <person xml:id="schnitzler-kino_person-2656">
                <persName>Storm, William A.</persName>
                <idno type="GND">https://d-nb.info/gnd/142191612</idno>
             </person>

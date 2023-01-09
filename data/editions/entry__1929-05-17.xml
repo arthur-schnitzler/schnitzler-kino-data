@@ -92,39 +92,39 @@ Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dor
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-695">
+            <person xml:id="schnitzler-kino_person-695">
                <persName>Donath, Ferdinand</persName>
                <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
             </person>
-            <person xml:id="ask-person-1014">
+            <person xml:id="schnitzler-kino_person-1014">
                <persName>Geppert, Karl</persName>
                <idno type="GND">https://d-nb.info/gnd/1205623329</idno>
             </person>
-            <person xml:id="ask-person-1112">
+            <person xml:id="schnitzler-kino_person-1112">
                <persName>Grey, Dolly</persName>
                <idno type="GND">https://d-nb.info/gnd/135806186</idno>
             </person>
-            <person xml:id="ask-person-1442">
+            <person xml:id="schnitzler-kino_person-1442">
                <persName>Kampers, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/120558424</idno>
             </person>
-            <person xml:id="ask-person-1670">
+            <person xml:id="schnitzler-kino_person-1670">
                <persName>Liedtke, Harry</persName>
                <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
             </person>
-            <person xml:id="ask-person-2167">
+            <person xml:id="schnitzler-kino_person-2167">
                <persName>Picha, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/116177578</idno>
             </person>
-            <person xml:id="ask-person-2218">
+            <person xml:id="schnitzler-kino_person-2218">
                <persName>Porta, Elizza la</persName>
                <idno type="GND">https://d-nb.info/gnd/1061730611</idno>
             </person>
-            <person xml:id="ask-person-2256">
+            <person xml:id="schnitzler-kino_person-2256">
                <persName>Raeder, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/116323604</idno>
             </person>
-            <person xml:id="ask-person-2872">
+            <person xml:id="schnitzler-kino_person-2872">
                <persName>Walther-Fein, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/1089417594</idno>
             </person>

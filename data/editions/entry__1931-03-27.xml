@@ -92,34 +92,34 @@ Abend mit A. bei dummen Film, da es das Einzige ist, was ihn zerstreut. Dann bei
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-49">
+            <person xml:id="schnitzler-kino_person-49">
                <persName>Allister, Claud</persName>
                <idno type="GND">https://d-nb.info/gnd/113222974X</idno>
             </person>
-            <person xml:id="ask-person-406">
+            <person xml:id="schnitzler-kino_person-406">
                <persName>Buchanan, Jack</persName>
                <idno type="GND">https://d-nb.info/gnd/137244568</idno>
             </person>
-            <person xml:id="ask-person-1617">
+            <person xml:id="schnitzler-kino_person-1617">
                <persName>Lawrence, Vincent</persName>
                <idno type="GND">https://d-nb.info/gnd/141272716</idno>
             </person>
-            <person xml:id="ask-person-1733">
+            <person xml:id="schnitzler-kino_person-1733">
                <persName>Lubitsch, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
-            <person xml:id="ask-person-1760">
+            <person xml:id="schnitzler-kino_person-1760">
                <persName>MacDonald, Jeanette</persName>
                <idno type="GND">https://d-nb.info/gnd/119403277</idno>
             </person>
-            <person xml:id="ask-person-1981">
+            <person xml:id="schnitzler-kino_person-1981">
                <persName>Müller, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/1140252038</idno>
             </person>
-            <person xml:id="ask-person-2204">
+            <person xml:id="schnitzler-kino_person-2204">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="ask-person-2802">
+            <person xml:id="schnitzler-kino_person-2802">
                <persName>Vajda, Ernest</persName>
                <idno type="GND">https://d-nb.info/gnd/1057283924</idno>
             </person>

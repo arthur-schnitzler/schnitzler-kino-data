@@ -90,23 +90,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-172">
+            <person xml:id="schnitzler-kino_person-172">
                <persName>Bassermann, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/118653407</idno>
             </person>
-            <person xml:id="ask-person-633">
+            <person xml:id="schnitzler-kino_person-633">
                <persName>Davis, Alvine</persName>
                <idno type="GND">https://d-nb.info/gnd/1062482255</idno>
             </person>
-            <person xml:id="ask-person-888">
+            <person xml:id="schnitzler-kino_person-888">
                <persName>Fischer, Richard</persName>
                <idno type="GND">https://d-nb.info/gnd/1108556949</idno>
             </person>
-            <person xml:id="ask-person-1766">
+            <person xml:id="schnitzler-kino_person-1766">
                <persName>Mack, Max</persName>
                <idno type="GND">https://d-nb.info/gnd/119401738</idno>
             </person>
-            <person xml:id="ask-person-2297">
+            <person xml:id="schnitzler-kino_person-2297">
                <persName>Reinwald, Hanni</persName>
                <idno type="GND">https://d-nb.info/gnd/1031160558</idno>
             </person>

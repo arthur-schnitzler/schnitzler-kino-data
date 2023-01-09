@@ -91,47 +91,47 @@ Premierennotiz, Anzeige und Besprechung NFP 26.3.1926, S. 17.</ab></div>
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-144">
+            <person xml:id="schnitzler-kino_person-144">
                <persName>Banky, Vilma</persName>
                <idno type="GND">https://d-nb.info/gnd/1031195645</idno>
             </person>
-            <person xml:id="ask-person-416">
+            <person xml:id="schnitzler-kino_person-416">
                <persName>Bunny, George</persName>
             </person>
-            <person xml:id="ask-person-436">
+            <person xml:id="schnitzler-kino_person-436">
                <persName>Byrne, Roger</persName>
             </person>
-            <person xml:id="ask-person-542">
+            <person xml:id="schnitzler-kino_person-542">
                <persName>Colman, Ronald</persName>
             </person>
-            <person xml:id="ask-person-757">
+            <person xml:id="schnitzler-kino_person-757">
                <persName>Eddy, Helen Jerome</persName>
             </person>
-            <person xml:id="ask-person-789">
+            <person xml:id="schnitzler-kino_person-789">
                <persName>Elliott, Frank</persName>
                <idno type="GND">https://d-nb.info/gnd/1236384547</idno>
             </person>
-            <person xml:id="ask-person-893">
+            <person xml:id="schnitzler-kino_person-893">
                <persName>Fitzmaurice, George</persName>
                <idno type="GND">https://d-nb.info/gnd/139520767</idno>
             </person>
-            <person xml:id="ask-person-1595">
+            <person xml:id="schnitzler-kino_person-1595">
                <persName>Lane, Charles</persName>
                <idno type="GND">https://d-nb.info/gnd/1082528900</idno>
             </person>
-            <person xml:id="ask-person-1816">
+            <person xml:id="schnitzler-kino_person-1816">
                <persName>Marion, Frances</persName>
                <idno type="GND">https://d-nb.info/gnd/119542080</idno>
             </person>
-            <person xml:id="ask-person-2439">
+            <person xml:id="schnitzler-kino_person-2439">
                <persName>Schaefer, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/1015548989</idno>
             </person>
-            <person xml:id="ask-person-2612">
+            <person xml:id="schnitzler-kino_person-2612">
                <persName>Standing, Wyndham</persName>
                <idno type="GND">https://d-nb.info/gnd/1222290375</idno>
             </person>
-            <person xml:id="ask-person-2787">
+            <person xml:id="schnitzler-kino_person-2787">
                <persName>Turner, Florence</persName>
                <idno type="GND">https://d-nb.info/gnd/173700063</idno>
             </person>

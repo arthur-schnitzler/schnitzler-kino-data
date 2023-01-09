@@ -92,41 +92,41 @@ Anzeige NFP 8.2.1929, S. 7, dort genannte Spielorte ab 12.2.1929: Flotten-, Sch√
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-284">
+            <person xml:id="schnitzler-kino_person-284">
                <persName>Bir√≥, Lajos</persName>
                <idno type="GND">https://d-nb.info/gnd/123638178</idno>
             </person>
-            <person xml:id="ask-person-385">
+            <person xml:id="schnitzler-kino_person-385">
                <persName>Brook, Clive</persName>
                <idno type="GND">https://d-nb.info/gnd/136062180</idno>
             </person>
-            <person xml:id="ask-person-706">
+            <person xml:id="schnitzler-kino_person-706">
                <persName>Dove, Billie</persName>
                <idno type="GND">https://d-nb.info/gnd/1170971245</idno>
             </person>
-            <person xml:id="ask-person-1082">
+            <person xml:id="schnitzler-kino_person-1082">
                <persName>Graham, Garrett</persName>
                <idno type="GND">https://d-nb.info/gnd/1242132627</idno>
             </person>
-            <person xml:id="ask-person-1538">
+            <person xml:id="schnitzler-kino_person-1538">
                <persName>Korda, Alexander</persName>
                <idno type="GND">https://d-nb.info/gnd/118565400</idno>
             </person>
-            <person xml:id="ask-person-1757">
+            <person xml:id="schnitzler-kino_person-1757">
                <persName>MacDermott, Marc</persName>
                <idno type="GND">https://d-nb.info/gnd/1158926715</idno>
             </person>
-            <person xml:id="ask-person-2202">
+            <person xml:id="schnitzler-kino_person-2202">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="ask-person-2533">
+            <person xml:id="schnitzler-kino_person-2533">
                <persName>Seyffertitz, Gustav von</persName>
                <idno type="GND">https://d-nb.info/gnd/132860732</idno>
             </person>
-            <person xml:id="ask-person-2584">
+            <person xml:id="schnitzler-kino_person-2584">
                <persName>Sonnenfeld, Kurt</persName>
             </person>
-            <person xml:id="ask-person-2959">
+            <person xml:id="schnitzler-kino_person-2959">
                <persName>Winton, Jane</persName>
                <idno type="GND">https://d-nb.info/gnd/1061895254</idno>
             </person>

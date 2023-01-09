@@ -94,39 +94,39 @@ Notizen NFP 26.4.1929, S. 10, und NFP 3.5.1929, S. 11, dort Angabe der Urauffüh
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-93">
+            <person xml:id="schnitzler-kino_person-93">
                <persName>Artaud, Antonin</persName>
                <idno type="GND">https://d-nb.info/gnd/118504495</idno>
             </person>
-            <person xml:id="ask-person-244">
+            <person xml:id="schnitzler-kino_person-244">
                <persName>Berley, André</persName>
                <idno type="GND">https://d-nb.info/gnd/1095510231</idno>
             </person>
-            <person xml:id="ask-person-655">
+            <person xml:id="schnitzler-kino_person-655">
                <persName>Delteil, Joseph</persName>
                <idno type="GND">https://d-nb.info/gnd/119035561</idno>
             </person>
-            <person xml:id="ask-person-714">
+            <person xml:id="schnitzler-kino_person-714">
                <persName>Dreyer, Carl Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/118672444</idno>
             </person>
-            <person xml:id="ask-person-837">
+            <person xml:id="schnitzler-kino_person-837">
                <persName>Falconetti, Renée</persName>
                <idno type="GND">https://d-nb.info/gnd/118954040</idno>
             </person>
-            <person xml:id="ask-person-1800">
+            <person xml:id="schnitzler-kino_person-1800">
                <persName>Mann, Thomas</persName>
                <idno type="GND">https://d-nb.info/gnd/139599339</idno>
             </person>
-            <person xml:id="ask-person-2277">
+            <person xml:id="schnitzler-kino_person-2277">
                <persName>Ravet, Louis</persName>
                <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="ask-person-2500">
+            <person xml:id="schnitzler-kino_person-2500">
                <persName>Schutz, Maurice</persName>
                <idno type="GND">https://d-nb.info/gnd/1062033671</idno>
             </person>
-            <person xml:id="ask-person-2555">
+            <person xml:id="schnitzler-kino_person-2555">
                <persName>Silvain, Eugène</persName>
                <idno type="GND">https://d-nb.info/gnd/140178031</idno>
             </person>

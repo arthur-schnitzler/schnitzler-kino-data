@@ -90,40 +90,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-64">
+            <person xml:id="schnitzler-kino_person-64">
                <persName>Andrews, C. E.</persName>
             </person>
-            <person xml:id="ask-person-190">
+            <person xml:id="schnitzler-kino_person-190">
                <persName>Beecherer, Silvia</persName>
             </person>
-            <person xml:id="ask-person-503">
+            <person xml:id="schnitzler-kino_person-503">
                <persName>Chevalier, Maurice</persName>
                <idno type="GND">https://d-nb.info/gnd/118675761</idno>
             </person>
-            <person xml:id="ask-person-856">
+            <person xml:id="schnitzler-kino_person-856">
                <persName>Fawcett, George</persName>
                <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
             </person>
-            <person xml:id="ask-person-1694">
+            <person xml:id="schnitzler-kino_person-1694">
                <persName>Livingston, Margaret</persName>
                <idno type="GND">https://d-nb.info/gnd/117143502</idno>
             </person>
-            <person xml:id="ask-person-1736">
+            <person xml:id="schnitzler-kino_person-1736">
                <persName>Luden, Jack</persName>
                <idno type="GND">https://d-nb.info/gnd/1237159571</idno>
             </person>
-            <person xml:id="ask-person-1915">
+            <person xml:id="schnitzler-kino_person-1915">
                <persName>Miljan, John</persName>
                <idno type="GND">https://d-nb.info/gnd/1227959060</idno>
             </person>
-            <person xml:id="ask-person-2561">
+            <person xml:id="schnitzler-kino_person-2561">
                <persName>Simpson, Russel</persName>
                <idno type="GND">https://d-nb.info/gnd/117630055</idno>
             </person>
-            <person xml:id="ask-person-2782">
+            <person xml:id="schnitzler-kino_person-2782">
                <persName>Turant, David</persName>
             </person>
-            <person xml:id="ask-person-2863">
+            <person xml:id="schnitzler-kino_person-2863">
                <persName>Wallace, Richard</persName>
                <idno type="GND">https://d-nb.info/gnd/1208788558</idno>
             </person>

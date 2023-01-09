@@ -90,31 +90,31 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-742">
+            <person xml:id="schnitzler-kino_person-742">
                <persName>Dysing, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/116263539</idno>
             </person>
-            <person xml:id="ask-person-1084">
+            <person xml:id="schnitzler-kino_person-1084">
                <persName>Granach, Alexander</persName>
                <idno type="GND">https://d-nb.info/gnd/11854148X</idno>
             </person>
-            <person xml:id="ask-person-2032">
+            <person xml:id="schnitzler-kino_person-2032">
                <persName>Newes, Martha Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/116991569</idno>
             </person>
-            <person xml:id="ask-person-2068">
+            <person xml:id="schnitzler-kino_person-2068">
                <persName>Obal, Max</persName>
                <idno type="GND">https://d-nb.info/gnd/1016898819</idno>
             </person>
-            <person xml:id="ask-person-2290">
+            <person xml:id="schnitzler-kino_person-2290">
                <persName>Reicher, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/139049363</idno>
             </person>
-            <person xml:id="ask-person-2450">
+            <person xml:id="schnitzler-kino_person-2450">
                <persName>Schirokauer, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/117276464</idno>
             </person>
-            <person xml:id="ask-person-2850">
+            <person xml:id="schnitzler-kino_person-2850">
                <persName>Wachtel, Rosa</persName>
                <idno type="GND">https://d-nb.info/gnd/106148548X</idno>
             </person>

@@ -92,39 +92,39 @@ Besprechung von H. Sch. in NFP 6.5.1928, S. 17f.</ab></div>
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-333">
+            <person xml:id="schnitzler-kino_person-333">
                <persName>Bourget, Paul</persName>
                <idno type="GND">https://d-nb.info/gnd/118659561</idno>
             </person>
-            <person xml:id="ask-person-929">
+            <person xml:id="schnitzler-kino_person-929">
                <persName>France, Claude</persName>
                <idno type="GND">https://d-nb.info/gnd/1062043677</idno>
             </person>
-            <person xml:id="ask-person-1164">
+            <person xml:id="schnitzler-kino_person-1164">
                <persName>Haïk, Jacques</persName>
                <idno type="GND">https://d-nb.info/gnd/1062386477</idno>
             </person>
-            <person xml:id="ask-person-1472">
+            <person xml:id="schnitzler-kino_person-1472">
                <persName>Kemm, Jean</persName>
                <idno type="GND">https://d-nb.info/gnd/1061652793</idno>
             </person>
-            <person xml:id="ask-person-1606">
+            <person xml:id="schnitzler-kino_person-1606">
                <persName>Lannes, Georges</persName>
                <idno type="GND">https://d-nb.info/gnd/1061790371</idno>
             </person>
-            <person xml:id="ask-person-1852">
+            <person xml:id="schnitzler-kino_person-1852">
                <persName>Maudru, Pierre</persName>
                <idno type="GND">https://d-nb.info/gnd/1061875458</idno>
             </person>
-            <person xml:id="ask-person-2153">
+            <person xml:id="schnitzler-kino_person-2153">
                <persName>Peter, Dr.</persName>
                <idno type="GND">https://d-nb.info/gnd/1266499873</idno>
             </person>
-            <person xml:id="ask-person-2209">
+            <person xml:id="schnitzler-kino_person-2209">
                <persName>Pollak, Frieda </persName>
                <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="ask-person-2751">
+            <person xml:id="schnitzler-kino_person-2751">
                <persName>Tod, Malcolm</persName>
                <idno type="GND">https://d-nb.info/gnd/1061946347</idno>
             </person>

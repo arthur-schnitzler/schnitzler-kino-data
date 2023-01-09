@@ -92,36 +92,36 @@ Besprechung von Philipp Winter in NFP 21.1.1931, S. 10. Premierennotiz NFP 27.2.
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-844">
+            <person xml:id="schnitzler-kino_person-844">
                <persName>Fanck, Arnold</persName>
             </person>
-            <person xml:id="ask-person-1046">
+            <person xml:id="schnitzler-kino_person-1046">
                <persName>Globuznik, Tedy</persName>
                <idno type="GND">https://d-nb.info/gnd/1206944277</idno>
             </person>
-            <person xml:id="ask-person-1462">
+            <person xml:id="schnitzler-kino_person-1462">
                <persName>Kayssler, Friedrich</persName>
             </person>
-            <person xml:id="ask-person-2204">
+            <person xml:id="schnitzler-kino_person-2204">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="ask-person-2324">
+            <person xml:id="schnitzler-kino_person-2324">
                <persName>Riefenstahl, Leni</persName>
                <idno type="GND">https://d-nb.info/gnd/118600761</idno>
             </person>
-            <person xml:id="ask-person-2338">
+            <person xml:id="schnitzler-kino_person-2338">
                <persName>Rist, Sepp</persName>
                <idno type="GND">https://d-nb.info/gnd/143952765</idno>
             </person>
-            <person xml:id="ask-person-2795">
+            <person xml:id="schnitzler-kino_person-2795">
                <persName>Udet, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/118624997</idno>
             </person>
-            <person xml:id="ask-person-2936">
+            <person xml:id="schnitzler-kino_person-2936">
                <persName>Wiemann, Mathias</persName>
                <idno type="GND">https://d-nb.info/gnd/1035168200</idno>
             </person>
-            <person xml:id="ask-person-2957">
+            <person xml:id="schnitzler-kino_person-2957">
                <persName>Winter, Philipp</persName>
                <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>

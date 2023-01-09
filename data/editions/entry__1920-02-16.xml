@@ -90,22 +90,22 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-937">
+            <person xml:id="schnitzler-kino_person-937">
                <persName>Frank, Paul</persName>
             </person>
-            <person xml:id="ask-person-1486">
+            <person xml:id="schnitzler-kino_person-1486">
                <persName>Kertész, Mihaly</persName>
                <idno type="GND">https://d-nb.info/gnd/1216510946</idno>
             </person>
-            <person xml:id="ask-person-1647">
+            <person xml:id="schnitzler-kino_person-1647">
                <persName>Lenkeffy, Ica von</persName>
                <idno type="GND">https://d-nb.info/gnd/1061841359</idno>
             </person>
-            <person xml:id="ask-person-2217">
+            <person xml:id="schnitzler-kino_person-2217">
                <persName>Porges, Friedrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116268697</idno>
             </person>
-            <person xml:id="ask-person-2844">
+            <person xml:id="schnitzler-kino_person-2844">
                <persName>Vogt, Carl de</persName>
             </person>
          </listPerson>

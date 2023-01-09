@@ -90,30 +90,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-284">
+            <person xml:id="schnitzler-kino_person-284">
                <persName>Biró, Lajos</persName>
                <idno type="GND">https://d-nb.info/gnd/123638178</idno>
             </person>
-            <person xml:id="ask-person-1169">
+            <person xml:id="schnitzler-kino_person-1169">
                <persName>Hale, James</persName>
                <idno type="GND">https://d-nb.info/gnd/1146956010</idno>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-2019">
+            <person xml:id="schnitzler-kino_person-2019">
                <persName>Negri, Pola</persName>
                <idno type="GND">https://d-nb.info/gnd/118843249</idno>
             </person>
-            <person xml:id="ask-person-2550">
+            <person xml:id="schnitzler-kino_person-2550">
                <persName>Siegmann, George</persName>
                <idno type="GND">https://d-nb.info/gnd/1062304896</idno>
             </person>
-            <person xml:id="ask-person-2648">
+            <person xml:id="schnitzler-kino_person-2648">
                <persName>Stiller, Mauritz</persName>
                <idno type="GND">https://d-nb.info/gnd/124994504</idno>
             </person>
-            <person xml:id="ask-person-2817">
+            <person xml:id="schnitzler-kino_person-2817">
                <persName>Vavich, Michael</persName>
                <idno type="GND">https://d-nb.info/gnd/114650134X</idno>
             </person>

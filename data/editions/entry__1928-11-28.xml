@@ -91,34 +91,34 @@ Anzeige und Notiz NFP 23.11.1928, S. 9, dort nachgewiesene Spielorte: Imperial-,
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-66">
+            <person xml:id="schnitzler-kino_person-66">
                <persName>Angelo, Jean</persName>
             </person>
-            <person xml:id="ask-person-490">
+            <person xml:id="schnitzler-kino_person-490">
                <persName>Chamra, Grigori</persName>
                <idno type="GND">https://d-nb.info/gnd/1062310438</idno>
             </person>
-            <person xml:id="ask-person-839">
+            <person xml:id="schnitzler-kino_person-839">
                <persName>Falk, Norbert</persName>
                <idno type="GND">https://d-nb.info/gnd/1057549096</idno>
             </person>
-            <person xml:id="ask-person-1370">
+            <person xml:id="schnitzler-kino_person-1370">
                <persName>Jacobini, Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/1062040074</idno>
             </person>
-            <person xml:id="ask-person-1884">
+            <person xml:id="schnitzler-kino_person-1884">
                <persName>Meinert, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/1047434601</idno>
             </person>
-            <person xml:id="ask-person-2719">
+            <person xml:id="schnitzler-kino_person-2719">
                <persName>Temary, Elza</persName>
                <idno type="GND">https://d-nb.info/gnd/140579222</idno>
             </person>
-            <person xml:id="ask-person-2879">
+            <person xml:id="schnitzler-kino_person-2879">
                <persName>Ward, Warwick</persName>
                <idno type="GND">https://d-nb.info/gnd/106153457X</idno>
             </person>
-            <person xml:id="ask-person-2987">
+            <person xml:id="schnitzler-kino_person-2987">
                <persName>Wüst, Ida</persName>
                <idno type="GND">https://d-nb.info/gnd/116119667</idno>
             </person>

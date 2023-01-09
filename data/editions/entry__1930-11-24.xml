@@ -90,19 +90,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-325">
+            <person xml:id="schnitzler-kino_person-325">
                <persName>Bonnard, Mario</persName>
                <idno type="GND">https://d-nb.info/gnd/17375368X</idno>
             </person>
-            <person xml:id="ask-person-520">
+            <person xml:id="schnitzler-kino_person-520">
                <persName>Clauser, Suzanne</persName>
                <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="ask-person-2033">
+            <person xml:id="schnitzler-kino_person-2033">
                <persName>Newlinski, Michael von</persName>
                <idno type="GND">https://d-nb.info/gnd/138232547</idno>
             </person>
-            <person xml:id="ask-person-2766">
+            <person xml:id="schnitzler-kino_person-2766">
                <persName>Trenker, Luis</persName>
                <idno type="GND">https://d-nb.info/gnd/118623818</idno>
             </person>

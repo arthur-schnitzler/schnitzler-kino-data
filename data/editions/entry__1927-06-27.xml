@@ -90,39 +90,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-335">
+            <person xml:id="schnitzler-kino_person-335">
                <persName>Bouve, Winston</persName>
                <idno type="GND">https://d-nb.info/gnd/1196727589</idno>
             </person>
-            <person xml:id="ask-person-1090">
+            <person xml:id="schnitzler-kino_person-1090">
                <persName>Grassby, Bertram</persName>
                <idno type="GND">https://d-nb.info/gnd/171427912</idno>
             </person>
-            <person xml:id="ask-person-1205">
+            <person xml:id="schnitzler-kino_person-1205">
                <persName>Harris, Elmer</persName>
                <idno type="GND">https://d-nb.info/gnd/1119924774</idno>
             </person>
-            <person xml:id="ask-person-1474">
+            <person xml:id="schnitzler-kino_person-1474">
                <persName>Kempny, Hedy</persName>
                <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="ask-person-1922">
+            <person xml:id="schnitzler-kino_person-1922">
                <persName>Miller, Patsy Ruth</persName>
                <idno type="GND">https://d-nb.info/gnd/1017766495</idno>
             </person>
-            <person xml:id="ask-person-2280">
+            <person xml:id="schnitzler-kino_person-2280">
                <persName>Raymond, Frances</persName>
                <idno type="GND">https://d-nb.info/gnd/141328398</idno>
             </person>
-            <person xml:id="ask-person-2909">
+            <person xml:id="schnitzler-kino_person-2909">
                <persName>Welch, Niles</persName>
                <idno type="GND">https://d-nb.info/gnd/1067757627</idno>
             </person>
-            <person xml:id="ask-person-2979">
+            <person xml:id="schnitzler-kino_person-2979">
                <persName>Wood, Freeman</persName>
                <idno type="GND">https://d-nb.info/gnd/12800410X</idno>
             </person>
-            <person xml:id="ask-person-2985">
+            <person xml:id="schnitzler-kino_person-2985">
                <persName>Worthington, William</persName>
             </person>
          </listPerson>

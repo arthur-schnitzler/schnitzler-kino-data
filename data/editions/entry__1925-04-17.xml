@@ -90,53 +90,53 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-374">
+            <person xml:id="schnitzler-kino_person-374">
                <persName>Briac, Jean De</persName>
                <idno type="GND">https://d-nb.info/gnd/1199473006</idno>
             </person>
-            <person xml:id="ask-person-444">
+            <person xml:id="schnitzler-kino_person-444">
                <persName>Campbell, Evelyn</persName>
                <idno type="GND">https://d-nb.info/gnd/137822898</idno>
             </person>
-            <person xml:id="ask-person-640">
+            <person xml:id="schnitzler-kino_person-640">
                <persName>Day, Shannon</persName>
             </person>
-            <person xml:id="ask-person-995">
+            <person xml:id="schnitzler-kino_person-995">
                <persName>Garon, Pauline</persName>
                <idno type="GND">https://d-nb.info/gnd/1061863344</idno>
             </person>
-            <person xml:id="ask-person-1471">
+            <person xml:id="schnitzler-kino_person-1471">
                <persName>Kelso, Mayme</persName>
                <idno type="GND">https://d-nb.info/gnd/136524567</idno>
             </person>
-            <person xml:id="ask-person-1581">
+            <person xml:id="schnitzler-kino_person-1581">
                <persName>Lake, Alice</persName>
                <idno type="GND">https://d-nb.info/gnd/1245300792</idno>
             </person>
-            <person xml:id="ask-person-1654">
+            <person xml:id="schnitzler-kino_person-1654">
                <persName>LeSaint, Edward</persName>
                <idno type="GND">https://d-nb.info/gnd/1208853406</idno>
             </person>
-            <person xml:id="ask-person-1657">
+            <person xml:id="schnitzler-kino_person-1657">
                <persName>Lester, Kate</persName>
                <idno type="GND">https://d-nb.info/gnd/1019109122</idno>
             </person>
-            <person xml:id="ask-person-1662">
+            <person xml:id="schnitzler-kino_person-1662">
                <persName>Lewis, Vera</persName>
                <idno type="GND">https://d-nb.info/gnd/1195665083</idno>
             </person>
-            <person xml:id="ask-person-1724">
+            <person xml:id="schnitzler-kino_person-1724">
                <persName>Louis, Willard</persName>
                <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="ask-person-1978">
+            <person xml:id="schnitzler-kino_person-1978">
                <persName>Mulhall, Jack</persName>
                <idno type="GND">https://d-nb.info/gnd/1229049746</idno>
             </person>
-            <person xml:id="ask-person-2204">
+            <person xml:id="schnitzler-kino_person-2204">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="ask-person-2346">
+            <person xml:id="schnitzler-kino_person-2346">
                <persName>Robbins, Marc</persName>
             </person>
          </listPerson>

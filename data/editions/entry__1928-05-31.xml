@@ -90,54 +90,54 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1457">
+            <person xml:id="schnitzler-kino_person-1457">
                <persName>Kastner, Bruno</persName>
                <idno type="GND">https://d-nb.info/gnd/116066008</idno>
             </person>
-            <person xml:id="ask-person-1518">
+            <person xml:id="schnitzler-kino_person-1518">
                <persName>Klöpfer, Eugen</persName>
                <idno type="GND">https://d-nb.info/gnd/116231874</idno>
             </person>
-            <person xml:id="ask-person-1574">
+            <person xml:id="schnitzler-kino_person-1574">
                <persName>Kyser, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/116634472</idno>
             </person>
-            <person xml:id="ask-person-1619">
+            <person xml:id="schnitzler-kino_person-1619">
                <persName>Ledebur, Leopold von</persName>
                <idno type="GND">https://d-nb.info/gnd/116851503</idno>
             </person>
-            <person xml:id="ask-person-1658">
+            <person xml:id="schnitzler-kino_person-1658">
                <persName>Lettinger, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
             </person>
-            <person xml:id="ask-person-1712">
+            <person xml:id="schnitzler-kino_person-1712">
                <persName>Loos, Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-1744">
+            <person xml:id="schnitzler-kino_person-1744">
                <persName>Luther, Martin</persName>
                <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
             </person>
-            <person xml:id="ask-person-1999">
+            <person xml:id="schnitzler-kino_person-1999">
                <persName>Murski, Alexander</persName>
                <idno type="GND">https://d-nb.info/gnd/1061309770</idno>
             </person>
-            <person xml:id="ask-person-2140">
+            <person xml:id="schnitzler-kino_person-2140">
                <persName>Pavanelli, Livio</persName>
                <idno type="GND">https://d-nb.info/gnd/116069902</idno>
             </person>
-            <person xml:id="ask-person-2584">
+            <person xml:id="schnitzler-kino_person-2584">
                <persName>Sonnenfeld, Kurt</persName>
             </person>
-            <person xml:id="ask-person-2746">
+            <person xml:id="schnitzler-kino_person-2746">
                <persName>Tiedtke, Jakob</persName>
                <idno type="GND">https://d-nb.info/gnd/117377066</idno>
             </person>
-            <person xml:id="ask-person-2807">
+            <person xml:id="schnitzler-kino_person-2807">
                <persName>Vallentin, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/117341606</idno>
             </person>
-            <person xml:id="ask-person-2853">
+            <person xml:id="schnitzler-kino_person-2853">
                <persName>Wagner, Elsa</persName>
                <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
             </person>

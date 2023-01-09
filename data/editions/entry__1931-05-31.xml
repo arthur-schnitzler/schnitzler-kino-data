@@ -93,44 +93,44 @@ Notizen NFP 19.5.1931, S. 10, NFP 22.5.1931, S. 12, und NFP 29.5.1931, S. 13. Be
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-115">
+            <person xml:id="schnitzler-kino_person-115">
                <persName>Auspitz, Stefan</persName>
             </person>
-            <person xml:id="ask-person-202">
+            <person xml:id="schnitzler-kino_person-202">
                <persName>Beierle, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/116111976</idno>
             </person>
-            <person xml:id="ask-person-702">
+            <person xml:id="schnitzler-kino_person-702">
                <persName>Dost, Paul</persName>
                <idno type="GND">https://d-nb.info/gnd/1196880409</idno>
             </person>
-            <person xml:id="ask-person-780">
+            <person xml:id="schnitzler-kino_person-780">
                <persName>Eis, Egon</persName>
                <idno type="GND">https://d-nb.info/gnd/1115839799</idno>
             </person>
-            <person xml:id="ask-person-938">
+            <person xml:id="schnitzler-kino_person-938">
                <persName>Frankl, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-1458">
+            <person xml:id="schnitzler-kino_person-1458">
                <persName>Katscher, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/1051107830</idno>
             </person>
-            <person xml:id="ask-person-1794">
+            <person xml:id="schnitzler-kino_person-1794">
                <persName>Malten, Fee</persName>
                <idno type="GND">https://d-nb.info/gnd/1019374217</idno>
             </person>
-            <person xml:id="ask-person-2039">
+            <person xml:id="schnitzler-kino_person-2039">
                <persName>Niel, Alfred</persName>
             </person>
-            <person xml:id="ask-person-2494">
+            <person xml:id="schnitzler-kino_person-2494">
                <persName>Schüller, Ludwig</persName>
             </person>
-            <person xml:id="ask-person-2684">
+            <person xml:id="schnitzler-kino_person-2684">
                <persName>Susa, Charlotte</persName>
                <idno type="GND">https://d-nb.info/gnd/117381683</idno>
             </person>
-            <person xml:id="ask-person-3003">
+            <person xml:id="schnitzler-kino_person-3003">
                <persName>Zeisler, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/13115298X</idno>
             </person>

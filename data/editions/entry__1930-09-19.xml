@@ -94,51 +94,51 @@ Ankündigung NFP 12.9.1930, S. 10. Nachgewiesene Spielorte: Rotenturm-Kino, Tuch
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-85">
+            <person xml:id="schnitzler-kino_person-85">
                <persName>Arna, Lissi</persName>
                <idno type="GND">https://d-nb.info/gnd/117763713</idno>
             </person>
-            <person xml:id="ask-person-169">
+            <person xml:id="schnitzler-kino_person-169">
                <persName>Basch, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/1017960879</idno>
             </person>
-            <person xml:id="ask-person-650">
+            <person xml:id="schnitzler-kino_person-650">
                <persName>Delius, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-811">
+            <person xml:id="schnitzler-kino_person-811">
                <persName>Epstein, Anna</persName>
                <idno type="GND">https://d-nb.info/gnd/14325717X</idno>
             </person>
-            <person xml:id="ask-person-860">
+            <person xml:id="schnitzler-kino_person-860">
                <persName>Fechner, August Michael</persName>
                <idno type="GND">https://d-nb.info/gnd/117295752</idno>
             </person>
-            <person xml:id="ask-person-1214">
+            <person xml:id="schnitzler-kino_person-1214">
                <persName>Hartwig, Eva Brigitte</persName>
                <idno type="GND">https://d-nb.info/gnd/1029420734</idno>
             </person>
-            <person xml:id="ask-person-1717">
+            <person xml:id="schnitzler-kino_person-1717">
                <persName>Lorring, Lotte</persName>
                <idno type="GND">https://d-nb.info/gnd/1031430938</idno>
             </person>
-            <person xml:id="ask-person-1803">
+            <person xml:id="schnitzler-kino_person-1803">
                <persName>Manning, Philipp</persName>
                <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>
-            <person xml:id="ask-person-1878">
+            <person xml:id="schnitzler-kino_person-1878">
                <persName>Meehan, John</persName>
                <idno type="GND">https://d-nb.info/gnd/1072438194</idno>
             </person>
-            <person xml:id="ask-person-2026">
+            <person xml:id="schnitzler-kino_person-2026">
                <persName>Netto, Hadrian Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/1034896040</idno>
             </person>
-            <person xml:id="ask-person-2942">
+            <person xml:id="schnitzler-kino_person-2942">
                <persName>Wildgans, Anton</persName>
                <idno type="GND">https://d-nb.info/gnd/118632841</idno>
             </person>
-            <person xml:id="ask-person-2971">
+            <person xml:id="schnitzler-kino_person-2971">
                <persName>Wolff, Peter</persName>
                <idno type="GND">https://d-nb.info/gnd/117443018</idno>
             </person>

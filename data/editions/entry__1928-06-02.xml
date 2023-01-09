@@ -92,23 +92,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-522">
+            <person xml:id="schnitzler-kino_person-522">
                <persName>Cleve, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="ask-person-949">
+            <person xml:id="schnitzler-kino_person-949">
                <persName>Freund, Karl</persName>
                <idno type="GND">https://d-nb.info/gnd/129589330</idno>
             </person>
-            <person xml:id="ask-person-1262">
+            <person xml:id="schnitzler-kino_person-1262">
                <persName>Hermann, J.</persName>
                <idno type="GND">https://d-nb.info/gnd/12204276X</idno>
             </person>
-            <person xml:id="ask-person-1886">
+            <person xml:id="schnitzler-kino_person-1886">
                <persName>Meisel, Edmund</persName>
                <idno type="GND">https://d-nb.info/gnd/119077876</idno>
             </person>
-            <person xml:id="ask-person-2410">
+            <person xml:id="schnitzler-kino_person-2410">
                <persName>Ruttmann, Walther</persName>
                <idno type="GND">https://d-nb.info/gnd/119053500</idno>
             </person>

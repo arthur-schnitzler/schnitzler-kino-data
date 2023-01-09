@@ -90,41 +90,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-170">
+            <person xml:id="schnitzler-kino_person-170">
                <persName>Baselt, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/1061715159</idno>
             </person>
-            <person xml:id="ask-person-841">
+            <person xml:id="schnitzler-kino_person-841">
                <persName>Falkenberg, Karl</persName>
             </person>
-            <person xml:id="ask-person-1301">
+            <person xml:id="schnitzler-kino_person-1301">
                <persName>Hoffmann, Ludwig</persName>
                <idno type="GND">https://d-nb.info/gnd/134214544</idno>
             </person>
-            <person xml:id="ask-person-1325">
+            <person xml:id="schnitzler-kino_person-1325">
                <persName>Hor&amp;#328;ák, Josef</persName>
                <idno type="GND">https://d-nb.info/gnd/140474048</idno>
             </person>
-            <person xml:id="ask-person-1424">
+            <person xml:id="schnitzler-kino_person-1424">
                <persName>Junkermann, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
             </person>
-            <person xml:id="ask-person-1506">
+            <person xml:id="schnitzler-kino_person-1506">
                <persName>Klein, Ernst</persName>
             </person>
-            <person xml:id="ask-person-1524">
+            <person xml:id="schnitzler-kino_person-1524">
                <persName>Koebner, Franz Wolfgang</persName>
                <idno type="GND">https://d-nb.info/gnd/138202648</idno>
             </person>
-            <person xml:id="ask-person-1584">
+            <person xml:id="schnitzler-kino_person-1584">
                <persName>Lama&amp;#269;, Carl</persName>
                <idno type="GND">https://d-nb.info/gnd/122038630</idno>
             </person>
-            <person xml:id="ask-person-2030">
+            <person xml:id="schnitzler-kino_person-2030">
                <persName>Neumann, Lotte</persName>
                <idno type="GND">https://d-nb.info/gnd/128281200</idno>
             </person>
-            <person xml:id="ask-person-2532">
+            <person xml:id="schnitzler-kino_person-2532">
                <persName>Serventi, Luigi</persName>
                <idno type="GND">https://d-nb.info/gnd/1062245261</idno>
             </person>

@@ -91,35 +91,35 @@ Premierennotiz für Imperial-Kino NFP 3.1.1930, S. 13, ab 8.1.1930. Anzeige der 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-368">
+            <person xml:id="schnitzler-kino_person-368">
                <persName>Brentano, Bernard von</persName>
                <idno type="GND">https://d-nb.info/gnd/118673858</idno>
             </person>
-            <person xml:id="ask-person-587">
+            <person xml:id="schnitzler-kino_person-587">
                <persName>Croisset, Francis de</persName>
                <idno type="GND">https://d-nb.info/gnd/122348680</idno>
             </person>
-            <person xml:id="ask-person-882">
+            <person xml:id="schnitzler-kino_person-882">
                <persName>Feyder, Jacques</persName>
                <idno type="GND">https://d-nb.info/gnd/116485485</idno>
             </person>
-            <person xml:id="ask-person-901">
+            <person xml:id="schnitzler-kino_person-901">
                <persName>Flers, Robert de</persName>
                <idno type="GND">https://d-nb.info/gnd/122348745</idno>
             </person>
-            <person xml:id="ask-person-1967">
+            <person xml:id="schnitzler-kino_person-1967">
                <persName>Morlay, Gaby</persName>
                <idno type="GND">https://d-nb.info/gnd/132120828</idno>
             </person>
-            <person xml:id="ask-person-2233">
+            <person xml:id="schnitzler-kino_person-2233">
                <persName>Préjean, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/135422833</idno>
             </person>
-            <person xml:id="ask-person-2393">
+            <person xml:id="schnitzler-kino_person-2393">
                <persName>Roussel, Henri</persName>
                <idno type="GND">https://d-nb.info/gnd/1023179520</idno>
             </person>
-            <person xml:id="ask-person-2592">
+            <person xml:id="schnitzler-kino_person-2592">
                <persName>Spaak, Charles</persName>
                <idno type="GND">https://d-nb.info/gnd/1061755487</idno>
             </person>

@@ -90,14 +90,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-2471">
+            <person xml:id="schnitzler-kino_person-2471">
                <persName>Schnitzler, Lili</persName>
                <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="ask-person-2581">
+            <person xml:id="schnitzler-kino_person-2581">
                <persName>Soltau, Clara</persName>
                <idno type="GND">https://d-nb.info/gnd/1230023119</idno>
             </person>

@@ -92,39 +92,39 @@ Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterst
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-110">
+            <person xml:id="schnitzler-kino_person-110">
                <persName>Auen, Carl</persName>
                <idno type="GND">https://d-nb.info/gnd/116376805</idno>
             </person>
-            <person xml:id="ask-person-277">
+            <person xml:id="schnitzler-kino_person-277">
                <persName>Bill, Teddy</persName>
                <idno type="GND">https://d-nb.info/gnd/1056825936</idno>
             </person>
-            <person xml:id="ask-person-294">
+            <person xml:id="schnitzler-kino_person-294">
                <persName>Blanka, Valeria</persName>
                <idno type="GND">https://d-nb.info/gnd/1062357612</idno>
             </person>
-            <person xml:id="ask-person-790">
+            <person xml:id="schnitzler-kino_person-790">
                <persName>Ellis, Lilian</persName>
                <idno type="GND">https://d-nb.info/gnd/1061396495</idno>
             </person>
-            <person xml:id="ask-person-798">
+            <person xml:id="schnitzler-kino_person-798">
                <persName>Emo, E. W.</persName>
                <idno type="GND">https://d-nb.info/gnd/139990941</idno>
             </person>
-            <person xml:id="ask-person-975">
+            <person xml:id="schnitzler-kino_person-975">
                <persName>Fütterer, Werner</persName>
                <idno type="GND">https://d-nb.info/gnd/138898278</idno>
             </person>
-            <person xml:id="ask-person-2137">
+            <person xml:id="schnitzler-kino_person-2137">
                <persName>Paulig, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/116065109</idno>
             </person>
-            <person xml:id="ask-person-2602">
+            <person xml:id="schnitzler-kino_person-2602">
                <persName>Spira, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-2732">
+            <person xml:id="schnitzler-kino_person-2732">
                <persName>Thiem, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/1062251458</idno>
             </person>

@@ -93,47 +93,47 @@ Abend mit A. Kino „Sturm über Asien“. Dann „Linde“. A. etwas heiterer u
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-247">
+            <person xml:id="schnitzler-kino_person-247">
                <persName>Bermann, Richard Arnold (Ps. Arnold Höllriegel)</persName>
                <idno type="GND">https://d-nb.info/gnd/1130194965</idno>
             </person>
-            <person xml:id="ask-person-278">
+            <person xml:id="schnitzler-kino_person-278">
                <persName>Billinskaja, L.</persName>
             </person>
-            <person xml:id="ask-person-378">
+            <person xml:id="schnitzler-kino_person-378">
                <persName>Brik, Ossip</persName>
                <idno type="GND">https://d-nb.info/gnd/118674110</idno>
             </person>
-            <person xml:id="ask-person-494">
+            <person xml:id="schnitzler-kino_person-494">
                <persName>Chaplin, Charles</persName>
             </person>
-            <person xml:id="ask-person-646">
+            <person xml:id="schnitzler-kino_person-646">
                <persName>Dedinzeff, Alexander</persName>
             </person>
-            <person xml:id="ask-person-1362">
+            <person xml:id="schnitzler-kino_person-1362">
                <persName>Inkischinoff, Waleri</persName>
                <idno type="GND">https://d-nb.info/gnd/1062425111</idno>
             </person>
-            <person xml:id="ask-person-2063">
+            <person xml:id="schnitzler-kino_person-2063">
                <persName>Nowokschonow, I.</persName>
                <idno type="GND">https://d-nb.info/gnd/1056526661</idno>
             </person>
-            <person xml:id="ask-person-2202">
+            <person xml:id="schnitzler-kino_person-2202">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="ask-person-2246">
+            <person xml:id="schnitzler-kino_person-2246">
                <persName>Pudowkin, Wsewolod</persName>
             </person>
-            <person xml:id="ask-person-2679">
+            <person xml:id="schnitzler-kino_person-2679">
                <persName>Sudakewitsch, Anna</persName>
             </person>
-            <person xml:id="ask-person-2788">
+            <person xml:id="schnitzler-kino_person-2788">
                <persName>Turnowsky</persName>
             </person>
-            <person xml:id="ask-person-2789">
+            <person xml:id="schnitzler-kino_person-2789">
                <persName>Turnowsky, Tea</persName>
             </person>
-            <person xml:id="ask-person-3030">
+            <person xml:id="schnitzler-kino_person-3030">
                <persName>Züppi, W.</persName>
                <idno type="GND">https://d-nb.info/gnd/125004710</idno>
             </person>

@@ -91,40 +91,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-22">
+            <person xml:id="schnitzler-kino_person-22">
                <persName>Ainslee, Marian</persName>
                <idno type="GND">https://d-nb.info/gnd/1274258758</idno>
             </person>
-            <person xml:id="ask-person-389">
+            <person xml:id="schnitzler-kino_person-389">
                <persName>Brown, Clarence</persName>
                <idno type="GND">https://d-nb.info/gnd/137569122</idno>
             </person>
-            <person xml:id="ask-person-856">
+            <person xml:id="schnitzler-kino_person-856">
                <persName>Fawcett, George</persName>
                <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
             </person>
-            <person xml:id="ask-person-987">
+            <person xml:id="schnitzler-kino_person-987">
                <persName>Garbo, Greta</persName>
                <idno type="GND">https://d-nb.info/gnd/118537571</idno>
             </person>
-            <person xml:id="ask-person-1031">
+            <person xml:id="schnitzler-kino_person-1031">
                <persName>Gilbert, John</persName>
             </person>
-            <person xml:id="ask-person-1043">
+            <person xml:id="schnitzler-kino_person-1043">
                <persName>Glazer, Benjamin F.</persName>
                <idno type="GND">https://d-nb.info/gnd/142304492</idno>
             </person>
-            <person xml:id="ask-person-1192">
+            <person xml:id="schnitzler-kino_person-1192">
                <persName>Hanson, Lars</persName>
             </person>
-            <person xml:id="ask-person-1477">
+            <person xml:id="schnitzler-kino_person-1477">
                <persName>Kent, Barbara</persName>
                <idno type="GND">https://d-nb.info/gnd/1017830800</idno>
             </person>
-            <person xml:id="ask-person-2202">
+            <person xml:id="schnitzler-kino_person-2202">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="ask-person-2681">
+            <person xml:id="schnitzler-kino_person-2681">
                <persName>Sudermann, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/118619853</idno>
             </person>

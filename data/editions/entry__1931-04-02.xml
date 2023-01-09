@@ -93,36 +93,36 @@ Premierennotiz NFP 27.2.1931, S. 14, für 3.3.1931. Anzeige und Premierennotiz N
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-65">
+            <person xml:id="schnitzler-kino_person-65">
                <persName>Anet, Claude</persName>
             </person>
-            <person xml:id="ask-person-242">
+            <person xml:id="schnitzler-kino_person-242">
                <persName>Bergner, Elisabeth</persName>
                <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
             </person>
-            <person xml:id="ask-person-608">
+            <person xml:id="schnitzler-kino_person-608">
                <persName>Czinner, Paul</persName>
                <idno type="GND">https://d-nb.info/gnd/116787651</idno>
             </person>
-            <person xml:id="ask-person-924">
+            <person xml:id="schnitzler-kino_person-924">
                <persName>Forster, Rudolf</persName>
             </person>
-            <person xml:id="ask-person-1018">
+            <person xml:id="schnitzler-kino_person-1018">
                <persName>Gerasch, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/116564342</idno>
             </person>
-            <person xml:id="ask-person-1046">
+            <person xml:id="schnitzler-kino_person-1046">
                <persName>Globuznik, Tedy</persName>
                <idno type="GND">https://d-nb.info/gnd/1206944277</idno>
             </person>
-            <person xml:id="ask-person-1712">
+            <person xml:id="schnitzler-kino_person-1712">
                <persName>Loos, Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-2204">
+            <person xml:id="schnitzler-kino_person-2204">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="ask-person-2635">
+            <person xml:id="schnitzler-kino_person-2635">
                <persName>Steinsieck, Annemarie</persName>
                <idno type="GND">https://d-nb.info/gnd/1057769169</idno>
             </person>

@@ -91,22 +91,22 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-455">
+            <person xml:id="schnitzler-kino_person-455">
                <persName>Carewe, Rita</persName>
             </person>
-            <person xml:id="ask-person-1495">
+            <person xml:id="schnitzler-kino_person-1495">
                <persName>King, Henry</persName>
                <idno type="GND">https://d-nb.info/gnd/118933272</idno>
             </person>
-            <person xml:id="ask-person-2335">
+            <person xml:id="schnitzler-kino_person-2335">
                <persName>Rio, Dolores del</persName>
                <idno type="GND">https://d-nb.info/gnd/1203902220</idno>
             </person>
-            <person xml:id="ask-person-2361">
+            <person xml:id="schnitzler-kino_person-2361">
                <persName>Rocque, Rod La</persName>
                <idno type="GND">https://d-nb.info/gnd/140894314</idno>
             </person>
-            <person xml:id="ask-person-2754">
+            <person xml:id="schnitzler-kino_person-2754">
                <persName>Tolstoi, Leo</persName>
             </person>
          </listPerson>

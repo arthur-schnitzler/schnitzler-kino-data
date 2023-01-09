@@ -90,41 +90,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-420">
+            <person xml:id="schnitzler-kino_person-420">
                <persName>Burguet, C.</persName>
                <idno type="GND">https://d-nb.info/gnd/1096337037</idno>
             </person>
-            <person xml:id="ask-person-918">
+            <person xml:id="schnitzler-kino_person-918">
                <persName>Forescu, Maria</persName>
                <idno type="GND">https://d-nb.info/gnd/1057812145</idno>
             </person>
-            <person xml:id="ask-person-1094">
+            <person xml:id="schnitzler-kino_person-1094">
                <persName>Grätz, Paul</persName>
             </person>
-            <person xml:id="ask-person-1197">
+            <person xml:id="schnitzler-kino_person-1197">
                <persName>Hardt, Harry</persName>
                <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
             </person>
-            <person xml:id="ask-person-1318">
+            <person xml:id="schnitzler-kino_person-1318">
                <persName>Holt, Evelyn</persName>
                <idno type="GND">https://d-nb.info/gnd/1017759952</idno>
             </person>
-            <person xml:id="ask-person-1849">
+            <person xml:id="schnitzler-kino_person-1849">
                <persName>Mattoni, André</persName>
                <idno type="GND">https://d-nb.info/gnd/1011900408</idno>
             </person>
-            <person xml:id="ask-person-1856">
+            <person xml:id="schnitzler-kino_person-1856">
                <persName>Maximilian, Max</persName>
                <idno type="GND">https://d-nb.info/gnd/1062358910</idno>
             </person>
-            <person xml:id="ask-person-1885">
+            <person xml:id="schnitzler-kino_person-1885">
                <persName>Meinhardt, Edith</persName>
             </person>
-            <person xml:id="ask-person-2014">
+            <person xml:id="schnitzler-kino_person-2014">
                <persName>Navarre, René</persName>
                <idno type="GND">https://d-nb.info/gnd/173932533</idno>
             </person>
-            <person xml:id="ask-person-2844">
+            <person xml:id="schnitzler-kino_person-2844">
                <persName>Vogt, Carl de</persName>
             </person>
          </listPerson>

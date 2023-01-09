@@ -90,40 +90,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-37">
+            <person xml:id="schnitzler-kino_person-37">
                <persName>Alex, Joe</persName>
                <idno type="GND">https://d-nb.info/gnd/134925920</idno>
             </person>
-            <person xml:id="ask-person-47">
+            <person xml:id="schnitzler-kino_person-47">
                <persName>Allibert, Louis</persName>
             </person>
-            <person xml:id="ask-person-120">
+            <person xml:id="schnitzler-kino_person-120">
                <persName>Aymé, Jean</persName>
             </person>
-            <person xml:id="ask-person-207">
+            <person xml:id="schnitzler-kino_person-207">
                <persName>Bell, Marie</persName>
                <idno type="GND">https://d-nb.info/gnd/119469820</idno>
             </person>
-            <person xml:id="ask-person-627">
+            <person xml:id="schnitzler-kino_person-627">
                <persName>Dauville, Louise</persName>
                <idno type="GND">https://d-nb.info/gnd/141570377</idno>
             </person>
-            <person xml:id="ask-person-634">
+            <person xml:id="schnitzler-kino_person-634">
                <persName>Davis, Dolly</persName>
                <idno type="GND">https://d-nb.info/gnd/137740824</idno>
             </person>
-            <person xml:id="ask-person-1186">
+            <person xml:id="schnitzler-kino_person-1186">
                <persName>Hamp, Pierre</persName>
                <idno type="GND">https://d-nb.info/gnd/119053683</idno>
             </person>
-            <person xml:id="ask-person-1268">
+            <person xml:id="schnitzler-kino_person-1268">
                <persName>Hervil, René</persName>
             </person>
-            <person xml:id="ask-person-1389">
+            <person xml:id="schnitzler-kino_person-1389">
                <persName>Jeanne, René</persName>
                <idno type="GND">https://d-nb.info/gnd/1130422569</idno>
             </person>
-            <person xml:id="ask-person-2370">
+            <person xml:id="schnitzler-kino_person-2370">
                <persName>Romero, Julio de</persName>
             </person>
          </listPerson>

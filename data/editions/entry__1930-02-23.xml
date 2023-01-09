@@ -90,36 +90,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-465">
+            <person xml:id="schnitzler-kino_person-465">
                <persName>Carnelly, Leila</persName>
             </person>
-            <person xml:id="ask-person-1033">
+            <person xml:id="schnitzler-kino_person-1033">
                <persName>Gilmore, Douglas</persName>
             </person>
-            <person xml:id="ask-person-1198">
+            <person xml:id="schnitzler-kino_person-1198">
                <persName>Hardt-Warden, Bruno</persName>
                <idno type="GND">https://d-nb.info/gnd/136542123</idno>
             </person>
-            <person xml:id="ask-person-1372">
+            <person xml:id="schnitzler-kino_person-1372">
                <persName>Jacobson, Leopold</persName>
                <idno type="GND">https://d-nb.info/gnd/140091920</idno>
             </person>
-            <person xml:id="ask-person-1996">
+            <person xml:id="schnitzler-kino_person-1996">
                <persName>Murray, J. Harold</persName>
                <idno type="GND">https://d-nb.info/gnd/141071621</idno>
             </person>
-            <person xml:id="ask-person-2112">
+            <person xml:id="schnitzler-kino_person-2112">
                <persName>Palasthy, Irene</persName>
                <idno type="GND">https://d-nb.info/gnd/1195242905</idno>
             </person>
-            <person xml:id="ask-person-2396">
+            <person xml:id="schnitzler-kino_person-2396">
                <persName>Royce, Edward</persName>
                <idno type="GND">https://d-nb.info/gnd/1032259817</idno>
             </person>
-            <person xml:id="ask-person-2556">
+            <person xml:id="schnitzler-kino_person-2556">
                <persName>Silver, Marcel</persName>
             </person>
-            <person xml:id="ask-person-2721">
+            <person xml:id="schnitzler-kino_person-2721">
                <persName>Terris, Norma</persName>
             </person>
          </listPerson>

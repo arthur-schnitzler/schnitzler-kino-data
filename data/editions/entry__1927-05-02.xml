@@ -90,26 +90,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-486">
+            <person xml:id="schnitzler-kino_person-486">
                <persName>Chakatouny, Acho</persName>
                <idno type="GND">https://d-nb.info/gnd/1062429265</idno>
             </person>
-            <person xml:id="ask-person-720">
+            <person xml:id="schnitzler-kino_person-720">
                <persName>Duflos, Huguette</persName>
                <idno type="GND">https://d-nb.info/gnd/1158978456</idno>
             </person>
-            <person xml:id="ask-person-739">
+            <person xml:id="schnitzler-kino_person-739">
                <persName>Duvivier, Julien</persName>
                <idno type="GND">https://d-nb.info/gnd/121587126</idno>
             </person>
-            <person xml:id="ask-person-962">
+            <person xml:id="schnitzler-kino_person-962">
                <persName>Frondaie, Pierre</persName>
                <idno type="GND">https://d-nb.info/gnd/126333750</idno>
             </person>
-            <person xml:id="ask-person-981">
+            <person xml:id="schnitzler-kino_person-981">
                <persName>Galli</persName>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
          </listPerson>

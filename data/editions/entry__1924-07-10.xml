@@ -90,11 +90,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-850">
+            <person xml:id="schnitzler-kino_person-850">
                <persName>Farnum, William</persName>
                <idno type="GND">https://d-nb.info/gnd/1237463335</idno>
             </person>
-            <person xml:id="ask-person-1345">
+            <person xml:id="schnitzler-kino_person-1345">
                <persName>Hugo, Victor</persName>
                <idno type="GND">https://d-nb.info/gnd/118554654</idno>
             </person>

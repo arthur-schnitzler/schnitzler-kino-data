@@ -90,34 +90,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-14">
+            <person xml:id="schnitzler-kino_person-14">
                <persName>Adams, Claire</persName>
                <idno type="GND">https://d-nb.info/gnd/1211508005</idno>
             </person>
-            <person xml:id="ask-person-130">
+            <person xml:id="schnitzler-kino_person-130">
                <persName>Baker, Graham</persName>
             </person>
-            <person xml:id="ask-person-537">
+            <person xml:id="schnitzler-kino_person-537">
                <persName>Collison, Wilson</persName>
                <idno type="GND">https://d-nb.info/gnd/1069408778</idno>
             </person>
-            <person xml:id="ask-person-1200">
+            <person xml:id="schnitzler-kino_person-1200">
                <persName>Hardy, Oliver</persName>
                <idno type="GND">https://d-nb.info/gnd/118545922</idno>
             </person>
-            <person xml:id="ask-person-1324">
+            <person xml:id="schnitzler-kino_person-1324">
                <persName>Hopwood, Avery</persName>
                <idno type="GND">https://d-nb.info/gnd/11889482X</idno>
             </person>
-            <person xml:id="ask-person-1994">
+            <person xml:id="schnitzler-kino_person-1994">
                <persName>Murray, Charles</persName>
                <idno type="GND">https://d-nb.info/gnd/141071621</idno>
             </person>
-            <person xml:id="ask-person-2525">
+            <person xml:id="schnitzler-kino_person-2525">
                <persName>Semon, Larry</persName>
                <idno type="GND">https://d-nb.info/gnd/130071390</idno>
             </person>
-            <person xml:id="ask-person-3015">
+            <person xml:id="schnitzler-kino_person-3015">
                <persName>Zigoto</persName>
             </person>
          </listPerson>

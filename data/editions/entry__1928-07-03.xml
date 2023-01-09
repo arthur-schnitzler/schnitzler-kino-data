@@ -90,35 +90,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-882">
+            <person xml:id="schnitzler-kino_person-882">
                <persName>Feyder, Jacques</persName>
                <idno type="GND">https://d-nb.info/gnd/116485485</idno>
             </person>
-            <person xml:id="ask-person-1377">
+            <person xml:id="schnitzler-kino_person-1377">
                <persName>Jana, La</persName>
                <idno type="GND">https://d-nb.info/gnd/135927838</idno>
             </person>
-            <person xml:id="ask-person-1614">
+            <person xml:id="schnitzler-kino_person-1614">
                <persName>Laurent, J. Marie</persName>
                <idno type="GND">https://d-nb.info/gnd/1044647205</idno>
             </person>
-            <person xml:id="ask-person-1796">
+            <person xml:id="schnitzler-kino_person-1796">
                <persName>Manés, Gina</persName>
                <idno type="GND">https://d-nb.info/gnd/1061778851</idno>
             </person>
-            <person xml:id="ask-person-2273">
+            <person xml:id="schnitzler-kino_person-2273">
                <persName>Raquin, Therese</persName>
                <idno type="GND">https://d-nb.info/gnd/1145502695</idno>
             </person>
-            <person xml:id="ask-person-2454">
+            <person xml:id="schnitzler-kino_person-2454">
                <persName>Schlettow, Hans Adalbert</persName>
                <idno type="GND">https://d-nb.info/gnd/117326747</idno>
             </person>
-            <person xml:id="ask-person-3018">
+            <person xml:id="schnitzler-kino_person-3018">
                <persName>Zilzer, Wolfgang</persName>
                <idno type="GND">https://d-nb.info/gnd/116992433</idno>
             </person>
-            <person xml:id="ask-person-3023">
+            <person xml:id="schnitzler-kino_person-3023">
                <persName>Zola, Émile</persName>
                <idno type="GND">https://d-nb.info/gnd/118637223</idno>
             </person>

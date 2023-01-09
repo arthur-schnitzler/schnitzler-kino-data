@@ -91,35 +91,35 @@ PFL nennen als Tag der EA den 23.5.1930. In NFP 23.5.1930, S. 21, wird jedoch au
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-611">
+            <person xml:id="schnitzler-kino_person-611">
                <persName>Dagover, Lil</persName>
                <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="ask-person-861">
+            <person xml:id="schnitzler-kino_person-861">
                <persName>Fehdmer-Kaysler, Helene</persName>
                <idno type="GND">https://d-nb.info/gnd/116143851</idno>
             </person>
-            <person xml:id="ask-person-1375">
+            <person xml:id="schnitzler-kino_person-1375">
                <persName>Jacquet, Gaston</persName>
                <idno type="GND">https://d-nb.info/gnd/1062217101</idno>
             </person>
-            <person xml:id="ask-person-1933">
+            <person xml:id="schnitzler-kino_person-1933">
                <persName>Mittler, Leo</persName>
                <idno type="GND">https://d-nb.info/gnd/117065129</idno>
             </person>
-            <person xml:id="ask-person-2147">
+            <person xml:id="schnitzler-kino_person-2147">
                <persName>Peppler, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/1061427161</idno>
             </person>
-            <person xml:id="ask-person-2161">
+            <person xml:id="schnitzler-kino_person-2161">
                <persName>Petrovich, Iwan</persName>
                <idno type="GND">https://d-nb.info/gnd/1031491554</idno>
             </person>
-            <person xml:id="ask-person-2609">
+            <person xml:id="schnitzler-kino_person-2609">
                <persName>Stahl-Nachbaur, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/117203688</idno>
             </person>
-            <person xml:id="ask-person-2864">
+            <person xml:id="schnitzler-kino_person-2864">
                <persName>Wallburg, Otto</persName>
                <idno type="GND">https://d-nb.info/gnd/119368080</idno>
             </person>

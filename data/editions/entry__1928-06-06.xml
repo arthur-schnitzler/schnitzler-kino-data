@@ -92,29 +92,29 @@ Der Film fand erst einen Monat später mit der Vorführung in weiteren Wiener Li
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-146">
+            <person xml:id="schnitzler-kino_person-146">
                <persName>Baranowskaja, Wera</persName>
                <idno type="GND">https://d-nb.info/gnd/1202742041</idno>
             </person>
-            <person xml:id="ask-person-1704">
+            <person xml:id="schnitzler-kino_person-1704">
                <persName>Loeb, Louis </persName>
                <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="ask-person-2071">
+            <person xml:id="schnitzler-kino_person-2071">
                <persName>Obolensky, W.</persName>
                <idno type="GND">https://d-nb.info/gnd/126914737</idno>
             </person>
-            <person xml:id="ask-person-2246">
+            <person xml:id="schnitzler-kino_person-2246">
                <persName>Pudowkin, Wsewolod</persName>
             </person>
-            <person xml:id="ask-person-2434">
+            <person xml:id="schnitzler-kino_person-2434">
                <persName>Sarchi, Nathan</persName>
                <idno type="GND">https://d-nb.info/gnd/120688743</idno>
             </person>
-            <person xml:id="ask-person-2779">
+            <person xml:id="schnitzler-kino_person-2779">
                <persName>Tschistiakoff, Alexander</persName>
             </person>
-            <person xml:id="ask-person-2780">
+            <person xml:id="schnitzler-kino_person-2780">
                <persName>Tschuwileff, Iwan</persName>
                <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>

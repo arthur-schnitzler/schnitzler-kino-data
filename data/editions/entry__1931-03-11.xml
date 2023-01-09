@@ -90,29 +90,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-89">
+            <person xml:id="schnitzler-kino_person-89">
                <persName>Arno, Siegfried</persName>
             </person>
-            <person xml:id="ask-person-95">
+            <person xml:id="schnitzler-kino_person-95">
                <persName>Asagaroff, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/1061740706</idno>
             </person>
-            <person xml:id="ask-person-245">
+            <person xml:id="schnitzler-kino_person-245">
                <persName>Berliner, F.</persName>
             </person>
-            <person xml:id="ask-person-357">
+            <person xml:id="schnitzler-kino_person-357">
                <persName>Braun, Kurt J.</persName>
                <idno type="GND">https://d-nb.info/gnd/1276293437</idno>
             </person>
-            <person xml:id="ask-person-1238">
+            <person xml:id="schnitzler-kino_person-1238">
                <persName>Hegewald (Filmproduktionsfirma)</persName>
                <idno type="GND">https://d-nb.info/gnd/1023317370</idno>
             </person>
-            <person xml:id="ask-person-1299">
+            <person xml:id="schnitzler-kino_person-1299">
                <persName>Hoffmann, Dr.</persName>
                <idno type="GND">https://d-nb.info/gnd/1050486609</idno>
             </person>
-            <person xml:id="ask-person-1854">
+            <person xml:id="schnitzler-kino_person-1854">
                <persName>Maurus, Gerda</persName>
                <idno type="GND">https://d-nb.info/gnd/141771909</idno>
             </person>

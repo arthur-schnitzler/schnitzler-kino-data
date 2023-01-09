@@ -93,53 +93,53 @@ Besprechung von Lilly Klaudy in NFP 23.10.1927, S. 17. Spielort in Ischl nicht n
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-86">
+            <person xml:id="schnitzler-kino_person-86">
                <persName>Arndt, Erich</persName>
             </person>
-            <person xml:id="ask-person-231">
+            <person xml:id="schnitzler-kino_person-231">
                <persName>Bergen, Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/116130091</idno>
             </person>
-            <person xml:id="ask-person-899">
+            <person xml:id="schnitzler-kino_person-899">
                <persName>Flegmann, Berta</persName>
                <idno type="GND">https://d-nb.info/gnd/1017096228</idno>
             </person>
-            <person xml:id="ask-person-1312">
+            <person xml:id="schnitzler-kino_person-1312">
                <persName>Hollay, Camilla von</persName>
                <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
             </person>
-            <person xml:id="ask-person-1364">
+            <person xml:id="schnitzler-kino_person-1364">
                <persName>Iros, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/11720420X</idno>
             </person>
-            <person xml:id="ask-person-1401">
+            <person xml:id="schnitzler-kino_person-1401">
                <persName>John, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/1194256775</idno>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-1569">
+            <person xml:id="schnitzler-kino_person-1569">
                <persName>Kürti, Ellen</persName>
                <idno type="GND">https://d-nb.info/gnd/106177368X</idno>
             </person>
-            <person xml:id="ask-person-2053">
+            <person xml:id="schnitzler-kino_person-2053">
                <persName>Nolan, Mary</persName>
                <idno type="GND">https://d-nb.info/gnd/1148700323</idno>
             </person>
-            <person xml:id="ask-person-2182">
+            <person xml:id="schnitzler-kino_person-2182">
                <persName>Pittschau, Werner</persName>
                <idno type="GND">https://d-nb.info/gnd/1062207742</idno>
             </person>
-            <person xml:id="ask-person-2353">
+            <person xml:id="schnitzler-kino_person-2353">
                <persName>Robertson, Imogen</persName>
                <idno type="GND">https://d-nb.info/gnd/1209240513</idno>
             </person>
-            <person xml:id="ask-person-2433">
+            <person xml:id="schnitzler-kino_person-2433">
                <persName>Sanzara, Rahel</persName>
                <idno type="GND">https://d-nb.info/gnd/118605526</idno>
             </person>
-            <person xml:id="ask-person-2639">
+            <person xml:id="schnitzler-kino_person-2639">
                <persName>Sterler, Hermine</persName>
                <idno type="GND">https://d-nb.info/gnd/117273627</idno>
             </person>

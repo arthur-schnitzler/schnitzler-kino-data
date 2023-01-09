@@ -90,31 +90,31 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1019">
+            <person xml:id="schnitzler-kino_person-1019">
                <persName>Gerdt, Gerdi</persName>
                <idno type="GND">https://d-nb.info/gnd/1061428885</idno>
             </person>
-            <person xml:id="ask-person-1297">
+            <person xml:id="schnitzler-kino_person-1297">
                <persName>Hofer, Franz</persName>
                <idno type="GND">https://d-nb.info/gnd/119537664</idno>
             </person>
-            <person xml:id="ask-person-2293">
+            <person xml:id="schnitzler-kino_person-2293">
                <persName>Reinald, Otto</persName>
                <idno type="GND">https://d-nb.info/gnd/108095118</idno>
             </person>
-            <person xml:id="ask-person-2399">
+            <person xml:id="schnitzler-kino_person-2399">
                <persName>Rückert, [Anton] Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/1061445984</idno>
             </person>
-            <person xml:id="ask-person-2596">
+            <person xml:id="schnitzler-kino_person-2596">
                <persName>Speyer, Eva</persName>
                <idno type="GND">https://d-nb.info/gnd/102129926X</idno>
             </person>
-            <person xml:id="ask-person-2958">
+            <person xml:id="schnitzler-kino_person-2958">
                <persName>Winterstein, Eduard von</persName>
                <idno type="GND">https://d-nb.info/gnd/118633864</idno>
             </person>
-            <person xml:id="ask-person-2977">
+            <person xml:id="schnitzler-kino_person-2977">
                <persName>Wolowsky, Kurt von</persName>
                <idno type="GND">https://d-nb.info/gnd/1062132343</idno>
             </person>

@@ -92,27 +92,27 @@ Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als Â
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-941">
+            <person xml:id="schnitzler-kino_person-941">
                <persName>Franz Josef I.</persName>
                <idno type="GND">https://d-nb.info/gnd/1034541528</idno>
             </person>
-            <person xml:id="ask-person-1099">
+            <person xml:id="schnitzler-kino_person-1099">
                <persName>Gray, Eve</persName>
                <idno type="GND">https://d-nb.info/gnd/1061875628</idno>
             </person>
-            <person xml:id="ask-person-1851">
+            <person xml:id="schnitzler-kino_person-1851">
                <persName>Maude, Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/137402198</idno>
             </person>
-            <person xml:id="ask-person-2739">
+            <person xml:id="schnitzler-kino_person-2739">
                <persName>Thomas, Jameson</persName>
                <idno type="GND">https://d-nb.info/gnd/138596859</idno>
             </person>
-            <person xml:id="ask-person-2751">
+            <person xml:id="schnitzler-kino_person-2751">
                <persName>Tod, Malcolm</persName>
                <idno type="GND">https://d-nb.info/gnd/1061946347</idno>
             </person>
-            <person xml:id="ask-person-2917">
+            <person xml:id="schnitzler-kino_person-2917">
                <persName>Werbezirk, Gisela</persName>
                <idno type="GND">https://d-nb.info/gnd/130178527</idno>
             </person>

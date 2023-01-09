@@ -90,31 +90,31 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-60">
+            <person xml:id="schnitzler-kino_person-60">
                <persName>Ander, Charlotte</persName>
                <idno type="GND">https://d-nb.info/gnd/1019197625</idno>
             </person>
-            <person xml:id="ask-person-965">
+            <person xml:id="schnitzler-kino_person-965">
                <persName>Fryland, Alphons</persName>
                <idno type="GND">https://d-nb.info/gnd/1019855827</idno>
             </person>
-            <person xml:id="ask-person-1439">
+            <person xml:id="schnitzler-kino_person-1439">
                <persName>Kaiser-Titz, Erich</persName>
                <idno type="GND">https://d-nb.info/gnd/116028769</idno>
             </person>
-            <person xml:id="ask-person-2165">
+            <person xml:id="schnitzler-kino_person-2165">
                <persName>Philippi, Siegfried</persName>
                <idno type="GND">https://d-nb.info/gnd/102510367X</idno>
             </person>
-            <person xml:id="ask-person-2854">
+            <person xml:id="schnitzler-kino_person-2854">
                <persName>Wagner, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
             </person>
-            <person xml:id="ask-person-2911">
+            <person xml:id="schnitzler-kino_person-2911">
                <persName>Welcker, Gertrude</persName>
                <idno type="GND">https://d-nb.info/gnd/1062300831</idno>
             </person>
-            <person xml:id="ask-person-2924">
+            <person xml:id="schnitzler-kino_person-2924">
                <persName>Weyher, Ruth</persName>
                <idno type="GND">https://d-nb.info/gnd/1138037524</idno>
             </person>

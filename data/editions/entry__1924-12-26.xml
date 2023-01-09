@@ -90,22 +90,22 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-127">
+            <person xml:id="schnitzler-kino_person-127">
                <persName>Baggot, King</persName>
                <idno type="GND">https://d-nb.info/gnd/137584652</idno>
             </person>
-            <person xml:id="ask-person-562">
+            <person xml:id="schnitzler-kino_person-562">
                <persName>Cooper, George</persName>
             </person>
-            <person xml:id="ask-person-1230">
+            <person xml:id="schnitzler-kino_person-1230">
                <persName>Hearn, Edward</persName>
                <idno type="GND">https://d-nb.info/gnd/1232773484</idno>
             </person>
-            <person xml:id="ask-person-2400">
+            <person xml:id="schnitzler-kino_person-2400">
                <persName>Rue, Fontaine La</persName>
                <idno type="GND">https://d-nb.info/gnd/125790115X</idno>
             </person>
-            <person xml:id="ask-person-2873">
+            <person xml:id="schnitzler-kino_person-2873">
                <persName>Walton, Gladys</persName>
                <idno type="GND">https://d-nb.info/gnd/141224150</idno>
             </person>

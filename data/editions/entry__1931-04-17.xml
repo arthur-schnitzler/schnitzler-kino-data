@@ -93,58 +93,58 @@ Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 10, für 6.3.1931. 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-72">
+            <person xml:id="schnitzler-kino_person-72">
                <persName>Anton, Karl</persName>
                <idno type="GND">https://d-nb.info/gnd/138936579</idno>
             </person>
-            <person xml:id="ask-person-112">
+            <person xml:id="schnitzler-kino_person-112">
                <persName>Auernheimer, Irene</persName>
                <idno type="GND">https://d-nb.info/gnd/116377577</idno>
             </person>
-            <person xml:id="ask-person-113">
+            <person xml:id="schnitzler-kino_person-113">
                <persName>Auernheimer, Raoul</persName>
                <idno type="GND">https://d-nb.info/gnd/118505033</idno>
             </person>
-            <person xml:id="ask-person-520">
+            <person xml:id="schnitzler-kino_person-520">
                <persName>Clauser, Suzanne</persName>
                <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="ask-person-611">
+            <person xml:id="schnitzler-kino_person-611">
                <persName>Dagover, Lil</persName>
                <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="ask-person-1499">
+            <person xml:id="schnitzler-kino_person-1499">
                <persName>Kisch, Egon Erwin</persName>
                <idno type="GND">https://d-nb.info/gnd/118562533</idno>
             </person>
-            <person xml:id="ask-person-1712">
+            <person xml:id="schnitzler-kino_person-1712">
                <persName>Loos, Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-1780">
+            <person xml:id="schnitzler-kino_person-1780">
                <persName>Majer, Vladimír</persName>
                <idno type="GND">https://d-nb.info/gnd/1062172612</idno>
             </person>
-            <person xml:id="ask-person-2033">
+            <person xml:id="schnitzler-kino_person-2033">
                <persName>Newlinski, Michael von</persName>
                <idno type="GND">https://d-nb.info/gnd/138232547</idno>
             </person>
-            <person xml:id="ask-person-2204">
+            <person xml:id="schnitzler-kino_person-2204">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="ask-person-2206">
+            <person xml:id="schnitzler-kino_person-2206">
                <persName>Pollaczek, Otto</persName>
                <idno type="GND">https://d-nb.info/gnd/132915251</idno>
             </person>
-            <person xml:id="ask-person-2450">
+            <person xml:id="schnitzler-kino_person-2450">
                <persName>Schirokauer, Alfred</persName>
                <idno type="GND">https://d-nb.info/gnd/117276464</idno>
             </person>
-            <person xml:id="ask-person-2647">
+            <person xml:id="schnitzler-kino_person-2647">
                <persName>Stifter, Magnus</persName>
                <idno type="GND">https://d-nb.info/gnd/1026925436</idno>
             </person>
-            <person xml:id="ask-person-2837">
+            <person xml:id="schnitzler-kino_person-2837">
                <persName>Vigny, Benno</persName>
                <idno type="GND">https://d-nb.info/gnd/117417645</idno>
             </person>

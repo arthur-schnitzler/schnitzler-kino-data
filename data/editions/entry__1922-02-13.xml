@@ -90,27 +90,27 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-873">
+            <person xml:id="schnitzler-kino_person-873">
                <persName>Ferenc, Herczeg</persName>
                <idno type="GND">https://d-nb.info/gnd/121829855</idno>
             </person>
-            <person xml:id="ask-person-1578">
+            <person xml:id="schnitzler-kino_person-1578">
                <persName>Lagergren, Elin</persName>
                <idno type="GND">https://d-nb.info/gnd/1016020260</idno>
             </person>
-            <person xml:id="ask-person-1942">
+            <person xml:id="schnitzler-kino_person-1942">
                <persName>Molander, Karin</persName>
                <idno type="GND">https://d-nb.info/gnd/119064359</idno>
             </person>
-            <person xml:id="ask-person-2648">
+            <person xml:id="schnitzler-kino_person-2648">
                <persName>Stiller, Mauritz</persName>
                <idno type="GND">https://d-nb.info/gnd/124994504</idno>
             </person>
-            <person xml:id="ask-person-2717">
+            <person xml:id="schnitzler-kino_person-2717">
                <persName>Teje, Tora</persName>
                <idno type="GND">https://d-nb.info/gnd/1061800350</idno>
             </person>
-            <person xml:id="ask-person-2856">
+            <person xml:id="schnitzler-kino_person-2856">
                <persName>Wahl, Anders de</persName>
                <idno type="GND">https://d-nb.info/gnd/1160612331</idno>
             </person>

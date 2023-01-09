@@ -90,30 +90,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-199">
+            <person xml:id="schnitzler-kino_person-199">
                <persName>Behrendt, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/11611083X</idno>
             </person>
-            <person xml:id="ask-person-418">
+            <person xml:id="schnitzler-kino_person-418">
                <persName>Burg, Eugen</persName>
                <idno type="GND">https://d-nb.info/gnd/117164062</idno>
             </person>
-            <person xml:id="ask-person-1195">
+            <person xml:id="schnitzler-kino_person-1195">
                <persName>Harbacher, Karl</persName>
                <idno type="GND">https://d-nb.info/gnd/1062177045</idno>
             </person>
-            <person xml:id="ask-person-1211">
+            <person xml:id="schnitzler-kino_person-1211">
                <persName>Hartmann, Paul</persName>
                <idno type="GND">https://d-nb.info/gnd/1184390185</idno>
             </person>
-            <person xml:id="ask-person-1554">
+            <person xml:id="schnitzler-kino_person-1554">
                <persName>Krauß, Werner</persName>
             </person>
-            <person xml:id="ask-person-1857">
+            <person xml:id="schnitzler-kino_person-1857">
                <persName>May, Eva</persName>
                <idno type="GND">https://d-nb.info/gnd/106139722X</idno>
             </person>
-            <person xml:id="ask-person-2144">
+            <person xml:id="schnitzler-kino_person-2144">
                <persName>Peer, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/1025699742</idno>
             </person>

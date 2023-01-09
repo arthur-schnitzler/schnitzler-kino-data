@@ -93,38 +93,38 @@ Illustrierte Anzeige NFP 1.3.1929, S. 10. Nachgewiesene Spielorte: Gartenbau-, I
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-28">
+            <person xml:id="schnitzler-kino_person-28">
                <persName>Alberti, Fritz</persName>
             </person>
-            <person xml:id="ask-person-235">
+            <person xml:id="schnitzler-kino_person-235">
                <persName>Berger, Gisela</persName>
                <idno type="GND">https://d-nb.info/gnd/136132812</idno>
             </person>
-            <person xml:id="ask-person-323">
+            <person xml:id="schnitzler-kino_person-323">
                <persName>Boni, Carmen</persName>
                <idno type="GND">https://d-nb.info/gnd/1061251675</idno>
             </person>
-            <person xml:id="ask-person-418">
+            <person xml:id="schnitzler-kino_person-418">
                <persName>Burg, Eugen</persName>
                <idno type="GND">https://d-nb.info/gnd/117164062</idno>
             </person>
-            <person xml:id="ask-person-609">
+            <person xml:id="schnitzler-kino_person-609">
                <persName>Czokor, Franz Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-692">
+            <person xml:id="schnitzler-kino_person-692">
                <persName>Dolski, Daniel</persName>
                <idno type="GND">https://d-nb.info/gnd/1061911853</idno>
             </person>
-            <person xml:id="ask-person-1974">
+            <person xml:id="schnitzler-kino_person-1974">
                <persName>Mosjoukine, Iwan</persName>
                <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="ask-person-2529">
+            <person xml:id="schnitzler-kino_person-2529">
                <persName>Seroff, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/1061831051</idno>
             </person>
-            <person xml:id="ask-person-2667">
+            <person xml:id="schnitzler-kino_person-2667">
                <persName>Striževskij, Wladimir</persName>
                <idno type="GND">https://d-nb.info/gnd/1062204220</idno>
             </person>

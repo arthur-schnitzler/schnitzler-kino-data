@@ -90,18 +90,18 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-206">
+            <person xml:id="schnitzler-kino_person-206">
                <persName>Bell, Karina</persName>
                <idno type="GND">https://d-nb.info/gnd/141914335</idno>
             </person>
-            <person xml:id="ask-person-911">
+            <person xml:id="schnitzler-kino_person-911">
                <persName>Fönss, Olaf</persName>
             </person>
-            <person xml:id="ask-person-1191">
+            <person xml:id="schnitzler-kino_person-1191">
                <persName>Hanson, Einar</persName>
                <idno type="GND">https://d-nb.info/gnd/1274247160</idno>
             </person>
-            <person xml:id="ask-person-2427">
+            <person xml:id="schnitzler-kino_person-2427">
                <persName>Sandberg, A. W.</persName>
                <idno type="GND">https://d-nb.info/gnd/141914289</idno>
             </person>

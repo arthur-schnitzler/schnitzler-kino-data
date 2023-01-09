@@ -94,42 +94,42 @@ Ankündigung NFP 8.8.1930, S. 11, mit den Spielorten Imperial-, Kolosseum- und L
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-798">
+            <person xml:id="schnitzler-kino_person-798">
                <persName>Emo, E. W.</persName>
                <idno type="GND">https://d-nb.info/gnd/139990941</idno>
             </person>
-            <person xml:id="ask-person-805">
+            <person xml:id="schnitzler-kino_person-805">
                <persName>Englisch, Lucie</persName>
                <idno type="GND">https://d-nb.info/gnd/122067975</idno>
             </person>
-            <person xml:id="ask-person-1163">
+            <person xml:id="schnitzler-kino_person-1163">
                <persName>Haid, Liane</persName>
                <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
             </person>
-            <person xml:id="ask-person-1351">
+            <person xml:id="schnitzler-kino_person-1351">
                <persName>Huszar-Puffy, Karl</persName>
                <idno type="GND">https://d-nb.info/gnd/1136430121</idno>
             </person>
-            <person xml:id="ask-person-2059">
+            <person xml:id="schnitzler-kino_person-2059">
                <persName>Noti, Karl</persName>
                <idno type="GND">https://d-nb.info/gnd/126319790</idno>
             </person>
-            <person xml:id="ask-person-2139">
+            <person xml:id="schnitzler-kino_person-2139">
                <persName>Paulsen, Harald</persName>
                <idno type="GND">https://d-nb.info/gnd/116065796</idno>
             </person>
-            <person xml:id="ask-person-2351">
+            <person xml:id="schnitzler-kino_person-2351">
                <persName>Roberts, Ralph Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/119046334</idno>
             </person>
-            <person xml:id="ask-person-2452">
+            <person xml:id="schnitzler-kino_person-2452">
                <persName>Schlee, Walter</persName>
             </person>
-            <person xml:id="ask-person-2693">
+            <person xml:id="schnitzler-kino_person-2693">
                <persName>Szakall, Szöke</persName>
                <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
             </person>
-            <person xml:id="ask-person-2888">
+            <person xml:id="schnitzler-kino_person-2888">
                <persName>Wassermann, Walter</persName>
             </person>
          </listPerson>

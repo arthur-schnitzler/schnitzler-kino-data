@@ -90,39 +90,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-182">
+            <person xml:id="schnitzler-kino_person-182">
                <persName>Baum, Vicky</persName>
                <idno type="GND">https://d-nb.info/gnd/1140877267</idno>
             </person>
-            <person xml:id="ask-person-615">
+            <person xml:id="schnitzler-kino_person-615">
                <persName>Damman, Gerhard</persName>
                <idno type="GND">https://d-nb.info/gnd/127628912X</idno>
             </person>
-            <person xml:id="ask-person-2436">
+            <person xml:id="schnitzler-kino_person-2436">
                <persName>Sauer, Fred</persName>
                <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
             </person>
-            <person xml:id="ask-person-2609">
+            <person xml:id="schnitzler-kino_person-2609">
                <persName>Stahl-Nachbaur, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/117203688</idno>
             </person>
-            <person xml:id="ask-person-2691">
+            <person xml:id="schnitzler-kino_person-2691">
                <persName>Sym, Igo</persName>
                <idno type="GND">https://d-nb.info/gnd/1032625317</idno>
             </person>
-            <person xml:id="ask-person-2719">
+            <person xml:id="schnitzler-kino_person-2719">
                <persName>Temary, Elza</persName>
                <idno type="GND">https://d-nb.info/gnd/140579222</idno>
             </person>
-            <person xml:id="ask-person-2777">
+            <person xml:id="schnitzler-kino_person-2777">
                <persName>Tschechowa, Olga</persName>
                <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
-            <person xml:id="ask-person-2807">
+            <person xml:id="schnitzler-kino_person-2807">
                <persName>Vallentin, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/117341606</idno>
             </person>
-            <person xml:id="ask-person-2870">
+            <person xml:id="schnitzler-kino_person-2870">
                <persName>Walter, Hertha von</persName>
             </person>
          </listPerson>

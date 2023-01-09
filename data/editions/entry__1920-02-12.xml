@@ -90,33 +90,33 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-255">
+            <person xml:id="schnitzler-kino_person-255">
                <persName>Bernède, Arthur</persName>
                <idno type="GND">https://d-nb.info/gnd/121064905</idno>
             </person>
-            <person xml:id="ask-person-583">
+            <person xml:id="schnitzler-kino_person-583">
                <persName>Cresté, René</persName>
             </person>
-            <person xml:id="ask-person-620">
+            <person xml:id="schnitzler-kino_person-620">
                <persName>Dario, Yvonne</persName>
                <idno type="GND">https://d-nb.info/gnd/130890804</idno>
             </person>
-            <person xml:id="ask-person-880">
+            <person xml:id="schnitzler-kino_person-880">
                <persName>Feuillade, Louis</persName>
                <idno type="GND">https://d-nb.info/gnd/118956574</idno>
             </person>
-            <person xml:id="ask-person-1845">
+            <person xml:id="schnitzler-kino_person-1845">
                <persName>Mathé, Édouard</persName>
             </person>
-            <person xml:id="ask-person-1911">
+            <person xml:id="schnitzler-kino_person-1911">
                <persName>Michel, Gaston</persName>
                <idno type="GND">https://d-nb.info/gnd/1058721798</idno>
             </person>
-            <person xml:id="ask-person-2000">
+            <person xml:id="schnitzler-kino_person-2000">
                <persName>Musidora</persName>
                <idno type="GND">https://d-nb.info/gnd/114588279</idno>
             </person>
-            <person xml:id="ask-person-2228">
+            <person xml:id="schnitzler-kino_person-2228">
                <persName>Poyen, René</persName>
                <idno type="GND">https://d-nb.info/gnd/122794567</idno>
             </person>

@@ -92,41 +92,41 @@ Besprechung von Lilly Klaudy in NFP 8.2.1924, S. 16..</ab></div>
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-299">
+            <person xml:id="schnitzler-kino_person-299">
                <persName>Bloch, Ferda</persName>
             </person>
-            <person xml:id="ask-person-1231">
+            <person xml:id="schnitzler-kino_person-1231">
                <persName>Heath, Percy</persName>
                <idno type="GND">https://d-nb.info/gnd/134400917</idno>
             </person>
-            <person xml:id="ask-person-1459">
+            <person xml:id="schnitzler-kino_person-1459">
                <persName>Katterjohn, Monte M.</persName>
                <idno type="GND">https://d-nb.info/gnd/141176377</idno>
             </person>
-            <person xml:id="ask-person-1504">
+            <person xml:id="schnitzler-kino_person-1504">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="ask-person-1690">
+            <person xml:id="schnitzler-kino_person-1690">
                <persName>Lisle, David</persName>
                <idno type="GND">https://d-nb.info/gnd/1157580416</idno>
             </person>
-            <person xml:id="ask-person-1778">
+            <person xml:id="schnitzler-kino_person-1778">
                <persName>Mahler-Werfel, Alma</persName>
                <idno type="GND">https://d-nb.info/gnd/11857633X</idno>
             </person>
-            <person xml:id="ask-person-2008">
+            <person xml:id="schnitzler-kino_person-2008">
                <persName>Nagel, Conrad</persName>
                <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
             </person>
-            <person xml:id="ask-person-2471">
+            <person xml:id="schnitzler-kino_person-2471">
                <persName>Schnitzler, Lili</persName>
                <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="ask-person-2688">
+            <person xml:id="schnitzler-kino_person-2688">
                <persName>Swanson, Gloria</persName>
                <idno type="GND">https://d-nb.info/gnd/122997506</idno>
             </person>
-            <person xml:id="ask-person-2980">
+            <person xml:id="schnitzler-kino_person-2980">
                <persName>Wood, Sam</persName>
                <idno type="GND">https://d-nb.info/gnd/130010367</idno>
             </person>

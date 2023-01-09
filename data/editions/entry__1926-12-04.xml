@@ -91,41 +91,41 @@ Besprechung NFP 24.9.1926, S. 17. Anzeige und Besprechung NFP 3.12.1926, S. 20. 
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-227">
+            <person xml:id="schnitzler-kino_person-227">
                <persName>Bercovici, Konrad</persName>
                <idno type="GND">https://d-nb.info/gnd/12292925X</idno>
             </person>
-            <person xml:id="ask-person-338">
+            <person xml:id="schnitzler-kino_person-338">
                <persName>Boyd, William</persName>
             </person>
-            <person xml:id="ask-person-527">
+            <person xml:id="schnitzler-kino_person-527">
                <persName>Coffee, Lenore J.</persName>
                <idno type="GND">https://d-nb.info/gnd/140167862</idno>
             </person>
-            <person xml:id="ask-person-658">
+            <person xml:id="schnitzler-kino_person-658">
                <persName>DeMille, Cecil B.</persName>
                <idno type="GND">https://d-nb.info/gnd/119244012</idno>
             </person>
-            <person xml:id="ask-person-759">
+            <person xml:id="schnitzler-kino_person-759">
                <persName>Edeson, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/1227955766</idno>
             </person>
-            <person xml:id="ask-person-835">
+            <person xml:id="schnitzler-kino_person-835">
                <persName>Fair, Elinor</persName>
                <idno type="GND">https://d-nb.info/gnd/1017937141</idno>
             </person>
-            <person xml:id="ask-person-857">
+            <person xml:id="schnitzler-kino_person-857">
                <persName>Faye, Julia</persName>
                <idno type="GND">https://d-nb.info/gnd/1016013884</idno>
             </person>
-            <person xml:id="ask-person-1544">
+            <person xml:id="schnitzler-kino_person-1544">
                <persName>Kosloff, Theodore</persName>
                <idno type="GND">https://d-nb.info/gnd/138775982</idno>
             </person>
-            <person xml:id="ask-person-2269">
+            <person xml:id="schnitzler-kino_person-2269">
                <persName>Rankin, Arthur</persName>
             </person>
-            <person xml:id="ask-person-2813">
+            <person xml:id="schnitzler-kino_person-2813">
                <persName>Várkonyi, [Michael] Victor</persName>
             </person>
          </listPerson>

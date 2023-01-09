@@ -91,37 +91,37 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-68">
+            <person xml:id="schnitzler-kino_person-68">
                <persName>Annabella</persName>
             </person>
-            <person xml:id="ask-person-157">
+            <person xml:id="schnitzler-kino_person-157">
                <persName>Baroux, Lucien</persName>
                <idno type="GND">https://d-nb.info/gnd/133316106</idno>
             </person>
-            <person xml:id="ask-person-644">
+            <person xml:id="schnitzler-kino_person-644">
                <persName>Decoin, Henri</persName>
                <idno type="GND">https://d-nb.info/gnd/128607173</idno>
             </person>
-            <person xml:id="ask-person-982">
+            <person xml:id="schnitzler-kino_person-982">
                <persName>Gallone, Carmine</persName>
                <idno type="GND">https://d-nb.info/gnd/119353199</idno>
             </person>
-            <person xml:id="ask-person-1897">
+            <person xml:id="schnitzler-kino_person-1897">
                <persName>Méra, Edith</persName>
                <idno type="GND">https://d-nb.info/gnd/1061531112</idno>
             </person>
-            <person xml:id="ask-person-2216">
+            <person xml:id="schnitzler-kino_person-2216">
                <persName>Porges</persName>
                <idno type="GND">https://d-nb.info/gnd/116268697</idno>
             </person>
-            <person xml:id="ask-person-2233">
+            <person xml:id="schnitzler-kino_person-2233">
                <persName>Préjean, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/135422833</idno>
             </person>
-            <person xml:id="ask-person-2303">
+            <person xml:id="schnitzler-kino_person-2303">
                <persName>Rémy, Constante</persName>
             </person>
-            <person xml:id="ask-person-2549">
+            <person xml:id="schnitzler-kino_person-2549">
                <persName>Siebrecht, Eduard</persName>
                <idno type="GND">https://d-nb.info/gnd/1205354077</idno>
             </person>

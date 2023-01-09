@@ -90,34 +90,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-177">
+            <person xml:id="schnitzler-kino_person-177">
                <persName>Baudin, Henri</persName>
                <idno type="GND">https://d-nb.info/gnd/106227234X</idno>
             </person>
-            <person xml:id="ask-person-1658">
+            <person xml:id="schnitzler-kino_person-1658">
                <persName>Lettinger, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
             </person>
-            <person xml:id="ask-person-1807">
+            <person xml:id="schnitzler-kino_person-1807">
                <persName>Maradon, Pierre</persName>
             </person>
-            <person xml:id="ask-person-1912">
+            <person xml:id="schnitzler-kino_person-1912">
                <persName>Mierendorff, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/1020648120</idno>
             </person>
-            <person xml:id="ask-person-2030">
+            <person xml:id="schnitzler-kino_person-2030">
                <persName>Neumann, Lotte</persName>
                <idno type="GND">https://d-nb.info/gnd/128281200</idno>
             </person>
-            <person xml:id="ask-person-2392">
+            <person xml:id="schnitzler-kino_person-2392">
                <persName>Rouer, Germaine</persName>
                <idno type="GND">https://d-nb.info/gnd/1061494292</idno>
             </person>
-            <person xml:id="ask-person-2681">
+            <person xml:id="schnitzler-kino_person-2681">
                <persName>Sudermann, Hermann</persName>
                <idno type="GND">https://d-nb.info/gnd/118619853</idno>
             </person>
-            <person xml:id="ask-person-2746">
+            <person xml:id="schnitzler-kino_person-2746">
                <persName>Tiedtke, Jakob</persName>
                <idno type="GND">https://d-nb.info/gnd/117377066</idno>
             </person>

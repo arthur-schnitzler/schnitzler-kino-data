@@ -90,34 +90,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-58">
+            <person xml:id="schnitzler-kino_person-58">
                <persName>Ama, Lissy</persName>
             </person>
-            <person xml:id="ask-person-1028">
+            <person xml:id="schnitzler-kino_person-1028">
                <persName>Gibson, Vivian</persName>
                <idno type="GND">https://d-nb.info/gnd/1062485130</idno>
             </person>
-            <person xml:id="ask-person-1374">
+            <person xml:id="schnitzler-kino_person-1374">
                <persName>Jacques, Norbert</persName>
                <idno type="GND">https://d-nb.info/gnd/118556444</idno>
             </person>
-            <person xml:id="ask-person-1745">
+            <person xml:id="schnitzler-kino_person-1745">
                <persName>Lüthge, Bobby E.</persName>
                <idno type="GND">https://d-nb.info/gnd/106438158</idno>
             </person>
-            <person xml:id="ask-person-2476">
+            <person xml:id="schnitzler-kino_person-2476">
                <persName>Scholz, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
             </person>
-            <person xml:id="ask-person-2632">
+            <person xml:id="schnitzler-kino_person-2632">
                <persName>Steinhoff, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/118993933</idno>
             </person>
-            <person xml:id="ask-person-2633">
+            <person xml:id="schnitzler-kino_person-2633">
                <persName>Steinrück, Albert</persName>
                <idno type="GND">https://d-nb.info/gnd/117263923</idno>
             </person>
-            <person xml:id="ask-person-2677">
+            <person xml:id="schnitzler-kino_person-2677">
                <persName>Stüwe, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/11736293X</idno>
             </person>

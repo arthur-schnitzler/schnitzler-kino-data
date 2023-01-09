@@ -92,65 +92,65 @@ Abend mit A. Kino bei „Sturm im Wasserglas“. Er ist nervös, unfreundlich. W
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-695">
+            <person xml:id="schnitzler-kino_person-695">
                <persName>Donath, Ferdinand</persName>
                <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
             </person>
-            <person xml:id="ask-person-934">
+            <person xml:id="schnitzler-kino_person-934">
                <persName>Frank, Bruno</persName>
                <idno type="GND">https://d-nb.info/gnd/1271984091</idno>
             </person>
-            <person xml:id="ask-person-1340">
+            <person xml:id="schnitzler-kino_person-1340">
                <persName>Hübner, Herbert</persName>
                <idno type="GND">https://d-nb.info/gnd/117045128</idno>
             </person>
-            <person xml:id="ask-person-1373">
+            <person xml:id="schnitzler-kino_person-1373">
                <persName>Jacoby, Georg</persName>
                <idno type="GND">https://d-nb.info/gnd/1243843225</idno>
             </person>
-            <person xml:id="ask-person-1811">
+            <person xml:id="schnitzler-kino_person-1811">
                <persName>Maren, Grete</persName>
                <idno type="GND">https://d-nb.info/gnd/106131877X</idno>
             </person>
-            <person xml:id="ask-person-1983">
+            <person xml:id="schnitzler-kino_person-1983">
                <persName>Müller, Renate</persName>
             </person>
-            <person xml:id="ask-person-2044">
+            <person xml:id="schnitzler-kino_person-2044">
                <persName>Niese, Hansi</persName>
                <idno type="GND">https://d-nb.info/gnd/117016705</idno>
             </person>
-            <person xml:id="ask-person-2093">
+            <person xml:id="schnitzler-kino_person-2093">
                <persName>Otto, Paul</persName>
                <idno type="GND">https://d-nb.info/gnd/1016966490</idno>
             </person>
-            <person xml:id="ask-person-2139">
+            <person xml:id="schnitzler-kino_person-2139">
                <persName>Paulsen, Harald</persName>
                <idno type="GND">https://d-nb.info/gnd/116065796</idno>
             </person>
-            <person xml:id="ask-person-2414">
+            <person xml:id="schnitzler-kino_person-2414">
                <persName>Sabo, Oskar</persName>
                <idno type="GND">https://d-nb.info/gnd/126563608</idno>
             </person>
-            <person xml:id="ask-person-2422">
+            <person xml:id="schnitzler-kino_person-2422">
                <persName>Salten, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>
-            <person xml:id="ask-person-2452">
+            <person xml:id="schnitzler-kino_person-2452">
                <persName>Schlee, Walter</persName>
             </person>
-            <person xml:id="ask-person-2469">
+            <person xml:id="schnitzler-kino_person-2469">
                <persName>Schnitzler, Heinrich</persName>
                <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="ask-person-2473">
+            <person xml:id="schnitzler-kino_person-2473">
                <persName>Albu, Ruth</persName>
                <idno type="GND">https://d-nb.info/gnd/130068101</idno>
             </person>
-            <person xml:id="ask-person-2767">
+            <person xml:id="schnitzler-kino_person-2767">
                <persName>Tressler, Otto</persName>
                <idno type="GND">https://d-nb.info/gnd/117414719</idno>
             </person>
-            <person xml:id="ask-person-2888">
+            <person xml:id="schnitzler-kino_person-2888">
                <persName>Wassermann, Walter</persName>
             </person>
          </listPerson>

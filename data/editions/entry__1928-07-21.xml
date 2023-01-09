@@ -92,37 +92,37 @@ In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Co
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-597">
+            <person xml:id="schnitzler-kino_person-597">
                <persName>Cumming, Dorothy</persName>
                <idno type="GND">https://d-nb.info/gnd/1238196160</idno>
             </person>
-            <person xml:id="ask-person-658">
+            <person xml:id="schnitzler-kino_person-658">
                <persName>DeMille, Cecil B.</persName>
                <idno type="GND">https://d-nb.info/gnd/119244012</idno>
             </person>
-            <person xml:id="ask-person-759">
+            <person xml:id="schnitzler-kino_person-759">
                <persName>Edeson, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/1227955766</idno>
             </person>
-            <person xml:id="ask-person-1709">
+            <person xml:id="schnitzler-kino_person-1709">
                <persName>Logan, Jacqueline</persName>
             </person>
-            <person xml:id="ask-person-2445">
+            <person xml:id="schnitzler-kino_person-2445">
                <persName>Schildkraut, Joseph</persName>
                <idno type="GND">https://d-nb.info/gnd/139569928</idno>
             </person>
-            <person xml:id="ask-person-2446">
+            <person xml:id="schnitzler-kino_person-2446">
                <persName>Schildkraut, Rudolf</persName>
                <idno type="GND">https://d-nb.info/gnd/117265861</idno>
             </person>
-            <person xml:id="ask-person-2758">
+            <person xml:id="schnitzler-kino_person-2758">
                <persName>Torrence, Ernest</persName>
                <idno type="GND">https://d-nb.info/gnd/173538924</idno>
             </person>
-            <person xml:id="ask-person-2813">
+            <person xml:id="schnitzler-kino_person-2813">
                <persName>Várkonyi, [Michael] Victor</persName>
             </person>
-            <person xml:id="ask-person-2881">
+            <person xml:id="schnitzler-kino_person-2881">
                <persName>Warner, H. B.</persName>
                <idno type="GND">https://d-nb.info/gnd/115089394X</idno>
             </person>

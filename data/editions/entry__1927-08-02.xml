@@ -91,39 +91,39 @@ Einziger nachgewiesener Spielort: Kepler-Kino (NZG 2.8.1927, S. 8). </ab></div>
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-878">
+            <person xml:id="schnitzler-kino_person-878">
                <persName>Ferrari, Angelo</persName>
                <idno type="GND">https://d-nb.info/gnd/1057598798</idno>
             </person>
-            <person xml:id="ask-person-1490">
+            <person xml:id="schnitzler-kino_person-1490">
                <persName>Kid, Mary</persName>
                <idno type="GND">https://d-nb.info/gnd/1061461572</idno>
             </person>
-            <person xml:id="ask-person-1601">
+            <person xml:id="schnitzler-kino_person-1601">
                <persName>Langen, Margarete M.</persName>
                <idno type="GND">https://d-nb.info/gnd/1062208250</idno>
             </person>
-            <person xml:id="ask-person-2018">
+            <person xml:id="schnitzler-kino_person-2018">
                <persName>Neff, Wolfgang</persName>
                <idno type="GND">https://d-nb.info/gnd/1164098349</idno>
             </person>
-            <person xml:id="ask-person-2119">
+            <person xml:id="schnitzler-kino_person-2119">
                <persName>Pankau, Mia</persName>
                <idno type="GND">https://d-nb.info/gnd/1061842932</idno>
             </person>
-            <person xml:id="ask-person-2304">
+            <person xml:id="schnitzler-kino_person-2304">
                <persName>Renz, Gustav von</persName>
                <idno type="GND">https://d-nb.info/gnd/1062104668</idno>
             </person>
-            <person xml:id="ask-person-2850">
+            <person xml:id="schnitzler-kino_person-2850">
                <persName>Wachtel, Rosa</persName>
                <idno type="GND">https://d-nb.info/gnd/106148548X</idno>
             </person>
-            <person xml:id="ask-person-2905">
+            <person xml:id="schnitzler-kino_person-2905">
                <persName>Weiss, Lilian</persName>
                <idno type="GND">https://d-nb.info/gnd/117290696</idno>
             </person>
-            <person xml:id="ask-person-2953">
+            <person xml:id="schnitzler-kino_person-2953">
                <persName>Winar, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/1061925110</idno>
             </person>

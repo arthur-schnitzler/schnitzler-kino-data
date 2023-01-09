@@ -93,34 +93,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-419">
+            <person xml:id="schnitzler-kino_person-419">
                <persName>Burger, Erich</persName>
             </person>
-            <person xml:id="ask-person-550">
+            <person xml:id="schnitzler-kino_person-550">
                <persName>Connelly, Edward</persName>
                <idno type="GND">https://d-nb.info/gnd/1050223748</idno>
             </person>
-            <person xml:id="ask-person-1263">
+            <person xml:id="schnitzler-kino_person-1263">
                <persName>Hersholt, Jean</persName>
                <idno type="GND">https://d-nb.info/gnd/1037762207</idno>
             </person>
-            <person xml:id="ask-person-1733">
+            <person xml:id="schnitzler-kino_person-1733">
                <persName>Lubitsch, Ernst</persName>
                <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
-            <person xml:id="ask-person-2015">
+            <person xml:id="schnitzler-kino_person-2015">
                <persName>Navarro, Ramon</persName>
                <idno type="GND">https://d-nb.info/gnd/1030034095</idno>
             </person>
-            <person xml:id="ask-person-2472">
+            <person xml:id="schnitzler-kino_person-2472">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
                <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="ask-person-2533">
+            <person xml:id="schnitzler-kino_person-2533">
                <persName>Seyffertitz, Gustav von</persName>
                <idno type="GND">https://d-nb.info/gnd/132860732</idno>
             </person>
-            <person xml:id="ask-person-2538">
+            <person xml:id="schnitzler-kino_person-2538">
                <persName>Shearer, Norma</persName>
                <idno type="GND">https://d-nb.info/gnd/119459183</idno>
             </person>

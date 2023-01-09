@@ -91,56 +91,56 @@ Ankündigung NFP 13.3.1931, S. 9. Premierennotiz NFP 17.3.1931, S. 8, für 20.3.
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-100">
+            <person xml:id="schnitzler-kino_person-100">
                <persName>Aslan, Raoul</persName>
                <idno type="GND">https://d-nb.info/gnd/118504681</idno>
             </person>
-            <person xml:id="ask-person-349">
+            <person xml:id="schnitzler-kino_person-349">
                <persName>Brandt, Johannes</persName>
                <idno type="GND">https://d-nb.info/gnd/1016437463</idno>
             </person>
-            <person xml:id="ask-person-1004">
+            <person xml:id="schnitzler-kino_person-1004">
                <persName>Gebühr, Otto</persName>
                <idno type="GND">https://d-nb.info/gnd/124979610</idno>
             </person>
-            <person xml:id="ask-person-1051">
+            <person xml:id="schnitzler-kino_person-1051">
                <persName>Goetz, Carl</persName>
             </person>
-            <person xml:id="ask-person-1326">
+            <person xml:id="schnitzler-kino_person-1326">
                <persName>Hörbiger, Attila</persName>
                <idno type="GND">https://d-nb.info/gnd/118552139</idno>
             </person>
-            <person xml:id="ask-person-1383">
+            <person xml:id="schnitzler-kino_person-1383">
                <persName>Janssen, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/136550592</idno>
             </person>
-            <person xml:id="ask-person-1462">
+            <person xml:id="schnitzler-kino_person-1462">
                <persName>Kayssler, Friedrich</persName>
             </person>
-            <person xml:id="ask-person-1687">
+            <person xml:id="schnitzler-kino_person-1687">
                <persName>Lingen, Theo</persName>
                <idno type="GND">https://d-nb.info/gnd/118728431</idno>
             </person>
-            <person xml:id="ask-person-1712">
+            <person xml:id="schnitzler-kino_person-1712">
                <persName>Loos, Theodor</persName>
                <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="ask-person-1983">
+            <person xml:id="schnitzler-kino_person-1983">
                <persName>Müller, Renate</persName>
             </person>
-            <person xml:id="ask-person-2289">
+            <person xml:id="schnitzler-kino_person-2289">
                <persName>Rehmann, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/126806195</idno>
             </person>
-            <person xml:id="ask-person-2299">
+            <person xml:id="schnitzler-kino_person-2299">
                <persName>Reisch, Walter</persName>
                <idno type="GND">https://d-nb.info/gnd/116428953</idno>
             </person>
-            <person xml:id="ask-person-2478">
+            <person xml:id="schnitzler-kino_person-2478">
                <persName>Schön, Margarete</persName>
                <idno type="GND">https://d-nb.info/gnd/1216900655</idno>
             </person>
-            <person xml:id="ask-person-2794">
+            <person xml:id="schnitzler-kino_person-2794">
                <persName>Ucicky, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/119070812</idno>
             </person>

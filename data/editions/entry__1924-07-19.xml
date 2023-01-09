@@ -90,43 +90,43 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-1001">
+            <person xml:id="schnitzler-kino_person-1001">
                <persName>Gaus, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/120311625X</idno>
             </person>
-            <person xml:id="ask-person-1006">
+            <person xml:id="schnitzler-kino_person-1006">
                <persName>Geisendörfer, Julius</persName>
                <idno type="GND">https://d-nb.info/gnd/116500514</idno>
             </person>
-            <person xml:id="ask-person-1128">
+            <person xml:id="schnitzler-kino_person-1128">
                <persName>Grunwald, Willy</persName>
                <idno type="GND">https://d-nb.info/gnd/116901438</idno>
             </person>
-            <person xml:id="ask-person-1212">
+            <person xml:id="schnitzler-kino_person-1212">
                <persName>Hartmann, Robert</persName>
                <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
             </person>
-            <person xml:id="ask-person-1528">
+            <person xml:id="schnitzler-kino_person-1528">
                <persName>Köhler, Marga</persName>
                <idno type="GND">https://d-nb.info/gnd/1061599760</idno>
             </person>
-            <person xml:id="ask-person-2040">
+            <person xml:id="schnitzler-kino_person-2040">
                <persName>Nielsen, Asta</persName>
                <idno type="GND">https://d-nb.info/gnd/118587854</idno>
             </person>
-            <person xml:id="ask-person-2366">
+            <person xml:id="schnitzler-kino_person-2366">
                <persName>Roemer, Josef</persName>
                <idno type="GND">https://d-nb.info/gnd/141328533</idno>
             </person>
-            <person xml:id="ask-person-2967">
+            <person xml:id="schnitzler-kino_person-2967">
                <persName>Wojan, Olga</persName>
                <idno type="GND">https://d-nb.info/gnd/1061337391</idno>
             </person>
-            <person xml:id="ask-person-2986">
+            <person xml:id="schnitzler-kino_person-2986">
                <persName>Wrede, Fritz</persName>
                <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="ask-person-3017">
+            <person xml:id="schnitzler-kino_person-3017">
                <persName>Zilzer, Max</persName>
                <idno type="GND">https://d-nb.info/gnd/1061940993</idno>
             </person>

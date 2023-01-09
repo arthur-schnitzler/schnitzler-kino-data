@@ -90,26 +90,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-752">
+            <person xml:id="schnitzler-kino_person-752">
                <persName>Early, J. W.</persName>
                <idno type="GND">https://d-nb.info/gnd/159826764</idno>
             </person>
-            <person xml:id="ask-person-870">
+            <person xml:id="schnitzler-kino_person-870">
                <persName>Fenton, Mark</persName>
                <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
-            <person xml:id="ask-person-1410">
+            <person xml:id="schnitzler-kino_person-1410">
                <persName>Jones, Grover</persName>
                <idno type="GND">https://d-nb.info/gnd/142095001</idno>
             </person>
-            <person xml:id="ask-person-2210">
+            <person xml:id="schnitzler-kino_person-2210">
                <persName>Pollak, Hr.</persName>
                <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="ask-person-2704">
+            <person xml:id="schnitzler-kino_person-2704">
                <persName>Talmagde, Richard</persName>
             </person>
-            <person xml:id="ask-person-2762">
+            <person xml:id="schnitzler-kino_person-2762">
                <persName>Tourneur, Andrée</persName>
             </person>
          </listPerson>

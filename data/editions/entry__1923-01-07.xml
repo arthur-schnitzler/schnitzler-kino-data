@@ -90,15 +90,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-606">
+            <person xml:id="schnitzler-kino_person-606">
                <persName>Czerny, Ludwig</persName>
                <idno type="GND">https://d-nb.info/gnd/1034343416</idno>
             </person>
-            <person xml:id="ask-person-2686">
+            <person xml:id="schnitzler-kino_person-2686">
                <persName>Svedin, Ada</persName>
                <idno type="GND">https://d-nb.info/gnd/1061849201</idno>
             </person>
-            <person xml:id="ask-person-3014">
+            <person xml:id="schnitzler-kino_person-3014">
                <persName>Ziener, Manny</persName>
                <idno type="GND">https://d-nb.info/gnd/1033305049</idno>
             </person>

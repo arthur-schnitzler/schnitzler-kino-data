@@ -91,30 +91,30 @@ Höchstwahrscheinlich sehen Pollaczek und Schnitzler eine späte Aufführung des
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-4">
+            <person xml:id="schnitzler-kino_person-4">
                <persName>Schwarzkopf, Gustav</persName>
                <idno type="GND">https://d-nb.info/gnd/1014997828</idno>
             </person>
-            <person xml:id="ask-person-131">
+            <person xml:id="schnitzler-kino_person-131">
                <persName>Baker, Josephine</persName>
                <idno type="GND">https://d-nb.info/gnd/118506099</idno>
             </person>
-            <person xml:id="ask-person-322">
+            <person xml:id="schnitzler-kino_person-322">
                <persName>Bonafé, Pépa</persName>
                <idno type="GND">https://d-nb.info/gnd/1062347978</idno>
             </person>
-            <person xml:id="ask-person-931">
+            <person xml:id="schnitzler-kino_person-931">
                <persName>Francis, Joe</persName>
                <idno type="GND">https://d-nb.info/gnd/141090464</idno>
             </person>
-            <person xml:id="ask-person-1176">
+            <person xml:id="schnitzler-kino_person-1176">
                <persName>Hallier, Hélène</persName>
             </person>
-            <person xml:id="ask-person-1738">
+            <person xml:id="schnitzler-kino_person-1738">
                <persName>Luguet, André</persName>
                <idno type="GND">https://d-nb.info/gnd/13613632X</idno>
             </person>
-            <person xml:id="ask-person-2815">
+            <person xml:id="schnitzler-kino_person-2815">
                <persName>Vautel, Clément</persName>
                <idno type="GND">https://d-nb.info/gnd/107627884</idno>
             </person>

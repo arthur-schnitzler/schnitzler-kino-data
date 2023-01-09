@@ -91,36 +91,36 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-199">
+            <person xml:id="schnitzler-kino_person-199">
                <persName>Behrendt, Hans</persName>
                <idno type="GND">https://d-nb.info/gnd/11611083X</idno>
             </person>
-            <person xml:id="ask-person-415">
+            <person xml:id="schnitzler-kino_person-415">
                <persName>Bummerstedt, Christian</persName>
                <idno type="GND">https://d-nb.info/gnd/106156522X</idno>
             </person>
-            <person xml:id="ask-person-924">
+            <person xml:id="schnitzler-kino_person-924">
                <persName>Forster, Rudolf</persName>
             </person>
-            <person xml:id="ask-person-1204">
+            <person xml:id="schnitzler-kino_person-1204">
                <persName>Harlan, Veit</persName>
                <idno type="GND">https://d-nb.info/gnd/118545981</idno>
             </person>
-            <person xml:id="ask-person-1421">
+            <person xml:id="schnitzler-kino_person-1421">
                <persName>Jugo, Jenny</persName>
                <idno type="GND">https://d-nb.info/gnd/117229601</idno>
             </person>
-            <person xml:id="ask-person-1554">
+            <person xml:id="schnitzler-kino_person-1554">
                <persName>Krauß, Werner</persName>
             </person>
-            <person xml:id="ask-person-1676">
+            <person xml:id="schnitzler-kino_person-1676">
                <persName>Limburg, Olga</persName>
                <idno type="GND">https://d-nb.info/gnd/117007145</idno>
             </person>
-            <person xml:id="ask-person-2495">
+            <person xml:id="schnitzler-kino_person-2495">
                <persName>Schulz, Franz</persName>
             </person>
-            <person xml:id="ask-person-2644">
+            <person xml:id="schnitzler-kino_person-2644">
                <persName>Sternheim, Carl</persName>
             </person>
          </listPerson>

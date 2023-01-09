@@ -91,30 +91,30 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="ask-person-163">
+            <person xml:id="schnitzler-kino_person-163">
                <persName>Barrymore, John</persName>
                <idno type="GND">https://d-nb.info/gnd/119340933</idno>
             </person>
-            <person xml:id="ask-person-522">
+            <person xml:id="schnitzler-kino_person-522">
                <persName>Cleve, Felix</persName>
                <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="ask-person-854">
+            <person xml:id="schnitzler-kino_person-854">
                <persName>Fast, Boris de</persName>
                <idno type="GND">https://d-nb.info/gnd/1062428110</idno>
             </person>
-            <person xml:id="ask-person-856">
+            <person xml:id="schnitzler-kino_person-856">
                <persName>Fawcett, George</persName>
                <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
             </person>
-            <person xml:id="ask-person-1330">
+            <person xml:id="schnitzler-kino_person-1330">
                <persName>Horn, Camilla</persName>
             </person>
-            <person xml:id="ask-person-2713">
+            <person xml:id="schnitzler-kino_person-2713">
                <persName>Taylor, Sam</persName>
                <idno type="GND">https://d-nb.info/gnd/140979778</idno>
             </person>
-            <person xml:id="ask-person-2975">
+            <person xml:id="schnitzler-kino_person-2975">
                <persName>Wolheim, Louis</persName>
                <idno type="GND">https://d-nb.info/gnd/129297542</idno>
             </person>
