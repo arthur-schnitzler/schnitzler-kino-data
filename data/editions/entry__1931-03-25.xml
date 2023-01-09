@@ -124,12 +124,7 @@ Ankündigung NFP 21.11.1930, S. 13, für 24.11.1930 in der Urania. Der Film wurd
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

@@ -146,10 +146,7 @@ Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen ni
                <location><address><addrLine>08., Josefstädterstraße 57</addrLine></address></location>
                <note type="info"> Eröffnet 1908. Umbenennung 1927. Tonfilm ab 1931. Fassungsraum: 1909: 75 Sitzplätze, 1914: 190, 1922: 190, 1926: 192 (davon 16 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

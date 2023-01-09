@@ -100,10 +100,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>03., Löwengasse 33</addrLine></address></location>
                <note type="info"> Eröffnet 1922. Fassungsraum: Galerie. 1922: insgesamt 992 Sitzplätze (davon 110 Logenplätze), 320 auf der Galerie.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

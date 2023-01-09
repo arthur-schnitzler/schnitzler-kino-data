@@ -141,10 +141,7 @@ Premierennotiz NFP 1.5.1931, S. 14, für 5.5.1931 Ur- und Alleinaufführung Schw
                <note type="info"> Eröffnet 1919. Umbenennung 1927. Fassungsraum: Galerie. 1922: 702 Sitzplätze (davon 120 Logenplätze).
 </note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

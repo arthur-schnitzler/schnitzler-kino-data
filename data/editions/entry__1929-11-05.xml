@@ -123,10 +123,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>17., Dornerplatz 9</addrLine></address></location>
                <note type="info"> Eröffnet 1912. Umbenennung 1927. Tonfilm ab 1930. Fassungsraum: 1914: 320 Sitzplätze, 1922: 520 Sitzplätze (davon 22 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

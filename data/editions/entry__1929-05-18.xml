@@ -145,12 +145,7 @@ Premierennotiz NFP 3.5.1929, S. 11, für 6.5.1929 unter der Angabe »Ur- und All
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

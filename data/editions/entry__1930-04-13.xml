@@ -140,10 +140,7 @@ Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterst
                <location><address><addrLine>08., Alserstraße 23</addrLine></address></location>
                <note type="info"> Eröffnet 1911. Tonfilm ab 1930. Fassungsraum: 1914: Ca. 320 Sitzplätze, 1918 Einbau von Logen, 1922: 301 Sitzplätze (davon 34 Logenplätze), 1934: 304 (37).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

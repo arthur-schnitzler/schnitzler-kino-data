@@ -170,10 +170,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>03., Landstraßer Hauptstraße 25/27</addrLine></address></location>
                <note type="info"> Eröffnet 1913. Tonfilm ab 1931. Fassungsraum: 1914: 254 Sitzplätze, 1922: 254 Sitzplätze (20 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

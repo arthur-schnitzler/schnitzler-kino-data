@@ -158,12 +158,7 @@ Keine Lust zum arbeiten u. fühle wie die Zeit vergeht – kostbare Zeit. Der Br
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

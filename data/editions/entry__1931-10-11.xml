@@ -160,10 +160,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>18., Gersthoferstraße 73</addrLine></address></location>
                <note type="info"> Eröffnet 1912, Fassungsraum: 1914: 284 Sitzplätze, 1922: 252 Sitzplätze (davon 16 Logenplätze), 1934: 240 (16). – Das einzige Kino im Bezirksteil Gersthof. Schwarz gibt keine Adaption des Kinos für den Tonfilm an, was im Widerspruch zu den letzten 5 bei Schnitzler notierten Besuchen in diesem Kino steht.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

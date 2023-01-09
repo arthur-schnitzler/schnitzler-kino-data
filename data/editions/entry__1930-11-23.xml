@@ -157,12 +157,7 @@ Nachgewiesene Spielorte: Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 23.11.1930
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

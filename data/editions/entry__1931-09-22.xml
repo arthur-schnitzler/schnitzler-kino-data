@@ -110,12 +110,7 @@ Ankündigung NFP 4.8.1931, S. 10. Notiz NFP 7.8.1931, S. 10. Anzeige und Premier
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

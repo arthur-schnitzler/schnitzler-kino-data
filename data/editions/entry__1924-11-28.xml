@@ -145,12 +145,7 @@ Anzeige NFP 7.11.1924, S. 13f., dort Spielorte von 7.–13.11.1924.</ab></div>
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

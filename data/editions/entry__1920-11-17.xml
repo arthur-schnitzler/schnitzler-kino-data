@@ -100,10 +100,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>06., Wienzeile 4</addrLine></address></location>
                <note type="info"> Eröffnet 14.9.1911. Umbenennung 1925 bzw. 1920. Tonfilm ab 1930. Fassungsraum: 1914: 361 Sitzplätze (davon 56 Logenplätze), 1920: 399 (49), 1922: 551 (29).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

@@ -170,10 +170,7 @@ Ankündigung NFP 11.8.1931, S. 9, mit der Angabe, daß damit das Scala-Kino neu 
                <location><address><addrLine>04., Favoritenstraße 8</addrLine></address></location>
                <note type="info"> Eröffnung/Schließung: 1931-1933. Tonfilm ab 1931. Fassungsraum: Ehemaliges Johann Strauß Theater. Zwei Ränge. 1931: 1360 Sitzplätze.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

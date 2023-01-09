@@ -2,8 +2,8 @@
     <teiHeader>
         <fileDesc>
            <titleStmt>
-              <title type="main">Zitat</title>
-              <title type="sub">Schnitzler Kino</title>
+              <title type="main">Zitiervorschlag</title>
+              <title type="sub">Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino</title>
            </titleStmt>
            <publicationStmt>
               <p>Publication Information</p>
@@ -15,7 +15,10 @@
     </teiHeader>
     <text>
         <body>
-           <p>da schreibt auch der martin was hin</p>
+           <p>Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino. Herausgegeben von
+              Stephan Kurz und Michael Rohrwasser unter Mitarbeit von Daniel Schopper. Digitale
+              Ausgabe von Peter Andorfer, Martin Anton Müller und Laura Untner. Austrian Centre for digital
+              Humanities and Cultural Heritage (ACDH-CH), Wien, 2023, https://schnitzler-kino.acdh.oeaw.ac.at/</p>
         </body>
     </text>
   </TEI>

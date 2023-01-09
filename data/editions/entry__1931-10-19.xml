@@ -166,10 +166,7 @@ Deutsche Version von »Les amants de minuit« von Marc Allégret und Augusto Gen
                <location><address><addrLine>09., Währingerstraße 46</addrLine></address></location>
                <note type="info"> Eröffnet 1912. Tonfilm ab 1931. Fassungsraum: ehemaliger Schubertsaal. 1914: ca. 200 Sitzplätze, 1913: Umbau (Klappsitze statt Bänke), 1922: 177, 1934: 187 (davon 6 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

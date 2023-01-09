@@ -153,12 +153,7 @@ Premierennotiz NFP 7.6.1929, S. 12, für 14.6.1929. Anzeigen und Notiz NFP 14.6.
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

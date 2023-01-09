@@ -139,10 +139,7 @@ Nachgewiesener Spielort neben dem Flieger-Freiluft-Kino: Maria-Theresien-Kino (N
                <location><address><addrLine>09., Liechtensteinstraße 37</addrLine></address></location>
                <note type="info"> Eröffnet 1921. Tonfilm ab 1930. Freiluftkino ab 1927 (Im Garten des Palais Clam-Gallas. Betrieb auf den Sommer beschränkt.). Fassungsraum: 1922: 659 Sitzplätze (davon 68 Logenplätze), 1927: 15 Stehplätze bewilligt.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

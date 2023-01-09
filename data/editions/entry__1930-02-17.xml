@@ -134,12 +134,7 @@ Ankündigung für das Schweden-Kino NFP 7.2.1930, S. 8. Premierennotiz und Anzei
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

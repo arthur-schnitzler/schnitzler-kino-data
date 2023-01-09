@@ -137,12 +137,7 @@ Nachgewiesener Spielort: Flieger-Kino (NZG 24.7.1929, S. 8). In PFL ist der Kino
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

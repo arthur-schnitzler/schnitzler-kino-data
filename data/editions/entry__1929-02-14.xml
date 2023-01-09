@@ -136,12 +136,7 @@ Anzeige NFP 8.2.1929, S. 7, dort genannte Spielorte ab 12.2.1929: Flotten-, Sch√
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

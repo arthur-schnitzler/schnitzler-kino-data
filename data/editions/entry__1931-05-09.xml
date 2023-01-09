@@ -121,10 +121,7 @@ Spielort bestätigt NFP 9.5.1931, S. 22.</ab></div>
                <location><address><addrLine>09., Nußdorferstraße 4</addrLine></address></location>
                <note type="info"> Eröffnet 1925. Tonfilm ab 1929. Fassungsraum: 1926: 688 Sitzplätze (davon 188 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

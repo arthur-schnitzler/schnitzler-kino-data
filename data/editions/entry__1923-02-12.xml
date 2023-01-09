@@ -136,10 +136,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>01., Johannesgasse 3</addrLine></address></location>
                <note type="info"> Eröffnet 1913. Fassungsraum: 1914: 387 Sitzplätze. 1922: 387.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

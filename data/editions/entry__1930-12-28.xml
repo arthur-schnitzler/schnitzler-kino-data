@@ -146,10 +146,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>01., Wollzeile 34</addrLine></address></location>
                <note type="info"> Eröffnet 29.3.1912. Ehemaliger Theatersaal. Fassungsraum: 1914: 400 Sitzplätze, 1922: 373 Sitzplätze (davon ca. 120 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

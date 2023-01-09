@@ -139,10 +139,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>01., Rothgasse 3</addrLine></address></location>
                <note type="info"> Eröffnet 1911. Tonfilm ab 1930. Fassungsraum: 1914: Ca. 480 Sitzplätze, 1922: 486 Sitzplätze (davon 58 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

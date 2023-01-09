@@ -120,10 +120,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>01., Friedrichstraße 4</addrLine></address></location>
                <note type="info"> Eröffnet 1913. Tonfilmanlage: Eröffnung 9.8.1930. Fassungsraum: 1914: 390 Sitzplätze, 1922: 374 Sitzplätze (davon 56 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

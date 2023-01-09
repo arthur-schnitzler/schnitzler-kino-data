@@ -158,10 +158,7 @@ Und morgen wird der Brief aus dem Burgtheater kommen, der seit zwei Tagen unterw
                <note type="info"> Eröffnet 1927. Tonfilm ab 1929
 Fassungsraum: ehemaliges Theater, 3 Ränge. 1927: 1065 Sitzplätze.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

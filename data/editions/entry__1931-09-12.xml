@@ -148,10 +148,7 @@ Ankündigung NFP 4.8.1931, S. 10. Notiz NFP 7.8.1931, S. 10. Premierennotiz NFP 
                <location><address><addrLine>19., Döblinger Hauptstraße 74</addrLine></address></location>
                <note type="info"> Eröffnet 1913; Freiluftkino: 1922-1926. Tonfilm ab 1931. Fassungsraum: 1914: 232 Sitzplätze, 1922: 304, 1922: 290 (davon 25 Logenplätze). Das Freiluftkino fasste 450 Besucher.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

@@ -143,12 +143,7 @@ Ankündigung NFP 3.10.1930, S. 11. Premierennotiz NFP 31.10.1930, S. 10, für 7.
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

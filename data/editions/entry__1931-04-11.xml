@@ -135,10 +135,7 @@ Ankündigung NFP 27.2.1931, S. 14. Notiz NFP 3.3.1931, S. 11. Premierennotiz NFP
                <location><address><addrLine>07., Lerchenfelderstraße 35</addrLine></address></location>
                <note type="info"> Gründungsjahr: 1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914 und 1922: 590 Sitzplätze (davon 48 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

@@ -117,12 +117,7 @@ Mittag 39â€“39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino â
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

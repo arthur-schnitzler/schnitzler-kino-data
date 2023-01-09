@@ -130,12 +130,7 @@ Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsy
                <placeName>Bern</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

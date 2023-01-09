@@ -129,12 +129,7 @@ Abend Kino, unbeträchtlich, aber spannend, A. viel wärmer und sehr lieb zu mir
                <placeName>Marienbad</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

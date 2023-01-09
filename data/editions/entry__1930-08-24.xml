@@ -138,12 +138,7 @@ Ankündigung NFP 8.8.1930, S. 11, mit den Spielorten Imperial-, Kolosseum- und L
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

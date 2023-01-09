@@ -138,10 +138,7 @@ In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Co
                <location><address><addrLine>08., Josefstädterstraße 43-45</addrLine></address></location>
                <note type="info"> Eröffnet 1914. Umbenennung 1914. Tonfilm ab 1930. Fassungsraum: 1914: 706 Sitzplätze (davon 40 Logenplätze), 1920: 788 (70).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

@@ -105,10 +105,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>02., Ausstellungsstraße 145</addrLine></address></location>
                <note type="info"> Eröffnet 1920. Tonfilm ab November 1929. Fassungsraum: In drei Etagen. 1922: insgesamt 1767 Sitzplätze.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

@@ -144,10 +144,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>01., Opernring 19</addrLine></address></location>
                <note type="info"> Eröffnet 1912. Tonfilm ab 1930. Fassungsraum: Balkon. 1914: ca. 370 Sitzplätze, 1922: 378 Sitzplätze (davon 24 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

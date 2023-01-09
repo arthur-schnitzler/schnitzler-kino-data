@@ -129,10 +129,7 @@ Ankündigung NFP 13.3.1931, S. 9. Notizen NFP 20.3.1931, S. 7, NFP 3.3.1931, S. 
                <location><address><addrLine>09., Porzellangasse 19</addrLine></address></location>
                <note type="info"> Gründung 7.3.1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914: 593 Sitzplätze (davon 4 Logenplätze), 1922: 617 (60).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

@@ -129,12 +129,7 @@ S. 5; Kritik in Nr. 28, S. 4. Besprechung von –ss. in NFP 10.10.1924, S. 26. B
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

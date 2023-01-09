@@ -144,10 +144,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>04., Mittersteig 15</addrLine></address></location>
                <note type="info"> Eröffnet 1914. Tonfilm ab 1930. Fassungsraum: Galerie. 1914 und 1922: 556 Sitzplätze (davon 90 Logenplätze).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

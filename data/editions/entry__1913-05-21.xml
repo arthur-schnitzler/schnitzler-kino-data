@@ -100,10 +100,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>01., Fleischmarkt 1</addrLine></address></location>
                <note type="info"> Eröffnet 1910. Fassungsraum: 1914: 300 Sitzplätze. 1922: 305 Sitzplätze (davon 40 Logenplätze), 1931: Umbau auf 511 Sitze.</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

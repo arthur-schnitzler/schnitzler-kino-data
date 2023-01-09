@@ -100,10 +100,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <location><address><addrLine>01., Parkring 12</addrLine></address></location>
                <note type="info"> Eröffnet 1919. Fassungsraum: Balkon.1922: 477 Sitzplätze (davon 99 Logenplätze), 1923: 482 (111).</note>
             </org>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
+            
          </listOrg>
       </back>
    </text>

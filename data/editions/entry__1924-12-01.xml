@@ -157,12 +157,7 @@ Vgl. dreiseitiger Artikel in Filmwelt, Jg. 1924, Nr. 33, S. 4–6. Vgl. Hätte i
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>

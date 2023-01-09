@@ -174,12 +174,7 @@ Nachgewiesene Spielorte: Imperial- und Opernkino (NFP 15.2.1931, S. 30). Ankünd
                <placeName>Wien</placeName>
             </place>
          </listPlace>
-         <listOrg>
-            <org xml:id="ask_wirt__0" type="wirt">
-               <orgName>unbekannt</orgName>
-               <location><address><addrLine> , nan</addrLine></address></location>
-            </org>
-         </listOrg>
+         
       </back>
    </text>
 </TEI>
