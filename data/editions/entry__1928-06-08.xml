@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-06-08.html">
             <ab>8/6 […] Mit C. P. Kino (Frauen am Abgrund); mit ihr Churhauskeller.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp549.html">
             <ab>9.6. Vormittag von ½10-½2 Besorgungen. Polizei, Pass, Creditanstalt etc. Am Abend mit A. Kino „Frauen im Abgrund“. Elender Film. Dann Kurhauskeller. Zärtliche Stimmung. Am Montag sollen wir nach Ischl fahren. Wetter am Tag schwül, gewittrig, am Abend Regen.
 Spieglers haben gekündigt. Was für neue Sorgen! [II, 124]</ab>
          </div>

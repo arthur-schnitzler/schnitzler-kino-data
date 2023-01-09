@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-10-03.html">
             <ab>3/10 […] – Allein genachtm., dann mit C. P. (Colosseum) Kino; Im Geheimdienst (Helm etc.) –</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp984.html">
             <ab>
                <hi>3ten Okt.</hi> Mittag Carry u. Magdy, später Roman dictiert. Abend Kino mit A. Guter Kriminal-Film mit der Brig. Helm. – Sehr lieber Brief von Hery. [III, 248]</ab>
          </div>

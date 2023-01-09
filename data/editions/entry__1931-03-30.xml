@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-30.html">
             <ab>30/3 […] Zu C. P., mit ihr Bürgerkino, Karamasow (Kortner und Anna Sten).– Allein zu Haus genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp895.html">
             <ab>30.3. Carry 37.6 Temp. A. mich erst um 1/4 11 angerufen, weil die „Masseurin“ bei ihm war.– Abend A. mich geholt. „Brüder Karamasoff“. Dann nachhause. Carry Nachmittag weniger wohl, 39.2. [III, 159]</ab>
          </div>
          <div type="anmerkung">

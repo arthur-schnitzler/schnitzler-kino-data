@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-23.html">
             <ab>23/3 […] Abd. mit C. P. Kino „Afrika spricht“;– dann allein zu Haus genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp894.html">
             <ab>23.3. Carry Morgentemperatur 37.9. Schwips mit Tokayer 1874 von einem anonymen Spender, ich glaube von meinem alten Freund Globoznik, aber Carry lacht mich aus und sagt: „Von einem einfachen Mann aus dem Ambulatorium.“
 Mittag 39–39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino „Afrika spricht“, dann allein nach Haus. [III, 158]</ab>
          </div>

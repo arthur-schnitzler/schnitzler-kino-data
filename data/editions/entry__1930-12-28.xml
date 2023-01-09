@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-28.html">
             <ab>28/12 […] Hole C.P. ins Kino. (Ihre Verse für den Schluss „Weiher“.–) – Im (Elite) Kino, „Eine Frau sucht Anschluss“ – bei Meißl mit ihr genachtm. […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp869.html">
             <ab>28.12.30. Abend mit A. im Kino. Madame sucht Anschluss. „Meisl“ genachtmahlt. Er wollte bei sich zuhause essen, aber ich meinte, es sei vielleicht bequemer im Restaurant. [III, 133]</ab>
          </div>
          <div type="anmerkung">

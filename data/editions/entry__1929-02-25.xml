@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-25.html">
             <ab>25/2 […] Mit C. P. Kino („Ein Gentleman schweigt – “, Menjou),– im Auge Gottes genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp646.html">
             <ab>25.2. Gestriger Abend belanglos. Gespräche über literarische Angelegenheiten. Deprimiert nachhause. Nachmittag Diktat mit Frieda. Novelle „Kammerdiener“ in „Die Tochter des Hauses“ umgetauft. Abend Kino mit A. Er fasst im Dunkeln nach meiner Hand. Besserer Abend. [II, 196]</ab>
          </div>
          <div type="anmerkung">

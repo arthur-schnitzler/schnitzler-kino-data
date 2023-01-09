@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-07-20.html">
             <ab>20/7 […] Mit C. P. ins (Bürger-)Kino; Buster Keaton (Seefahrer); dann nach langer Zeit „Gruss“ im Garten; beflissene Begrüßung durch den Wirt (Pohl) […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp709.html">
             <ab>20.7.1929. Kinoabend mit A. „Lustige Seefahrer“, aber nicht sehr lustig. Nachtmahl beim Gruss im Freien, wundervoller warmer Abend. Nachm. waren Tante Clara, Emmy R. und Anna bei mir. Hals weniger gut. [II, 251]</ab>
          </div>
          <div type="anmerkung">

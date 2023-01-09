@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-11-17.html">
             <ab>17/11 […] Mit C. P. Kino „Spanische Nächte“, und gleich darauf, etwas angewidert vom ersten in ein andres („Spielerin“), dann im silb. Brunnen genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp492.html">
             <ab>17.11. Viel gearbeitet und geordnet. Am Abend mit A. in zwei Kinos. Erst „Spanische Liebesnächte“, dann „Die Spielerin“. A. ist manchmal wie ein kleines Kind. „Silberner Brunnen“ genachtmahlt. [II, 68]</ab>
          </div>
          <div type="anmerkung">

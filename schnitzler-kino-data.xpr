@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>data/editions/entry__1926-01-28.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>entry__1926-06-12</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>data/editions/entry__1926-06-12.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -56,7 +76,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/oldfiche/Documents/git/schnitzler-kino-data/xslts/noname.xsl</String>
+                                    <String>file:/Users/oldfiche/Documents/git/schnitzler-kino-data/xslts/extract-from-synopse.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>

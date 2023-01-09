@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-03-07.html">
             <ab>7/3 […] Mit C. P. Kino „Adjutant des Czaren“ (Mosjoukine). Linde genachtm. […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>6.3. Abend Kino. Nachher mit A. „Linde“. Czokor getroffen. Nicht unsympathischer Bohémien. Nachmittag Gisella Berger bei mir gewesen, sympathisch wie immer. [II, 197]</ab>
          </div>
          <div type="anmerkung">

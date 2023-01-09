@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-08-17.html">
             <ab>17/8 […] Mit C. P. im Regen herumgefahren, endlich im Ufa Kino Billets bekommen „Lied der Freiheit“ (alberner Film). Mit ihr Imperial genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp824.html">
             <ab>18.8. Mittag drüben. Abend Kino (langweiliger, blöder Film „Lied der Freiheit“), nachher Imperial. Unentwegt kühle Freundlichkeit. [III, 88]</ab>
          </div>
          <div type="anmerkung">

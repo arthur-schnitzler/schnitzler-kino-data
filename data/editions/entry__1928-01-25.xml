@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-01-25.html">
             <ab>25/1 […] Mit C. P. Kino „Weber“ (gut) –</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp516.html">
             <ab>26.1. Im Kino mit A. Meine Stimmung elend, ich lehne es ab mit ihm nachtmahlen zu gehen. Bin zu erschüttert und verweint durch den Film „Die Weber“. [II, 91]</ab>
          </div>
          <div type="anmerkung">

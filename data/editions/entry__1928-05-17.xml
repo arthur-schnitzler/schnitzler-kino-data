@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-05-17.html">
             <ab>17/5 […] Mit C. P. Kino „das Mädchen von der Straße“, dann (Gußregen) Rest.-Café Vindobona soupirt.– […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp547.html">
             <ab>17.5. Unwetter. Wir im Kino und nachtmahlen. Ich trage seit Tagen wieder meinen Winterpelz. Wolkenbruch um Mitternacht. [II, 122]</ab>
          </div>
          <div type="anmerkung">

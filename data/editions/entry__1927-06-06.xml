@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-06-06.html">
             <ab>6/6 […] Mit C. P. Kino Imhoffs Ehe, Bassermann;– mit ihr im Opernrest. genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>[…] Montag machten wir einen schönen Spaziergang in den Prater, am Abend waren wir im Kino und dann nachtmahlen wir im Opernkeller. A. schien ermüdet und ich behandelte ihn wie einen Patienten. […] [II, 24/3]</ab>
          </div>
          <div type="anmerkung">

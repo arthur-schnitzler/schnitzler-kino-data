@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-26.html">
             <ab>26/12 […] Mit C. P. Kino „Olympia“.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp868.html">
             <ab>26.12.1930. Vormittag bei Tante Klara, die etwas erkältet ist. Am Abend mit A. im Kino (Olympia), nachher auf meinen Wunsch jeder für sich nachhause. Ich sollte bei ihm nachtmahlen, aber ich lehnte sehr freundlich ab. Jetzt werde <hi>ich</hi> diesen Tête-à-têtes ausweichen. [III, 132]</ab>
          </div>
          <div type="anmerkung">

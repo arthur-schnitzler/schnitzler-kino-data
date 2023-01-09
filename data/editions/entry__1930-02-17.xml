@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-02-17.html">
             <ab>17/2 […] – Mit C. P. Kino „Tropenglut“ (Garbo, Lewis Stone). Mit C. P. Weingartl genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp764.html">
             <ab>Gestern Abend mit A. Kino „Tropenzauber“ mit Greta Garbo. Ein wundervolles Wesen. A. in guter Stimmung, aber ich wage es kaum mehr mich zu freuen. Ich arbeite fleissig an der „Corday“. [III, 30]</ab>
          </div>
          <div type="anmerkung">

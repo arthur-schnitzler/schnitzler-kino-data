@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-04-20.html">
             <ab>20/4 […] Mit C. P. Kino „Geld“;– Linde soup.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp679.html">
             <ab>20.4. Wundervoll im wahrsten Sinn. Türkenschanzpark in der Sonne gesessen. Wie dankbar ist man für ein wenig Sonne. Abend im Kino mit A. „Geld“. Dann „Linde“. A. bessere Stimmung, aber mir fehlt schon jedes Vertrauen in die Zukunft.
 Harry zu Tisch. Enervante Gespräche über seine Ehe. Er nimmt es wieder nicht ernst. [II, 229f.]</ab>
          </div>

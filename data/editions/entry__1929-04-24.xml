@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-04-24.html">
             <ab>24/4 […] Mit C. P. Kino „lebender Leichnam“ (außerordentlich). Mit ihr Linde soup. […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp681.html">
             <ab>24.4. Vormittag bei Ferda Bloch im Bureau. Unangenehme Unterredung wegen Harry.
 Abend mit A. bei dem besten Film, den ich je gesehen „Der lebende Leichnam“ nach dem Stück von Tolstoi. Tief erschüttert. Bei der „Linde“ genachtmahlt. Melancholie auf beiden Seiten. Brahm, der mit Paul Hartman, Paulsen und Werner Krauss an einem Tisch sitzt, kommt eine Weile zu uns. [II, 231]</ab>
          </div>

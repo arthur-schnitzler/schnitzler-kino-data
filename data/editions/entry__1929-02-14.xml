@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-14.html">
             <ab>14/2 […] Abd. mit C. P. Kino, „gelbe Lilie“;– […].–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp644.html">
             <ab>14.2. Vormittag bei Harry, der noch immer fiebert. Abend mit A. bei „Die gelbe Lilie“ im Kino, nachher in der „Linde“ genachtmahlt. Kälte und Schnee. [II, 194]</ab>
          </div>
          <div type="anmerkung">

@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-21.html">
             <ab>18/12 […] Mit C. P. Kino „Va banque“; sie nachtm. bei mir. </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp867.html">
             <ab>21.12.1930. Goldener Sonntag. […] Nachmittag „Komödie“ (Chlumberg Trauerfeier) mit Gisella B. Abend wieder mit A. Eos-Kino Va banque (ganz nett, Gründgens, Dagover), dann bei ihm genachtmahlt. Vor dem Fortgehn knöpfelte ich ihm seine neuen Stiefel auf, er schien plötzlich bewegt, küsste mich mit Herzlichkeit, ein Augenblick, in dem man sich etwas näher war. Er sagte: „Du bist rührend.“ [III, 131]</ab>
          </div>
          <div type="anmerkung">

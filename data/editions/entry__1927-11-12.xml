@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-11-12.html">
             <ab>12/11 […] Mit C. P. Kino „tanzender Thor“ Gösta Ekmann. Dann Opernrest. […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp491.html">
             <ab>12.11. Revolutionsfeiertag. Gottlob elendes Wetter. Freue mich darüber. Gutes Morgengespräch mit A. Nachmittag Tee bei Gotthilf, dann mit A. im Kino „Der tanze[nde] Tor“. Nachher Opernrestaurant. A. Zahnschmerzen, daher etwas still. [II, 67]</ab>
          </div>
          <div type="anmerkung">

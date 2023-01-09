@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-09-06.html">
             <ab>6/9 […] Mit C. P. in einem Kino Landstraße (wo noch nie) Artisten, gen. „Dominikanerkeller“ – war dort zum ersten und letzten Male nach Vorlesung der „Familie“,– vor etwa 35 Jahren.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp592.html">
             <ab>6.9. Vormittag schöner Spaziergang mit A., sommerlich warm. Abend wieder Kino und Dominikanerkeller. [II, 143]</ab>
          </div>
          <div type="anmerkung">

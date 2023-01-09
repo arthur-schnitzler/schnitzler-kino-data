@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-10-07.html">
             <ab>7/10 […] Mit C. P. Scala Kino (neu), Congress tanzt (Charell), mit ihr Meissl soup.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp985.html">
             <ab>6ten Okt. Abend Otto u. Emmy bei mir. A bei Schmiedl. 
 Schönes Herbst-Wetter. 
 V. Mittag. A. zufällig Türkenschanzstr. allein begegnet. Er hatte etwas Nasen-Bluten. Ich bin ängstlich.

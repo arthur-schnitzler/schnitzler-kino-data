@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-08-02.html">
             <ab>2/8 […] Mit C. P. Kino („Admiral“),– „Nacht in London“.– Westb. soup.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp711.html">
             <ab>2.8. Viel gearbeitet. Abend Kino „Eine Nacht in London“. Hübscher, amüsanter Film. Westbahn genachtmahlt. Gute Stimmung, aber Klagen über Befinden[.] [II, 253]</ab>
          </div>
          <div type="anmerkung">

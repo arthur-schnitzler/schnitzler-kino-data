@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-09-27.html">
             <ab>27/9 […] Mit C. P. Fliegerkino (Erotikon, Olaf Fjord) – mit ihr Pilsenetzer genachtm. </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp736.html">
             <ab>27.9. Die Kinder Carry und Magda zurück. Beide sehr vergnügt, brillant aussehend. Ich war am Abend bei ihnen, dann mit A. im Kino (Erotikon), mässiger Film, mässiger Abend. Wie fern ist Caux! [II, 277]</ab>
          </div>
          <div type="anmerkung">

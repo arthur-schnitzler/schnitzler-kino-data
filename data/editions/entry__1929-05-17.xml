@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-05-17.html">
             <ab>17/5 […] Mit C. P. Kino, „Robert und Bertram“, bei mir mit ihr genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp696.html">
             <ab>16.5. […] Am Abend mit ihm im Kino, harmloser Film mit Liedtke „Robert und Bertram“ Dann bei ihm Worterraten gespielt. Trotzdem sehr zärtlich. [II, 240]</ab>
          </div>
          <div type="anmerkung">

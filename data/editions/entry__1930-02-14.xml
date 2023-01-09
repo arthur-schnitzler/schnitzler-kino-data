@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-02-14.html">
             <ab>14/2 […] Mit C. P. in der Secession. Flämische (Bilder) Ausstellung (bis 17. Jahrhundert). […] Dann zu C. P., mit ihr ins Kino. „Das brennende Herz“, (Hans Müller), (Mady Christians); – im Imperial mit ihr genachtm.; […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp764.html">
             <ab>14.2. Gisela Berger, Lotte Menasse und Frau Clauser zur Jause bei mir. Besonders gemütlich, dann mit A. im Kino. Nachher im Imperial. Vormittag auch mit A. in der Secession. [III, 28]</ab>
          </div>
          <div type="anmerkung">

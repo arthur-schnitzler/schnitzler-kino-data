@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-17.html">
             <ab>17/12 […] Mit C. P. Kino Westfront 1918 (wegen Pabst);– erschütternder unerträglicher Film.– […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp865.html">
             <ab>18.12. Gestern Abend mit A. im Kino. „Westfront 1918“. Erschütternd, aber nichts für unsere Nerven. Da sollen die Jungen hineingehen. [III, 129]</ab>
          </div>
          <div type="anmerkung">

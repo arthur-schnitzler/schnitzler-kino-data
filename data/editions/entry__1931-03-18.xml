@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-18.html">
             <ab>18/3 […] Zu C. P.; mit ihr (Wallenstein-)Kino: „Stürme auf dem Montblanc“.– Jeder für sich allein zu Haus.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp893.html">
             <ab>18.3. Carry, Morgentemperatur 38.7. Als ich zu ihm kam, war er etwas angeheitert durch einen schweren alten Wein, den Tedy ihm gebracht. Später schlief er. Dann wieder 39.7. Trotzdem der Allgemeinzustand besser als gestern. Abends A. zuliebe im Kino „Stürme über dem Mont Blanc“, so traurig und trostlos wie das Leben. Dann allein nach Hause. [III, 157f.]</ab>
          </div>
          <div type="anmerkung">

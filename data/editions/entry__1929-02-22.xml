@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-22.html">
             <ab>22/2 […] Mit C. P. Kino, „sieben Adler“ (Colleen Moore); Linde mit ihr genachtm. (in übelster Stimmung) –</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp645.html">
             <ab>22.2. Kino. Dann „Linde“. Fader Film „Sieben Adler“, fader, ennervanter Abend. Am Nachmittag Anna bei mir. Ich liess mir viel von ihr erzählen, schwieg über mich und meine Angelegenheiten. Helfen kann einem doch niemand. [II, 195]</ab>
          </div>
          <div type="anmerkung">

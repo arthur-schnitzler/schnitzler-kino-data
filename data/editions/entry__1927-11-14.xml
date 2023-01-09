@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-11-14.html">
             <ab>14/11 […] Mit C. P. und Kolap Kino, „Napoleon“; mit C. P. Tonello genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="">
             <ab>14.11. Nachmittag Frieda diktiert. Dann mit ihr und A. beim Napoleon-Film. [II, 67]</ab>
          </div>
          <div type="anmerkung">

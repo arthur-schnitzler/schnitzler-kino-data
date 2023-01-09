@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-23.html">
             <ab>23/2 […] Mit C. P. Kino „Sturm“ (Barrymore), Auge Gottes soup.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp645.html">
             <ab>24.2. Gestern Abend noch im Kino mit A. Etwas gemütlicher, wenn auch ohne jede Zärtlichkeit. Heute Vormittag war ich beim Eisstoss auf der Reichsbrücke mit ihm, dann in der Hauptallee. Eisiger Wind. Wann wird dieser Winter ein Ende nehmen? Am Abend soll ich zu ihm. Ich fürchte mich. Eine Aussprache wird sich nicht umgehen lassen und wenn, dann ist es eine Verlogenheit. [II, 196]</ab>
          </div>
          <div type="anmerkung">

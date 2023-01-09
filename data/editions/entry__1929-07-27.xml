@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-07-27.html">
             <ab>27/7 […] Mit C. P. Kino (Komödiantin, Shearer), Linde genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp710.html">
             <ab>27.7. A. sieht schlecht aus. Im Kino bei „Komödiantin“ (netter Kitsch). Dann „Linde“ genachtmahlt. Gedrückte Stimmung, Unschlüssigkeit wegen unserer Reise. Fühle, er wartet auf irgendwelche Entschlüsse der O. Nachm. Lotte M. (besonders liebe Person). [II, 252]</ab>
          </div>
          <div type="anmerkung">

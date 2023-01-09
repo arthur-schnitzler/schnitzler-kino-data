@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-12-17.html">
             <ab>17/12 […] Mit C. P. Kino Katzensteg, mit ihr silb. Brunnen genachtm. […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="">
             <ab>17.12. Kälte nimmt weiter zu. Sonst gute, glückliche Tage. Weihnachtseinkäufe, Besuche etc. [II, 89]</ab>
          </div>
          <div type="anmerkung">

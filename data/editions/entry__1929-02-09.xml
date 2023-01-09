@@ -28,27 +28,33 @@
             </respStmt>
          </editionStmt>
          <publicationStmt>
-            <publisher>
-Austrian Centre for Digital Humanities and Cultural Heritage
-            </publisher>
+            <publisher> Austrian Centre for Digital Humanities and Cultural Heritage </publisher>
             <idno type="db-id">426</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>
-Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
-                  </p>
-                  <p>
-Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
-                  </p>
-                  <p>
-Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
-                  </p>
+                  <p> Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell. </p>
+                  <p> Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen: </p>
+                  <p> Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                     einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden,
+                     allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie
+                     dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die
+                     anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt. </p>
                   <p>Hinweise:</p>
-                  <p>
-Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
-                  </p>
+                  <p> Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken. </p>
                </licence>
             </availability>
          </publicationStmt>
@@ -57,23 +63,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script
+            "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="as">
-            <ab>9/2 Vm. Hr. Bandler,– pens. Eisenbahnbeamter;– hatte ein sehr gutes Filmmscrpt. Spiel im Morgengraun verfasst – – gerade als er kam, hatte man aus Berlin angerufen, ob Spiel etc. für den Film noch frei sei!– Wir besprachen Möglichkeit der Verwerthung.– […] Mit C. P. Kino Geheim-Courier, (Mosjoukine);– Linde gen.–</ab>
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-09.html">
+            <ab>9/2 Vm. Hr. Bandler,– pens. Eisenbahnbeamter;– hatte ein sehr gutes Filmmscrpt.
+               Spiel im Morgengraun verfasst – – gerade als er kam, hatte man aus Berlin angerufen,
+               ob Spiel etc. für den Film noch frei sei!– Wir besprachen Möglichkeit der
+               Verwerthung.– […] Mit C. P. Kino Geheim-Courier, (Mosjoukine);– Linde gen.–</ab>
          </div>
-         <div type="ckp">
-            <ab>5.2. Abend bei A. mit Wassermanns, Wellesz, Frieda und Bruder. Trotz animierter Stimmung mich innerlich nicht behaglich gefühlt. Zu viel Intellektualität.– Kälte im Zunehmen. Mir ist innerlich und äusserlich kalt. Kalamitäten in der Wohnung mit Gas, Heizung etc. Arbeite viel und friere.
-Mit A. Parterreloge bei „Juarez und Maximilian“. Schönes Stück. Dann im Imperial. 12 Grad Kälte.
-Kino (mit A. natürlich) „Der Courier“ mit Mosjukin und Dagover. Dann „Linde“ genachtmahlt. Gestern Abend Gesellschaft bei Tolnay. Habe gut ausgesehen und mich wohl gefühlt. Gestern Vormittag Spaziergang mit A. bei Kälte und Sonnenschein (8 Grad), mit A. über Grinzing, Hohe Warte. [II, 193]</ab>
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp643.html">
+            <ab>5.2. Abend bei A. mit Wassermanns, Wellesz, Frieda und Bruder. Trotz animierter
+               Stimmung mich innerlich nicht behaglich gefühlt. Zu viel Intellektualität.– Kälte im
+               Zunehmen. Mir ist innerlich und äusserlich kalt. Kalamitäten in der Wohnung mit Gas,
+               Heizung etc. Arbeite viel und friere. Mit A. Parterreloge bei „Juarez und
+               Maximilian“. Schönes Stück. Dann im Imperial. 12 Grad Kälte. Kino (mit A. natürlich)
+               „Der Courier“ mit Mosjukin und Dagover. Dann „Linde“ genachtmahlt. Gestern Abend
+               Gesellschaft bei Tolnay. Habe gut ausgesehen und mich wohl gefühlt. Gestern Vormittag
+               Spaziergang mit A. bei Kälte und Sonnenschein (8 Grad), mit A. über Grinzing, Hohe
+               Warte. [II, 193]</ab>
          </div>
          <div type="anmerkung">
-            <ab>»Wassermanns«: Jakob Wassermann (1873–1934) und Marta Wassermann (1889–1965); »Wellesz«: Egon Wellesz (1885–1975)
-Unklare Chronologie bei Pollaczek trotz Übereinstimmung der Titel: Schnitzler notiert den Besuch von Werfels Stück »Juarez und Maximilian« im Burgtheater bereits am 30. Jänner, während die Abendgesellschaft, von der Pollaczek schreibt, auch von Schnitzler für den 5. Februar festgehalten wird. 
-Illustrierte Anzeige NFP 8.2.1929, S. 7. Besprechung von Felix Cleve in NFP 9.2.1929, S. 10.</ab>
+            <ab>»Wassermanns«: Jakob Wassermann (1873–1934) und Marta Wassermann (1889–1965);
+               »Wellesz«: Egon Wellesz (1885–1975) Unklare Chronologie bei Pollaczek trotz
+               Übereinstimmung der Titel: Schnitzler notiert den Besuch von Werfels Stück »Juarez
+               und Maximilian« im Burgtheater bereits am 30. Jänner, während die Abendgesellschaft,
+               von der Pollaczek schreibt, auch von Schnitzler für den 5. Februar festgehalten wird.
+               Illustrierte Anzeige NFP 8.2.1929, S. 7. Besprechung von Felix Cleve in NFP 9.2.1929,
+               S. 10.</ab>
          </div>
          <div type="film">
             <table type="movies">
@@ -95,7 +116,8 @@ Illustrierte Anzeige NFP 8.2.1929, S. 7. Besprechung von Felix Cleve in NFP 9.2.
                   <cell role="data" ana="Produktion">
                      <orgName>Terra-Grünbaum-Film</orgName>
                   </cell>
-                  <cell role="data" ana="Darsteller_innen">Iwan [Mosjoukine], José Davert, Jean Dix, Lil Dagover, Agnes Petersen</cell>
+                  <cell role="data" ana="Darsteller_innen">Iwan [Mosjoukine], José Davert, Jean Dix,
+                     Lil Dagover, Agnes Petersen</cell>
                </row>
             </table>
          </div>

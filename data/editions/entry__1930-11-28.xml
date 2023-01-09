@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-11-28.html">
             <ab>28/11 […] Um 7 mit C. P. Kino (Csikosbaroness); in übler gegenseitiger Stimmung; – jeder für sich nach Haus.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp860.html">
             <ab>28.11. Den ganzen Tag gearbeitet. Abend Kino mit A. „Cikos-Baronnesse“. Womöglich noch öder. A. fast immer geschlafen. Dann wieder nachhause. [III, 124]</ab>
          </div>
          <div type="anmerkung">

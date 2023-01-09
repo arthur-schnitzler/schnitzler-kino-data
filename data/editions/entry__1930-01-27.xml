@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-01-27.html">
             <ab>27/1 […] Abds. mit C. P. Kino „Tiger“ (Lon Chaney).– Ihre Thränen – mein Mitgefühl. Im Weingartl genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp761.html">
             <ab>27.1. Abend im Kino (Weisser Flieder). Nachher wieder Weingartel-Restaurant genachtmahlt. Zunehmende Zärtlichkeit. Vielleicht wird doch noch alles gut. [III, 25f.]</ab>
          </div>
          <div type="anmerkung">

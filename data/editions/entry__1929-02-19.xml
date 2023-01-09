@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-19.html">
             <ab>19/2 […] Mit C. P. Kino (Loge 13; Garbo), […]. Nachts ruft E. B. an – ich müsse vor der Filmprem. unbedingt Berlin kommen. […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp645.html">
             <ab>19.2. Kino. „Loge Nr. 13“ (Greta Garbo wundervoll). Melancholischer Abend mit A., der nervös ist. Um 11 Uhr nachhause, da A. einen Anruf der Elisabeth Bergner wegen „Else“ erwartet. Irgendetwas stimmt wieder nicht in seinem Wesen. [II, 195]</ab>
          </div>
          <div type="anmerkung">

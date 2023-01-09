@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-29.html">
             <ab>29/3 […] – Abds. zu C. P.;– mit ihr (Schweden) Kino;– Die Republik befiehlt, widerlich;– mit C. P. bei mir genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp895.html">
             <ab>29.3. Früh 36.9, Mittag wieder 39.7, aber Allgemeinbefinden sehr gebessert, keine Ueblichkeiten. A. Mittag mit mir zu Carry und Magdi zu ihrer Grossmutter begleitet. Ich bis gegen 4 Uhr bei Carry, der in guter Stimmung war.
 Abend mit A. im Kino „Liebe auf Befehl“, saudumm, dann bei ihm. Matte, verlegene Zärtlichkeit. [III, 159]</ab>
          </div>

@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-06-10.html">
             <ab>10/6 […] Mit C. P. Kino „Es war“ (Garbo); bei Eisvogel im Prater soupirt.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>11.6. Gestern und heute Abend Kino mit A., der sehr lieb ist. Unangenehme Debatten mit Harry. Jetzt, da es ernst werden soll, behauptet er, er habe Angst vor der Ehe. [II, 245]</ab>
          </div>
          <div type="anmerkung">

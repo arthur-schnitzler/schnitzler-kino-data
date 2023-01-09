@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-01-01.html">
             <ab>1/1 […] Mit C. P. Kino Heimat;– Blond und brünett (Menjou).– […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp515.html">
             <ab>1. Jänner. Sylvesterabend wollte A. mit mir in ein Theater und dann zu mir kommen. Ich riet ihm mit Lili und Gatten auszugehen und <hi>dann</hi> erst bei mir. Und so war es. Das neue Jahr sehr schön und in Zärtlichkeit und guter Stimmung begonnen. Vormittag mit A. spazieren, Mittag Fredi und Herry zu Tisch. Abend mit A. im Kino. [II, 90]</ab>
          </div>
          <div type="anmerkung">

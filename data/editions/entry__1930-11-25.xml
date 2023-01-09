@@ -62,11 +62,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-11-25.html">
             <ab>25/11 Früh Dr. Hoffmann; die Tonfilmangelegenheit „Liebelei“;– die er viel skeptischer ansieht als vorher. […] Mit C. P. Kino (Land des Lächelns, Tauber), dann „Linde“ soupirt. […]
 </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp860.html">
             <ab>25.11. Mit A. im Kino „Land des Lächelns“ mit Tauber, guter Tonfilm. Dann „Linde“ genachtmahlt. Stimmung ein Atom besser. Schüchterne Zärtlichkeit von seiner Seite. [III, 124]</ab>
          </div>
          <div type="anmerkung">

@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-03-06.html">
             <ab>6/3 […] – Mit C. P. Kino (Büchse der Pandora, Frl. Brooks, Kortner, Goetz) nicht gut.– Mit ihr Linde genachtm.– […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>6.3. Im Bett. Abend Kino mit A. Gespräche mit F. Bl. u. Arthur wegen Harrys Anstellung. Gott gebe, dass das endlich wird. [II, 197]</ab>
          </div>
          <div type="anmerkung">

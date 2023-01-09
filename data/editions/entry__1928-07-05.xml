@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-07-05.html">
             <ab>5/7 […] Mit C. P. Buschkino der Pilgrim (Chaplin).– Dann Prochaska genachtm. (Prater).– </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp553.html">
             <ab>5.7. Im Busch-Kino beim „Pilgrim“ mit Charly Chaplin mit A. Dann bei Prohaska genachtmahlt. Gestern Unterredung mit Paul Zsolnay. Soll ihm den Roman schicken. Halte es für recht aussichtslos. [II, 128]</ab>
          </div>
          <div type="anmerkung">

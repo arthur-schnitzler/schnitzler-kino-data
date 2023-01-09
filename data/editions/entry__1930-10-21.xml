@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-10-21.html">
             <ab>21/10 […] Mit C. P. Kino (Apollo) „Jazzkönig“; früher fort; im Weingartl.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp842.html">
             <ab>22.10. Abend mit A. im Kino: Jazzkönig im Apollo. Langweiligster Kitsch. Salten begegnet. Stille. [III, 106]</ab>
          </div>
          <div type="anmerkung">

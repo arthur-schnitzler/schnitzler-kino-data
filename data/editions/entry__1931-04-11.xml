@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-04-11.html">
             <ab>11/4 […] – Mit C. P. (Phönixkino) Marocco (Marlene Dietrich, Cooper, Menjou) starker Eindruck.– […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp897.html">
             <ab>11.4. Carry liess mich heute bitten nicht zu kommen, da sehr viele Besuche angesagt sind. Vorm. Stadt, wegen meines Fusses recht beschwerlich. Abend mit A. Kino „Marokko“ mit Marlene Dietrich und Menjou, einer der besten Films, dann jeder für sich zuhause. [III, 161f.]</ab>
          </div>
          <div type="anmerkung">

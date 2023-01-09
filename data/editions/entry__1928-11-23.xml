@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-11-23.html">
             <ab>23/11 […] Mit C. P. Kino: Moulin rouge (Olga Tschechowa); Linde soup.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>23.11. Zu arbeiten begonnen. „Charlotte Corday“! Heute Abend mit A. Kino, nachher „Linde“ genachtmahlt. A. sehr, sehr lieb. [II, 170]</ab>
          </div>
          <div type="anmerkung">

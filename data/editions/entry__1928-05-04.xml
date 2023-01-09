@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-05-04.html">
             <ab>4/5 Wien.– […] – Mit C. P. Kino („Ausgestoßene“), dann silb. Brunnen soup.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp547.html">
             <ab>4.5. Es war ein recht gutes Zusammensein, aber in mir noch alles sehr stumm. Heute Abend Kino und Silberner Brunnen. Gute Gespräche. [II, 122]</ab>
          </div>
          <div type="anmerkung">

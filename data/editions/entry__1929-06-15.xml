@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-06-15.html">
             <ab>15/6 […] Mit C. P. Kino große Parade, dann (Prater) Prochaska genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp704.html">
             <ab>15.6.1929. Mittag Harry, Mädi, Cary, Magdi zu Tisch. Herry empörend, sein Ton gegen die Braut grotesk, gegen Magda ungezogen. Magdi sitzt starr mit weitaufgerissenen Augen, bereit zu weinen.
 Diese Verlobung macht mir keine Freude, es ist gut, dass wir übermorgen auf den Semmering fahren.
 Abend fader Film „Parade“, dann im Prater genachtmahlt. A. <hi>sehr</hi> lieb. Ich habe leider Zahnschmerzen. [II, 246]</ab>

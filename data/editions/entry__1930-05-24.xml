@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-05-24.html">
             <ab>24/5 […] Mit C. P. Kino Der Kuss (Greta Garbo), Meissl genachtm. </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp779.html">
             <ab>24.5. Vormittag Autofahrt mit A., Mittag bei ihm, Abend Kino, „Kuss“ mit Garbo und – zuhause in meinem Zimmer vor Erbitterung geweint. [III, 43]</ab>
          </div>
          <div type="anmerkung">

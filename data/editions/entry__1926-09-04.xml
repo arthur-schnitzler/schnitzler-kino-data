@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-09-04.html">
             <ab>4/9 Mit C. P. Interlaken (über Brünig) Luzern – Hotel Gotthard. […] Mit C. P. Kino „Tragoedie“ mit Henny Porten.– Man fragt sich immer wieder, ob die Leichtfertigkeit, die Dummheit oder die seelische Gemeinheit dieser Filmverfasser das Hauptelement dieser Begabungen vorstellt.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp385.html">
             <ab>4.9. Wie schön ist Luzern! Wundervoller Tag und Abend. Selbst der langweilige Film mit Henny Porten brachte uns nicht aus der Stimmung. [I, 344]</ab>
          </div>
          <div type="anmerkung">

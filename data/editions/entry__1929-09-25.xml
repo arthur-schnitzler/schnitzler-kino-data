@@ -62,10 +62,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-09-25.html">
             <ab>25/9 […] Mit C. P. Tonfilm „Der singende Narr“ (Al Jolson); dann Linde soup.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp735.html">
             <ab>25.9. Kino Tonfilm „Der singende Narr“. In guter Stimmung, herzlich, aber von jenen Wochen meilenweit entfernt. Vielleicht meine Schuld – aber ich kann nicht anders. [II, 276]</ab>
          </div>
          <div type="anmerkung">
