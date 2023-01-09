@@ -70,30 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 […] Wir waren (um die Einleitungssstunde zu erleichtern) im Kino (ein schlechter Albertini-Film). Nachtmahlten dann im Fürstenhof (wo mir s. Z. die Kleidungsstücke gestohlen worden sind). […] [I, 151]</ab>
          </div>
           
-         <div type="film">
-            <table type="movies">
-               <row>
-                  <cell role="data" ana="Filmtitel"/>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
-               </row>
-            </table>
-         </div>
+         
       </body>
       <back>
          <listPerson>

@@ -67,30 +67,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>24/9 […] Mit einem jungen Docenten Wien (wer?) über die hiesigen hakenkreuzlerischen Studenten, die zu stören drohten, wenn man den Hofr. Hertz […] nicht amovire, man kam ihnen entgegen. – Auch Salten war da; schien in schlechter Verfassung, mit schwimmenden Augen zerstreut, praeoccupirt, sorgenvoll, bedrückten Gewissens.– Das Hören verursachte mir – oft nutzlose – Mühe.– Zur Erholung in ein Kino.– […]</ab>
          </div>
           
-         <div type="film">
-            <table type="movies">
-               <row>
-                  <cell role="data" ana="Filmtitel"/>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
-               </row>
-            </table>
-         </div>
+         
       </body>
       <back>
          <listPerson>

@@ -72,30 +72,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Zu »Geld auf der Straße« vgl. die Eintragung vom 23.11.1930, in der Schnitzler den Besuch notiert. Der Film ist allerdings für den 27.11.1930 nachgewiesen im Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 27.11.1930, S. 21, NZG 27.11.1930, S. 9). Sollte sich Schnitzlers Formulierung »ins Kino mit ihr« jedoch auf den Besuch eines anderen Films beziehen, so ist dieser nicht ermittelbar.</ab>
          </div>
-         <div type="film">
-            <table type="movies">
-               <row>
-                  <cell role="data" ana="Filmtitel"/>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
-               </row>
-            </table>
-         </div>
+         
       </body>
       <back>
          <listPerson>

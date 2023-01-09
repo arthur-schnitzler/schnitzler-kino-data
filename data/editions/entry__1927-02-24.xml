@@ -71,9 +71,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Mit dem Motorrad über die Wolken“</cell>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
+                   
                   <cell role="data" ana="Genre">Natur</cell>
                   <cell role="data" ana="Land">
                      <placeName>Ö</placeName>
@@ -81,13 +79,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Lothar Rübelt</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Rübelt-Film</orgName>
                   </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
+                   
                </row>
             </table>
          </div>

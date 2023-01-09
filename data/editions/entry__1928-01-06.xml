@@ -73,9 +73,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Ich hab mein Herz in Kritzendorf verloren“ („Wochenendzauber“)</cell>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
+                   
                   <cell role="data" ana="Genre">Komisch</cell>
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
@@ -83,9 +81,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Rudolf Walther-Fein</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Aafa-Film</orgName>
                   </cell>

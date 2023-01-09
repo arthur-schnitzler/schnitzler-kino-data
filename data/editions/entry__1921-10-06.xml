@@ -71,23 +71,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">Schneefelder von Alaska</cell>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
+                   
+                   
+                   
+                   
+                   
+                   
+                   
                </row>
             </table>
          </div>

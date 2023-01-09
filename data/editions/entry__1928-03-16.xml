@@ -77,7 +77,7 @@ Höchstwahrscheinlich sehen Pollaczek und Schnitzler eine späte Aufführung des
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>F</placeName>
                   </cell>
@@ -87,9 +87,7 @@ Höchstwahrscheinlich sehen Pollaczek und Schnitzler eine späte Aufführung des
                   <cell role="data" ana="Buch">
                      <persName>[Joe Francis, Clément Vautel]</persName>
                   </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
+                   
                   <cell role="data" ana="Darsteller_innen">Josephine Baker, André Luguet, Hélène Hallier, Pépa Bonafé u.a.</cell>
                </row>
             </table>

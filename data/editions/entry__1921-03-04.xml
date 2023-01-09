@@ -74,19 +74,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>1918</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>USA</placeName>
                   </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Buch">
                      <persName>[Henry Kistemaeckers (Vorlage Bühnenstück „L'Occident“); June Mathis, Albert Capellani (Drehbuch)]</persName>
                   </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
+                   
                   <cell role="data" ana="Darsteller_innen">[Alla] Nazimova, [Charles Bryant, Donald Gallaher, Sally Crute, E. L. Fernandez, John Reinhard] u.a.</cell>
                </row>
             </table>

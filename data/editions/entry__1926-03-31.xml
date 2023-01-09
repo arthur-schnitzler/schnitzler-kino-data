@@ -74,19 +74,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Friedrich Zelnik</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
+                   
+                   
                   <cell role="data" ana="Darsteller_innen">Hans Albers, Lya Mara, Karl Platen, Jack Trevor, Olga Tschechowa</cell>
                </row>
             </table>

@@ -73,9 +73,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Das Alte Gesetz“</cell>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
+                   
                   <cell role="data" ana="Genre">Drama</cell>
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
@@ -83,9 +81,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>E. A. Dupont</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Comedianfilm</orgName>
                   </cell>

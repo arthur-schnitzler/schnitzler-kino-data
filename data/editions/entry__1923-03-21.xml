@@ -75,9 +75,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <date>[1922]</date>
                   </cell>
                   <cell role="data" ana="Genre">Drama</cell>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
+                   
                   <cell role="data" ana="Regie">
                      <persName>Victor Heerman, Albert Austin</persName>
                   </cell>

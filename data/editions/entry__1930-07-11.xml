@@ -75,15 +75,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <date>1929</date>
                   </cell>
                   <cell role="data" ana="Genre">Drama</cell>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
+                   
                   <cell role="data" ana="Regie">
                      <persName>Benjamin Stoloff</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Fox-Movietone</orgName>
                   </cell>

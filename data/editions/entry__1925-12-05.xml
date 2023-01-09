@@ -69,30 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Es kommen sehr viele Titel in Frage, die sich mangels weiterer Informationen nicht eingrenzen lassen.</ab>
          </div>
-         <div type="film">
-            <table type="movies">
-               <row>
-                  <cell role="data" ana="Filmtitel"/>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
-               </row>
-            </table>
-         </div>
+         
       </body>
       <back>
          <listPerson>

@@ -74,20 +74,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1920]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>Ö/D</placeName>
                   </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Buch">
                      <persName>[Robert Liebmann]</persName>
                   </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
+                   
+                   
                </row>
             </table>
          </div>

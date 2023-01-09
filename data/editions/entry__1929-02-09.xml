@@ -100,9 +100,7 @@
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Der Geheime Kurier“</cell>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
+                   
                   <cell role="data" ana="Genre">Drama</cell>
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>

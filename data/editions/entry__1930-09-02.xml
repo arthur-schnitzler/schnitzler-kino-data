@@ -80,16 +80,14 @@ Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als Â
                   <cell role="data" ana="Jahr">
                      <date>1927</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>UK</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Arthur Maude</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>British International Pictures</orgName>
                   </cell>

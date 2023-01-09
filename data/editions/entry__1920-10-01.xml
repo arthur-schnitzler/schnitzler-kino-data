@@ -74,16 +74,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1918]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>I</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Vincenzo Denizot, Giovanni Pastrone</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Itala Film</orgName>
                   </cell>

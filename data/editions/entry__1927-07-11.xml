@@ -74,7 +74,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1921]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>
@@ -84,9 +84,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Buch">
                      <persName>Norbert Falk, Hanns Kräly</persName>
                   </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
+                   
                   <cell role="data" ana="Darsteller_innen">Emil Jannings, Harry Liedtke, Paul Wegener, Albert Bassermann, Friedrich Kühne, Dagny Servaes, Lyda Salmonova</cell>
                </row>
             </table>
