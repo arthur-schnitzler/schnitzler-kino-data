@@ -70,12 +70,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>14.8. Seit gestern hier. Das Wiedersehen so schön, wie es noch nie war. Der Himmel blau und wolkenlos. Am Abend Bummel durch die Stadt. Wundervoller Sonnenuntergang. Ich fürchte mich so glücklich zu sein. Heute Ausflug an den Thunersee, es ist ½10 Uhr Früh.
 Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsympathisches Bad. Flitterwochenstimmung. Abend im Kino. Französischer Film „Heimliche Sünder“. [I, 339]</ab>
          </div>
-         <div type="anmerkung">
-            <ab>Der Spielort in Bern wurde nicht ermittelt. </ab>
-         </div>
-         <note type="kommentar">
-            <p xml:space="preserve">Der Spielort in Bern wurde nicht ermittelt.</p>
-         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -139,6 +133,16 @@ Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsy
          <listPlace>
             <place type="location">
                <placeName>Bern</placeName>
+            </place>
+            <place xml:id="ask_kino__999" type="kino">
+               <placeName>Cinema Splendid-Palace</placeName>
+               <location>
+                  <address>
+                     <addrLine>Von Werdt-Passage</addrLine>
+                  </address>
+                  <geo>46.948410 7.441642</geo>
+               </location>
+               <note type="info">Eröffnet am 1. September 1925.</note>
             </place>
          </listPlace>
       </back>

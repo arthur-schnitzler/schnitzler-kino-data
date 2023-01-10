@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-02-26.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xml:id="ask__1925-02-26.xml"
+     xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -67,7 +69,8 @@
    </teiHeader>
    <text>
       <body>
-         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-02-26.html">
+         <div type="as"
+              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-02-26.html">
             <ab>26/2 […] Mit C. P. Kino (Pension Groonen),– und Kino (Verwehte Spuren) dann in der
                Pilsenetzer (Regina) gen.–</ab>
          </div>

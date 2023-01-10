@@ -76,7 +76,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/oldfiche/Documents/git/schnitzler-kino-data/xslts/extract-from-synopse.xsl</String>
+                                    <String>file:/Users/oldfiche/Documents/git/bahr-textverzeichnis-data/xslt/obsolet/regex.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
