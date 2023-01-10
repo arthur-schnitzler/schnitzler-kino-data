@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Der Film wurde bereits am 30.3.1926 im Wiener Konzerthaus uraufgeführt (NFP 19.3.1926, S. 18). </ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Der Film wurde bereits am 30.3.1926 im Wiener Konzerthaus uraufgeführt (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260319&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1926-03-19">19.3.1926</date><biblScope type="pp">18</biblScope></bibl>).</p>
+            <p xml:space="preserve">Der Film wurde bereits am 30.3.1926 im Wiener Konzerthaus uraufgeführt (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260319&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1926-03-19">19.3.1926</date><biblScope unit="page">18</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">

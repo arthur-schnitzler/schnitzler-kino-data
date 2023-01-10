@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 16.3.1928, S. 27. Besprechung von Lilly Klaudy in NFP 17.3.1928, S.10.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280316&amp;seite=27"><title><abbr>NFP</abbr></title><date when="1928-03-16">16.3.1928</date><biblScope type="pp">27</biblScope></bibl>. Besprechung von Lilly Klaudy in NFP 17.3.1928, S.10.</p>
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280316&amp;seite=27"><title><abbr>NFP</abbr></title><date when="1928-03-16">16.3.1928</date><biblScope unit="page">27</biblScope></bibl>. Besprechung von Lilly Klaudy in NFP 17.3.1928, S.10.</p>
          </note>
          <div type="film">
             <table type="movies">

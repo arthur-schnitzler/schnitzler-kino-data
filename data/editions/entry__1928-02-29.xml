@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 24.2.1928, S. 21. Spielorte nicht nachgewiesen.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280224&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1928-02-24">24.2.1928</date><biblScope type="pp">21</biblScope></bibl>. Spielorte nicht nachgewiesen.</p>
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280224&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1928-02-24">24.2.1928</date><biblScope unit="page">21</biblScope></bibl>. Spielorte nicht nachgewiesen.</p>
          </note>
          <div type="film">
             <table type="movies">

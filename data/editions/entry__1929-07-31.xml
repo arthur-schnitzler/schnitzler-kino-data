@@ -73,7 +73,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von Felix Cleve in NFP 30.1.1929, S. 11. Nachgewiesener Spielort: Weltspiegel-Kino u. d. T. »Der Seefahrer« (DKB 31.7.1929, S. 14).</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Besprechung von Felix Cleve in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290130&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1929-01-30">30.1.1929</date><biblScope type="pp">11</biblScope></bibl>. Nachgewiesener Spielort: Weltspiegel-Kino u. d. T. »Der Seefahrer« (<bibl><title><abbr>DKB</abbr></title><date when="1929-07-31">31.7.1929</date><biblScope type="pp">14</biblScope></bibl>).</p>
+            <p xml:space="preserve">Besprechung von Felix Cleve in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290130&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1929-01-30">30.1.1929</date><biblScope unit="page">11</biblScope></bibl>. Nachgewiesener Spielort: Weltspiegel-Kino u. d. T. »Der Seefahrer« (<bibl><title><abbr>DKB</abbr></title><date when="1929-07-31">31.7.1929</date><biblScope unit="page">14</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">

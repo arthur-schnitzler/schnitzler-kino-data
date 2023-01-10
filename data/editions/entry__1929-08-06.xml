@@ -78,7 +78,7 @@ Keine nachgewiesenen Spielorte für 6.8.1929; das Kinoprogramm der NZG erwähnt 
          </div>
          <note type="kommentar">
             <p xml:space="preserve">Datierung bei Pollaczek ungenau, der Kinobesuch am Vorabend wird im Eintrag zum 7. August 1929 erwähnt.</p>
-            <p xml:space="preserve">Keine nachgewiesenen Spielorte für 6.8.1929; das Kinoprogramm der NZG erwähnt »Fahrendes Volk« in der selben Woche nur einige Tage später für das Johann-Strauß-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19290809&amp;seite=8"><title><abbr>NZG</abbr></title><date when="1929-08-09">9.8.1929</date><biblScope type="pp">8</biblScope></bibl>).</p>
+            <p xml:space="preserve">Keine nachgewiesenen Spielorte für 6.8.1929; das Kinoprogramm der NZG erwähnt »Fahrendes Volk« in der selben Woche nur einige Tage später für das Johann-Strauß-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19290809&amp;seite=8"><title><abbr>NZG</abbr></title><date when="1929-08-09">9.8.1929</date><biblScope unit="page">8</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">

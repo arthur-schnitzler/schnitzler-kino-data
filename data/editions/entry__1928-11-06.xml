@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotizen NFP 19.10.1928, S. 9 und NFP 26.10.1928, S. 8. Anzeige NFP 2.11.1928, S. 7. </ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Premierennotizen <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281019&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1928-10-19">19.10.1928</date><biblScope type="pp">9</biblScope></bibl> und <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281026&amp;seite=8"><title><abbr>NFP</abbr></title><date when="1928-10-26">26.10.1928</date><biblScope type="pp">8</biblScope></bibl>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281102&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1928-11-02">2.11.1928</date><biblScope type="pp">7</biblScope></bibl>.</p>
+            <p xml:space="preserve">Premierennotizen <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281019&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1928-10-19">19.10.1928</date><biblScope unit="page">9</biblScope></bibl> und <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281026&amp;seite=8"><title><abbr>NFP</abbr></title><date when="1928-10-26">26.10.1928</date><biblScope unit="page">8</biblScope></bibl>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281102&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1928-11-02">2.11.1928</date><biblScope unit="page">7</biblScope></bibl>.</p>
          </note>
          <div type="film">
             <table type="movies">

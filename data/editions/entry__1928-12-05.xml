@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Besprechung von Philipp Winter in NFP 2.12.1928, S. 21f. Nachgewiesene Spielorte: Kammerlichtspiele Schwarzenbergplatz und Kärntner-Kino (NZG 5.12.1928, S. 8).</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Besprechung von Philipp Winter in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281202&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1928-12-02">2.12.1928</date><biblScope type="pp">21</biblScope></bibl>f. Nachgewiesene Spielorte: Kammerlichtspiele Schwarzenbergplatz und Kärntner-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19281205&amp;seite=8"><title><abbr>NZG</abbr></title><date when="1928-12-05">5.12.1928</date><biblScope type="pp">8</biblScope></bibl>).</p>
+            <p xml:space="preserve">Besprechung von Philipp Winter in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281202&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1928-12-02">2.12.1928</date><biblScope unit="page">21</biblScope></bibl>f. Nachgewiesene Spielorte: Kammerlichtspiele Schwarzenbergplatz und Kärntner-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19281205&amp;seite=8"><title><abbr>NZG</abbr></title><date when="1928-12-05">5.12.1928</date><biblScope unit="page">8</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">

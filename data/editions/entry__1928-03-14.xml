@@ -71,7 +71,7 @@ Mit C. P. silb. Brunnen.– </ab>
             <ab>1. Nachgewiesene Spielorte: Kino Wienzeile, Kammerlichtspiele und Kino Schäffer (NFP 14.3.1928, S. 21, NZG 14.3.1928, S. 8). Für 2. keine Spielorte nachgewiesen. </ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">1. Nachgewiesene Spielorte: Kino Wienzeile, Kammerlichtspiele und Kino Schäffer (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280314&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1928-03-14">14.3.1928</date><biblScope type="pp">21</biblScope></bibl>, <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19280314&amp;seite=8"><title><abbr>NZG</abbr></title><date when="1928-03-14">14.3.1928</date><biblScope type="pp">8</biblScope></bibl>). Für 2. keine Spielorte nachgewiesen.</p>
+            <p xml:space="preserve">1. Nachgewiesene Spielorte: Kino Wienzeile, Kammerlichtspiele und Kino Schäffer (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280314&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1928-03-14">14.3.1928</date><biblScope unit="page">21</biblScope></bibl>, <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19280314&amp;seite=8"><title><abbr>NZG</abbr></title><date when="1928-03-14">14.3.1928</date><biblScope unit="page">8</biblScope></bibl>). Für 2. keine Spielorte nachgewiesen.</p>
          </note>
          <div type="film">
             <table type="movies">

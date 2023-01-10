@@ -72,7 +72,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <note type="kommentar">
             <p xml:space="preserve">»an der Südbahn«: nicht ermittelt.</p>
-            <p xml:space="preserve"><cit><quote>Dieser neue Großfilm der UFA <gap/> ist ein einziger Kampf des Regisseurs mit dem Stoff</quote><bibl corresp="#skga"><biblScope type="vol">3</biblScope><biblScope type="pp">229</biblScope></bibl></cit>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261008&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-10-08">8.10.1926</date><biblScope type="pp">17</biblScope></bibl>. Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261015&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-10-15">15.10.1926</date><biblScope type="pp">17</biblScope></bibl>.</p>
+            <p xml:space="preserve"><cit><quote>Dieser neue Großfilm der UFA <gap/> ist ein einziger Kampf des Regisseurs mit dem Stoff</quote><bibl corresp="#skga"><biblScope unit="volume">3</biblScope><biblScope unit="page">229</biblScope></bibl></cit>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261008&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-10-08">8.10.1926</date><biblScope unit="page">17</biblScope></bibl>. Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261015&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-10-15">15.10.1926</date><biblScope unit="page">17</biblScope></bibl>.</p>
          </note>
          <div type="film">
             <table type="movies">

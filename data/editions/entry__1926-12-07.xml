@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Ankündigung NFP 3.12.1926, S. 20. </ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261203&amp;seite=20"><title><abbr>NFP</abbr></title><date when="1926-12-03">3.12.1926</date><biblScope type="pp">20</biblScope></bibl>.</p>
+            <p xml:space="preserve">Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261203&amp;seite=20"><title><abbr>NFP</abbr></title><date when="1926-12-03">3.12.1926</date><biblScope unit="page">20</biblScope></bibl>.</p>
          </note>
          <div type="film">
             <table type="movies">

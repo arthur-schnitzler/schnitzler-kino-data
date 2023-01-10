@@ -72,7 +72,7 @@ Nachgewiesene Spielorte: Elite-, Flotten-, Phönix-, Flieger- und Kolosseum-Kino
          </div>
          <note type="kommentar">
             <p xml:space="preserve">Zwischen 1927 und 1929 drehte Max Neufeld für die »Hugo Engel Filmges.m.b.H.« insgesamt neun Filme (Biographie und Filmographie zu Max Neufeld von Armin Loacker in Büttner/Dewald, S. 66–74). Bei dieser Firma handelte es sich ursprünglich um eine reine Verleih- und Vertriebsgesellschaft, die in die Produktion investierte, um so ausländische Filme vertreiben zu können, deren Einfuhr seit 1926 an die inländische Filmproduktion gekoppelt war.</p>
-            <p xml:space="preserve">Nachgewiesene Spielorte: Elite-, Flotten-, Phönix-, Flieger- und Kolosseum-Kino sowie Kammerlichtspiele am Schwarzenbergplatz und Münstedts Kino-Palast (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19270218&amp;seite=23"><title><abbr>NFP</abbr></title><date when="1927-02-18">18.2.1927</date><biblScope type="pp">23</biblScope></bibl>).</p>
+            <p xml:space="preserve">Nachgewiesene Spielorte: Elite-, Flotten-, Phönix-, Flieger- und Kolosseum-Kino sowie Kammerlichtspiele am Schwarzenbergplatz und Münstedts Kino-Palast (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19270218&amp;seite=23"><title><abbr>NFP</abbr></title><date when="1927-02-18">18.2.1927</date><biblScope unit="page">23</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">

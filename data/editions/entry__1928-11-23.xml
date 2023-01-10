@@ -75,7 +75,7 @@ Anzeigen und Notiz 19.10.1928, S. 8f. Nochmals Anzeige und Notiz NFP 23.11.1928,
          </div>
          <note type="kommentar">
             <p xml:space="preserve">»Charlotte Corday«: Pollaczek arbeitete an einem Drama zur Mörderin Marats, siehe kommentierte Bibliographie.</p>
-            <p xml:space="preserve">Anzeigen und Notiz 19.10.1928, S. 8f. Nochmals Anzeige und Notiz <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281123&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1928-11-23">23.11.1928</date><biblScope type="pp">9</biblScope></bibl> unter Angabe von neun Spielorten.</p>
+            <p xml:space="preserve">Anzeigen und Notiz 19.10.1928, S. 8f. Nochmals Anzeige und Notiz <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281123&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1928-11-23">23.11.1928</date><biblScope unit="page">9</biblScope></bibl> unter Angabe von neun Spielorten.</p>
          </note>
          <div type="film">
             <table type="movies">

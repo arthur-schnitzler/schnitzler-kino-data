@@ -77,8 +77,8 @@ Ankündigung NFP 8.8.1930, S. 11, mit den Spielorten Imperial-, Kolosseum- und L
          </div>
          <note type="kommentar">
             <p xml:space="preserve">»von dieser Reise«: Der gemeinsame Aufenthalt in Marienbad ab dem 27. August.</p>
-            <p xml:space="preserve">Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300808&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1930-08-08">8.8.1930</date><biblScope type="pp">11</biblScope></bibl>, mit den Spielorten Imperial-, Kolosseum- und Löwen-Kino. Die in beiden Tagebucheinträgen erwähnte Spazierfahrt läßt auf das Kolosseum-Kino schließen.</p>
-            <p xml:space="preserve"><cit><quote>Ein Schwank <gap/> in dem viel mehr Worte gemacht werden, als man über ihn verlieren kann</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">395</biblScope></bibl></cit>.</p>
+            <p xml:space="preserve">Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300808&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1930-08-08">8.8.1930</date><biblScope unit="page">11</biblScope></bibl>, mit den Spielorten Imperial-, Kolosseum- und Löwen-Kino. Die in beiden Tagebucheinträgen erwähnte Spazierfahrt läßt auf das Kolosseum-Kino schließen.</p>
+            <p xml:space="preserve"><cit><quote>Ein Schwank <gap/> in dem viel mehr Worte gemacht werden, als man über ihn verlieren kann</quote><bibl corresp="#skga"><biblScope unit="volume">4</biblScope><biblScope unit="page">395</biblScope></bibl></cit>.</p>
          </note>
          <div type="film">
             <table type="movies">

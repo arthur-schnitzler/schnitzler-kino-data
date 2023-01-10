@@ -75,7 +75,7 @@ Von dem Film existieren neben der deutschen auch eine italienische, französisch
          </div>
          <note type="kommentar">
             <p xml:space="preserve">»Gruß« und »Pohl«: kein Widerspruch, die Gastwirtschaften befanden sich an der selben Adresse, der Zeitpunkt des Wechsels lässt sich nicht mehr nachvollziehen.</p>
-            <p xml:space="preserve">Von dem Film existieren neben der deutschen auch eine italienische, französische, schwedische, polnische und englischsprachige Version mit entsprechend unterschiedlichen Regisseuren und Darstellern. Spielort bestätigt <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310708&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1931-07-08">8.7.1931</date><biblScope type="pp">17</biblScope></bibl>.</p>
+            <p xml:space="preserve">Von dem Film existieren neben der deutschen auch eine italienische, französische, schwedische, polnische und englischsprachige Version mit entsprechend unterschiedlichen Regisseuren und Darstellern. Spielort bestätigt <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310708&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1931-07-08">8.7.1931</date><biblScope unit="page">17</biblScope></bibl>.</p>
          </note>
          <div type="film">
             <table type="movies">

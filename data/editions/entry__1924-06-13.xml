@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 6.6.1924, S. 27, für das Zirkus Busch-Kino. </ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19240606&amp;seite=27"><title><abbr>NFP</abbr></title><date when="1924-06-06">6.6.1924</date><biblScope type="pp">27</biblScope></bibl>, für das Zirkus Busch-Kino.</p>
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19240606&amp;seite=27"><title><abbr>NFP</abbr></title><date when="1924-06-06">6.6.1924</date><biblScope unit="page">27</biblScope></bibl>, für das Zirkus Busch-Kino.</p>
          </note>
          <div type="film">
             <table type="movies">

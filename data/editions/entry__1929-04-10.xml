@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Illustrierte Anzeige NFP 19.3.1929, S. 16. Besprechung von Eduard Siebrecht in NFP 23.3.1929, S. 10. Spielorte nicht nachgewiesen.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Illustrierte Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290319&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1929-03-19">19.3.1929</date><biblScope type="pp">16</biblScope></bibl>. Besprechung von Eduard Siebrecht in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290323&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1929-03-23">23.3.1929</date><biblScope type="pp">10</biblScope></bibl>. Spielorte nicht nachgewiesen.</p>
+            <p xml:space="preserve">Illustrierte Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290319&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1929-03-19">19.3.1929</date><biblScope unit="page">16</biblScope></bibl>. Besprechung von Eduard Siebrecht in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290323&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1929-03-23">23.3.1929</date><biblScope unit="page">10</biblScope></bibl>. Spielorte nicht nachgewiesen.</p>
          </note>
          <div type="film">
             <table type="movies">

@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige und Premierennotiz NFP 31.1.1930, S. 7, mit Angabe zweier Spielorte: Maria-Theresien-Kino und Tuchlauben-Lichtspiele.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Anzeige und Premierennotiz <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300131&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1930-01-31">31.1.1930</date><biblScope type="pp">7</biblScope></bibl>, mit Angabe zweier Spielorte: Maria-Theresien-Kino und Tuchlauben-Lichtspiele.</p>
+            <p xml:space="preserve">Anzeige und Premierennotiz <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300131&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1930-01-31">31.1.1930</date><biblScope unit="page">7</biblScope></bibl>, mit Angabe zweier Spielorte: Maria-Theresien-Kino und Tuchlauben-Lichtspiele.</p>
          </note>
          <div type="film">
             <table type="movies">

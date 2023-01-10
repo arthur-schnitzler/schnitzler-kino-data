@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Der Film lief bereits im April im Eos-Kino (NFP 15.4.1924, S. 18).</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Der Film lief bereits im April im Eos-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19240415&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1924-04-15">15.4.1924</date><biblScope type="pp">18</biblScope></bibl>).</p>
+            <p xml:space="preserve">Der Film lief bereits im April im Eos-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19240415&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1924-04-15">15.4.1924</date><biblScope unit="page">18</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">

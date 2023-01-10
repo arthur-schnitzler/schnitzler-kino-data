@@ -75,7 +75,7 @@ Ankündigung NFP 4.4.1930, S. 10. Anzeige NFP 18.4.1930, S. 18, dort genannt der
          </div>
          <note type="kommentar">
             <p xml:space="preserve">»damit er nur fortging«: Mit Bleistift ausgestrichen.</p>
-            <p xml:space="preserve">Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300404&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1930-04-04">4.4.1930</date><biblScope type="pp">10</biblScope></bibl>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300418&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1930-04-18">18.4.1930</date><biblScope type="pp">18</biblScope></bibl>, dort genannt der Name des Tonsetzers: Gottlieb Theodor Pilz.</p>
+            <p xml:space="preserve">Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300404&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1930-04-04">4.4.1930</date><biblScope unit="page">10</biblScope></bibl>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300418&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1930-04-18">18.4.1930</date><biblScope unit="page">18</biblScope></bibl>, dort genannt der Name des Tonsetzers: Gottlieb Theodor Pilz.</p>
          </note>
          <div type="film">
             <table type="movies">

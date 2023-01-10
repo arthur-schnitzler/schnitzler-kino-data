@@ -73,7 +73,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>NZG 17.5.1928, S. 10, belegt den Titel »Ein Kind der Straße« in den Kammerlichtspielen am Schwarzenbergplatz. Ein mit dem Notat von Schnitzler übereinstimmender Titel »Das Mädchen von der Straße« (»Scampolo«) scheint erst in PFL vom 22.6.1928 auf. Als Premierendatum wird dort der 25.12.1928 genannt.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve"><bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19280517&amp;seite=10"><title><abbr>NZG</abbr></title><date when="1928-05-17">17.5.1928</date><biblScope type="pp">10</biblScope></bibl>, belegt den Titel »Ein Kind der Straße« in den Kammerlichtspielen am Schwarzenbergplatz. Ein mit dem Notat von Schnitzler übereinstimmender Titel »Das Mädchen von der Straße« (»Scampolo«) scheint erst in PFL vom 22.6.1928 auf. Als Premierendatum wird dort der 25.12.1928 genannt.</p>
+            <p xml:space="preserve"><bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19280517&amp;seite=10"><title><abbr>NZG</abbr></title><date when="1928-05-17">17.5.1928</date><biblScope unit="page">10</biblScope></bibl>, belegt den Titel »Ein Kind der Straße« in den Kammerlichtspielen am Schwarzenbergplatz. Ein mit dem Notat von Schnitzler übereinstimmender Titel »Das Mädchen von der Straße« (»Scampolo«) scheint erst in PFL vom 22.6.1928 auf. Als Premierendatum wird dort der 25.12.1928 genannt.</p>
          </note>
          <div type="film">
             <table type="movies">

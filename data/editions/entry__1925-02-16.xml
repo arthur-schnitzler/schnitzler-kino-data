@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige NFP 6.2.1925, S. 23, dort Spielorte nur bis 12.2.1925 nachgewiesen.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250206&amp;seite=23"><title><abbr>NFP</abbr></title><date when="1925-02-06">6.2.1925</date><biblScope type="pp">23</biblScope></bibl>, dort Spielorte nur bis 12.2.1925 nachgewiesen.</p>
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250206&amp;seite=23"><title><abbr>NFP</abbr></title><date when="1925-02-06">6.2.1925</date><biblScope unit="page">23</biblScope></bibl>, dort Spielorte nur bis 12.2.1925 nachgewiesen.</p>
          </note>
          <div type="film">
             <table type="movies">

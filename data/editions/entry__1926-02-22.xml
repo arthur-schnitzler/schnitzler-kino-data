@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz, Anzeige und Besprechung NFP 19.2.1926, S. 17f., dort zwölf nachgewiesene Spielorte.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Premierennotiz, Anzeige und Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260219&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-02-19">19.2.1926</date><biblScope type="pp">17</biblScope></bibl>f., dort zwölf nachgewiesene Spielorte.</p>
+            <p xml:space="preserve">Premierennotiz, Anzeige und Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260219&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-02-19">19.2.1926</date><biblScope unit="page">17</biblScope></bibl>f., dort zwölf nachgewiesene Spielorte.</p>
          </note>
          <div type="film">
             <table type="movies">

@@ -71,7 +71,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen nicht erhalten.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">1. Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300110&amp;seite=13"><title><abbr>NFP</abbr></title><date when="1930-01-10">10.1.1930</date><biblScope type="pp">13</biblScope></bibl>, für 17.1.1930.</p>
+            <p xml:space="preserve">1. Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300110&amp;seite=13"><title><abbr>NFP</abbr></title><date when="1930-01-10">10.1.1930</date><biblScope unit="page">13</biblScope></bibl>, für 17.1.1930.</p>
             <p xml:space="preserve">Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen nicht erhalten.</p>
          </note>
          <div type="film">

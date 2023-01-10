@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige für das Burg-Kino NFP 3.1.1930, S. 13. Anzeige und Notiz NFP 10.1.1930, S. 12. </ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Anzeige für das Burg-Kino <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300103&amp;seite=13"><title><abbr>NFP</abbr></title><date when="1930-01-03">3.1.1930</date><biblScope type="pp">13</biblScope></bibl>. Anzeige und Notiz <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300110&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1930-01-10">10.1.1930</date><biblScope type="pp">12</biblScope></bibl>.</p>
+            <p xml:space="preserve">Anzeige für das Burg-Kino <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300103&amp;seite=13"><title><abbr>NFP</abbr></title><date when="1930-01-03">3.1.1930</date><biblScope unit="page">13</biblScope></bibl>. Anzeige und Notiz <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300110&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1930-01-10">10.1.1930</date><biblScope unit="page">12</biblScope></bibl>.</p>
          </note>
          <div type="film">
             <table type="movies">

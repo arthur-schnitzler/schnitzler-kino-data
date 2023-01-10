@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz NFP 14.5.1926, S. 18 unter der Angabe exklusiver Spielorte: Burg- und Rotenturm-Kino.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260514&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1926-05-14">14.5.1926</date><biblScope type="pp">18</biblScope></bibl> unter der Angabe exklusiver Spielorte: Burg- und Rotenturm-Kino.</p>
+            <p xml:space="preserve">Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260514&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1926-05-14">14.5.1926</date><biblScope unit="page">18</biblScope></bibl> unter der Angabe exklusiver Spielorte: Burg- und Rotenturm-Kino.</p>
          </note>
          <div type="film">
             <table type="movies">

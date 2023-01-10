@@ -75,7 +75,7 @@ Abend Kino, unbeträchtlich, aber spannend, A. viel wärmer und sehr lieb zu mir
             <ab>Marienbader Zeitung, 7.9.1930, S. 3, nennt Spielort Bio Globus. In Wien lief der Film bereits im Jänner 1930: Premierennotiz NFP 17.1.1930, S. 15, für 31.1.1930. Anzeige NFP 31.1.1930, S. 7.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Marienbader Zeitung, 7.9.1930, S. 3, nennt Spielort Bio Globus. In Wien lief der Film bereits im Jänner 1930: Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300117&amp;seite=15"><title><abbr>NFP</abbr></title><date when="1930-01-17">17.1.1930</date><biblScope type="pp">15</biblScope></bibl>, für 31.1.1930. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300131&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1930-01-31">31.1.1930</date><biblScope type="pp">7</biblScope></bibl>.</p>
+            <p xml:space="preserve">Marienbader Zeitung, 7.9.1930, S. 3, nennt Spielort Bio Globus. In Wien lief der Film bereits im Jänner 1930: Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300117&amp;seite=15"><title><abbr>NFP</abbr></title><date when="1930-01-17">17.1.1930</date><biblScope unit="page">15</biblScope></bibl>, für 31.1.1930. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300131&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1930-01-31">31.1.1930</date><biblScope unit="page">7</biblScope></bibl>.</p>
          </note>
          <div type="film">
             <table type="movies">

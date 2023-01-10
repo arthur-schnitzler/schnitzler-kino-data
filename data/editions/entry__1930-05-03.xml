@@ -73,7 +73,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Premierennotiz NFP 11.4.1930, S. 11, für 19.4.1930. Nachgewiesener Spielort: Uhu-Kino (NZG 3.5.1930, S. 7). </ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300411&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1930-04-11">11.4.1930</date><biblScope type="pp">11</biblScope></bibl>, für 19.4.1930. Nachgewiesener Spielort: Uhu-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19300503&amp;seite=7"><title><abbr>NZG</abbr></title><date when="1930-05-03">3.5.1930</date><biblScope type="pp">7</biblScope></bibl>).</p>
+            <p xml:space="preserve">Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300411&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1930-04-11">11.4.1930</date><biblScope unit="page">11</biblScope></bibl>, für 19.4.1930. Nachgewiesener Spielort: Uhu-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19300503&amp;seite=7"><title><abbr>NZG</abbr></title><date when="1930-05-03">3.5.1930</date><biblScope unit="page">7</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">

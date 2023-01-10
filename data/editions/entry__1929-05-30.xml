@@ -78,8 +78,8 @@ Notiz und Anzeige NFP 24.5.1929, S. 12, dort nachgewiesene Spielorte: Burg-, Kre
          </div>
          <note type="kommentar">
             <p xml:space="preserve">»Dr. D.«: Ferdinand »Ferry« Donath, Schnitzlers Neffe und Arzt.</p>
-            <p xml:space="preserve">Der letzte Film von Paul Leni. <cit><quote>In ihm gelangt das Unheimliche zu großartiger Darstellung</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">285</biblScope></bibl></cit>.</p>
-            <p xml:space="preserve">Notiz und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290524&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1929-05-24">24.5.1929</date><biblScope type="pp">12</biblScope></bibl>, dort nachgewiesene Spielorte: Burg-, Kreuz-, Eos-, Haydn-, Votivpark-, Schloß- und Theater-Kino sowie Kino Handl.</p>
+            <p xml:space="preserve">Der letzte Film von Paul Leni. <cit><quote>In ihm gelangt das Unheimliche zu großartiger Darstellung</quote><bibl corresp="#skga"><biblScope unit="volume">4</biblScope><biblScope unit="page">285</biblScope></bibl></cit>.</p>
+            <p xml:space="preserve">Notiz und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290524&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1929-05-24">24.5.1929</date><biblScope unit="page">12</biblScope></bibl>, dort nachgewiesene Spielorte: Burg-, Kreuz-, Eos-, Haydn-, Votivpark-, Schloß- und Theater-Kino sowie Kino Handl.</p>
          </note>
          <div type="film">
             <table type="movies">

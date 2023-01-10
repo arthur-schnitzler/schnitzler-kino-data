@@ -70,7 +70,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Anzeige und Kurzbesprechung in NFP 23.1.1925, S. 16. Spielorte für 28.2.1925 nicht ermittelbar.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Anzeige und Kurzbesprechung in <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250123&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1925-01-23">23.1.1925</date><biblScope type="pp">16</biblScope></bibl>. Spielorte für 28.2.1925 nicht ermittelbar.</p>
+            <p xml:space="preserve">Anzeige und Kurzbesprechung in <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250123&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1925-01-23">23.1.1925</date><biblScope unit="page">16</biblScope></bibl>. Spielorte für 28.2.1925 nicht ermittelbar.</p>
          </note>
          <div type="film">
             <table type="movies">

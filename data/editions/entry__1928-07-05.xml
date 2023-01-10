@@ -75,7 +75,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <note type="kommentar">
             <p xml:space="preserve">»Roman«: Pollaczek arbeitete an einem ungenannten Roman, die Korrekturen wurden am 19. Juni 1928 auf der Salzkammergut-Reise mit Schnitzler abgeschlossen. Eine Veröffentlichung bei Zsolnay kam nicht zustande.</p>
-            <p xml:space="preserve"><cit><quote>The Pilgrim steht am Übergang von den Grotesken zu den großen Werken</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">312</biblScope></bibl></cit>. Der Film wurde von 3.–8.8.1928 in zahlreichen weiteren Wiener Kinos gespielt (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280803&amp;seite=15"><title><abbr>NFP</abbr></title><date when="1928-08-03">3.8.1928</date><biblScope type="pp">15</biblScope></bibl>).</p>
+            <p xml:space="preserve"><cit><quote>The Pilgrim steht am Übergang von den Grotesken zu den großen Werken</quote><bibl corresp="#skga"><biblScope unit="volume">4</biblScope><biblScope unit="page">312</biblScope></bibl></cit>. Der Film wurde von 3.–8.8.1928 in zahlreichen weiteren Wiener Kinos gespielt (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280803&amp;seite=15"><title><abbr>NFP</abbr></title><date when="1928-08-03">3.8.1928</date><biblScope unit="page">15</biblScope></bibl>).</p>
          </note>
          <div type="film">
             <table type="movies">
