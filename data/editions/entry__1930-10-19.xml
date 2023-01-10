@@ -74,6 +74,9 @@ Und morgen wird der Brief aus dem Burgtheater kommen, der seit zwei Tagen unterw
          <div type="anmerkung">
             <ab>Premierennotiz mit zwei weiteren Spielorten NFP 10.10.1930, S. 14, für 13.10.1930. Anzeige NFP 14.10.1930, S. 2. Spielort bestätigt NFP 19.10.1930, S. 41.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Premierennotiz mit zwei weiteren Spielorten <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301010&amp;seite=14"><title><abbr>NFP</abbr></title><date when="1930-10-10">10.10.1930</date><biblScope type="pp">14</biblScope></bibl>, für 13.10.1930. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301014&amp;seite=2"><title><abbr>NFP</abbr></title><date when="1930-10-14">14.10.1930</date><biblScope type="pp">2</biblScope></bibl>. Spielort bestätigt <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301019&amp;seite=41"><title><abbr>NFP</abbr></title><date when="1930-10-19">19.10.1930</date><biblScope type="pp">41</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

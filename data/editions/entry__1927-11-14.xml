@@ -73,6 +73,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Kolap«: Frieda Pollak (1881–1937)
 Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in NFP 12.11.1927, S. 21. Nachgewiesene Spielorte: Burg-, Kärntner-, Schottenring-, Central-, Löwen- und Maria-Theresien-Kino (NFP 11.11.1927, S. 23).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">»Kolap«: Frieda Pollak (1881–1937)</p>
+            <p xml:space="preserve">Notiz und Anzeige in <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271111&amp;seite=23"><title><abbr>NFP</abbr></title><date when="1927-11-11">11.11.1927</date><biblScope type="pp">23</biblScope></bibl>. Besprechung von Kurt Sonnenfeld in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271112&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1927-11-12">12.11.1927</date><biblScope type="pp">21</biblScope></bibl>. Nachgewiesene Spielorte: Burg-, Kärntner-, Schottenring-, Central-, Löwen- und Maria-Theresien-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271111&amp;seite=23"><title><abbr>NFP</abbr></title><date when="1927-11-11">11.11.1927</date><biblScope type="pp">23</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -87,7 +91,6 @@ Notiz und Anzeige in NFP 11.11.1927, S. 23. Besprechung von Kurt Sonnenfeld in N
                   <cell role="data" ana="Regie">
                      <persName>Abel Gance</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>[Société Général de Films]</orgName>
                   </cell>

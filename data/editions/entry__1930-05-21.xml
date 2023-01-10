@@ -73,6 +73,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Zum Notat Pollaczeks: Der vorhergehende Eintrag stammt vom 20. Mai 1930, dieser faßt daher wohl die dazwischenliegenden Tage zusammen (vgl. Tb 23.5.1930). Bei »Kino« kann es sich folglich nur um den bei Schnitzler am 21. Mai notierten Film handeln.
 Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Zum Notat Pollaczeks: Der vorhergehende Eintrag stammt vom 20. Mai 1930, dieser faßt daher wohl die dazwischenliegenden Tage zusammen (vgl. Tb 23.5.1930). Bei »Kino« kann es sich folglich nur um den bei Schnitzler am 21. Mai notierten Film handeln.</p>
+            <p xml:space="preserve">Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -87,7 +91,6 @@ Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</ab>
                   <cell role="data" ana="Regie">
                      <persName>Fred Sauer</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Hegewald-Film (österr. Negativ)</orgName>
                   </cell>

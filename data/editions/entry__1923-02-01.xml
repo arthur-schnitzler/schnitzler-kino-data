@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1923-02-01.html">
             <ab>1/2 […] Kino – Graf von Charolais, nach Richards Stück;– ein guter Anfang; dann wirds immer ärger; und ich hatte die Empfindung: Schandgewerbe.– […]</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,15 +73,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>1922</date>
                   </cell>
-                   
-                   
                   <cell role="data" ana="Regie">
                      <persName>Karl Grune</persName>
                   </cell>
                   <cell role="data" ana="Buch">
                      <persName>Richard Beer-Hofmann (Stückvorlage); Bobby E. Lüthge (Drehbuch)</persName>
                   </cell>
-                   
                   <cell role="data" ana="Darsteller_innen">Eva May, Wilhelm Dieterle</cell>
                </row>
             </table>

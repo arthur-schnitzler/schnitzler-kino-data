@@ -73,6 +73,9 @@ Harry zu Tisch. Enervante Gespräche über seine Ehe. Er nimmt es wieder nicht e
          <div type="anmerkung">
             <ab>Der Film wird in der österreichischen Tagespresse nur mit dem bei Schnitzler angegebenen Titel erwähnt. Premierennotiz NFP 12.4.1929, S. 7. Anzeige NFP 19.4.1929, S. 7. Nachgewiesene Spielorte: Imperial-, Kärntner-, Opern- und Busch-Kino sowie Eos-Lichtspiele und Kino Wienzeile (NFP 20.4.1929, S. 22). </ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Der Film wird in der österreichischen Tagespresse nur mit dem bei Schnitzler angegebenen Titel erwähnt. Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290412&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1929-04-12">12.4.1929</date><biblScope type="pp">7</biblScope></bibl>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290419&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1929-04-19">19.4.1929</date><biblScope type="pp">7</biblScope></bibl>. Nachgewiesene Spielorte: Imperial-, Kärntner-, Opern- und Busch-Kino sowie Eos-Lichtspiele und Kino Wienzeile (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290420&amp;seite=22"><title><abbr>NFP</abbr></title><date when="1929-04-20">20.4.1929</date><biblScope type="pp">22</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

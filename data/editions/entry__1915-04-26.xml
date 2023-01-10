@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1915-04-26.html">
             <ab>[…] Nm. Opernkino (Maria Carmi-Vollmöller in einer Albernheit).– […]</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,14 +73,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>1914</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>I</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Emilio Ghione</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Monopol-Film</orgName>
                   </cell>

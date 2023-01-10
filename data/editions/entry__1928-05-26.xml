@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>„Der Film […] greift mitten hinein in das Fußball-Leben. Ein Volksstück, wie er selber sich nennt. Volksstückmäßig ist jedenfalls die Schlichtheit seiner Motive“ (SK I, S. 405). Anzeige mit Spielorten NFP 25.5.1928, S. 12. Besprechung von Philipp Winter in NFP 27.5.1928, S. 24.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve"><cit><quote>Der Film <gap/> greift mitten hinein in das Fußball-Leben. Ein Volksstück, wie er selber sich nennt. Volksstückmäßig ist jedenfalls die Schlichtheit seiner Motive</quote><bibl corresp="#skga"><biblScope type="vol">3</biblScope><biblScope type="pp">405</biblScope></bibl></cit>. Anzeige mit Spielorten <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280525&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1928-05-25">25.5.1928</date><biblScope type="pp">12</biblScope></bibl>. Besprechung von Philipp Winter in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280527&amp;seite=24"><title><abbr>NFP</abbr></title><date when="1928-05-27">27.5.1928</date><biblScope type="pp">24</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Zoltan Corda</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Carl Boese Nationalfilm</orgName>
                   </cell>

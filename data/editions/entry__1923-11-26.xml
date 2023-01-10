@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1923-11-26.html">
             <ab>26/11 […] Im Kino.– (Jannings in Alles ums Geld.) […]</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,8 +73,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>1923</date>
                   </cell>
-                   
-                   
                   <cell role="data" ana="Regie">
                      <persName>Reinhold Schünzel</persName>
                   </cell>

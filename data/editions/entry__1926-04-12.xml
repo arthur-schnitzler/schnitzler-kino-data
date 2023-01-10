@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Premierennotiz und Anzeige NFP 9.4.1926, S. 15/16, Besprechung NFP 16.4.1926, S. 18.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Premierennotiz und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260409&amp;seite=15"><title><abbr>NFP</abbr></title><date when="1926-04-09">9.4.1926</date><biblScope type="pp">15</biblScope></bibl>/16, Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260416&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1926-04-16">16.4.1926</date><biblScope type="pp">18</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Carl Boese</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Terra-Film</orgName>
                   </cell>

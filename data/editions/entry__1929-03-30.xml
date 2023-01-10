@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Premierennotiz und Anzeige NFP 30.3.1929, S. 9, dort nachgewiesene Spielorte: Burg-, Gartenbau-, Kärntner-, Rotenturm-, Schottenring-, Busch-, Eos-, Stafa- und Flieger-Kino sowie Tuchlauben-Lichtspiele, Kino Schäffer, Raimund-Lichtspiele und Kino-Weltspiegel. Besprechung von Philipp Winter in NFP 29.3.1929, S. 11.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Premierennotiz und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290330&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1929-03-30">30.3.1929</date><biblScope type="pp">9</biblScope></bibl>, dort nachgewiesene Spielorte: Burg-, Gartenbau-, Kärntner-, Rotenturm-, Schottenring-, Busch-, Eos-, Stafa- und Flieger-Kino sowie Tuchlauben-Lichtspiele, Kino Schäffer, Raimund-Lichtspiele und Kino-Weltspiegel. Besprechung von Philipp Winter in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290329&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1929-03-29">29.3.1929</date><biblScope type="pp">11</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Géza von Bolváry</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Sascha British-Intern.-Film</orgName>
                   </cell>

@@ -69,11 +69,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Kritik in Filmwelt, Jg. 1924, Nr. 9, S. 4f., Kurzkritik in Nr. 10/11, S. 12. An anderer Stelle (Jg. 1923, Nr. 16, S. 14) wird erwähnt, daß für die Aufnahmen der Zuschauerraum und die Außenfront des alten Burgtheaters am Michaelerplatz »mit der angrenzenden Hofburg und dem berühmten ehemaligen Künstlercafé Griensteidl« im Studio nachgebaut wurden. Offenbar bezieht sich auch Roda Roda in einem Artikel für dieselbe Illustrierte (Jg. 1923, Nr. 13, S. 5f.) auf die aufwendige Ausstattung des Films. Besprechung von R. St. in NFP 29.2.1924, S. 24.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Kritik in Filmwelt, Jg. 1924, Nr. 9, S. 4f., Kurzkritik in Nr. 10/11, S. 12. An anderer Stelle (Jg. 1923, Nr. 16, S. 14) wird erwähnt, daß für die Aufnahmen der Zuschauerraum und die Außenfront des alten Burgtheaters am Michaelerplatz »mit der angrenzenden Hofburg und dem berühmten ehemaligen Künstlercafé Griensteidl« im Studio nachgebaut wurden. Offenbar bezieht sich auch Roda Roda in einem Artikel für dieselbe Illustrierte (Jg. 1923, Nr. 13, S. 5f.) auf die aufwendige Ausstattung des Films. Besprechung von R. St. in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19240229&amp;seite=24"><title><abbr>NFP</abbr></title><date when="1924-02-29">29.2.1924</date><biblScope type="pp">24</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Das Alte Gesetz“</cell>
-                   
                   <cell role="data" ana="Genre">Drama</cell>
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
@@ -81,7 +83,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>E. A. Dupont</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Comedianfilm</orgName>
                   </cell>

@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Mady Christians’ erster Tonfilm. Besprechung von Felix Cleve in NFP 10.12.1929, S. 10. Anzeige und Notiz NFP 3.1.1930, S. 12/13.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Mady Christians’ erster Tonfilm. Besprechung von Felix Cleve in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291210&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1929-12-10">10.12.1929</date><biblScope type="pp">10</biblScope></bibl>. Anzeige und Notiz <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300103&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1930-01-03">3.1.1930</date><biblScope type="pp">12</biblScope></bibl>/13.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Rudolf Walther-Fein</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Afa-Tobis-Film</orgName>
                   </cell>

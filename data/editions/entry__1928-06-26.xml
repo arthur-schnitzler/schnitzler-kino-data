@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Der Filmstart, den PFL erst mit 5.10.1928 angeben, dürfte vorverlegt worden sein. Nachgewiesener Spielort: Flieger-Kino (NZG, 26.6.1928, S. 8). </ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Der Filmstart, den PFL erst mit 5.10.1928 angeben, dürfte vorverlegt worden sein. Nachgewiesener Spielort: Flieger-Kino (NZG, 26.6.1928, S. 8).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Victor Seastrom</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Metro-Film</orgName>
                   </cell>

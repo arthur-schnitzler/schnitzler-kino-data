@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>In den Kinoprogrammen nicht nachgewiesen ab September 1925. Der Film lief in Deutschland bereits am 21. November 1924 an, so daß eine Wiederholung am wahrscheinlichsten ist. </ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">In den Kinoprogrammen nicht nachgewiesen ab September 1925. Der Film lief in Deutschland bereits am 21. November 1924 an, so daß eine Wiederholung am wahrscheinlichsten ist.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Reinhold Schünzel</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Czerepyfilm-Ufa-Film</orgName>
                   </cell>

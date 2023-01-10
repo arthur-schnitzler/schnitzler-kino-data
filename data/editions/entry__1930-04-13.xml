@@ -71,6 +71,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 Weder NFP noch NZG weisen ein Kino namens »Palast« in ihren Programmen aus. Schwarz 1992 nennt zwei Kinos mit diesem Namen, beide im achten Bezirk: Palast Kino, Alserstr. 23. und Palast, Josefstädterstraße. Hinzu kommt das Münstedt-Kino, das ebenfalls »Palast« genannt wurde.
 Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterstraße besucht (Übereinstimmung des Filmtitels mit dem Kinoprogramm). Etwas unsicherer hingegen ist ein Besuch im Münstedt-Kino am 20. Mai 1925. Vorläufig steht also zu vermuten, daß dieses »1. Mal« das Kino in der Alserstraße meint.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300411&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1930-04-11">11.4.1930</date><biblScope type="pp">11</biblScope></bibl>. Nachgewiesener Spielort lt. NFP: Löwenkino.</p>
+            <p xml:space="preserve">Weder NFP noch NZG weisen ein Kino namens »Palast« in ihren Programmen aus. Schwarz 1992 nennt zwei Kinos mit diesem Namen, beide im achten Bezirk: Palast Kino, Alserstr. 23. und Palast, Josefstädterstraße. Hinzu kommt das Münstedt-Kino, das ebenfalls »Palast« genannt wurde.</p>
+            <p xml:space="preserve">Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterstraße besucht (Übereinstimmung des Filmtitels mit dem Kinoprogramm). Etwas unsicherer hingegen ist ein Besuch im Münstedt-Kino am 20. Mai 1925. Vorläufig steht also zu vermuten, daß dieses »1. Mal« das Kino in der Alserstraße meint.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -85,7 +90,6 @@ Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterst
                   <cell role="data" ana="Regie">
                      <persName>E. W. Emo</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Hegewald-Film</orgName>
                   </cell>

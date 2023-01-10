@@ -69,7 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Es kommen sehr viele Titel in Frage, die sich mangels weiterer Informationen nicht eingrenzen lassen.</ab>
          </div>
-         
+         <note type="kommentar">
+            <p xml:space="preserve">Es kommen sehr viele Titel in Frage, die sich mangels weiterer Informationen nicht eingrenzen lassen.</p>
+         </note>
       </body>
       <back>
          <listPerson>

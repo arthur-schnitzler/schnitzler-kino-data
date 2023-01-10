@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-11-12.html">
             <ab>12/11 […] N. d. N. mit Lili Cottage Sanatorium. Kino (Spielzeug von Paris).</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,14 +73,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>Ö</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Mihaly Kertész</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Sascha-Film</orgName>
                   </cell>

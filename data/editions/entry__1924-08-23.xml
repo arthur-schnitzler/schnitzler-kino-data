@@ -69,7 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Weder Film noch Spielort in Luzern konnten ermittelt werden.</ab>
          </div>
-         
+         <note type="kommentar">
+            <p xml:space="preserve">Weder Film noch Spielort in Luzern konnten ermittelt werden.</p>
+         </note>
       </body>
       <back>
          <listPerson>

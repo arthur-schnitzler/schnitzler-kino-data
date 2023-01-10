@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Vermutlich im Votivpark-Kino, da dort lt. Kinoprogramm in NFP vom Vortag am 27.3.1927 gespielt. Die NFP nennt den etwas abweichenden Titel: »Wie Ella zum Film kam«.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Vermutlich im Votivpark-Kino, da dort lt. Kinoprogramm in NFP vom Vortag am 27.3.1927 gespielt. Die NFP nennt den etwas abweichenden Titel: »Wie Ella zum Film kam«.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Alfred A. Green</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>First Nationalfilm</orgName>
                   </cell>

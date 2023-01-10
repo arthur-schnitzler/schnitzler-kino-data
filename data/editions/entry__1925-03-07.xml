@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Anzeige mit Spielortangaben NFP 23.1.1925, S. 16. NAB 7.3.1925, S. 8, nachgewiesen für Schottenring-Kino.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Anzeige mit Spielortangaben <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250123&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1925-01-23">23.1.1925</date><biblScope type="pp">16</biblScope></bibl>. <bibl><title><abbr>NAB</abbr></title><date when="1925-03-07">7.3.1925</date><biblScope type="pp">8</biblScope></bibl>, nachgewiesen für Schottenring-Kino.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Holger Madsen</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Eikofilm</orgName>
                   </cell>

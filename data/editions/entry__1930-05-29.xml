@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>In den Programmen der Tagespresse nicht nachgewiesen. Der Film wurde bei der ersten Zensurprüfung (2024m) am 2. Oktober 1929 verboten und nach einer zweiten Prüfung acht Tage darauf und mit einer Kürzung auf 1960m unter Jugendverbot zugelassen. Das Verbot wurde begründet mit »Bildfolgen« wie der Darstellung vom »zweimaligen Versuch dem Mädchen das Kleid zu heben«, einem Bauchtanz, dem lüsternen Verhalten der Männer sowie einem  Vergewaltigungsversuch (vgl. http://www.deutsches-filminstitut.de/filme/f015087.htm). „Dieser Film ist das Produkt einer etwas peinlichen Phantasie […] Eine Spekulation auf Publikumsinstinkte, die so transparent ist wie der Schleier“ (SK II, S. 303).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">In den Programmen der Tagespresse nicht nachgewiesen. Der Film wurde bei der ersten Zensurprüfung (2024m) am 2. Oktober 1929 verboten und nach einer zweiten Prüfung acht Tage darauf und mit einer Kürzung auf 1960m unter Jugendverbot zugelassen. Das Verbot wurde begründet mit »Bildfolgen« wie der Darstellung vom »zweimaligen Versuch dem Mädchen das Kleid zu heben«, einem Bauchtanz, dem lüsternen Verhalten der Männer sowie einem Vergewaltigungsversuch (vgl. http://www.deutsches-filminstitut.de/filme/f015087.htm). <cit><quote>Dieser Film ist das Produkt einer etwas peinlichen Phantasie <gap/> Eine Spekulation auf Publikumsinstinkte, die so transparent ist wie der Schleier</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">303</biblScope></bibl></cit>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>C. Burguet</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Franco-Maxim-Film</orgName>
                   </cell>

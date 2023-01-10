@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>„eine Enttäuschung“ (SK II, S. 257). Illustrierte Anzeige NFP 1.2.1929, S. 8. Besprechung von E. D. in NFP 2.2.1929, S. 10. Zahlreiche nachgewiesene Spielorte: Gartenbau-, Kärntner-, Haydn-, Zirkus-Busch-, Palast-, Kolosseum- und Theater-Kino sowie Eos-Lichtspiele (NFP 6.2.1929, S. 17).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve"><cit><quote>eine Enttäuschung</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">257</biblScope></bibl></cit>. Illustrierte Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290201&amp;seite=8"><title><abbr>NFP</abbr></title><date when="1929-02-01">1.2.1929</date><biblScope type="pp">8</biblScope></bibl>. Besprechung von E. D. in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290202&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1929-02-02">2.2.1929</date><biblScope type="pp">10</biblScope></bibl>. Zahlreiche nachgewiesene Spielorte: Gartenbau-, Kärntner-, Haydn-, Zirkus-Busch-, Palast-, Kolosseum- und Theater-Kino sowie Eos-Lichtspiele (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290206&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1929-02-06">6.2.1929</date><biblScope type="pp">17</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -80,8 +83,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Land">
                      <placeName>USA</placeName>
                   </cell>
-                   
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Columbia-Film</orgName>
                   </cell>

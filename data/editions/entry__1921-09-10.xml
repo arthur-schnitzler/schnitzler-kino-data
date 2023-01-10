@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1921-09-10.html">
             <ab>10/9 […] Mit Julius, Helene, Hans Prater, Eisvogel gen.; Kino Busch – Musikerstrike; nichts unheimlicheres und öderes als diese Bewegung auf der Leinwand und Stummheit.</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,15 +73,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>1921</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>F</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Henry Krauss</persName>
                   </cell>
-                   
-                   
                   <cell role="data" ana="Darsteller_innen">Henry Krauss u.a.</cell>
                </row>
             </table>

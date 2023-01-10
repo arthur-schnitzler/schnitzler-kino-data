@@ -73,6 +73,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Marienbader Zeitung, 2.9.1930, S. 3: »Bio Globus. Dienstag, den 2. September, der mit größter Spannung erwartete Film der Menschenverbrüderung und des Weltfriedens ›In Flandern nichts Neues‹. Drama eines Helden in 7 Akten mit Jameson Thomas, Eve Gray und Malcolm Tod in den Hauptrollen. ›Im Westen nichts Neues‹ schrieben die Zeitungen zu einer Zeit, wo der Kampf der Nationen im Weltkriege den Höhepunkt erreichte. Während man das Hinterland einlullte, opferten die Helden draußen im Höhepunkt des Krieges ihr Leben. Im Rahmen einer spannenden Handlung bringt der Film unvergleichlich schöne Bilder und Prinzipien, die für das kommende Geschlecht von Bedeutung und ausschlaggebend sein sollen. Mit Rücksicht auf das große Interesse findet Dienstag den 2. September, um 1/2 11 Uhr abends eine separate Nachtvorstellung statt. Trotz der hohen Regie kein Preiszuschlag.«
 Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als »alt«. Den in der NFP Anfang 1931 heftig diskutierten Remarque-Film »Im Westen nichts Neues« haben weder Pollaczek noch Schnitzler als gesehen protokolliert (vgl. etwa NFP 4.1.1931, S. 13). Pollaczek erwähnt jedoch die in der Tagespresse belegten Proteste gegen den Film am 5. Jänner 1931: »Gestern Abend grosse Krawalle wegen der Aufführung des Remarque-Films, antisemitisches Strassengesindel und Lausbuben, die keine Ahnung haben, was vorgeht« (CKP III, 135).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Marienbader Zeitung, 2.9.1930, S. 3: »Bio Globus. Dienstag, den 2. September, der mit größter Spannung erwartete Film der Menschenverbrüderung und des Weltfriedens ›In Flandern nichts Neues‹. Drama eines Helden in 7 Akten mit Jameson Thomas, Eve Gray und Malcolm Tod in den Hauptrollen. ›Im Westen nichts Neues‹ schrieben die Zeitungen zu einer Zeit, wo der Kampf der Nationen im Weltkriege den Höhepunkt erreichte. Während man das Hinterland einlullte, opferten die Helden draußen im Höhepunkt des Krieges ihr Leben. Im Rahmen einer spannenden Handlung bringt der Film unvergleichlich schöne Bilder und Prinzipien, die für das kommende Geschlecht von Bedeutung und ausschlaggebend sein sollen. Mit Rücksicht auf das große Interesse findet Dienstag den 2. September, um 1/2 11 Uhr abends eine separate Nachtvorstellung statt. Trotz der hohen Regie kein Preiszuschlag.«</p>
+            <p xml:space="preserve">Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als »alt«. Den in der NFP Anfang 1931 heftig diskutierten Remarque-Film »Im Westen nichts Neues« haben weder Pollaczek noch Schnitzler als gesehen protokolliert (vgl. etwa <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310104&amp;seite=13"><title><abbr>NFP</abbr></title><date when="1931-01-04">4.1.1931</date><biblScope type="pp">13</biblScope></bibl>). Pollaczek erwähnt jedoch die in der Tagespresse belegten Proteste gegen den Film am 5. Jänner 1931: »Gestern Abend grosse Krawalle wegen der Aufführung des Remarque-Films, antisemitisches Strassengesindel und Lausbuben, die keine Ahnung haben, was vorgeht« (CKP III, 135).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -80,14 +84,12 @@ Bemerkenswert: Schnitzler bezeichnet im September 1930 einen Film von 1927 als �
                   <cell role="data" ana="Jahr">
                      <date>1927</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>UK</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Arthur Maude</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>British International Pictures</orgName>
                   </cell>

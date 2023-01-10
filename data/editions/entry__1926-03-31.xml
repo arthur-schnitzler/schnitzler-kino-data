@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-03-31.html">
             <ab>31/3 […] Mit H. K. Kino (Venus vom Montmatre). Ein besonders hübsches Gespräch.</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,15 +73,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Friedrich Zelnik</persName>
                   </cell>
-                   
-                   
                   <cell role="data" ana="Darsteller_innen">Hans Albers, Lya Mara, Karl Platen, Jack Trevor, Olga Tschechowa</cell>
                </row>
             </table>

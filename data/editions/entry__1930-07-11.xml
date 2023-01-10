@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-07-11.html">
             <ab>11/7 […] Mit Suz. Kino (Rotenturm) – „Die schwarze Lu“, ein „Lloyd“stück, […].–</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -75,11 +74,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <date>1929</date>
                   </cell>
                   <cell role="data" ana="Genre">Drama</cell>
-                   
                   <cell role="data" ana="Regie">
                      <persName>Benjamin Stoloff</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Fox-Movietone</orgName>
                   </cell>

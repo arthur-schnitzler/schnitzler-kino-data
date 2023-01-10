@@ -71,6 +71,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 „Der Film schildert die Leidenszeit des Kaisers auf St. Helena. Nicht, daß er Zustände statt dramatischer Aktionen darstellt, macht ihn so schleppend und handlungsarm, sondern dies: daß er die Zustände nicht in der Sprache des Films auszudrücken weiß“ (SK II, S. 318).
 Bernard von Brentano: Die Gewalt echter Schauspielerei. In: FZ vom 26.11.1929, Nr. 882.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Albert Bassermann war Schnitzler persönlich bekannt, siehe Tb 19.3.1913. Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300307&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1930-03-07">7.3.1930</date><biblScope type="pp">11</biblScope></bibl>, für 21.3.1930. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300321&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1930-03-21">21.3.1930</date><biblScope type="pp">11</biblScope></bibl>. Nachgewiesene Spielorte: Imperial-, Opern- und Schottenring-Kino sowie Münstedts Kino und Kino Wienzeile.</p>
+            <p xml:space="preserve"><cit><quote>Der Film schildert die Leidenszeit des Kaisers auf St. Helena. Nicht, daß er Zustände statt dramatischer Aktionen darstellt, macht ihn so schleppend und handlungsarm, sondern dies: daß er die Zustände nicht in der Sprache des Films auszudrücken weiß</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">318</biblScope></bibl></cit>.</p>
+            <p xml:space="preserve">Bernard von Brentano: Die Gewalt echter Schauspielerei. In: FZ vom 26.11.1929, Nr. 882.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -85,7 +90,6 @@ Bernard von Brentano: Die Gewalt echter Schauspielerei. In: FZ vom 26.11.1929, N
                   <cell role="data" ana="Regie">
                      <persName>Lupu Pick</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Ostermayer-Film</orgName>
                   </cell>

@@ -62,12 +62,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-          
          <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp285.html">
             <ab>[CP an AS am 17.10.1925:]
 […] Vorgestern war ich mit Fredi bei einem sehr guten Film „Die drei Portiermädeln“. Mir wars leid, dass Du ihn nicht gesehen hast, aber ich gehe gern nochmal dazu. […] [I, 235]</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -75,7 +73,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>

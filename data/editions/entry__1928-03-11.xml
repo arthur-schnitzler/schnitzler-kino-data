@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>„In jedem seiner Filme – so auch in dem neuesten: ‚Mein Freund Harry‘ – bezwingt Harry Liedtke das Herz einer reichen Erbin; er muß sich schon Millionen auf diese Weise erworben haben“ (SK II, S. 23). Ankündigung NFP 2.3.1928, S. 19 für 9.3.1928. Nachgewiesene Spielorte: Opern- und Zirkus Busch-Kino (NFP 11.3.1928, S. 26).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve"><cit><quote>In jedem seiner Filme – so auch in dem neuesten: ›Mein Freund Harry‹ – bezwingt Harry Liedtke das Herz einer reichen Erbin; er muß sich schon Millionen auf diese Weise erworben haben</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">23</biblScope></bibl></cit>. Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280302&amp;seite=19"><title><abbr>NFP</abbr></title><date when="1928-03-02">2.3.1928</date><biblScope type="pp">19</biblScope></bibl> für 9.3.1928. Nachgewiesene Spielorte: Opern- und Zirkus Busch-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280311&amp;seite=26"><title><abbr>NFP</abbr></title><date when="1928-03-11">11.3.1928</date><biblScope type="pp">26</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Max Opal</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Aafa-Film</orgName>
                   </cell>

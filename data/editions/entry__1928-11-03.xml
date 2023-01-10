@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>„Die etwas falschen Schauer im Text sind von der Ufa und ihrem Regisseur Henrik Galeen weidlich ausgenutzt worden“ (SK I, S. 31). Schnitzler und Pollaczek sehen eine Tonfilmversion am 27. Januar 1931. Anzeige und Ankündigung NFP 2.11.1928, S. 7, unter Angabe von zehn Spielorten. Besprechung NFP 3.11.1928, S. 9f. Nachgewiesene Spielorte: Imperial-, Opern- und Palast-Kino sowie Lustspieltheater. </ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve"><cit><quote>Die etwas falschen Schauer im Text sind von der Ufa und ihrem Regisseur Henrik Galeen weidlich ausgenutzt worden</quote><bibl corresp="#skga"><biblScope type="vol">3</biblScope><biblScope type="pp">31</biblScope></bibl></cit>. Schnitzler und Pollaczek sehen eine Tonfilmversion am 27. Januar 1931. Anzeige und Ankündigung <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281102&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1928-11-02">2.11.1928</date><biblScope type="pp">7</biblScope></bibl>, unter Angabe von zehn Spielorten. Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19281103&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1928-11-03">3.11.1928</date><biblScope type="pp">9</biblScope></bibl>f. Nachgewiesene Spielorte: Imperial-, Opern- und Palast-Kino sowie Lustspieltheater.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

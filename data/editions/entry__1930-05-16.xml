@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>„In der russischen Kälte erwärmen sich sich die Hauptakteure durch eine Unmenge von Liebe, Sinnlichkeit, Eifersucht – alle geblendet von Tschechowa, die in der Tat die Aufregung lohnt“ (SK II, S. 260). Premierennotiz NFP 9.5.1930, S. 13. Nachgewiesener Spielort: Münstedts Kino (NFP, 16.5.1930, S. 23).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve"><cit><quote>In der russischen Kälte erwärmen sich sich die Hauptakteure durch eine Unmenge von Liebe, Sinnlichkeit, Eifersucht – alle geblendet von Tschechowa, die in der Tat die Aufregung lohnt</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">260</biblScope></bibl></cit>. Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300509&amp;seite=13"><title><abbr>NFP</abbr></title><date when="1930-05-09">9.5.1930</date><biblScope type="pp">13</biblScope></bibl>. Nachgewiesener Spielort: Münstedts Kino (NFP, 16.5.1930, S. 23).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Erich Waschneck</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Tschechowa-Prod.</orgName>
                   </cell>

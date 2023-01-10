@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Höchstwahrscheinlich der genannte Film, obwohl PFL unter dem von Schnitzler angegebenen Titel einen fünfteiligen Film verzeichnen: NFP 10.4.1928, S. 11, gibt als Darsteller Regina Thomas und Bernhard Goetzke an. Anzeige NFP 7.4.1928, S. 13. Besprechung von Lilly Klaudy NFP 8.4.1928, S. 22.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Höchstwahrscheinlich der genannte Film, obwohl PFL unter dem von Schnitzler angegebenen Titel einen fünfteiligen Film verzeichnen: <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280410&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1928-04-10">10.4.1928</date><biblScope type="pp">11</biblScope></bibl>, gibt als Darsteller Regina Thomas und Bernhard Goetzke an. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280407&amp;seite=13"><title><abbr>NFP</abbr></title><date when="1928-04-07">7.4.1928</date><biblScope type="pp">13</biblScope></bibl>. Besprechung von Lilly Klaudy <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280408&amp;seite=22"><title><abbr>NFP</abbr></title><date when="1928-04-08">8.4.1928</date><biblScope type="pp">22</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>André Hugon</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Französisch. Fabrikat</orgName>
                   </cell>

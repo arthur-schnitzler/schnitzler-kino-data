@@ -69,11 +69,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Anzeige NFP 23.3.1928, S. 19. Besprechung von Eduard Siebrecht. in NFP 24.3.1928, S. 10.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280323&amp;seite=19"><title><abbr>NFP</abbr></title><date when="1928-03-23">23.3.1928</date><biblScope type="pp">19</biblScope></bibl>. Besprechung von Eduard Siebrecht. in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280324&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1928-03-24">24.3.1928</date><biblScope type="pp">10</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Die Spionin“ („Verrat“, „Leichte Kavallerie“)</cell>
-                   
                   <cell role="data" ana="Genre">Drama</cell>
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
@@ -81,7 +83,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Rolf Randolf</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Phöbus-Film</orgName>
                   </cell>

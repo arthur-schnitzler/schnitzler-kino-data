@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-12-10.html">
             <ab>10/12 […] Abds. H. K. bei mir, im Kino mit ihr („Guillotine“).</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,14 +73,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Guido Schamberg</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Albani-Film</orgName>
                   </cell>

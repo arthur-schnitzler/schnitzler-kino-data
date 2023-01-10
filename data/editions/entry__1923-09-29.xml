@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Anzeige NFP 29.9.1923, S. 15 für Burg-Kino.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19230929&amp;seite=15"><title><abbr>NFP</abbr></title><date when="1923-09-29">29.9.1923</date><biblScope type="pp">15</biblScope></bibl> für Burg-Kino.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

@@ -72,6 +72,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Kino (NZG 24.5.1930, S. 7, NFP 24.5.1930, S. 23.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19300524&amp;seite=7"><title><abbr>NZG</abbr></title><date when="1930-05-24">24.5.1930</date><biblScope type="pp">7</biblScope></bibl>, <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300524&amp;seite=23"><title><abbr>NFP</abbr></title><date when="1930-05-24">24.5.1930</date><biblScope type="pp">23</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -86,7 +89,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Jacques Feyder</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Metro-Vitaphone-Film</orgName>
                   </cell>

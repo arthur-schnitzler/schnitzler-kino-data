@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Premierennotiz und Anzeige NFP 24.9.1926, S. 17/18. Besprechung NFP 1.10.1926, S. 17. Nachgewiesene Spielorte: Burg-, Elite-, Kärntner-, Schottenring-, Löwen-, Flieger- und Vindobona-Kino (NFP 24.9.1926, S. 17).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Premierennotiz und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260924&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-09-24">24.9.1926</date><biblScope type="pp">17</biblScope></bibl>/18. Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19261001&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-10-01">1.10.1926</date><biblScope type="pp">17</biblScope></bibl>. Nachgewiesene Spielorte: Burg-, Elite-, Kärntner-, Schottenring-, Löwen-, Flieger- und Vindobona-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19260924&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1926-09-24">24.9.1926</date><biblScope type="pp">17</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

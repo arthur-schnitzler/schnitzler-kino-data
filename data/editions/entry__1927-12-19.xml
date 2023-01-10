@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Ankündigung und Anzeige NFP 16.12.1927, S. 19, dort nachgewiesene Spielorte: Burg-, Elite-, Imperial-, Central-, Flotten-, Maria-Theresien-, Phönix-, Kolosseum-, Abbazia-, Astoria- und Kalvarienberg-Kino sowie Kammerlichtspiele, Münstedts Kino-Palast und Lichtspiele Wienzeile. Besprechung NFP 18.12.1927, S. 19f.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Ankündigung und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271216&amp;seite=19"><title><abbr>NFP</abbr></title><date when="1927-12-16">16.12.1927</date><biblScope type="pp">19</biblScope></bibl>, dort nachgewiesene Spielorte: Burg-, Elite-, Imperial-, Central-, Flotten-, Maria-Theresien-, Phönix-, Kolosseum-, Abbazia-, Astoria- und Kalvarienberg-Kino sowie Kammerlichtspiele, Münstedts Kino-Palast und Lichtspiele Wienzeile. Besprechung <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19271218&amp;seite=19"><title><abbr>NFP</abbr></title><date when="1927-12-18">18.12.1927</date><biblScope type="pp">19</biblScope></bibl>f.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Merian C. Cooper, Ernest B. Schoedsack</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Paramount Famous Lasky Corporation</orgName>
                   </cell>

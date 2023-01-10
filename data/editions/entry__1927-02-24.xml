@@ -66,12 +66,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-02-24.html">
             <ab>24/2 […] Mit H. K. Kino „Motorrad über den Wolken“ – […].–</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Mit dem Motorrad über die Wolken“</cell>
-                   
                   <cell role="data" ana="Genre">Natur</cell>
                   <cell role="data" ana="Land">
                      <placeName>Ö</placeName>
@@ -79,11 +77,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Lothar Rübelt</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Rübelt-Film</orgName>
                   </cell>
-                   
                </row>
             </table>
          </div>

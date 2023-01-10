@@ -66,14 +66,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-03-31.html">
             <ab>31/3 […] Im Kino allein (Mädchen in den Tropen mit Baker) […]</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Das Mädchen aus den Tropen“ (Ot. „La sirène des tropiques“)</cell>
-                   
                   <cell role="data" ana="Genre">Drama</cell>
-                   
                   <cell role="data" ana="Regie">
                      <persName>Henri Etievant, Marie Nalpas</persName>
                   </cell>

@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Anzeige NFP 6.5.1927, S. 20, dort nachgewiesene Spielorte (bis 9.5.): Gartenbau-, Imperial-, Opern-, Busch-, Haydn-, Palast-, Kolosseum- und Theater-Kino. Besprechung von nd in NFP 13.5.1927, S. 21: »Verhältnismäßig am heitersten sind die Szenen, da Reginald Jones (Reginald Denny) unfreiwillig die Rolle eines Pfarrers spielt und als solcher in die Lage kommt, seine eigene Verlobte mit dem Nebenbuhler trauen zu sollen […]. Die deutschen Zwischentitel sind schwerfällig, ungrammatikalisch (›Sie braucht den Trost eines Mannes wie mir (!)‹) und bedien[en] sich, namens des Dienstmädchens, eines frei erfundenden Dialekts.«</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19270506&amp;seite=20"><title><abbr>NFP</abbr></title><date when="1927-05-06">6.5.1927</date><biblScope type="pp">20</biblScope></bibl>, dort nachgewiesene Spielorte (bis 9.5.): Gartenbau-, Imperial-, Opern-, Busch-, Haydn-, Palast-, Kolosseum- und Theater-Kino. Besprechung von nd in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19270513&amp;seite=21"><title><abbr>NFP</abbr></title><date when="1927-05-13">13.5.1927</date><biblScope type="pp">21</biblScope></bibl>: »Verhältnismäßig am heitersten sind die Szenen, da Reginald Jones (Reginald Denny) unfreiwillig die Rolle eines Pfarrers spielt und als solcher in die Lage kommt, seine eigene Verlobte mit dem Nebenbuhler trauen zu sollen […]. Die deutschen Zwischentitel sind schwerfällig, ungrammatikalisch (›Sie braucht den Trost eines Mannes wie mir (!)‹) und bedien[en] sich, namens des Dienstmädchens, eines frei erfundenden Dialekts.«</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>William A. Storm</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Universal-Film</orgName>
                   </cell>

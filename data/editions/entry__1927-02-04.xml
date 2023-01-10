@@ -69,11 +69,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Ankündigung und Anzeige NFP 4.2.1927, S. 18, dort nachgewiesene Spielorte: Gartenbau-, Rotenturm-, Schottenring-, Heimat- und Kolosseum-Kino sowie Lichtspiele Wienzeile.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Ankündigung und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19270204&amp;seite=18"><title><abbr>NFP</abbr></title><date when="1927-02-04">4.2.1927</date><biblScope type="pp">18</biblScope></bibl>, dort nachgewiesene Spielorte: Gartenbau-, Rotenturm-, Schottenring-, Heimat- und Kolosseum-Kino sowie Lichtspiele Wienzeile.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Im Banne der ewigen Stadt“ („Piazza del Popolo“) [Ot. „Fra Piazza del Popolo“]</cell>
-                   
                   <cell role="data" ana="Genre">Drama</cell>
                   <cell role="data" ana="Land">
                      <placeName>DK</placeName>
@@ -81,7 +83,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>A. W. Sandberg</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Nordiskfilm</orgName>
                   </cell>

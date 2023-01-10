@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Besprechung von Felix Cleve in NFP 21.11.1929, S. 10. Notiz NFP 22.11.1929, S. 11, mit der Angabe des (exklusiven) Spielorts Lustspieltheater, bestätigt durch Kinoprogramm NFP 3.12.1929, S. 17.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Besprechung von Felix Cleve in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291121&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1929-11-21">21.11.1929</date><biblScope type="pp">10</biblScope></bibl>. Notiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291122&amp;seite=11"><title><abbr>NFP</abbr></title><date when="1929-11-22">22.11.1929</date><biblScope type="pp">11</biblScope></bibl>, mit der Angabe des (exklusiven) Spielorts Lustspieltheater, bestätigt durch Kinoprogramm <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19291203&amp;seite=17"><title><abbr>NFP</abbr></title><date when="1929-12-03">3.12.1929</date><biblScope type="pp">17</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>William A. Seiter</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>First Nationalfilm-Vitaphone-Film</orgName>
                   </cell>

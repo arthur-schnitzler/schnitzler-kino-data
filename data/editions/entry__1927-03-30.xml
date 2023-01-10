@@ -70,6 +70,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Raoul Auernheimer«: Jurist, Journalist und Schriftsteller (1876–1948)
 „ein ausgezeichneter Katechismus der bürgerlichen Moralanschauungen“ (SK I, S. 274). </ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">»Raoul Auernheimer«: Jurist, Journalist und Schriftsteller (1876–1948)</p>
+            <p xml:space="preserve"><cit><quote>ein ausgezeichneter Katechismus der bürgerlichen Moralanschauungen</quote><bibl corresp="#skga"><biblScope type="vol">3</biblScope><biblScope type="pp">274</biblScope></bibl></cit>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -84,7 +88,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Alfred Santell</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>First Nationalfilm</orgName>
                   </cell>

@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Premierennotiz NFP 31.1.1930, S. 7, für 4.2.1930. Notiz mit Nennung des Spielorts Ufa-Ton-Kino NFP 14.2.1930, S. 10. Nachgewiesener Spielort: Ufa-Ton-Kino (NFP 4.2.1930, S. 8).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300131&amp;seite=7"><title><abbr>NFP</abbr></title><date when="1930-01-31">31.1.1930</date><biblScope type="pp">7</biblScope></bibl>, für 4.2.1930. Notiz mit Nennung des Spielorts Ufa-Ton-Kino <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300214&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1930-02-14">14.2.1930</date><biblScope type="pp">10</biblScope></bibl>. Nachgewiesener Spielort: Ufa-Ton-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300204&amp;seite=8"><title><abbr>NFP</abbr></title><date when="1930-02-04">4.2.1930</date><biblScope type="pp">8</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

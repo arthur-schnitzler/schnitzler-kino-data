@@ -73,6 +73,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Lotte M.«: Charlotte De Menasce, geb. Dirsztay (1883–1942)
 „nett erzählt und filmisch reizend entwickelt“ (SK II, S. 209). Nachgewiesener Spielort: Flieger-Kino (NZG 27.7.1929, S. 8). In PFL ist der Kinostart erst für die neue Saison angegeben.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">»Lotte M.«: Charlotte De Menasce, geb. Dirsztay (1883–1942)</p>
+            <p xml:space="preserve"><cit><quote>nett erzählt und filmisch reizend entwickelt</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">209</biblScope></bibl></cit>. Nachgewiesener Spielort: Flieger-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19290727&amp;seite=8"><title><abbr>NZG</abbr></title><date when="1929-07-27">27.7.1929</date><biblScope type="pp">8</biblScope></bibl>). In PFL ist der Kinostart erst für die neue Saison angegeben.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -87,7 +91,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Sidney Franklin</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Metro-Film</orgName>
                   </cell>

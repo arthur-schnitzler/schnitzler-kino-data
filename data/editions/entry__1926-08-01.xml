@@ -62,14 +62,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-          
          <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp379.html">
             <ab>1.8.1926. Unleidliches Wetter. Kopfschmerzen. Nachmittag in der Hauptpost. Dann Frieda P. bei mir. Viel über A. und Lili gesprochen. Dann Kino. Dummer, amerikanischer Film. Mit heftigen Kopfschmerzen nachhause und zu Bett. Carry bei mir. [I, 338]
 
 [CP an AS am 2.8.1926:]
 […] Gestern Vormittag war ich zwischen einem Regenguss und dem andern in der Hauptpost den Brief an Dich aufgeben. Mittag mit Carly, Nachmittag Frieda P. Wir waren zusammen im Kino am Fleischmarkt, „Der Kampf mit dem Schatten“, ein amerikanisches Gesellschaftsdrama, das saudumm war, vorher ein Lustspiel, wo lauter Fische vorkamen, so dass ich nicht einen Augenblick hinschauen konnte. Ausserdem hatte ich solche Kopfschmerzen, dass ich mich zuhause gleich mit Aspirin zu Bett legte. Mässig geschlafen um 6 Uhr schon am Roman geschrieben […] [I, 318]</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -77,7 +75,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>
                   </cell>
-                   
                   <cell role="data" ana="Land">
                      <placeName>USA</placeName>
                   </cell>

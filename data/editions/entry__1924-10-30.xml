@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Anzeige NFP 10.10.1924, S. 25. Die dortigen Spielortangaben reichen nur bis 23.10.1924, für 30.10. kein Spielort ermittelt. Besprechung von M. in NFP 14.10.1924, S. 8.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19241010&amp;seite=25"><title><abbr>NFP</abbr></title><date when="1924-10-10">10.10.1924</date><biblScope type="pp">25</biblScope></bibl>. Die dortigen Spielortangaben reichen nur bis 23.10.1924, für 30.10. kein Spielort ermittelt. Besprechung von M. in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19241014&amp;seite=8"><title><abbr>NFP</abbr></title><date when="1924-10-14">14.10.1924</date><biblScope type="pp">8</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

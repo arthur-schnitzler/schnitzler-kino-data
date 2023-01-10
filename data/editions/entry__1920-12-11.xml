@@ -66,7 +66,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
               source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1920-12-11.html">
             <ab>11/12 […] Schott kam; wegen des Medardus Film.– Im Kino. (Erster Theil von „Herrin der Welt“.) – […]</ab>
          </div>
-          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,15 +73,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1919]</date>
                   </cell>
-                   
-                   
                   <cell role="data" ana="Regie">
                      <persName>Joe May</persName>
                   </cell>
                   <cell role="data" ana="Buch">
                      <persName>[Joe May, Richard Hutter]</persName>
                   </cell>
-                   
                   <cell role="data" ana="Darsteller_innen">Mia Mary, Michael Bohnen</cell>
                </row>
             </table>

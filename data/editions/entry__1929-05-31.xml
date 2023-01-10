@@ -70,6 +70,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Zum Tagebuchnotat Pollaczeks siehe den vorhergehenden Eintrag.
 Premierennotiz NFP 24.5.1929, S. 12, für 31.5.1929. Notiz und Anzeige NFP 31.5.1929, S. 12, dort nachgewiesene Spielorte: Kärntner-, Johann-Strauss-, Palast-, Heimat- und Theater-Kino sowie Raimund-Lichtspiele.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Zum Tagebuchnotat Pollaczeks siehe den vorhergehenden Eintrag.</p>
+            <p xml:space="preserve">Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290524&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1929-05-24">24.5.1929</date><biblScope type="pp">12</biblScope></bibl>, für 31.5.1929. Notiz und Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290531&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1929-05-31">31.5.1929</date><biblScope type="pp">12</biblScope></bibl>, dort nachgewiesene Spielorte: Kärntner-, Johann-Strauss-, Palast-, Heimat- und Theater-Kino sowie Raimund-Lichtspiele.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

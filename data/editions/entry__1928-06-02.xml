@@ -73,6 +73,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>»Roman«: Vermutlich »Die Schönheit der Konstanze«. 
 »Dieser Film ›Berlin‹ ist eine schlimme Enttäuschung« (SK I, S. 411). Das Kinoprogramm der NFP vermerkt die »Ur- und Alleinaufführung des großen Meisterwerkes ›Sinfonie der Großstadt‹« im Central-Kino, 2., Taborstraße 8. Der bis heute ikonische Film wurde dort mit »Begleitmusik von Edmund Meisel« unter der »Musikalischen Leitung von Kapellmeister J. Hermann« aufgeführt, wie die »Filmrundschau« der NFP 1.6.1928, S. 12, in einer Anzeige belegt. Besprechung von Felix Cleve in NFP 2.6.1928, S. 9.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">»Roman«: Vermutlich »Die Schönheit der Konstanze«.</p>
+            <p xml:space="preserve"><cit><quote>Dieser Film ›Berlin‹ ist eine schlimme Enttäuschung</quote><bibl corresp="#skga"><biblScope type="vol">3</biblScope><biblScope type="pp">411</biblScope></bibl></cit>. Das Kinoprogramm der NFP vermerkt die »Ur- und Alleinaufführung des großen Meisterwerkes ›Sinfonie der Großstadt‹« im Central-Kino, 2., Taborstraße 8. Der bis heute ikonische Film wurde dort mit »Begleitmusik von Edmund Meisel« unter der »Musikalischen Leitung von Kapellmeister J. Hermann« aufgeführt, wie die »Filmrundschau« der <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280601&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1928-06-01">1.6.1928</date><biblScope type="pp">12</biblScope></bibl>, in einer Anzeige belegt. Besprechung von Felix Cleve in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19280602&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1928-06-02">2.6.1928</date><biblScope type="pp">9</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -93,7 +97,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Produktion">
                      <orgName>Fox-Europa-Film</orgName>
                   </cell>
-                   
                </row>
             </table>
          </div>

@@ -70,6 +70,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Legte sich nicht Hans Albers mit seiner forschen Natur als Detektiv ungeniert ins Zeug, so wäre der etwas konfus angelegte Film keiner ausdrücklichen Erwähnung wert“ (SK II, S. 398). 
 Ankündigung NFP 19.9.1930, S. 14. Premierennotiz NFP 26.9.1930, S. 9, für 27.9.1930. Besprechung von Fritz Frankl in NFP 30.9.1930, S. 8. Anzeige NFP 17.10.1930, S. 14. Nachgewiesene Spielorte: Gartenbau- und  Kolosseum-Kino (NZG 28.9.1930, S. 10).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve"><cit><quote>Legte sich nicht Hans Albers mit seiner forschen Natur als Detektiv ungeniert ins Zeug, so wäre der etwas konfus angelegte Film keiner ausdrücklichen Erwähnung wert</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">398</biblScope></bibl></cit>.</p>
+            <p xml:space="preserve">Ankündigung <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300919&amp;seite=14"><title><abbr>NFP</abbr></title><date when="1930-09-19">19.9.1930</date><biblScope type="pp">14</biblScope></bibl>. Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300926&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1930-09-26">26.9.1930</date><biblScope type="pp">9</biblScope></bibl>, für 27.9.1930. Besprechung von Fritz Frankl in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300930&amp;seite=8"><title><abbr>NFP</abbr></title><date when="1930-09-30">30.9.1930</date><biblScope type="pp">8</biblScope></bibl>. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301017&amp;seite=14"><title><abbr>NFP</abbr></title><date when="1930-10-17">17.10.1930</date><biblScope type="pp">14</biblScope></bibl>. Nachgewiesene Spielorte: Gartenbau- und Kolosseum-Kino (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19300928&amp;seite=10"><title><abbr>NZG</abbr></title><date when="1930-09-28">28.9.1930</date><biblScope type="pp">10</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -84,7 +88,6 @@ Ankündigung NFP 19.9.1930, S. 14. Premierennotiz NFP 26.9.1930, S. 9, für 27.9
                   <cell role="data" ana="Regie">
                      <persName>Richard Eichberg</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>British Int. R. C. A.</orgName>
                   </cell>

@@ -70,6 +70,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>Pollaczeks Tagebucheintrag siehe Vortag.
 Spielort bestätigt NFP 9.5.1931, S. 22.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Pollaczeks Tagebucheintrag siehe Vortag.</p>
+            <p xml:space="preserve">Spielort bestätigt <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19310509&amp;seite=22"><title><abbr>NFP</abbr></title><date when="1931-05-09">9.5.1931</date><biblScope type="pp">22</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -84,7 +88,6 @@ Spielort bestätigt NFP 9.5.1931, S. 22.</ab>
                   <cell role="data" ana="Regie">
                      <persName>Edward Sedgewick</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Metro-Movieton</orgName>
                   </cell>

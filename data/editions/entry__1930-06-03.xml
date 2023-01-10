@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Premierennotiz NFP 23.5.1930, S. 12, für 2.6.1930. Anzeige NFP 3.6.1930, S. 3. Spielort bestätigt NZG 3.6.1930, S. 7, und Notiz NFP 6.6.1930, S. 16. „[…] auch die leichte Ware kann gut sein, wie Lubitschs: ‚Liebesparade‘ beweist“ (SK II, S. 435). </ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Premierennotiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300523&amp;seite=12"><title><abbr>NFP</abbr></title><date when="1930-05-23">23.5.1930</date><biblScope type="pp">12</biblScope></bibl>, für 2.6.1930. Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300603&amp;seite=3"><title><abbr>NFP</abbr></title><date when="1930-06-03">3.6.1930</date><biblScope type="pp">3</biblScope></bibl>. Spielort bestätigt <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19300603&amp;seite=7"><title><abbr>NZG</abbr></title><date when="1930-06-03">3.6.1930</date><biblScope type="pp">7</biblScope></bibl>, und Notiz <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19300606&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1930-06-06">6.6.1930</date><biblScope type="pp">16</biblScope></bibl>. <cit><quote><gap/> auch die leichte Ware kann gut sein, wie Lubitschs: ›Liebesparade‹ beweist</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">435</biblScope></bibl></cit>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>

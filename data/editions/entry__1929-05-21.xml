@@ -69,6 +69,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Nachgewiesener Spielort: Raimund-Lichtspiele (NZG 21.5.1929, S. 4).</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Nachgewiesener Spielort: Raimund-Lichtspiele (<bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19290521&amp;seite=4"><title><abbr>NZG</abbr></title><date when="1929-05-21">21.5.1929</date><biblScope type="pp">4</biblScope></bibl>).</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +86,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>E. W. Emo</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Strauß-Film</orgName>
                   </cell>

@@ -69,11 +69,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Anzeige NFP 20.9.1929, S. 9, mit Spielorten bis 26.9.1929. Besprechung von Philipp Winter in NFP 24.9.1929, S. 8.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve">Anzeige <bibl type="Filmannonce" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290920&amp;seite=9"><title><abbr>NFP</abbr></title><date when="1929-09-20">20.9.1929</date><biblScope type="pp">9</biblScope></bibl>, mit Spielorten bis 26.9.1929. Besprechung von Philipp Winter in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19290924&amp;seite=8"><title><abbr>NFP</abbr></title><date when="1929-09-24">24.9.1929</date><biblScope type="pp">8</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Der Kameramann“ („Cameraman“)</cell>
-                   
                   <cell role="data" ana="Genre">Komisch</cell>
                   <cell role="data" ana="Land">
                      <placeName>USA</placeName>
@@ -81,7 +83,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Edw[ard] Sedgewick</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Metro-Film</orgName>
                   </cell>

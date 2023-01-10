@@ -73,6 +73,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <ab>„Ein trefflicher Gedanke: die Vertreibung der Langeweile mit Hilfe der Fabel. Nur leider ist hier die Fabel so hilflos geraten, daß sie auf Dauer langweiliger wirkt als die Kulturbilder, die ausgezeichnet sind“ (SK II, S. 366). 
 Besprechung von Philipp Winter in NFP 4.11.1930, S. 10. Spielort bestätigt NZG 31.10.1930, S. 7.</ab>
          </div>
+         <note type="kommentar">
+            <p xml:space="preserve"><cit><quote>Ein trefflicher Gedanke: die Vertreibung der Langeweile mit Hilfe der Fabel. Nur leider ist hier die Fabel so hilflos geraten, daß sie auf Dauer langweiliger wirkt als die Kulturbilder, die ausgezeichnet sind</quote><bibl corresp="#skga"><biblScope type="vol">4</biblScope><biblScope type="pp">366</biblScope></bibl></cit>.</p>
+            <p xml:space="preserve">Besprechung von Philipp Winter in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19301104&amp;seite=10"><title><abbr>NFP</abbr></title><date when="1930-11-04">4.11.1930</date><biblScope type="pp">10</biblScope></bibl>. Spielort bestätigt <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nzg&amp;datum=19301031&amp;seite=7"><title><abbr>NZG</abbr></title><date when="1930-10-31">31.10.1930</date><biblScope type="pp">7</biblScope></bibl>.</p>
+         </note>
          <div type="film">
             <table type="movies">
                <row>
@@ -87,7 +91,6 @@ Besprechung von Philipp Winter in NFP 4.11.1930, S. 10. Spielort bestätigt NZG 
                   <cell role="data" ana="Regie">
                      <persName>Martin Rikli, Rudolf Biebrach</persName>
                   </cell>
-                   
                   <cell role="data" ana="Produktion">
                      <orgName>Ufa-Klangfilm</orgName>
                   </cell>
