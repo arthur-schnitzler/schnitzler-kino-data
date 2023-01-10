@@ -99,82 +99,65 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-237">
+            <person xml:id="pmb6246">
                <persName>Berger, Ludwig</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-369">
+            <person xml:id="pmb39389">
                <persName>Brentano, Clemens</persName>
-               <idno type="GND">https://d-nb.info/gnd/118515055</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-508">
+            <person xml:id="pmb6644">
                <persName>Christians, Mady</persName>
-               <idno type="GND">https://d-nb.info/gnd/116509430</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-552">
+            <person xml:id="pmb9706">
                <persName>Conrad-Schlenther, Paula</persName>
-               <idno type="GND">https://d-nb.info/gnd/117697389</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-765">
+            <person xml:id="pmb120776">
                <persName>Edwards, Edith</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061759431</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-777">
+            <person xml:id="pmb119684">
                <persName>Eichholz, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/117072486</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-833">
+            <person xml:id="pmb11284">
                <persName>Eysoldt, Gertrud</persName>
-               <idno type="GND">https://d-nb.info/gnd/119115522</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1120">
+            <person xml:id="pmb121908">
                <persName>Grimm, Gebrüder</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1136">
+            <person xml:id="pmb120162">
                <persName>Gülstorff, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/116909730</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1211">
+            <person xml:id="pmb7710">
                <persName>Hartmann, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1184390185</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1219">
+            <person xml:id="pmb119189">
                <persName>Haskel, Leonhard</persName>
-               <idno type="GND">https://d-nb.info/gnd/126270937</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1300">
+            <person xml:id="pmb4194">
                <persName>Hoffmann, E. T. A.</persName>
-               <idno type="GND">https://d-nb.info/gnd/118552465</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1304">
+            <person xml:id="pmb11791">
                <persName>Höflich, Lucie</persName>
-               <idno type="GND">https://d-nb.info/gnd/118963805</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1313">
+            <person xml:id="pmb120777">
                <persName>Hollmann, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/1067754091</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1401">
+            <person xml:id="pmb119459">
                <persName>John, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/1194256775</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1571">
+            <person xml:id="pmb120780">
                <persName>Kurz, Emilie</persName>
-               <idno type="GND">https://d-nb.info/gnd/116625449</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2317">
+            <person xml:id="pmb102551">
                <persName>Richard, Frida</persName>
-               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2734">
+            <person xml:id="pmb12945">
                <persName>Thimig, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/118757121</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2738">
+            <person xml:id="pmb121907">
                <persName>Thomas, Helga</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2777">
+            <person xml:id="pmb26216">
                <persName>Tschechowa, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
          </listPerson>
          <listPlace>

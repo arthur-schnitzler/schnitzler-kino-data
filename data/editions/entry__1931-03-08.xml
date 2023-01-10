@@ -105,70 +105,56 @@ Abend mit A. im Kino (der darauf bestand), dann in einem Beisel genachtmahlt. Me
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-53">
+            <person xml:id="pmb13328">
                <persName>Alten, Ferdinand von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-253">
+            <person xml:id="pmb10896">
                <persName>Bernauer, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/118656295</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1023">
+            <person xml:id="pmb115025">
                <persName>Gerron, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1179">
+            <person xml:id="pmb114355">
                <persName>Halmay, Tibor von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062403908</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1608">
+            <person xml:id="pmb2959">
                <persName>Lantz, Adolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1620">
+            <person xml:id="pmb20223">
                <persName>Lederer, Franz</persName>
-               <idno type="GND">https://d-nb.info/gnd/130217492</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1858">
+            <person xml:id="pmb8868">
                <persName>May, Joe</persName>
-               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2009">
+            <person xml:id="pmb119811">
                <persName>Nagy, Käthe von</persName>
-               <idno type="GND">https://d-nb.info/gnd/132694425</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2090">
+            <person xml:id="pmb27649">
                <persName>Österreicher, Rudolf</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2351">
+            <person xml:id="pmb9539">
                <persName>Roberts, Ralph Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/119046334</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2428">
+            <person xml:id="pmb12618">
                <persName>Sandrock, Adele</persName>
-               <idno type="GND">https://d-nb.info/gnd/118605429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2461">
+            <person xml:id="pmb121745">
                <persName>Schmitt, Alexandra</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2470">
+            <person xml:id="pmb12698">
                <persName>Schnitzler, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848693</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2631">
+            <person xml:id="pmb119813">
                <persName>Steinbeck, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/1209596261</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2693">
+            <person xml:id="pmb119159">
                <persName>Szakall, Szöke</persName>
-               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2729">
+            <person xml:id="pmb119814">
                <persName>Theimer, Gretl</persName>
-               <idno type="GND">https://d-nb.info/gnd/134571207</idno>
             </person>
          </listPerson>
          <listPlace>

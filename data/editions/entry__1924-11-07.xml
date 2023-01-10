@@ -101,58 +101,46 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-35">
+            <person xml:id="pmb119641">
                <persName>Aldini, Carlo</persName>
-               <idno type="GND">https://d-nb.info/gnd/142981761</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-172">
+            <person xml:id="pmb10844">
                <persName>Bassermann, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-619">
+            <person xml:id="pmb119644">
                <persName>Darclea, Edy</persName>
-               <idno type="GND">https://d-nb.info/gnd/106166662X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1320">
+            <person xml:id="pmb2495">
                <persName>Homer</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1574">
+            <person xml:id="pmb8386">
                <persName>Kyser, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116634472</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1584">
+            <person xml:id="pmb119130">
                <persName>Lama&amp;#269;, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/122038630</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1838">
+            <person xml:id="pmb119646">
                <persName>Martini, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1101470372</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2051">
+            <person xml:id="pmb21992">
                <persName>Noa, Manfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/172286603</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2260">
+            <person xml:id="pmb119243">
                <persName>Ralph, Hanna</persName>
-               <idno type="GND">https://d-nb.info/gnd/142155578</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2428">
+            <person xml:id="pmb12618">
                <persName>Sandrock, Adele</persName>
-               <idno type="GND">https://d-nb.info/gnd/118605429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2581">
+            <person xml:id="pmb25089">
                <persName>Soltau, Clara</persName>
-               <idno type="GND">https://d-nb.info/gnd/1230023119</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2633">
+            <person xml:id="pmb12837">
                <persName>Steinrück, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/117263923</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2844">
+            <person xml:id="pmb121716">
                <persName>Vogt, Carl de</persName>
             </person>
          </listPerson>

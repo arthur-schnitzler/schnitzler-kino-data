@@ -105,55 +105,44 @@ Ankündigung NFP 11.9.1931, S. 9, für 10.9.1931. Premierennotiz NFP 15.9.1931, 
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-674">
+            <person xml:id="">
                <persName>Diehl, Karl Ludwig</persName>
-               <idno type="GND">https://d-nb.info/gnd/139416498</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-956">
+            <person xml:id="pmb94101">
                <persName>Fritsch, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1197">
+            <person xml:id="pmb119513">
                <persName>Hardt, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1208">
+            <person xml:id="pmb119594">
                <persName>Hart, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013305035</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1249">
+            <person xml:id="pmb7781">
                <persName>Helm, Brigitte</persName>
-               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1321">
+            <person xml:id="pmb115564">
                <persName>Homolka, Oskar</persName>
-               <idno type="GND">https://d-nb.info/gnd/116976586</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1712">
+            <person xml:id="pmb8707">
                <persName>Loos, Theodor</persName>
-               <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2202">
+            <person xml:id="pmb22696">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2205">
+            <person xml:id="pmb119157">
                <persName>Pollaczek, Magdalena</persName>
-               <idno type="GND">https://d-nb.info/gnd/132915251</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2299">
+            <person xml:id="pmb9472">
                <persName>Reisch, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2794">
+            <person xml:id="pmb10290">
                <persName>Ucicky, Gustav</persName>
-               <idno type="GND">https://d-nb.info/gnd/119070812</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2958">
+            <person xml:id="pmb13138">
                <persName>Winterstein, Eduard von</persName>
-               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
             </person>
          </listPerson>
          <listPlace>

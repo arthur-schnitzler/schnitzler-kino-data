@@ -93,29 +93,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1549">
+            <person xml:id="pmb119185">
                <persName>Kräly, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1733">
+            <person xml:id="pmb115234">
                <persName>Lubitsch, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2219">
+            <person xml:id="pmb9344">
                <persName>Porten, Henny</persName>
-               <idno type="GND">https://d-nb.info/gnd/118817272</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2229">
+            <person xml:id="pmb121475">
                <persName>Prager, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/116280131</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2746">
+            <person xml:id="pmb10221">
                <persName>Tiedtke, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2875">
+            <person xml:id="pmb120614">
                <persName>Wangenheim, Gustav von</persName>
-               <idno type="GND">https://d-nb.info/gnd/117137154</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -89,21 +89,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-507">
+            <person xml:id="pmb121327">
                <persName>Christians, Holger</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061522180</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1005">
+            <person xml:id="pmb121328">
                <persName>Gehrt, Meg</persName>
-               <idno type="GND">https://d-nb.info/gnd/1252077416</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2086">
+            <person xml:id="pmb121093">
                <persName>Ortmann, Helmuth</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062333772</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2477">
+            <person xml:id="pmb121329">
                <persName>Schomburgk, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/11875906X</idno>
             </person>
          </listPerson>
          <listPlace>

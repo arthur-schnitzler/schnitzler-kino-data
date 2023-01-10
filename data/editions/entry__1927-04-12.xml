@@ -99,45 +99,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-139">
+            <person xml:id="pmb10825">
                <persName>Balzac, Honoré de</persName>
-               <idno type="GND">https://d-nb.info/gnd/118506358</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-242">
+            <person xml:id="pmb10886">
                <persName>Bergner, Elisabeth</persName>
-               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-608">
+            <person xml:id="pmb11131">
                <persName>Czinner, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/116787651</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-801">
+            <person xml:id="pmb120307">
                <persName>Engel, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/112402719X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-822">
+            <person xml:id="pmb119564">
                <persName>Esterházy, Agnes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1356">
+            <person xml:id="pmb7969">
                <persName>Ihering, Herbert</persName>
-               <idno type="GND">https://d-nb.info/gnd/118708627</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1619">
+            <person xml:id="pmb119462">
                <persName>Ledebur, Leopold von</persName>
-               <idno type="GND">https://d-nb.info/gnd/116851503</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2093">
+            <person xml:id="pmb119499">
                <persName>Otto, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1016966490</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2186">
+            <person xml:id="pmb119520">
                <persName>Platen, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2289">
+            <person xml:id="pmb9445">
                <persName>Rehmann, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/126806195</idno>
             </person>
          </listPerson>
          <listPlace>

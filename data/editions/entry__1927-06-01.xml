@@ -99,24 +99,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-195">
+            <person xml:id="pmb120583">
                <persName>Beery, Noah</persName>
-               <idno type="GND">https://d-nb.info/gnd/106168153X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-836">
+            <person xml:id="pmb7068">
                <persName>Fairbanks, Douglas</persName>
-               <idno type="GND">https://d-nb.info/gnd/118682997</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1779">
+            <person xml:id="pmb121795">
                <persName>Mailes, Charles Hill</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1921">
+            <person xml:id="pmb120587">
                <persName>Miller, Eugene</persName>
-               <idno type="GND">https://d-nb.info/gnd/1186925612</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2036">
+            <person xml:id="pmb21929">
                <persName>Niblo, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/140082085</idno>
             </person>
          </listPerson>
          <listPlace>

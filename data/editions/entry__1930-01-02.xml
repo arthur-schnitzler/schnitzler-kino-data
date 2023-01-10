@@ -99,48 +99,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-666">
+            <person xml:id="pmb121250">
                <persName>Descovich, Emo</persName>
-               <idno type="GND">https://d-nb.info/gnd/172503256</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-956">
+            <person xml:id="pmb94101">
                <persName>Fritsch, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1127">
+            <person xml:id="pmb114647">
                <persName>Grüning, Ilka</persName>
-               <idno type="GND">https://d-nb.info/gnd/130523216</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1795">
+            <person xml:id="pmb121972">
                <persName>Maly, Gerö</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1905">
+            <person xml:id="pmb93849">
                <persName>Mewes, Anni</persName>
-               <idno type="GND">https://d-nb.info/gnd/116961732</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2125">
+            <person xml:id="pmb120810">
                <persName>Parlo, Dita</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014815126</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2502">
+            <person xml:id="pmb24609">
                <persName>Schwarz, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/138875057</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2559">
+            <person xml:id="pmb121251">
                <persName>Simon, Marcsa</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061749835</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2695">
+            <person xml:id="pmb119670">
                <persName>Székely, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
             </person>
          </listPerson>
          <listPlace>

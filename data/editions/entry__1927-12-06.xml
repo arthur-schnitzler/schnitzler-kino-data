@@ -104,94 +104,74 @@ Sehr netter Abend, Kino mit Frieda P. [II, 69 bzw. 89]
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-242">
+            <person xml:id="pmb10886">
                <persName>Bergner, Elisabeth</persName>
-               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-315">
+            <person xml:id="pmb120801">
                <persName>Boland, Eddie</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061840956</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-439">
+            <person xml:id="pmb121912">
                <persName>Caldwell, H. H.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-608">
+            <person xml:id="pmb11131">
                <persName>Czinner, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/116787651</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1003">
+            <person xml:id="pmb7356">
                <persName>Gaynor, Janet</persName>
-               <idno type="GND">https://d-nb.info/gnd/119075482</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1060">
+            <person xml:id="pmb11485">
                <persName>Goldmann, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/140521704</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1143">
+            <person xml:id="pmb38310">
                <persName>Gürster, Eugen</persName>
-               <idno type="GND">https://d-nb.info/gnd/116916664</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1223">
+            <person xml:id="pmb120802">
                <persName>Hauser, Heinrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/118547046</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1287">
+            <person xml:id="pmb120804">
                <persName>Hilliker, Katherine</persName>
-               <idno type="GND">https://d-nb.info/gnd/137440456</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1336">
+            <person xml:id="pmb120017">
                <persName>Housman, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061470067</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1694">
+            <person xml:id="pmb119913">
                <persName>Livingston, Margaret</persName>
-               <idno type="GND">https://d-nb.info/gnd/117143502</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1759">
+            <person xml:id="pmb120331">
                <persName>MacDonald, J. Farrell</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061708373</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1862">
+            <person xml:id="pmb119684">
                <persName>Mayer, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/117072486</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1991">
+            <person xml:id="pmb8990">
                <persName>Murnau, Friedrich Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/118585878</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2096">
+            <person xml:id="pmb121891">
                <persName>O’Brien, George</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2209">
+            <person xml:id="pmb119102">
                <persName>Pollak, Frieda </persName>
-               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2382">
+            <person xml:id="pmb120805">
                <persName>Rosing, Bodil</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061642194</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2469">
+            <person xml:id="pmb12692">
                <persName>Schnitzler, Heinrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2565">
+            <person xml:id="pmb120807">
                <persName>Sipperly, Ralph</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061906914</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2584">
+            <person xml:id="pmb3109">
                <persName>Sonnenfeld, Kurt</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2680">
+            <person xml:id="pmb119326">
                <persName>Sudermann, ?</persName>
-               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2681">
+            <person xml:id="pmb12899">
                <persName>Sudermann, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/118619853</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2959">
+            <person xml:id="pmb120808">
                <persName>Winton, Jane</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061895254</idno>
             </person>
          </listPerson>
          <listPlace>

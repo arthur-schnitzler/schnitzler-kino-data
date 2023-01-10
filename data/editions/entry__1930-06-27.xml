@@ -93,33 +93,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-365">
+            <person xml:id="pmb120022">
                <persName>Brendel, El</persName>
-               <idno type="GND">https://d-nb.info/gnd/138155240</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-431">
+            <person xml:id="pmb14726">
                <persName>Butler, David</persName>
-               <idno type="GND">https://d-nb.info/gnd/119177625</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-851">
+            <person xml:id="pmb120117">
                <persName>Farrell, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/1137497874</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1003">
+            <person xml:id="pmb7356">
                <persName>Gaynor, Janet</persName>
-               <idno type="GND">https://d-nb.info/gnd/119075482</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1749">
+            <person xml:id="pmb121103">
                <persName>Lynn, Charon</persName>
-               <idno type="GND">https://d-nb.info/gnd/102384703</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2319">
+            <person xml:id="pmb121104">
                <persName>Richardson, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/131904035</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2928">
+            <person xml:id="pmb120660">
                <persName>White, Marjorie</persName>
-               <idno type="GND">https://d-nb.info/gnd/138726817</idno>
             </person>
          </listPerson>
          <listPlace>

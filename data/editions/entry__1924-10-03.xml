@@ -99,40 +99,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-585">
+            <person xml:id="pmb121438">
                <persName>Crizer, Thomas J.</persName>
-               <idno type="GND">https://d-nb.info/gnd/141271949</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-636">
+            <person xml:id="pmb122003">
                <persName>Davis, Mildred</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1226">
+            <person xml:id="pmb121439">
                <persName>Havez, Jean C.</persName>
-               <idno type="GND">https://d-nb.info/gnd/139301399</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1696">
+            <person xml:id="pmb8687">
                <persName>Lloyd, Harold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118573667</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1863">
+            <person xml:id="pmb121440">
                <persName>Mayne, Eric</persName>
-               <idno type="GND">https://d-nb.info/gnd/1235794792</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2034">
+            <person xml:id="pmb21919">
                <persName>Newmeyer, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/140896368</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2237">
+            <person xml:id="pmb121441">
                <persName>Prince, John T.</persName>
-               <idno type="GND">https://d-nb.info/gnd/144041251</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2344">
+            <person xml:id="pmb121353">
                <persName>Roach, Hal</persName>
-               <idno type="GND">https://d-nb.info/gnd/119274116</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2713">
+            <person xml:id="pmb25893">
                <persName>Taylor, Sam</persName>
-               <idno type="GND">https://d-nb.info/gnd/140979778</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -104,57 +104,44 @@ Und morgen wird der Brief aus dem Burgtheater kommen, der seit zwei Tagen unterw
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-91">
+            <person xml:id="pmb119548">
                <persName>Arnold, Gertrud</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050400291</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-807">
+            <person xml:id="pmb120091">
                <persName>Engström, Alexa von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1165909871</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-842">
+            <person xml:id="pmb117383">
                <persName>Falkenstein, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-959">
+            <person xml:id="pmb7276">
                <persName>Froelich, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/11683093X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-960">
+            <person xml:id="pmb119215">
                <persName>Fröhlich, Gustav</persName>
-               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1125">
+            <person xml:id="pmb94114">
                <persName>Gründgens, Gustav</persName>
-               <idno type="GND">https://d-nb.info/gnd/118542850</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1778">
+            <person xml:id="pmb12160">
                <persName>Mahler-Werfel, Alma</persName>
-               <idno type="GND">https://d-nb.info/gnd/11857633X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2147">
+            <person xml:id="pmb39306">
                <persName>Peppler, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061427161</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2299">
+            <person xml:id="pmb9472">
                <persName>Reisch, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2683">
+            <person xml:id="pmb119487">
                <persName>Supper, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/118620088</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2918">
+            <person xml:id="pmb13094">
                <persName>Werfel, Franz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118631373</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2942">
+            <person xml:id="pmb13122">
                <persName>Wildgans, Anton</persName>
-               <idno type="GND">https://d-nb.info/gnd/118632841</idno>
             </person>
          </listPerson>
          <listPlace>

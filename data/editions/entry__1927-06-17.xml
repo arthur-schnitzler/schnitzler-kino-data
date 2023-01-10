@@ -101,36 +101,29 @@ Nachgewiesene Spielorte: Kärntner- und Löwen-Kino sowie Kino Schäffer (NZG 17
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-10">
+            <person xml:id="pmb5903">
                <persName>Abel, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-771">
+            <person xml:id="pmb119217">
                <persName>Ehler, E.</persName>
-               <idno type="GND">https://d-nb.info/gnd/124396989X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-792">
+            <person xml:id="pmb119218">
                <persName>Elson, Isabel</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061540537</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-795">
+            <person xml:id="pmb119219">
                <persName>Elvey, Maurice</persName>
-               <idno type="GND">https://d-nb.info/gnd/1012082318</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2317">
+            <person xml:id="pmb102551">
                <persName>Richard, Frida</persName>
-               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2322">
+            <person xml:id="pmb121644">
                <persName>Richter, Paul</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2823">
+            <person xml:id="pmb116393">
                <persName>Verebes, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/135294959</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2958">
+            <person xml:id="pmb13138">
                <persName>Winterstein, Eduard von</persName>
-               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
             </person>
          </listPerson>
          <listPlace>

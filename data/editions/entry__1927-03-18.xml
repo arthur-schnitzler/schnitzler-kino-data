@@ -93,48 +93,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-668">
+            <person xml:id="pmb119489">
                <persName>Desni, Xenia</persName>
-               <idno type="GND">https://d-nb.info/gnd/101862452X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1041">
+            <person xml:id="pmb96205">
                <persName>Glawatsch, Franz</persName>
-               <idno type="GND">https://d-nb.info/gnd/116657731</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1723">
+            <person xml:id="pmb120702">
                <persName>Lotto, Claire</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061829294</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1972">
+            <person xml:id="pmb8978">
                <persName>Moser, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/135781868</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2140">
+            <person xml:id="pmb119562">
                <persName>Pavanelli, Livio</persName>
-               <idno type="GND">https://d-nb.info/gnd/116069902</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2299">
+            <person xml:id="pmb9472">
                <persName>Reisch, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2844">
+            <person xml:id="pmb121716">
                <persName>Vogt, Carl de</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2872">
+            <person xml:id="pmb119174">
                <persName>Walther-Fein, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1089417594</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3018">
+            <person xml:id="pmb119501">
                <persName>Zilzer, Wolfgang</persName>
-               <idno type="GND">https://d-nb.info/gnd/116992433</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3032">
+            <person xml:id="pmb10697">
                <persName>Zwerenz, Mizzi</persName>
-               <idno type="GND">https://d-nb.info/gnd/11600147X</idno>
             </person>
          </listPerson>
          <listPlace>

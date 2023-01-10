@@ -92,33 +92,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-211">
+            <person xml:id="pmb120688">
                <persName>Benda, Raoul Roland von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062472926</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-772">
+            <person xml:id="pmb120689">
                <persName>Ehmann, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116380284</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-897">
+            <person xml:id="pmb119695">
                <persName>Fleck, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/1011893878</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-898">
+            <person xml:id="pmb119697">
                <persName>Fleck, Louise</persName>
-               <idno type="GND">https://d-nb.info/gnd/116598271</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1163">
+            <person xml:id="pmb7656">
                <persName>Haid, Liane</persName>
-               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1516">
+            <person xml:id="pmb8246">
                <persName>Klitsch, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/127576509</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2028">
+            <person xml:id="pmb9058">
                <persName>Neufeld, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/136366236</idno>
             </person>
          </listPerson>
          <listPlace>

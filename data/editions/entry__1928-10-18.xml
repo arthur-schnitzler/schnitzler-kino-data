@@ -93,49 +93,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-165">
+            <person xml:id="pmb120441">
                <persName>Bartheel, Carla</persName>
-               <idno type="GND">https://d-nb.info/gnd/125998651</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-266">
+            <person xml:id="pmb119879">
                <persName>Beß, Jane</persName>
-               <idno type="GND">https://d-nb.info/gnd/116154489</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-323">
+            <person xml:id="pmb119536">
                <persName>Boni, Carmen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061251675</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-510">
+            <person xml:id="pmb120442">
                <persName>Christy, Lya</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061325016</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1008">
+            <person xml:id="pmb7370">
                <persName>Genina, Augusto</persName>
-               <idno type="GND">https://d-nb.info/gnd/119039184</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1424">
+            <person xml:id="pmb119129">
                <persName>Junkermann, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2209">
+            <person xml:id="pmb119102">
                <persName>Pollak, Frieda </persName>
-               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2345">
+            <person xml:id="pmb119509">
                <persName>Roanne, André</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062103661</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2588">
+            <person xml:id="pmb120443">
                <persName>Soulaine, Pierre</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061263428</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2806">
+            <person xml:id="pmb117683">
                <persName>Valetti, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/117341150</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2807">
+            <person xml:id="pmb10325">
                <persName>Vallentin, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
             </person>
          </listPerson>
          <listPlace>

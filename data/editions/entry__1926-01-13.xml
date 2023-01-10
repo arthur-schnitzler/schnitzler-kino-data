@@ -99,44 +99,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-492">
+            <person xml:id="pmb6613">
                <persName>Chaney, Lon</persName>
-               <idno type="GND">https://d-nb.info/gnd/119450100</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-521">
+            <person xml:id="pmb121305">
                <persName>Clawson, Elliott J.</persName>
-               <idno type="GND">https://d-nb.info/gnd/101483886X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1422">
+            <person xml:id="pmb18932">
                <persName>Julian, Rupert</persName>
-               <idno type="GND">https://d-nb.info/gnd/121949974</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1483">
+            <person xml:id="pmb120786">
                <persName>Kerry, Norman</persName>
-               <idno type="GND">https://d-nb.info/gnd/141933631</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1653">
+            <person xml:id="pmb64961">
                <persName>Leroux, Gaston</persName>
-               <idno type="GND">https://d-nb.info/gnd/11949244X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2143">
+            <person xml:id="pmb121306">
                <persName>Pearson, Virginia</persName>
-               <idno type="GND">https://d-nb.info/gnd/1209309068</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2164">
+            <person xml:id="pmb22504">
                <persName>Philbin, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/160231809</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2284">
+            <person xml:id="pmb120571">
                <persName>Reed, Tom</persName>
-               <idno type="GND">https://d-nb.info/gnd/1187005037</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2417">
+            <person xml:id="pmb121991">
                <persName>Sainpolis, John</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2486">
+            <person xml:id="pmb120156">
                <persName>Schrock, Raymond</persName>
-               <idno type="GND">https://d-nb.info/gnd/141854812</idno>
             </person>
          </listPerson>
          <listPlace>

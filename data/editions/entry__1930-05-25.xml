@@ -98,37 +98,29 @@ PFL nennen als Tag der EA den 23.5.1930. In NFP 23.5.1930, S. 21, wird jedoch au
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-611">
+            <person xml:id="pmb6746">
                <persName>Dagover, Lil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-861">
+            <person xml:id="pmb7098">
                <persName>Fehdmer-Kaysler, Helene</persName>
-               <idno type="GND">https://d-nb.info/gnd/116143851</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1375">
+            <person xml:id="pmb119907">
                <persName>Jacquet, Gaston</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062217101</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1933">
+            <person xml:id="pmb12271">
                <persName>Mittler, Leo</persName>
-               <idno type="GND">https://d-nb.info/gnd/117065129</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2147">
+            <person xml:id="pmb39306">
                <persName>Peppler, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061427161</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2161">
+            <person xml:id="pmb115703">
                <persName>Petrovich, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031491554</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2609">
+            <person xml:id="pmb113732">
                <persName>Stahl-Nachbaur, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/117203688</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2864">
+            <person xml:id="pmb116939">
                <persName>Wallburg, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/119368080</idno>
             </person>
          </listPerson>
          <listPlace>

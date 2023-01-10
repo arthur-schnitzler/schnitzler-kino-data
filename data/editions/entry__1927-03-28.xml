@@ -96,30 +96,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-133">
+            <person xml:id="pmb120291">
                <persName>Bakon, Doris</persName>
-               <idno type="GND">https://d-nb.info/gnd/1228651280</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-782">
+            <person xml:id="pmb119265">
                <persName>Eisenmenger, Hofrat</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061597334</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1102">
+            <person xml:id="pmb121830">
                <persName>Green, Alfred A.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1342">
+            <person xml:id="pmb120292">
                <persName>Hughes, Lloyd</persName>
-               <idno type="GND">https://d-nb.info/gnd/1138949760</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1662">
+            <person xml:id="pmb120295">
                <persName>Lewis, Vera</persName>
-               <idno type="GND">https://d-nb.info/gnd/1195665083</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1953">
+            <person xml:id="pmb21581">
                <persName>Moore, Colleen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1022915096</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1980">
+            <person xml:id="pmb121697">
                <persName>Müller, E. Dr.</persName>
             </person>
          </listPerson>

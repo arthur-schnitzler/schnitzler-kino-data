@@ -101,56 +101,44 @@ Ankündigung NFP 28.3.1930, S. 10. Premierennotiz für Burg- und Ufa-Ton-Kino NF
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-256">
+            <person xml:id="pmb14131">
                <persName>Bernhardt, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/118509888</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-827">
+            <person xml:id="pmb120281">
                <persName>Evans, Karin</persName>
-               <idno type="GND">https://d-nb.info/gnd/129342084</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1058">
+            <person xml:id="pmb7467">
                <persName>Goldberg, Heinz</persName>
-               <idno type="GND">https://d-nb.info/gnd/116748508</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1084">
+            <person xml:id="pmb7518">
                <persName>Granach, Alexander</persName>
-               <idno type="GND">https://d-nb.info/gnd/11854148X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1109">
+            <person xml:id="pmb117474">
                <persName>Gretler, Heinrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1208">
+            <person xml:id="pmb119594">
                <persName>Hart, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013305035</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1245">
+            <person xml:id="pmb119849">
                <persName>Heller, Else</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019222352</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1252">
+            <person xml:id="pmb119178">
                <persName>Henckels, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1270">
+            <person xml:id="pmb119104">
                <persName>Herzberg, Martin</persName>
-               <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1803">
+            <person xml:id="pmb119447">
                <persName>Manning, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2482">
+            <person xml:id="pmb12711">
                <persName>Schott, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/1052277837</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2818">
+            <person xml:id="pmb13004">
                <persName>Veidt, Conrad</persName>
-               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2963">
+            <person xml:id="pmb120860">
                <persName>Wohl, Ludwig von</persName>
-               <idno type="GND">https://d-nb.info/gnd/117456837</idno>
             </person>
          </listPerson>
          <listPlace>

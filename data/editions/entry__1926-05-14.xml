@@ -92,28 +92,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-17">
+            <person xml:id="pmb119373">
                <persName>Agadshanowa, Nina</persName>
-               <idno type="GND">https://d-nb.info/gnd/121954056</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-41">
+            <person xml:id="pmb121676">
                <persName>Alexandrow, Grigori</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-73">
+            <person xml:id="pmb119374">
                <persName>Antonov, Alexander</persName>
-               <idno type="GND">https://d-nb.info/gnd/1051289890</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-164">
+            <person xml:id="pmb119375">
                <persName>Barski, Wladimir</persName>
-               <idno type="GND">https://d-nb.info/gnd/143803646</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-784">
+            <person xml:id="pmb15794">
                <persName>Eisenstein, Sergej M.</persName>
-               <idno type="GND">https://d-nb.info/gnd/118529684</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2305">
+            <person xml:id="pmb119376">
                <persName>Repnikowa, A. V.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056144408</idno>
             </person>
          </listPerson>
          <listPlace>

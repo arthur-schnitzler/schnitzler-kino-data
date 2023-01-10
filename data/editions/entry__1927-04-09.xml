@@ -93,37 +93,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-119">
+            <person xml:id="pmb121822">
                <persName>Avoy, Mae Mac</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-542">
+            <person xml:id="pmb121823">
                <persName>Colman, Ronald</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1417">
+            <person xml:id="pmb120239">
                <persName>Josephson, Julian</persName>
-               <idno type="GND">https://d-nb.info/gnd/1157613764</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1733">
+            <person xml:id="pmb115234">
                <persName>Lubitsch, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1753">
+            <person xml:id="pmb120240">
                <persName>Lytell, Bert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1237554012</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1836">
+            <person xml:id="pmb121824">
                <persName>Martindel, Edward</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2316">
+            <person xml:id="pmb121825">
                <persName>Rich, Lilian</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2940">
+            <person xml:id="pmb13115">
                <persName>Wilde, Oscar</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057138568</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2974">
+            <person xml:id="pmb117754">
                <persName>Wolfradt, Willi</persName>
-               <idno type="GND">https://d-nb.info/gnd/117437018</idno>
             </person>
          </listPerson>
          <listPlace>

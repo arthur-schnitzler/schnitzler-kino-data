@@ -101,38 +101,32 @@ Vgl. die ganzseitige Kritik in Filmwelt, Jg. 1924, Nr.1, S. 5. Anzeige und Bespr
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-459">
+            <person xml:id="pmb121261">
                <persName>Carleton, Will</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055490264</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-468">
+            <person xml:id="pmb120116">
                <persName>Carr, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/137920431</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1917">
+            <person xml:id="pmb21458">
                <persName>Millarde, Harry</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2087">
+            <person xml:id="pmb121262">
                <persName>Osborne, Vivienne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013975189</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2202">
+            <person xml:id="pmb22696">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2572">
+            <person xml:id="pmb120464">
                <persName>Sloane, Paul H.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1218807539</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2716">
+            <person xml:id="pmb121975">
                <persName>Tearle, Noel</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2862">
+            <person xml:id="pmb121263">
                <persName>Walker, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/138741077</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2910">
+            <person xml:id="pmb121264">
                <persName>Welch, William</persName>
-               <idno type="GND">https://d-nb.info/gnd/1216509514</idno>
             </person>
          </listPerson>
          <listPlace>

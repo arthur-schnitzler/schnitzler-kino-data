@@ -90,41 +90,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-618">
+            <person xml:id="pmb119362">
                <persName>Daniels, Bébé</persName>
-               <idno type="GND">https://d-nb.info/gnd/135402816</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-658">
+            <person xml:id="pmb5045">
                <persName>DeMille, Cecil B.</persName>
-               <idno type="GND">https://d-nb.info/gnd/119244012</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-671">
+            <person xml:id="pmb120173">
                <persName>Dexter, Elliott</persName>
-               <idno type="GND">https://d-nb.info/gnd/1208535900</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1682">
+            <person xml:id="pmb121450">
                <persName>Linden</persName>
-               <idno type="GND">https://d-nb.info/gnd/141336676</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1773">
+            <person xml:id="pmb121203">
                <persName>Macpherson, Jeanie</persName>
-               <idno type="GND">https://d-nb.info/gnd/141223421</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2292">
+            <person xml:id="pmb121451">
                <persName>Reid, Wallace</persName>
-               <idno type="GND">https://d-nb.info/gnd/132871564</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2468">
+            <person xml:id="pmb2121">
                <persName>Schnitzler, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2563">
+            <person xml:id="pmb121452">
                <persName>Singer, W. (Dir.)</persName>
-               <idno type="GND">https://d-nb.info/gnd/139517359</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2688">
+            <person xml:id="pmb25768">
                <persName>Swanson, Gloria</persName>
-               <idno type="GND">https://d-nb.info/gnd/122997506</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -99,35 +99,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-221">
+            <person xml:id="pmb120709">
                <persName>Bennett, Belle</persName>
-               <idno type="GND">https://d-nb.info/gnd/1216469261</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1280">
+            <person xml:id="pmb18262">
                <persName>Higgin, Howard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1212312619</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1446">
+            <person xml:id="pmb120712">
                <persName>Kane, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/131744844</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1497">
+            <person xml:id="pmb121894">
                <persName>Kirkwood, James</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1751">
+            <person xml:id="pmb120177">
                <persName>Lyon, Ben</persName>
-               <idno type="GND">https://d-nb.info/gnd/1023590050</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1957">
+            <person xml:id="pmb120713">
                <persName>Moran, Lois</persName>
-               <idno type="GND">https://d-nb.info/gnd/130335096</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1980">
+            <person xml:id="pmb121697">
                <persName>Müller, E. Dr.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2543">
+            <person xml:id="pmb120454">
                <persName>Sherman, Lowell</persName>
-               <idno type="GND">https://d-nb.info/gnd/14184762X</idno>
             </person>
          </listPerson>
          <listPlace>

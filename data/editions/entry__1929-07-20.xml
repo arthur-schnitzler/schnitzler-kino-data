@@ -87,13 +87,11 @@ Laut DKB 20.7.1929, S. 16: »›Der Seefahrer.‹ Lustspiel« im Amalien-Kino, X
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-811">
+            <person xml:id="pmb28285">
                <persName>Epstein, Anna</persName>
-               <idno type="GND">https://d-nb.info/gnd/14325717X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2282">
+            <person xml:id="pmb119103">
                <persName>Redlich, Emmy</persName>
-               <idno type="GND">https://d-nb.info/gnd/13901232X</idno>
             </person>
          </listPerson>
          <listPlace>

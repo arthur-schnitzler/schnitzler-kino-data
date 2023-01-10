@@ -96,45 +96,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-39">
+            <person xml:id="pmb114115">
                <persName>Alexander, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-674">
+            <person xml:id="">
                <persName>Diehl, Karl Ludwig</persName>
-               <idno type="GND">https://d-nb.info/gnd/139416498</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-824">
+            <person xml:id="pmb114872">
                <persName>Etlinger, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050467310</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-956">
+            <person xml:id="pmb94101">
                <persName>Fritsch, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1216">
+            <person xml:id="pmb7717">
                <persName>Harvey, Lilian</persName>
-               <idno type="GND">https://d-nb.info/gnd/118546473</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1424">
+            <person xml:id="pmb119129">
                <persName>Junkermann, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1981">
+            <person xml:id="pmb12327">
                <persName>Müller, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1140252038</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2501">
+            <person xml:id="pmb9803">
                <persName>Schwannecke, Victor</persName>
-               <idno type="GND">https://d-nb.info/gnd/117351415</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2527">
+            <person xml:id="pmb119131">
                <persName>Serda, Julia</persName>
-               <idno type="GND">https://d-nb.info/gnd/117257753</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2731">
+            <person xml:id="pmb10206">
                <persName>Thiele, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979513</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -99,32 +99,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-383">
+            <person xml:id="pmb121156">
                <persName>Brodi, Alexander</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019562633</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-400">
+            <person xml:id="pmb120145">
                <persName>Brulier, Nigel De</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061723356</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-522">
+            <person xml:id="pmb5146">
                <persName>Cleve, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-954">
+            <person xml:id="pmb121959">
                <persName>Fries, Otto</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1974">
+            <person xml:id="pmb119147">
                <persName>Mosjoukine, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2164">
+            <person xml:id="pmb22504">
                <persName>Philbin, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/160231809</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2573">
+            <person xml:id="pmb25041">
                <persName>Sloman, Edward</persName>
-               <idno type="GND">https://d-nb.info/gnd/1227959710</idno>
             </person>
          </listPerson>
          <listPlace>

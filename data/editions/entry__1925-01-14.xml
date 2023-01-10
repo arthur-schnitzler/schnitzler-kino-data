@@ -96,81 +96,62 @@ Abends in einem Kino („zehn Gebote“), Schweizerhof gen.
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-424">
+            <person xml:id="pmb121194">
                <persName>Burton, Clarence</persName>
-               <idno type="GND">https://d-nb.info/gnd/1250716292</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-433">
+            <person xml:id="pmb121197">
                <persName>Butt, Lawson</persName>
-               <idno type="GND">https://d-nb.info/gnd/173761127</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-496">
+            <person xml:id="pmb121198">
                <persName>Chapman, Edythe</persName>
-               <idno type="GND">https://d-nb.info/gnd/1261072367</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-658">
+            <person xml:id="pmb5045">
                <persName>DeMille, Cecil B.</persName>
-               <idno type="GND">https://d-nb.info/gnd/119244012</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-687">
+            <person xml:id="pmb121200">
                <persName>Dix, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019705922</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-759">
+            <person xml:id="pmb120737">
                <persName>Edeson, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1227955766</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-857">
+            <person xml:id="pmb120739">
                <persName>Faye, Julia</persName>
-               <idno type="GND">https://d-nb.info/gnd/1016013884</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1404">
+            <person xml:id="pmb120272">
                <persName>Johnson, Noble</persName>
-               <idno type="GND">https://d-nb.info/gnd/113128559X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1419">
+            <person xml:id="pmb121201">
                <persName>Joy, Leatrice</persName>
-               <idno type="GND">https://d-nb.info/gnd/1274108438</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1773">
+            <person xml:id="pmb121203">
                <persName>Macpherson, Jeanie</persName>
-               <idno type="GND">https://d-nb.info/gnd/141223421</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1955">
+            <person xml:id="pmb121204">
                <persName>Moore, Pat</persName>
-               <idno type="GND">https://d-nb.info/gnd/1114761710</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2011">
+            <person xml:id="pmb120431">
                <persName>Naldi, Nita</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061771024</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2021">
+            <person xml:id="pmb121205">
                <persName>Neill, James</persName>
-               <idno type="GND">https://d-nb.info/gnd/137016913</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2352">
+            <person xml:id="pmb121206">
                <persName>Roberts, Theodore</persName>
-               <idno type="GND">https://d-nb.info/gnd/1208535803</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2359">
+            <person xml:id="pmb120794">
                <persName>Rochefort, Charles de</persName>
-               <idno type="GND">https://d-nb.info/gnd/1042356122</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2361">
+            <person xml:id="pmb8414">
                <persName>Rocque, Rod La</persName>
-               <idno type="GND">https://d-nb.info/gnd/140894314</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2712">
+            <person xml:id="pmb120191">
                <persName>Taylor, Estelle</persName>
-               <idno type="GND">https://d-nb.info/gnd/1248913833</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2974">
+            <person xml:id="pmb117754">
                <persName>Wolfradt, Willi</persName>
-               <idno type="GND">https://d-nb.info/gnd/117437018</idno>
             </person>
          </listPerson>
          <listPlace>

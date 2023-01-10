@@ -99,29 +99,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-242">
+            <person xml:id="pmb10886">
                <persName>Bergner, Elisabeth</persName>
-               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-608">
+            <person xml:id="pmb11131">
                <persName>Czinner, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/116787651</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1106">
+            <person xml:id="pmb96317">
                <persName>Gregor, Nora</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979645</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1973">
+            <person xml:id="pmb8981">
                <persName>Mosheim, Grete</persName>
-               <idno type="GND">https://d-nb.info/gnd/116939966</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2329">
+            <person xml:id="pmb119570">
                <persName>Rilla, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116547979</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2818">
+            <person xml:id="pmb13004">
                <persName>Veidt, Conrad</persName>
-               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
             </person>
          </listPerson>
          <listPlace>

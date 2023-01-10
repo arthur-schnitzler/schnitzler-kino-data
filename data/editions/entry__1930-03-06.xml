@@ -101,48 +101,38 @@ Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen ni
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1184">
+            <person xml:id="pmb121138">
                <persName>Hamilton, Neil</persName>
-               <idno type="GND">https://d-nb.info/gnd/1208770217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1619">
+            <person xml:id="pmb119462">
                <persName>Ledebur, Leopold von</persName>
-               <idno type="GND">https://d-nb.info/gnd/116851503</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1717">
+            <person xml:id="pmb119714">
                <persName>Lorring, Lotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031430938</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1809">
+            <person xml:id="pmb120361">
                <persName>Marchal, Arlette</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061860337</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2170">
+            <person xml:id="pmb9271">
                <persName>Piel, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/119103842</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2262">
+            <person xml:id="pmb23023">
                <persName>Ralston, Esther</persName>
-               <idno type="GND">https://d-nb.info/gnd/127459537</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2589">
+            <person xml:id="pmb121602">
                <persName>Soussanin, Nicholas</persName>
-               <idno type="GND">https://d-nb.info/gnd/1212551842</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2624">
+            <person xml:id="pmb122043">
                <persName>Steels, Helen</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2790">
+            <person xml:id="pmb121603">
                <persName>Turoff, Nico</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062103297</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2791">
+            <person xml:id="pmb10277">
                <persName>Tuttle, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1015989802</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2901">
+            <person xml:id="pmb121604">
                <persName>Weiman, Rita</persName>
-               <idno type="GND">https://d-nb.info/gnd/1190651297</idno>
             </person>
          </listPerson>
          <listPlace>

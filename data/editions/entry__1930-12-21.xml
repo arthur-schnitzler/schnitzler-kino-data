@@ -104,40 +104,32 @@ Ankündigung NFP 31.10.1930, S. 10. Notiz NFP 4.11.1930, S. 11. Dies ist der let
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-235">
+            <person xml:id="pmb6243">
                <persName>Berger, Gisela</persName>
-               <idno type="GND">https://d-nb.info/gnd/136132812</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-611">
+            <person xml:id="pmb6746">
                <persName>Dagover, Lil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-842">
+            <person xml:id="pmb117383">
                <persName>Falkenstein, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1071">
+            <person xml:id="pmb120760">
                <persName>Goth, Rolf van</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013231910</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1125">
+            <person xml:id="pmb94114">
                <persName>Gründgens, Gustav</persName>
-               <idno type="GND">https://d-nb.info/gnd/118542850</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2495">
+            <person xml:id="pmb24560">
                <persName>Schulz, Franz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2602">
+            <person xml:id="pmb105326">
                <persName>Spira, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2823">
+            <person xml:id="pmb116393">
                <persName>Verebes, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/135294959</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2885">
+            <person xml:id="pmb119597">
                <persName>Waschneck, Erich</persName>
-               <idno type="GND">https://d-nb.info/gnd/119317087</idno>
             </person>
          </listPerson>
          <listPlace>

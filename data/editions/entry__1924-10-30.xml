@@ -99,40 +99,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-517">
+            <person xml:id="pmb122002">
                <persName>Clarke, Westcott</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-636">
+            <person xml:id="pmb122003">
                <persName>Davis, Mildred</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1696">
+            <person xml:id="pmb8687">
                <persName>Lloyd, Harold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118573667</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2034">
+            <person xml:id="pmb21919">
                <persName>Newmeyer, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/140896368</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2344">
+            <person xml:id="pmb121353">
                <persName>Roach, Hal</persName>
-               <idno type="GND">https://d-nb.info/gnd/119274116</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2671">
+            <person xml:id="pmb122004">
                <persName>Strother, Bill</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2713">
+            <person xml:id="pmb25893">
                <persName>Taylor, Sam</persName>
-               <idno type="GND">https://d-nb.info/gnd/140979778</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2861">
+            <person xml:id="pmb121356">
                <persName>Walker, H. M.</persName>
-               <idno type="GND">https://d-nb.info/gnd/140979883</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2925">
+            <person xml:id="pmb121357">
                <persName>Whelan, Tim</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061872165</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2995">
+            <person xml:id="pmb122005">
                <persName>Young, Noah</persName>
             </person>
          </listPerson>

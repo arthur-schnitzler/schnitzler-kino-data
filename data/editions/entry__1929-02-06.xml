@@ -93,13 +93,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1319">
+            <person xml:id="pmb120257">
                <persName>Holt, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061959813</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2309">
+            <person xml:id="pmb121605">
                <persName>Revier, Dorothy</persName>
-               <idno type="GND">https://d-nb.info/gnd/140969438</idno>
             </person>
          </listPerson>
          <listPlace>

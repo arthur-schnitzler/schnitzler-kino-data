@@ -99,31 +99,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-42">
+            <person xml:id="pmb121730">
                <persName>Alexiane</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-152">
+            <person xml:id="pmb121731">
                <persName>Bardou, Camille</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-812">
+            <person xml:id="pmb15951">
                <persName>Epstein, Jean</persName>
-               <idno type="GND">https://d-nb.info/gnd/122361350</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1691">
+            <person xml:id="pmb119736">
                <persName>Lissenko, Natalie</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062301226</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1974">
+            <person xml:id="pmb119147">
                <persName>Mosjoukine, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2838">
+            <person xml:id="pmb119737">
                <persName>Viguier, François</persName>
-               <idno type="GND">https://d-nb.info/gnd/106202107X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3004">
+            <person xml:id="pmb119738">
                <persName>Zellas, François</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061424022</idno>
             </person>
          </listPerson>
          <listPlace>

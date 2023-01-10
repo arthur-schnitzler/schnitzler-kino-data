@@ -99,20 +99,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-223">
+            <person xml:id="pmb14013">
                <persName>Benoit, Pierre</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-999">
+            <person xml:id="pmb120729">
                <persName>Gastyne, Marco de</persName>
-               <idno type="GND">https://d-nb.info/gnd/132104512</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1809">
+            <person xml:id="pmb120361">
                <persName>Marchal, Arlette</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061860337</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2161">
+            <person xml:id="pmb115703">
                <persName>Petrovich, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031491554</idno>
             </person>
          </listPerson>
          <listPlace>

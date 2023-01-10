@@ -99,43 +99,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-379">
+            <person xml:id="pmb121958">
                <persName>Brindeau, Jeanne</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-486">
+            <person xml:id="pmb120102">
                <persName>Chakatouny, Acho</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062429265</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-642">
+            <person xml:id="pmb121152">
                <persName>Debain, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1036741842</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-854">
+            <person xml:id="pmb120435">
                <persName>Fast, Boris de</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062428110</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1098">
+            <person xml:id="pmb119214">
                <persName>Gravonne, Gabriel de</persName>
-               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1546">
+            <person xml:id="pmb121153">
                <persName>Kovanko, Natalie</persName>
-               <idno type="GND">https://d-nb.info/gnd/1247839052</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1974">
+            <person xml:id="pmb119147">
                <persName>Mosjoukine, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1980">
+            <person xml:id="pmb121697">
                <persName>Müller, E. Dr.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2761">
+            <person xml:id="pmb121154">
                <persName>Tourjansky, Viatcheslav</persName>
-               <idno type="GND">https://d-nb.info/gnd/119140195</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2825">
+            <person xml:id="pmb10344">
                <persName>Verne, Jules</persName>
-               <idno type="GND">https://d-nb.info/gnd/118626620</idno>
             </person>
          </listPerson>
          <listPlace>

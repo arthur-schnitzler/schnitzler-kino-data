@@ -87,43 +87,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-398">
+            <person xml:id="pmb121960">
                <persName>Bruckmann, C.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1034">
+            <person xml:id="pmb121167">
                <persName>Girard, Josef</persName>
-               <idno type="GND">https://d-nb.info/gnd/1048568180</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1355">
+            <person xml:id="pmb121168">
                <persName>Hyman, Warrel</persName>
-               <idno type="GND">https://d-nb.info/gnd/135328764</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1596">
+            <person xml:id="pmb121169">
                <persName>Lane, Lola</persName>
-               <idno type="GND">https://d-nb.info/gnd/1228356092</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1696">
+            <person xml:id="pmb8687">
                <persName>Lloyd, Harold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118573667</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2111">
+            <person xml:id="pmb121170">
                <persName>Page, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1116544407</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2651">
+            <person xml:id="pmb121171">
                <persName>Stoloff, Benjamin</persName>
-               <idno type="GND">https://d-nb.info/gnd/141843705</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2743">
+            <person xml:id="pmb121961">
                <persName>Thomson, Kenneth</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2941">
+            <person xml:id="pmb121172">
                <persName>Wilde, Ted</persName>
-               <idno type="GND">https://d-nb.info/gnd/140980539</idno>
             </person>
          </listPerson>
          <listPlace>

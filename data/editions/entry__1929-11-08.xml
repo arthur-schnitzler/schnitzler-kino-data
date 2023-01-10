@@ -99,25 +99,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-809">
+            <person xml:id="pmb15928">
                <persName>Enright, Ray</persName>
-               <idno type="GND">https://d-nb.info/gnd/141090537</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1732">
+            <person xml:id="pmb121529">
                <persName>Loy, Myrna</persName>
-               <idno type="GND">https://d-nb.info/gnd/119007940</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2008">
+            <person xml:id="pmb119365">
                <persName>Nagel, Conrad</persName>
-               <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2066">
+            <person xml:id="pmb119634">
                <persName>Nye, Carroll</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055324135</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2408">
+            <person xml:id="pmb121530">
                <persName>Russel, William</persName>
-               <idno type="GND">https://d-nb.info/gnd/1032981571</idno>
             </person>
          </listPerson>
          <listPlace>

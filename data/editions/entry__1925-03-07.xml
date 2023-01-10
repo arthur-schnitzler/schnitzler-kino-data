@@ -96,25 +96,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-208">
+            <person xml:id="pmb120382">
                <persName>Bellajeff, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/1038087732</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-304">
+            <person xml:id="pmb119452">
                <persName>Blütecher, Alf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061456900</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1775">
+            <person xml:id="pmb119568">
                <persName>Madsen, Holger</persName>
-               <idno type="GND">https://d-nb.info/gnd/141911395</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1853">
+            <person xml:id="pmb120665">
                <persName>Maur, Meinhardt</persName>
-               <idno type="GND">https://d-nb.info/gnd/116854286</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2911">
+            <person xml:id="pmb119201">
                <persName>Welcker, Gertrude</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062300831</idno>
             </person>
          </listPerson>
          <listPlace>

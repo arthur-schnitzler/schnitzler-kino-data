@@ -99,38 +99,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-117">
+            <person xml:id="pmb121820">
                <persName>Austin, William</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-126">
+            <person xml:id="pmb13672">
                <persName>Badger, Clarence</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-572">
+            <person xml:id="pmb120234">
                <persName>Corrigan, Lloyd</persName>
-               <idno type="GND">https://d-nb.info/gnd/141829567</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-618">
+            <person xml:id="pmb119362">
                <persName>Daniels, Bébé</persName>
-               <idno type="GND">https://d-nb.info/gnd/135402816</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-729">
+            <person xml:id="pmb120236">
                <persName>Dunn, Josephine</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017964688</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-758">
+            <person xml:id="pmb120237">
                <persName>Ederle, Gertrude</persName>
-               <idno type="GND">https://d-nb.info/gnd/132822954</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1172">
+            <person xml:id="pmb121821">
                <persName>Hall, James</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1818">
+            <person xml:id="pmb120032">
                <persName>Marion, George Jr.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2957">
+            <person xml:id="pmb119447">
                <persName>Winter, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>
          </listPerson>
          <listPlace>

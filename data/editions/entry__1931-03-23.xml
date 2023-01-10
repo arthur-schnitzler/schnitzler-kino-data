@@ -102,23 +102,19 @@ Mittag 39–39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino �
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-974">
+            <person xml:id="pmb121580">
                <persName>Futter, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/140306684</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1046">
+            <person xml:id="pmb119917">
                <persName>Globuznik, Tedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1206944277</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1303">
+            <person xml:id="pmb28026">
                <persName>Höfler, Paul L.</persName>
-               <idno type="GND">https://d-nb.info/gnd/13615493X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1746">
+            <person xml:id="pmb99471">
                <persName>Luze, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1020050101</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
          </listPerson>

@@ -102,21 +102,17 @@ Greta Garbo ist wunderschön; deshalb findet man sich damit ab, daß ihre nordis
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-747">
+            <person xml:id="pmb119371">
                <persName>d’Arcy, Roy</persName>
-               <idno type="GND">https://d-nb.info/gnd/138664439</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-987">
+            <person xml:id="pmb7347">
                <persName>Garbo, Greta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118537571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1962">
+            <person xml:id="pmb121182">
                <persName>Moreno, Antonio</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057079502</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2036">
+            <person xml:id="pmb21929">
                <persName>Niblo, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/140082085</idno>
             </person>
          </listPerson>
          <listPlace>

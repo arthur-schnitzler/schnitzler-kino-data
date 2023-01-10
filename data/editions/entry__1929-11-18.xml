@@ -101,72 +101,56 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-34">
+            <person xml:id="pmb121715">
                <persName>Aldersfeld-Ballestrem</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-428">
+            <person xml:id="pmb119625">
                <persName>Bush, Mae</persName>
-               <idno type="GND">https://d-nb.info/gnd/138496242</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-492">
+            <person xml:id="pmb6613">
                <persName>Chaney, Lon</persName>
-               <idno type="GND">https://d-nb.info/gnd/119450100</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-557">
+            <person xml:id="pmb6694">
                <persName>Conway, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/139730893</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-634">
+            <person xml:id="pmb119626">
                <persName>Davis, Dolly</persName>
-               <idno type="GND">https://d-nb.info/gnd/137740824</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-923">
+            <person xml:id="pmb119573">
                <persName>Forst, Willi</persName>
-               <idno type="GND">https://d-nb.info/gnd/118818813</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-989">
+            <person xml:id="pmb119629">
                <persName>Garden, Viola</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061888320</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1383">
+            <person xml:id="pmb114705">
                <persName>Janssen, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1447">
+            <person xml:id="pmb119141">
                <persName>Karenne, Diana</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061554988</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1884">
+            <person xml:id="pmb21282">
                <persName>Meinert, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1047434601</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1958">
+            <person xml:id="pmb119631">
                <persName>Moran, Polly</persName>
-               <idno type="GND">https://d-nb.info/gnd/1018858695</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2006">
+            <person xml:id="pmb119515">
                <persName>Mylong-Münz, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1021053074</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2066">
+            <person xml:id="pmb119634">
                <persName>Nye, Carroll</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055324135</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2067">
+            <person xml:id="pmb119635">
                <persName>Oakman, Wheeler</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229049355</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2109">
+            <person xml:id="pmb119636">
                <persName>Page, Anita</persName>
-               <idno type="GND">https://d-nb.info/gnd/13624873X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2532">
+            <person xml:id="pmb119639">
                <persName>Serventi, Luigi</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062245261</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2771">
+            <person xml:id="pmb10253">
                <persName>Trevor, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
             </person>
          </listPerson>
          <listPlace>

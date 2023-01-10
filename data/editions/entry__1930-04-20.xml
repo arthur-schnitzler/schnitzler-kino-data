@@ -104,33 +104,26 @@ Premierennotiz NFP 11.4.1930, S. 11, für 19.4.1930. Nachgewiesene Spielorte: Im
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1004">
+            <person xml:id="pmb11409">
                <persName>Gebühr, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979610</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1517">
+            <person xml:id="pmb121585">
                <persName>Klockow, Heinz</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061995518</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1610">
+            <person xml:id="pmb20135">
                <persName>Lasko, Leo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061742415</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1937">
+            <person xml:id="pmb121217">
                <persName>Mog, Aribert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1032675357</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1961">
+            <person xml:id="pmb120205">
                <persName>Morena, Erna</persName>
-               <idno type="GND">https://d-nb.info/gnd/117143588</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2371">
+            <person xml:id="pmb119255">
                <persName>Rommer, Claire</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019375620</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2918">
+            <person xml:id="pmb13094">
                <persName>Werfel, Franz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118631373</idno>
             </person>
          </listPerson>
          <listPlace>

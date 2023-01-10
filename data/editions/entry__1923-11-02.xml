@@ -96,13 +96,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-2391">
+            <person xml:id="pmb120852">
                <persName>Roudès, Gaston</persName>
-               <idno type="GND">https://d-nb.info/gnd/1058721798</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2728">
+            <person xml:id="pmb10899">
                <persName>Theátre Sarah Bernhardt</persName>
-               <idno type="GND">https://d-nb.info/gnd/118509896</idno>
             </person>
          </listPerson>
          <listPlace>

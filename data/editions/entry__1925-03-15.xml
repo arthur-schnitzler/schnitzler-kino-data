@@ -106,55 +106,44 @@
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-447">
+            <person xml:id="pmb119355">
                <persName>Campeau, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017966990</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-917">
+            <person xml:id="pmb16395">
                <persName>Ford, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/118534319</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-973">
+            <person xml:id="pmb120326">
                <persName>Furthman, Jules</persName>
-               <idno type="GND">https://d-nb.info/gnd/14028463X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1248">
+            <person xml:id="pmb121971">
                <persName>Hellmann, Ernst</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1463">
+            <person xml:id="pmb121244">
                <persName>Ke, Kathleen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1196151865</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1527">
+            <person xml:id="pmb120672">
                <persName>Kohler, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1053198779</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1626">
+            <person xml:id="pmb119356">
                <persName>Lee, Jennie</persName>
-               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1639">
+            <person xml:id="pmb120636">
                <persName>Leigh, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1146010052</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1934">
+            <person xml:id="pmb119299">
                <persName>Mix, Tom</persName>
-               <idno type="GND">https://d-nb.info/gnd/118817531</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2116">
+            <person xml:id="pmb120686">
                <persName>Pallette, Eugéne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1053495528</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2209">
+            <person xml:id="pmb119102">
                <persName>Pollak, Frieda </persName>
-               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2866">
+            <person xml:id="pmb120675">
                <persName>Walling, Will</persName>
-               <idno type="GND">https://d-nb.info/gnd/139599223</idno>
             </person>
          </listPerson>
          <listPlace>

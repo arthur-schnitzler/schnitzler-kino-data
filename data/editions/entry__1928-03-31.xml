@@ -87,39 +87,31 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-131">
+            <person xml:id="pmb6084">
                <persName>Baker, Josephine</persName>
-               <idno type="GND">https://d-nb.info/gnd/118506099</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-176">
+            <person xml:id="pmb119758">
                <persName>Batcheff, Pierre</persName>
-               <idno type="GND">https://d-nb.info/gnd/137697716</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-417">
+            <person xml:id="pmb120287">
                <persName>Buñuel, Luis</persName>
-               <idno type="GND">https://d-nb.info/gnd/118517465</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-648">
+            <person xml:id="pmb15289">
                <persName>Dekobra, Maurice</persName>
-               <idno type="GND">https://d-nb.info/gnd/118524445</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-823">
+            <person xml:id="pmb16017">
                <persName>Etievant, Henri</persName>
-               <idno type="GND">https://d-nb.info/gnd/127237674</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1887">
+            <person xml:id="pmb120290">
                <persName>Melchior, Georges</persName>
-               <idno type="GND">https://d-nb.info/gnd/17393255X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2012">
+            <person xml:id="pmb21782">
                <persName>Nalpas, Marie</persName>
-               <idno type="GND">https://d-nb.info/gnd/1228488568</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2549">
+            <person xml:id="pmb119172">
                <persName>Siebrecht, Eduard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1205354077</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2755">
+            <person xml:id="pmb121829">
                <persName>Tomas, Regine</persName>
             </person>
          </listPerson>

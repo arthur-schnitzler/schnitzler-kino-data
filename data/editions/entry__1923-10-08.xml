@@ -96,31 +96,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-340">
+            <person xml:id="pmb121948">
                <persName>Brabin, Charles J.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-602">
+            <person xml:id="pmb120650">
                <persName>Currier, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/12151482X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1022">
+            <person xml:id="pmb121066">
                <persName>Gerrard, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055210237</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1757">
+            <person xml:id="pmb120944">
                <persName>MacDermott, Marc</persName>
-               <idno type="GND">https://d-nb.info/gnd/1158926715</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2056">
+            <person xml:id="pmb121949">
                <persName>Nordstrom, Clarence</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2511">
+            <person xml:id="pmb121067">
                <persName>Seddon, Margaret</persName>
-               <idno type="GND">https://d-nb.info/gnd/1206906340</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2712">
+            <person xml:id="pmb120191">
                <persName>Taylor, Estelle</persName>
-               <idno type="GND">https://d-nb.info/gnd/1248913833</idno>
             </person>
          </listPerson>
          <listPlace>

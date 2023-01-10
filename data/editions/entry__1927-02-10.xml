@@ -93,52 +93,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-74">
+            <person xml:id="pmb10772">
                <persName>Anzengruber, Ludwig</persName>
-               <idno type="GND">https://d-nb.info/gnd/11850357X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-897">
+            <person xml:id="pmb119695">
                <persName>Fleck, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/1011893878</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-898">
+            <person xml:id="pmb119697">
                <persName>Fleck, Louise</persName>
-               <idno type="GND">https://d-nb.info/gnd/116598271</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1018">
+            <person xml:id="pmb11423">
                <persName>Gerasch, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/116564342</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1138">
+            <person xml:id="pmb121771">
                <persName>Günther, Gisela</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1296">
+            <person xml:id="pmb11975">
                <persName>Hofbauer, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1824">
+            <person xml:id="pmb12190">
                <persName>Markus, Elisabeth</persName>
-               <idno type="GND">https://d-nb.info/gnd/1020954558</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2160">
+            <person xml:id="pmb119974">
                <persName>Petersen, Ingrid</persName>
-               <idno type="GND">https://d-nb.info/gnd/1148689230</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2165">
+            <person xml:id="pmb22511">
                <persName>Philippi, Siegfried</persName>
-               <idno type="GND">https://d-nb.info/gnd/102510367X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2271">
+            <person xml:id="pmb112741">
                <persName>Ranzenhofer, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062106253</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2655">
+            <person xml:id="pmb119200">
                <persName>Storm, Olaf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062011155</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2958">
+            <person xml:id="pmb13138">
                <persName>Winterstein, Eduard von</persName>
-               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
             </person>
          </listPerson>
          <listPlace>

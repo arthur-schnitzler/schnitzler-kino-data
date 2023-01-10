@@ -98,30 +98,25 @@ Premierennotiz NFP 8.11.1929, S. 8, u. d. T. »Hinter Klostermauern«. Nachgewie
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-280">
+            <person xml:id="pmb119712">
                <persName>Bird, Betty</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062280075</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-700">
+            <person xml:id="pmb120929">
                <persName>Dorris, Anita</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061825531</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1803">
+            <person xml:id="pmb119447">
                <persName>Manning, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1838">
+            <person xml:id="pmb119646">
                <persName>Martini, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1101470372</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1959">
+            <person xml:id="pmb120931">
                <persName>Morel, Dene</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061767019</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2516">
+            <person xml:id="pmb24802">
                <persName>Seitz, Franz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2844">
+            <person xml:id="pmb121716">
                <persName>Vogt, Carl de</persName>
             </person>
          </listPerson>

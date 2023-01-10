@@ -99,21 +99,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-159">
+            <person xml:id="pmb120410">
                <persName>Barrie, Nigel</persName>
-               <idno type="GND">https://d-nb.info/gnd/106023274X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-693">
+            <person xml:id="pmb120414">
                <persName>Donald, Catherine Mc.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1089463170</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2313">
+            <person xml:id="pmb120415">
                <persName>Reynolds, Baillie</persName>
-               <idno type="GND">https://d-nb.info/gnd/140027521</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2994">
+            <person xml:id="pmb120416">
                <persName>Young, James</persName>
-               <idno type="GND">https://d-nb.info/gnd/1232855901</idno>
             </person>
          </listPerson>
          <listPlace>

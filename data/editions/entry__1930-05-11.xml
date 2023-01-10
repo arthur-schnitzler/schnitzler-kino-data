@@ -90,30 +90,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-675">
+            <person xml:id="pmb120077">
                <persName>Diessl, Gustav</persName>
-               <idno type="GND">https://d-nb.info/gnd/129296856</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-841">
+            <person xml:id="pmb121692">
                <persName>Falkenberg, Karl</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1330">
+            <person xml:id="pmb121846">
                <persName>Horn, Camilla</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1752">
+            <person xml:id="pmb122026">
                <persName>Lys, Lyen</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2033">
+            <person xml:id="pmb119866">
                <persName>Newlinski, Michael von</persName>
-               <idno type="GND">https://d-nb.info/gnd/138232547</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2578">
+            <person xml:id="pmb25078">
                <persName>Sokoloff, Wladimir</persName>
-               <idno type="GND">https://d-nb.info/gnd/117459445</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2586">
+            <person xml:id="pmb25139">
                <persName>Sorkin, Mark</persName>
-               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
          </listPerson>
          <listPlace>

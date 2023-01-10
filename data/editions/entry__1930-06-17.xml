@@ -99,29 +99,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-144">
+            <person xml:id="pmb120266">
                <persName>Banky, Vilma</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031195645</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1337">
+            <person xml:id="pmb120354">
                <persName>Howard, Sidney</persName>
-               <idno type="GND">https://d-nb.info/gnd/128858737</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1549">
+            <person xml:id="pmb119185">
                <persName>Kräly, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2356">
+            <person xml:id="pmb120357">
                <persName>Robinson, Edward G.</persName>
-               <idno type="GND">https://d-nb.info/gnd/128700130</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2445">
+            <person xml:id="pmb12648">
                <persName>Schildkraut, Joseph</persName>
-               <idno type="GND">https://d-nb.info/gnd/139569928</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2508">
+            <person xml:id="pmb9913">
                <persName>Seastrom, Victor</persName>
-               <idno type="GND">https://d-nb.info/gnd/118916629</idno>
             </person>
          </listPerson>
          <listPlace>

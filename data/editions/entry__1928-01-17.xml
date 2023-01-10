@@ -96,13 +96,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1629">
+            <person xml:id="pmb8522">
                <persName>Lee, Rowland</persName>
-               <idno type="GND">https://d-nb.info/gnd/141280557</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2019">
+            <person xml:id="pmb9036">
                <persName>Negri, Pola</persName>
-               <idno type="GND">https://d-nb.info/gnd/118843249</idno>
             </person>
          </listPerson>
          <listPlace>

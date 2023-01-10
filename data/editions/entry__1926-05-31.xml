@@ -99,36 +99,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-944">
+            <person xml:id="pmb7225">
                <persName>Freisler, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/140976701</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1376">
+            <person xml:id="pmb121574">
                <persName>Jaida, Minna</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062160509</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1667">
+            <person xml:id="pmb121724">
                <persName>Liebmann, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2186">
+            <person xml:id="pmb119520">
                <persName>Platen, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2371">
+            <person xml:id="pmb119255">
                <persName>Rommer, Claire</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019375620</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2618">
+            <person xml:id="pmb121575">
                <persName>Starnburg, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061683427</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2777">
+            <person xml:id="pmb26216">
                <persName>Tschechowa, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2798">
+            <person xml:id="pmb120704">
                <persName>Unterkircher, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1027133088</idno>
             </person>
          </listPerson>
          <listPlace>

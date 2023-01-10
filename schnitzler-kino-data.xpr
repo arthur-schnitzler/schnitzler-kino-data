@@ -76,7 +76,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/oldfiche/Documents/git/bahr-textverzeichnis-data/xslt/obsolet/regex.xsl</String>
+                                    <String>${pdu}/xslts/noname.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>

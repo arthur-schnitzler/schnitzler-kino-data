@@ -80,13 +80,11 @@ Ein Kinobesuch an diesem Tag ist nur bei Pollaczek notiert und ist möglicherwei
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
          </listPerson>
          <listPlace>

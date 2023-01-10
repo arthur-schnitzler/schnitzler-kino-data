@@ -99,65 +99,53 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-149">
+            <person xml:id="pmb121801">
                <persName>Barclay, Eric</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-359">
+            <person xml:id="pmb119522">
                <persName>Brausewetter, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116430249</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-676">
+            <person xml:id="pmb6819">
                <persName>Dieterle, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/119118432</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-786">
+            <person xml:id="pmb6981">
                <persName>Ekman, Gösta</persName>
-               <idno type="GND">https://d-nb.info/gnd/130418595</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-975">
+            <person xml:id="pmb119833">
                <persName>Fütterer, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/138898278</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1133">
+            <person xml:id="pmb7597">
                <persName>Guilbert, Yvette</persName>
-               <idno type="GND">https://d-nb.info/gnd/118543466</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1330">
+            <person xml:id="pmb121846">
                <persName>Horn, Camilla</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1379">
+            <person xml:id="pmb11816">
                <persName>Jannings, Emil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1574">
+            <person xml:id="pmb8386">
                <persName>Kyser, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116634472</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1991">
+            <person xml:id="pmb8990">
                <persName>Murnau, Friedrich Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/118585878</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2002">
+            <person xml:id="pmb9008">
                <persName>Müthel, Lothar</persName>
-               <idno type="GND">https://d-nb.info/gnd/119049309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2260">
+            <person xml:id="pmb119243">
                <persName>Ralph, Hanna</persName>
-               <idno type="GND">https://d-nb.info/gnd/142155578</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2266">
+            <person xml:id="pmb121695">
                <persName>Rameau, Hans</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2317">
+            <person xml:id="pmb102551">
                <persName>Richard, Frida</persName>
-               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2870">
+            <person xml:id="pmb121647">
                <persName>Walter, Hertha von</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2988">
+            <person xml:id="pmb120384">
                <persName>Wyda, Emmy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11734785X</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -108,40 +108,32 @@ Ankündigung NFP 8.5.1931, S. 13. Premierennotiz der Uraufführung im Apollo-Kin
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-60">
+            <person xml:id="pmb119449">
                <persName>Ander, Charlotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019197625</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-172">
+            <person xml:id="pmb10844">
                <persName>Bassermann, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-359">
+            <person xml:id="pmb119522">
                <persName>Brausewetter, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116430249</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1667">
+            <person xml:id="pmb121724">
                <persName>Liebmann, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2282">
+            <person xml:id="pmb119103">
                <persName>Redlich, Emmy</persName>
-               <idno type="GND">https://d-nb.info/gnd/13901232X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2469">
+            <person xml:id="pmb12692">
                <persName>Schnitzler, Heinrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2473">
+            <person xml:id="pmb5960">
                <persName>Albu, Ruth</persName>
-               <idno type="GND">https://d-nb.info/gnd/130068101</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2564">
+            <person xml:id="pmb9907">
                <persName>Siodmak, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/11861472X</idno>
             </person>
          </listPerson>
          <listPlace>

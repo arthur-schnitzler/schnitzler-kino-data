@@ -101,37 +101,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-148">
+            <person xml:id="pmb6109">
                <persName>Barbusse, Henri</persName>
-               <idno type="GND">https://d-nb.info/gnd/11850651X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-872">
+            <person xml:id="pmb119384">
                <persName>Ferdiandow, B.</persName>
-               <idno type="GND">https://d-nb.info/gnd/139711775</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1123">
+            <person xml:id="pmb120379">
                <persName>Grubinak, K.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056138556</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1142">
+            <person xml:id="pmb119684">
                <persName>Gurniak, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/117072486</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1548">
+            <person xml:id="pmb8319">
                <persName>Kracauer, Siegfried</persName>
-               <idno type="GND">https://d-nb.info/gnd/1251917062</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2372">
+            <person xml:id="pmb120380">
                <persName>Room, Abram</persName>
-               <idno type="GND">https://d-nb.info/gnd/11892382X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2451">
+            <person xml:id="pmb120382">
                <persName>Schiznewa, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/1038087732</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2661">
+            <person xml:id="pmb120383">
                <persName>Strauch, Maxim</persName>
-               <idno type="GND">https://d-nb.info/gnd/118951807</idno>
             </person>
          </listPerson>
          <listPlace>

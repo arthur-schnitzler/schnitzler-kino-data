@@ -99,36 +99,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-841">
+            <person xml:id="pmb121692">
                <persName>Falkenberg, Karl</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1015">
+            <person xml:id="pmb121540">
                <persName>Geraghty, Carmelita</persName>
-               <idno type="GND">https://d-nb.info/gnd/137771347</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1293">
+            <person xml:id="pmb7879">
                <persName>Hitchcock, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/118551647</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1838">
+            <person xml:id="pmb119646">
                <persName>Martini, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1101470372</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2431">
+            <person xml:id="pmb121541">
                <persName>Sandys, Oliver</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061636321</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2467">
+            <person xml:id="pmb120164">
                <persName>Schnell, Georg Heinrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/102694788X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2673">
+            <person xml:id="pmb121396">
                <persName>Stuart, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/1083033476</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2808">
+            <person xml:id="pmb120604">
                <persName>Valli, Virginia</persName>
-               <idno type="GND">https://d-nb.info/gnd/137771282</idno>
             </person>
          </listPerson>
          <listPlace>

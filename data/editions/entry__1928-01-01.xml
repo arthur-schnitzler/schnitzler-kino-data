@@ -104,59 +104,47 @@ Anzeige NFP 30.12.1927, S. 19: : „Die Neujahrsgabe der fanamet für die Kinobe
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-334">
+            <person xml:id="pmb14458">
                <persName>Bousquet, Jacques</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056585455</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-468">
+            <person xml:id="pmb120116">
                <persName>Carr, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/137920431</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-501">
+            <person xml:id="pmb121047">
                <persName>Chautard, Emile</persName>
-               <idno type="GND">https://d-nb.info/gnd/1212249321</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-838">
+            <person xml:id="pmb121049">
                <persName>Falk, Henri</persName>
-               <idno type="GND">https://d-nb.info/gnd/1053273428</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1702">
+            <person xml:id="pmb20542">
                <persName>Loeb, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229925457</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1809">
+            <person xml:id="pmb120361">
                <persName>Marchal, Arlette</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061860337</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1818">
+            <person xml:id="pmb120032">
                <persName>Marion, George Jr.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1866">
+            <person xml:id="pmb121945">
                <persName>McDermott, John</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1896">
+            <person xml:id="pmb8906">
                <persName>Menjou, Adolphe</persName>
-               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2049">
+            <person xml:id="pmb121050">
                <persName>Nissen, Greta</persName>
-               <idno type="GND">https://d-nb.info/gnd/1274659396</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2202">
+            <person xml:id="pmb22696">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2385">
+            <person xml:id="pmb23632">
                <persName>Rosson, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1221420216</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -106,47 +106,38 @@ Premierennotiz der Ur- und Alleinaufführung im Sascha-Palast NFP 19.5.1931, S. 
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-134">
+            <person xml:id="pmb6097">
                <persName>Balázs, Béla</persName>
-               <idno type="GND">https://d-nb.info/gnd/119010305</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-362">
+            <person xml:id="pmb11008">
                <persName>Brecht, Bertolt</persName>
-               <idno type="GND">https://d-nb.info/gnd/118514768</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-427">
+            <person xml:id="pmb113713">
                <persName>Busch, Ernst</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-695">
+            <person xml:id="pmb15433">
                <persName>Donath, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-924">
+            <person xml:id="pmb7196">
                <persName>Forster, Rudolf</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1024">
+            <person xml:id="pmb120296">
                <persName>Gert, Valeska</persName>
-               <idno type="GND">https://d-nb.info/gnd/118538888</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1604">
+            <person xml:id="pmb119990">
                <persName>Lania, Leo</persName>
-               <idno type="GND">https://d-nb.info/gnd/11672949X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2020">
+            <person xml:id="pmb9041">
                <persName>Neher, Carola</persName>
-               <idno type="GND">https://d-nb.info/gnd/118738348</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2106">
+            <person xml:id="pmb119300">
                <persName>Pabst, Georg Wilhelm </persName>
-               <idno type="GND">https://d-nb.info/gnd/118942387</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2498">
+            <person xml:id="pmb9830">
                <persName>Schünzel, Reinhold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118892223</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2803">
+            <person xml:id="pmb106896">
                <persName>Vajda, Ladislaus</persName>
-               <idno type="GND">https://d-nb.info/gnd/129296805</idno>
             </person>
          </listPerson>
          <listPlace>

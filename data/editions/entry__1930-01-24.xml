@@ -103,84 +103,65 @@ Ich kann nicht, ich kann [n]icht, kann nicht. Heute soll ich mit ihm ins Kino. S
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-328">
+            <person xml:id="pmb121034">
                <persName>Borodin, Elfriede</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062375432</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-695">
+            <person xml:id="pmb15433">
                <persName>Donath, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-730">
+            <person xml:id="pmb6883">
                <persName>Dupont, E. A.</persName>
-               <idno type="GND">https://d-nb.info/gnd/119061872</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-923">
+            <person xml:id="pmb119573">
                <persName>Forst, Willi</persName>
-               <idno type="GND">https://d-nb.info/gnd/118818813</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1401">
+            <person xml:id="pmb119459">
                <persName>John, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/1194256775</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1475">
+            <person xml:id="pmb119101">
                <persName>Kendall, Victor</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061398641</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1523">
+            <person xml:id="pmb119552">
                <persName>Koch, Georg August</persName>
-               <idno type="GND">https://d-nb.info/gnd/117295752</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1543">
+            <person xml:id="pmb11975">
                <persName>Kortner, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1620">
+            <person xml:id="pmb20223">
                <persName>Lederer, Franz</persName>
-               <idno type="GND">https://d-nb.info/gnd/130217492</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1712">
+            <person xml:id="pmb8707">
                <persName>Loos, Theodor</persName>
-               <idno type="GND">https://d-nb.info/gnd/116850345</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1802">
+            <person xml:id="pmb8804">
                <persName>Mannheim, Lucie</persName>
-               <idno type="GND">https://d-nb.info/gnd/118730665</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1803">
+            <person xml:id="pmb119447">
                <persName>Manning, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2209">
+            <person xml:id="pmb119102">
                <persName>Pollak, Frieda </persName>
-               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2279">
+            <person xml:id="pmb121035">
                <persName>Raymond, Ernest</persName>
-               <idno type="GND">https://d-nb.info/gnd/1058662163</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2468">
+            <person xml:id="pmb2121">
                <persName>Schnitzler, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2491">
+            <person xml:id="pmb121638">
                <persName>Schroth, Heinrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2527">
+            <person xml:id="pmb119131">
                <persName>Serda, Julia</persName>
-               <idno type="GND">https://d-nb.info/gnd/117257753</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2807">
+            <person xml:id="pmb10325">
                <persName>Vallentin, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2853">
+            <person xml:id="pmb119329">
                <persName>Wagner, Elsa</persName>
-               <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-4096">
+            <person xml:id="pmb12435">
                <persName>Pollaczek, Clara Katharina</persName>
-               <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
             </person>
          </listPerson>
          <listPlace>

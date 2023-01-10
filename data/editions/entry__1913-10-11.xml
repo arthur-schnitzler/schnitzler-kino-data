@@ -89,40 +89,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-414">
+            <person xml:id="pmb65026">
                <persName>Bulwer-Lytton, Edward George</persName>
-               <idno type="GND">https://d-nb.info/gnd/11866493X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-458">
+            <person xml:id="pmb121963">
                <persName>Carini, Cesare Gani</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-480">
+            <person xml:id="pmb121180">
                <persName>Caserini, Mario</persName>
-               <idno type="GND">https://d-nb.info/gnd/173534600</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-886">
+            <person xml:id="pmb121181">
                <persName>Fior, Eugenia Tettoni</persName>
-               <idno type="GND">https://d-nb.info/gnd/1146044232</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1121">
+            <person xml:id="pmb121182">
                <persName>Grisanti, Antonio</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057079502</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2224">
+            <person xml:id="pmb121183">
                <persName>Pouget, Fernanda Negri</persName>
-               <idno type="GND">https://d-nb.info/gnd/173534627</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2364">
+            <person xml:id="pmb121184">
                <persName>Rodolfi, Eleuterio</persName>
-               <idno type="GND">https://d-nb.info/gnd/1128827387</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2625">
+            <person xml:id="pmb121186">
                <persName>Stefani, Ubaldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/124023886</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2626">
+            <person xml:id="pmb121187">
                <persName>Stefano, Vitale Di</persName>
-               <idno type="GND">https://d-nb.info/gnd/124073530</idno>
             </person>
          </listPerson>
          <listPlace>

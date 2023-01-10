@@ -104,36 +104,29 @@ Ankündigung NFP 27.2.1931, S. 14. Notiz NFP 3.3.1931, S. 11. Premierennotiz NFP
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-561">
+            <person xml:id="pmb15096">
                <persName>Cooper, Gary</persName>
-               <idno type="GND">https://d-nb.info/gnd/135292174</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-677">
+            <person xml:id="pmb6824">
                <persName>Dietrich, Marlene</persName>
-               <idno type="GND">https://d-nb.info/gnd/118525565</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-973">
+            <person xml:id="pmb120326">
                <persName>Furthman, Jules</persName>
-               <idno type="GND">https://d-nb.info/gnd/14028463X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1896">
+            <person xml:id="pmb8906">
                <persName>Menjou, Adolphe</persName>
-               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2422">
+            <person xml:id="pmb2167">
                <persName>Salten, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2643">
+            <person xml:id="pmb119322">
                <persName>Sternberg, Josef von</persName>
-               <idno type="GND">https://d-nb.info/gnd/118753630</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2837">
+            <person xml:id="pmb119967">
                <persName>Vigny, Benno</persName>
-               <idno type="GND">https://d-nb.info/gnd/117417645</idno>
             </person>
          </listPerson>
          <listPlace>

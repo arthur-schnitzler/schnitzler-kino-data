@@ -96,36 +96,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-106">
+            <person xml:id="pmb120186">
                <persName>Astor, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/129622591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-163">
+            <person xml:id="pmb5372">
                <persName>Barrymore, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/119340933</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-575">
+            <person xml:id="pmb121805">
                <persName>Costello, Helene</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-588">
+            <person xml:id="pmb6725">
                <persName>Crosland, Alan</persName>
-               <idno type="GND">https://d-nb.info/gnd/123067006</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1724">
+            <person xml:id="pmb119214">
                <persName>Louis, Willard</persName>
-               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1727">
+            <person xml:id="pmb120187">
                <persName>Love, Montague</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062212312</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2073">
+            <person xml:id="pmb120190">
                <persName>Oland, Warner</persName>
-               <idno type="GND">https://d-nb.info/gnd/1020773146</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2712">
+            <person xml:id="pmb120191">
                <persName>Taylor, Estelle</persName>
-               <idno type="GND">https://d-nb.info/gnd/1248913833</idno>
             </person>
          </listPerson>
          <listPlace>

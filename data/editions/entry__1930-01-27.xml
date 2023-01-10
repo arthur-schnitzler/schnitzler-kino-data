@@ -99,29 +99,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-395">
+            <person xml:id="pmb14602">
                <persName>Browning, Tod</persName>
-               <idno type="GND">https://d-nb.info/gnd/119425564</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-492">
+            <person xml:id="pmb6613">
                <persName>Chaney, Lon</persName>
-               <idno type="GND">https://d-nb.info/gnd/119450100</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1342">
+            <person xml:id="pmb120292">
                <persName>Hughes, Lloyd</persName>
-               <idno type="GND">https://d-nb.info/gnd/1138949760</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2712">
+            <person xml:id="pmb120191">
                <persName>Taylor, Estelle</persName>
-               <idno type="GND">https://d-nb.info/gnd/1248913833</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2820">
+            <person xml:id="pmb121166">
                <persName>Velez, Lupe</persName>
-               <idno type="GND">https://d-nb.info/gnd/119179946</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2965">
+            <person xml:id="pmb119238">
                <persName>Wohlmut, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
             </person>
          </listPerson>
          <listPlace>

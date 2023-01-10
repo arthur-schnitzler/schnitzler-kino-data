@@ -93,40 +93,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-418">
+            <person xml:id="pmb11046">
                <persName>Burg, Eugen</persName>
-               <idno type="GND">https://d-nb.info/gnd/117164062</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-677">
+            <person xml:id="pmb6824">
                <persName>Dietrich, Marlene</persName>
-               <idno type="GND">https://d-nb.info/gnd/118525565</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-979">
+            <person xml:id="pmb119274">
                <persName>Galeen, Henrik</persName>
-               <idno type="GND">https://d-nb.info/gnd/119151545</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1023">
+            <person xml:id="pmb115025">
                <persName>Gerron, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1107">
+            <person xml:id="pmb121831">
                <persName>Greiner, Fritz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1717">
+            <person xml:id="pmb119714">
                <persName>Lorring, Lotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031430938</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2137">
+            <person xml:id="pmb119156">
                <persName>Paulig, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/116065109</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2170">
+            <person xml:id="pmb9271">
                <persName>Piel, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/119103842</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2726">
+            <person xml:id="pmb121189">
                <persName>Tetzlaff, Toni</persName>
-               <idno type="GND">https://d-nb.info/gnd/117276782</idno>
             </person>
          </listPerson>
          <listPlace>

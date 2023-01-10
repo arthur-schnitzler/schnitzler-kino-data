@@ -99,40 +99,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-438">
+            <person xml:id="pmb121812">
                <persName>Cain, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-588">
+            <person xml:id="pmb6725">
                <persName>Crosland, Alan</persName>
-               <idno type="GND">https://d-nb.info/gnd/123067006</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1049">
+            <person xml:id="pmb121230">
                <persName>Glyn, Elinor</persName>
-               <idno type="GND">https://d-nb.info/gnd/119200406</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1316">
+            <person xml:id="pmb119728">
                <persName>Holmes, Stuart</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062172388</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1661">
+            <person xml:id="pmb120652">
                <persName>Lewis, Mitchell</persName>
-               <idno type="GND">https://d-nb.info/gnd/1222468670</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1715">
+            <person xml:id="pmb119214">
                <persName>Lorez, Claire de</persName>
-               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2008">
+            <person xml:id="pmb119365">
                <persName>Nagel, Conrad</persName>
-               <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2200">
+            <person xml:id="pmb119782">
                <persName>Polis, John St.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1228605254</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2238">
+            <person xml:id="pmb121231">
                <persName>Pringle, Aileen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1239116969</idno>
             </person>
          </listPerson>
          <listPlace>

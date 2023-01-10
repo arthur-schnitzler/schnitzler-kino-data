@@ -93,11 +93,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1931">
+            <person xml:id="pmb120037">
                <persName>Mistinguett</persName>
-               <idno type="GND">https://d-nb.info/gnd/119031655</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2748">
+            <person xml:id="pmb122050">
                <persName>Tiller-Girls</persName>
             </person>
          </listPerson>

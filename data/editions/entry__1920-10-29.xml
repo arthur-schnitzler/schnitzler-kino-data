@@ -85,17 +85,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-947">
+            <person xml:id="pmb12265">
                <persName>Freska, Friedrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/117064858</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1549">
+            <person xml:id="pmb119185">
                <persName>Kräly, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1733">
+            <person xml:id="pmb115234">
                <persName>Lubitsch, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
          </listPerson>
          <listPlace>

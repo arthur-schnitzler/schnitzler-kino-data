@@ -102,29 +102,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-431">
+            <person xml:id="pmb14726">
                <persName>Butler, David</persName>
-               <idno type="GND">https://d-nb.info/gnd/119177625</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1661">
+            <person xml:id="pmb120652">
                <persName>Lewis, Mitchell</persName>
-               <idno type="GND">https://d-nb.info/gnd/1222468670</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1826">
+            <person xml:id="pmb121221">
                <persName>Marlowe, June</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061989356</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1877">
+            <person xml:id="pmb121222">
                <persName>Meagher, Edward J.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1170267319</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2278">
+            <person xml:id="pmb121223">
                <persName>Raymaker, H. C.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1139067753</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2331">
+            <person xml:id="pmb120406">
                <persName>Rin-Tin-Tin</persName>
-               <idno type="GND">https://d-nb.info/gnd/1181895960</idno>
             </person>
          </listPerson>
          <listPlace>

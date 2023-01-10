@@ -93,21 +93,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-558">
+            <person xml:id="pmb114683">
                <persName>Coogan, Jackie</persName>
-               <idno type="GND">https://d-nb.info/gnd/12489366X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1091">
+            <person xml:id="pmb120311">
                <persName>Grasse, Sam de</persName>
-               <idno type="GND">https://d-nb.info/gnd/173879071</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2692">
+            <person xml:id="pmb121421">
                <persName>Sympson, Russell</persName>
-               <idno type="GND">https://d-nb.info/gnd/115758313X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2720">
+            <person xml:id="pmb121422">
                <persName>Tennant, Barbara</persName>
-               <idno type="GND">https://d-nb.info/gnd/135393574</idno>
             </person>
          </listPerson>
          <listPlace>

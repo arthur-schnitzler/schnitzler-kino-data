@@ -93,21 +93,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-195">
+            <person xml:id="pmb120583">
                <persName>Beery, Noah</persName>
-               <idno type="GND">https://d-nb.info/gnd/106168153X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-327">
+            <person xml:id="pmb120589">
                <persName>Borgy, Cely</persName>
-               <idno type="GND">https://d-nb.info/gnd/171458818</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2395">
+            <person xml:id="pmb120590">
                <persName>Rowland, Gilbert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1146035659</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2703">
+            <person xml:id="pmb120591">
                <persName>Talmadge, Norma</persName>
-               <idno type="GND">https://d-nb.info/gnd/122259921X</idno>
             </person>
          </listPerson>
          <listPlace>

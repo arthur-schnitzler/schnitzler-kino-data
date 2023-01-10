@@ -94,51 +94,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-289">
+            <person xml:id="pmb120973">
                <persName>Black, Buck</persName>
-               <idno type="GND">https://d-nb.info/gnd/137935943</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-336">
+            <person xml:id="pmb120021">
                <persName>Bow, Clara</persName>
-               <idno type="GND">https://d-nb.info/gnd/118877291</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-337">
+            <person xml:id="pmb120974">
                <persName>Bowers, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/1032808683</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-409">
+            <person xml:id="pmb120975">
                <persName>Buffington, Adele S.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1076381057</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1915">
+            <person xml:id="pmb119915">
                <persName>Miljan, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/1227959060</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1994">
+            <person xml:id="pmb52872">
                <persName>Murray, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/141071621</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2209">
+            <person xml:id="pmb119102">
                <persName>Pollak, Frieda </persName>
-               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2316">
+            <person xml:id="pmb121825">
                <persName>Rich, Lilian</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2432">
+            <person xml:id="pmb23965">
                <persName>Santell, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062357728</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2611">
+            <person xml:id="pmb120976">
                <persName>Standing, Joan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1272250636</idno>
             </person>
          </listPerson>
          <listPlace>

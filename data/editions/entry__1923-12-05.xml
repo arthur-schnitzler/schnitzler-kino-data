@@ -99,45 +99,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-121">
+            <person xml:id="pmb120241">
                <persName>Ayres, Agnes</persName>
-               <idno type="GND">https://d-nb.info/gnd/141176423</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1348">
+            <person xml:id="pmb120244">
                <persName>Hull, Edith Maude</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061715485</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1459">
+            <person xml:id="pmb120247">
                <persName>Katterjohn, Monte M.</persName>
-               <idno type="GND">https://d-nb.info/gnd/141176377</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1888">
+            <person xml:id="pmb21294">
                <persName>Melford, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/141176261</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1896">
+            <person xml:id="pmb8906">
                <persName>Menjou, Adolphe</persName>
-               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1923">
+            <person xml:id="pmb120248">
                <persName>Miller, Ruth</persName>
-               <idno type="GND">https://d-nb.info/gnd/1236310837</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2468">
+            <person xml:id="pmb2121">
                <persName>Schnitzler, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2805">
+            <person xml:id="pmb10321">
                <persName>Valentino, Rudolph</persName>
-               <idno type="GND">https://d-nb.info/gnd/118625918</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2850">
+            <person xml:id="pmb120249">
                <persName>Wachtel, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/106148548X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-4096">
+            <person xml:id="pmb12435">
                <persName>Pollaczek, Clara Katharina</persName>
-               <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -99,44 +99,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-311">
+            <person xml:id="pmb121017">
                <persName>Bognar, Erra</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061446190</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-688">
+            <person xml:id="pmb119195">
                <persName>Döblin, Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/116152788</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1370">
+            <person xml:id="pmb119920">
                <persName>Jacobini, Maria</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062040074</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1568">
+            <person xml:id="pmb121690">
                <persName>Kupfer, Margarete</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1609">
+            <person xml:id="pmb119803">
                <persName>Larsen, Viggo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1024673626</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1670">
+            <person xml:id="pmb8628">
                <persName>Liedtke, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1784">
+            <person xml:id="pmb8788">
                <persName>Malasomma, Nunzio</persName>
-               <idno type="GND">https://d-nb.info/gnd/128660759</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2327">
+            <person xml:id="pmb23413">
                <persName>Righelli, Gennaro</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061722260</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2889">
+            <person xml:id="pmb120775">
                <persName>Wassmann, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1153087219</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2987">
+            <person xml:id="pmb3963">
                <persName>Wüst, Ida</persName>
-               <idno type="GND">https://d-nb.info/gnd/116119667</idno>
             </person>
          </listPerson>
          <listPlace>

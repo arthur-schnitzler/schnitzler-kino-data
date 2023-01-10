@@ -106,47 +106,37 @@ Ankündigung NFP 3.10.1930, S. 11. Premierennotiz NFP 31.10.1930, S. 10, für 7.
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-357">
+            <person xml:id="pmb120086">
                <persName>Braun, Kurt J.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1276293437</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1299">
+            <person xml:id="pmb119532">
                <persName>Hoffmann, Dr.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050486609</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1457">
+            <person xml:id="pmb19175">
                <persName>Kastner, Bruno</persName>
-               <idno type="GND">https://d-nb.info/gnd/116066008</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1565">
+            <person xml:id="pmb8363">
                <persName>Kuh, Anton</persName>
-               <idno type="GND">https://d-nb.info/gnd/119302616</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1570">
+            <person xml:id="pmb121080">
                <persName>Kürty, Hella</persName>
-               <idno type="GND">https://d-nb.info/gnd/123738504</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1610">
+            <person xml:id="pmb20135">
                <persName>Lasko, Leo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061742415</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1719">
+            <person xml:id="pmb121081">
                <persName>Losseff, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061717240</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2291">
+            <person xml:id="pmb23187">
                <persName>Reichmann, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/116402733</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2645">
+            <person xml:id="pmb121084">
                <persName>Stettner, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/123740177</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2678">
+            <person xml:id="pmb121086">
                <persName>Suchy, Margit</persName>
-               <idno type="GND">https://d-nb.info/gnd/123740193</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2711">
+            <person xml:id="pmb121952">
                <persName>Tauber, Richard</persName>
             </person>
          </listPerson>

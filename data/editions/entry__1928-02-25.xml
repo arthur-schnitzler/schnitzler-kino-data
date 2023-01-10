@@ -96,37 +96,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-347">
+            <person xml:id="pmb121070">
                <persName>Brandin, Jean</persName>
-               <idno type="GND">https://d-nb.info/gnd/116041080</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1670">
+            <person xml:id="pmb8628">
                <persName>Liedtke, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1961">
+            <person xml:id="pmb120205">
                <persName>Morena, Erna</persName>
-               <idno type="GND">https://d-nb.info/gnd/117143588</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2093">
+            <person xml:id="pmb119499">
                <persName>Otto, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1016966490</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2428">
+            <person xml:id="pmb12618">
                <persName>Sandrock, Adele</persName>
-               <idno type="GND">https://d-nb.info/gnd/118605429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2480">
+            <person xml:id="pmb9825">
                <persName>Schönfelder, Erich</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062382404</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2639">
+            <person xml:id="pmb119221">
                <persName>Sterler, Hermine</persName>
-               <idno type="GND">https://d-nb.info/gnd/117273627</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3031">
+            <person xml:id="pmb13212">
                <persName>Zweig, Stefan</persName>
-               <idno type="GND">https://d-nb.info/gnd/118637479</idno>
             </person>
          </listPerson>
          <listPlace>

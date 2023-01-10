@@ -103,46 +103,38 @@ Ankündigung NFP 29.8.1930, S. 10. Nachgewiesene Spielorte: Rotenturm- und Flieg
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-102">
+            <person xml:id="pmb119423">
                <persName>Asther, Nils</persName>
-               <idno type="GND">https://d-nb.info/gnd/118970240</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-390">
+            <person xml:id="pmb120007">
                <persName>Brown, John Mac</persName>
-               <idno type="GND">https://d-nb.info/gnd/1116445514</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-567">
+            <person xml:id="pmb113090">
                <persName>Corday, Charlotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/118676881</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-987">
+            <person xml:id="pmb7347">
                <persName>Garbo, Greta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118537571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1299">
+            <person xml:id="pmb119532">
                <persName>Hoffmann, Dr.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050486609</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1587">
+            <person xml:id="pmb12028">
                <persName>Lamprecht, Gerhard</persName>
-               <idno type="GND">https://d-nb.info/gnd/116665483</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1705">
+            <person xml:id="pmb20552">
                <persName>Loeb, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/126501343</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2354">
+            <person xml:id="pmb121799">
                <persName>Robertson, John S.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2509">
+            <person xml:id="pmb121783">
                <persName>Sebastian, Dorothy</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2580">
+            <person xml:id="pmb121650">
                <persName>Solm, Fred</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2947">
+            <person xml:id="pmb120142">
                <persName>Williams, Kathleen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1141824701</idno>
             </person>
          </listPerson>
          <listPlace>

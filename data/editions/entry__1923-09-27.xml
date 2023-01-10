@@ -92,35 +92,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-472">
+            <person xml:id="pmb95216">
                <persName>Cartellieri, Carmen</persName>
-               <idno type="GND">https://d-nb.info/gnd/124859879</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-867">
+            <person xml:id="pmb121282">
                <persName>Feldhammer</persName>
-               <idno type="GND">https://d-nb.info/gnd/173913792</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-912">
+            <person xml:id="pmb121983">
                <persName>Forbes, James</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1669">
+            <person xml:id="pmb121733">
                <persName>Liechtenstern, Vilma</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1939">
+            <person xml:id="pmb121283">
                <persName>Moja, Hella</persName>
-               <idno type="GND">https://d-nb.info/gnd/127595589</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2630">
+            <person xml:id="pmb119326">
                <persName>Steinbeck, ?</persName>
-               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2731">
+            <person xml:id="pmb10206">
                <persName>Thiele, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979513</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2983">
+            <person xml:id="pmb120122">
                <persName>Woods, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/138735425</idno>
             </person>
          </listPerson>
          <listPlace>

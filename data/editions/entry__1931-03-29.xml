@@ -103,48 +103,38 @@ Abend mit A. im Kino „Liebe auf Befehl“, saudumm, dann bei ihm. Matte, verle
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-281">
+            <person xml:id="pmb119098">
                <persName>Birell, Tala</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019669209</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-935">
+            <person xml:id="pmb16457">
                <persName>Frank, Ernst L.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061629287</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1075">
+            <person xml:id="pmb7499">
                <persName>Gottwald, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1514">
+            <person xml:id="pmb120932">
                <persName>Klingler, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/140893024</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1540">
+            <person xml:id="pmb2249">
                <persName>Korff, Arnold</persName>
-               <idno type="GND">https://d-nb.info/gnd/101334071X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1722">
+            <person xml:id="pmb2570">
                <persName>Lothar, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/118123793</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2205">
+            <person xml:id="pmb119157">
                <persName>Pollaczek, Magdalena</persName>
-               <idno type="GND">https://d-nb.info/gnd/132915251</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2281">
+            <person xml:id="pmb120934">
                <persName>Redlich, Dr. Ernst E.</persName>
-               <idno type="GND">https://d-nb.info/gnd/121884481</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2326">
+            <person xml:id="pmb9528">
                <persName>Riemann, Johannes</persName>
-               <idno type="GND">https://d-nb.info/gnd/116543477</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2777">
+            <person xml:id="pmb26216">
                <persName>Tschechowa, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
          </listPerson>
          <listPlace>

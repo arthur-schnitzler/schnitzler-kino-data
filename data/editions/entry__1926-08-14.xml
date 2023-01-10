@@ -97,37 +97,32 @@ Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsy
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-530">
+            <person xml:id="pmb121387">
                <persName>Colani, Viktor</persName>
-               <idno type="GND">https://d-nb.info/gnd/106185308X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-876">
+            <person xml:id="pmb7118">
                <persName>Ferner, Max</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1443">
+            <person xml:id="pmb120073">
                <persName>Kamradek, Maria</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061372065</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1490">
+            <person xml:id="pmb119533">
                <persName>Kid, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061461572</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1568">
+            <person xml:id="pmb121690">
                <persName>Kupfer, Margarete</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1638">
+            <person xml:id="pmb121388">
                <persName>Leibelt, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116876972</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2163">
+            <person xml:id="">
                <persName>Pfanz, Herman</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2516">
+            <person xml:id="pmb24802">
                <persName>Seitz, Franz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2934">
+            <person xml:id="pmb121391">
                <persName>Wieck, Dorothea</persName>
-               <idno type="GND">https://d-nb.info/gnd/117346411</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -86,21 +86,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-313">
+            <person xml:id="pmb118919">
                <persName>Bohnen, Michael</persName>
-               <idno type="GND">https://d-nb.info/gnd/116232862</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1352">
+            <person xml:id="pmb121018">
                <persName>Hutter, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1147093180</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1841">
+            <person xml:id="pmb121019">
                <persName>Mary, Mia</persName>
-               <idno type="GND">https://d-nb.info/gnd/1258814056</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1858">
+            <person xml:id="pmb8868">
                <persName>May, Joe</persName>
-               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
             </person>
          </listPerson>
          <listPlace>

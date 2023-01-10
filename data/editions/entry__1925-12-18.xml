@@ -99,54 +99,46 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-109">
+            <person xml:id="pmb121806">
                <persName>Auburn, Jane</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-647">
+            <person xml:id="pmb121807">
                <persName>DeHedeman, Baroness</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-740">
+            <person xml:id="pmb15575">
                <persName>Dwan, Allan</persName>
-               <idno type="GND">https://d-nb.info/gnd/124321208</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-856">
+            <person xml:id="pmb119416">
                <persName>Fawcett, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1002">
+            <person xml:id="pmb121808">
                <persName>Gayer, Echlin</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1171">
+            <person xml:id="pmb120194">
                <persName>Hall, Donald</persName>
-               <idno type="GND">https://d-nb.info/gnd/118901257</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1258">
+            <person xml:id="pmb120197">
                <persName>Herbert, Sidney</persName>
-               <idno type="GND">https://d-nb.info/gnd/116728582</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1467">
+            <person xml:id="pmb119777">
                <persName>Keith, Ian</persName>
-               <idno type="GND">https://d-nb.info/gnd/136343899</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1701">
+            <person xml:id="pmb121809">
                <persName>Lodijenski, General</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1781">
+            <person xml:id="pmb121810">
                <persName>Majeroni, Mario</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2334">
+            <person xml:id="pmb120198">
                <persName>Rinehart, Mary Roberts</persName>
-               <idno type="GND">https://d-nb.info/gnd/119204002</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2688">
+            <person xml:id="pmb25768">
                <persName>Swanson, Gloria</persName>
-               <idno type="GND">https://d-nb.info/gnd/122997506</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2791">
+            <person xml:id="pmb10277">
                <persName>Tuttle, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1015989802</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2860">
+            <person xml:id="pmb121811">
                <persName>Wales, Bert</persName>
             </person>
          </listPerson>

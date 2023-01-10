@@ -104,22 +104,19 @@ Telegramm zur Londoner Uraufführung NFP 28.2.1931, S. 8. Ankündigung der Allei
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-494">
+            <person xml:id="pmb14920">
                <persName>Chaplin, Charles</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-502">
+            <person xml:id="pmb121311">
                <persName>Cherrill, Virginia</persName>
-               <idno type="GND">https://d-nb.info/gnd/138614466</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1624">
+            <person xml:id="pmb119356">
                <persName>Lee, Florence</persName>
-               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2005">
+            <person xml:id="pmb120472">
                <persName>Myers, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/142022519</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
          </listPerson>

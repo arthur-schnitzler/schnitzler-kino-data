@@ -96,36 +96,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-277">
+            <person xml:id="pmb94953">
                <persName>Bill, Teddy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056825936</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-494">
+            <person xml:id="pmb14920">
                <persName>Chaplin, Charles</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1424">
+            <person xml:id="pmb119129">
                <persName>Junkermann, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1584">
+            <person xml:id="pmb119130">
                <persName>Lama&amp;#269;, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/122038630</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2078">
+            <person xml:id="pmb22163">
                <persName>Ondra, Anny</persName>
-               <idno type="GND">https://d-nb.info/gnd/1081829273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2167">
+            <person xml:id="pmb119170">
                <persName>Picha, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116177578</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2310">
+            <person xml:id="pmb113790">
                <persName>Rex, Eugen</persName>
-               <idno type="GND">https://d-nb.info/gnd/11645766X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2345">
+            <person xml:id="pmb119509">
                <persName>Roanne, André</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062103661</idno>
             </person>
          </listPerson>
          <listPlace>

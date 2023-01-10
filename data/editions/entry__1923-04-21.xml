@@ -99,53 +99,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-10">
+            <person xml:id="pmb5903">
                <persName>Abel, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-53">
+            <person xml:id="pmb13328">
                <persName>Alten, Ferdinand von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1549">
+            <person xml:id="pmb119185">
                <persName>Kräly, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1733">
+            <person xml:id="pmb115234">
                <persName>Lubitsch, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1981">
+            <person xml:id="pmb12327">
                <persName>Müller, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1140252038</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2019">
+            <person xml:id="pmb9036">
                <persName>Negri, Pola</persName>
-               <idno type="GND">https://d-nb.info/gnd/118843249</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2317">
+            <person xml:id="pmb102551">
                <persName>Richard, Frida</persName>
-               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2468">
+            <person xml:id="pmb2121">
                <persName>Schnitzler, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2734">
+            <person xml:id="pmb12945">
                <persName>Thimig, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/118757121</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2746">
+            <person xml:id="pmb10221">
                <persName>Tiedtke, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2984">
+            <person xml:id="pmb119187">
                <persName>Wörner, Hilde</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061487539</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-4096">
+            <person xml:id="pmb12435">
                <persName>Pollaczek, Clara Katharina</persName>
-               <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
             </person>
          </listPerson>
          <listPlace>

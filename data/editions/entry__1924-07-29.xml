@@ -93,31 +93,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-159">
+            <person xml:id="pmb120410">
                <persName>Barrie, Nigel</persName>
-               <idno type="GND">https://d-nb.info/gnd/106023274X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-421">
+            <person xml:id="pmb119721">
                <persName>Burns, Edward</persName>
-               <idno type="GND">https://d-nb.info/gnd/119519720</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1174">
+            <person xml:id="pmb120412">
                <persName>Hall, Winter</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061310515</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1586">
+            <person xml:id="pmb120413">
                <persName>Lamoy, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1079620842</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2073">
+            <person xml:id="pmb120190">
                <persName>Oland, Warner</persName>
-               <idno type="GND">https://d-nb.info/gnd/1020773146</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2702">
+            <person xml:id="pmb25851">
                <persName>Talmadge, Constance</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013150368</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2882">
+            <person xml:id="pmb121850">
                <persName>Warren, Fred</persName>
             </person>
          </listPerson>

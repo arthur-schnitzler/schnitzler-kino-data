@@ -99,28 +99,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-534">
+            <person xml:id="pmb122011">
                <persName>Colemann, Vincent</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1056">
+            <person xml:id="pmb121097">
                <persName>Goilding, Edmund</persName>
-               <idno type="GND">https://d-nb.info/gnd/119164817</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1167">
+            <person xml:id="pmb119962">
                <persName>Hale, Creighton</persName>
-               <idno type="GND">https://d-nb.info/gnd/1119262801</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1648">
+            <person xml:id="pmb8585">
                <persName>Leonard, Robert Z.</persName>
-               <idno type="GND">https://d-nb.info/gnd/135726468</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1997">
+            <person xml:id="pmb60416">
                <persName>Murray, Mae</persName>
-               <idno type="GND">https://d-nb.info/gnd/134183177</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2880">
+            <person xml:id="pmb121399">
                <persName>Ware, Helen</persName>
-               <idno type="GND">https://d-nb.info/gnd/170811697</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -93,41 +93,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-234">
+            <person xml:id="pmb14059">
                <persName>Berger, Friedrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/1095489623</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-451">
+            <person xml:id="pmb120753">
                <persName>Cappi, Curt</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062240480</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-653">
+            <person xml:id="pmb120754">
                <persName>Delmor, Oswald</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061909085</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-840">
+            <person xml:id="pmb11975">
                <persName>Falkenberg, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2199">
+            <person xml:id="pmb120755">
                <persName>Polini, Bella</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061506991</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2288">
+            <person xml:id="pmb115666">
                <persName>Rehkopf, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062107608</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2301">
+            <person xml:id="pmb120756">
                <persName>Reithofer, Josef</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061998118</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2476">
+            <person xml:id="pmb119238">
                <persName>Scholz, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2551">
+            <person xml:id="pmb120758">
                <persName>Sievers, Eric</persName>
-               <idno type="GND">https://d-nb.info/gnd/124334407</idno>
             </person>
          </listPerson>
          <listPlace>

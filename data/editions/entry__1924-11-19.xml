@@ -99,50 +99,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-223">
+            <person xml:id="pmb14013">
                <persName>Benoit, Pierre</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-483">
+            <person xml:id="pmb120722">
                <persName>Catelain, Jaque</persName>
-               <idno type="GND">https://d-nb.info/gnd/141738375</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-488">
+            <person xml:id="pmb120724">
                <persName>Champigny, René</persName>
-               <idno type="GND">https://d-nb.info/gnd/1243910844</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-720">
+            <person xml:id="pmb120725">
                <persName>Duflos, Huguette</persName>
-               <idno type="GND">https://d-nb.info/gnd/1158978456</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-902">
+            <person xml:id="pmb120726">
                <persName>Fleury, Jean</persName>
-               <idno type="GND">https://d-nb.info/gnd/138022364</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1277">
+            <person xml:id="pmb121897">
                <persName>Heyl, Karl</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1635">
+            <person xml:id="pmb120727">
                <persName>Lehmann, Maurice</persName>
-               <idno type="GND">https://d-nb.info/gnd/172550742</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1666">
+            <person xml:id="pmb119377">
                <persName>Liabel, André</persName>
-               <idno type="GND">https://d-nb.info/gnd/1047634589</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2151">
+            <person xml:id="pmb22442">
                <persName>Perret, Léonce</persName>
-               <idno type="GND">https://d-nb.info/gnd/132699435</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2161">
+            <person xml:id="pmb115703">
                <persName>Petrovich, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031491554</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2370">
+            <person xml:id="pmb121721">
                <persName>Romero, Julio de</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2814">
+            <person xml:id="pmb120728">
                <persName>Vaultier, Georges</persName>
-               <idno type="GND">https://d-nb.info/gnd/1157779115</idno>
             </person>
          </listPerson>
          <listPlace>

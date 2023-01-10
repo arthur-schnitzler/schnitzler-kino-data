@@ -99,48 +99,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-88">
+            <person xml:id="pmb120071">
                <persName>Arno, Bruno</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062471458</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-89">
+            <person xml:id="pmb121698">
                <persName>Arno, Siegfried</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1443">
+            <person xml:id="pmb120073">
                <persName>Kamradek, Maria</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061372065</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1562">
+            <person xml:id="pmb120075">
                <persName>Kronert, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061513254</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1670">
+            <person xml:id="pmb8628">
                <persName>Liedtke, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2026">
+            <person xml:id="pmb120044">
                <persName>Netto, Hadrian Maria</persName>
-               <idno type="GND">https://d-nb.info/gnd/1034896040</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2030">
+            <person xml:id="pmb120076">
                <persName>Neumann, Lotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/128281200</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2450">
+            <person xml:id="pmb119701">
                <persName>Schirokauer, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/117276464</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2498">
+            <person xml:id="pmb9830">
                <persName>Schünzel, Reinhold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118892223</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2831">
+            <person xml:id="pmb119097">
                <persName>Vespermann, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031195793</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2921">
+            <person xml:id="pmb10499">
                <persName>Werner-Kahle, Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/116024925</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -89,55 +89,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-103">
+            <person xml:id="pmb120158">
                <persName>Asti, Maria</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061948447</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-149">
+            <person xml:id="pmb121801">
                <persName>Barclay, Eric</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-461">
+            <person xml:id="pmb11071">
                <persName>Carlsen, Traute</persName>
-               <idno type="GND">https://d-nb.info/gnd/139864601</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-614">
+            <person xml:id="pmb119703">
                <persName>Damita, Lily</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061430359</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-864">
+            <person xml:id="pmb16132">
                <persName>Fein, Maria</persName>
-               <idno type="GND">https://d-nb.info/gnd/116437782</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1141">
+            <person xml:id="pmb120159">
                <persName>Günzel, Ria</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061364127</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1486">
+            <person xml:id="pmb120143">
                <persName>Kertész, Mihaly</persName>
-               <idno type="GND">https://d-nb.info/gnd/1216510946</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1972">
+            <person xml:id="pmb8978">
                <persName>Moser, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/135781868</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1982">
+            <person xml:id="pmb121802">
                <persName>Müller, Marietta</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2535">
+            <person xml:id="pmb9883">
                <persName>Shall, Theo</persName>
-               <idno type="GND">https://d-nb.info/gnd/126726078</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2735">
+            <person xml:id="pmb12948">
                <persName>Thimig, Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/11875713X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2770">
+            <person xml:id="pmb120160">
                <persName>Treville, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062020251</idno>
             </person>
          </listPerson>
          <listPlace>

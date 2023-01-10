@@ -99,25 +99,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-239">
+            <person xml:id="pmb120791">
                <persName>Bergère, Ouida</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061350959</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-893">
+            <person xml:id="pmb7156">
                <persName>Fitzmaurice, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/139520767</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1319">
+            <person xml:id="pmb120257">
                <persName>Holt, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061959813</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2019">
+            <person xml:id="pmb9036">
                <persName>Negri, Pola</persName>
-               <idno type="GND">https://d-nb.info/gnd/118843249</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2359">
+            <person xml:id="pmb120794">
                <persName>Rochefort, Charles de</persName>
-               <idno type="GND">https://d-nb.info/gnd/1042356122</idno>
             </person>
          </listPerson>
          <listPlace>

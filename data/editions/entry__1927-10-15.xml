@@ -99,48 +99,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-349">
+            <person xml:id="pmb6400">
                <persName>Brandt, Johannes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1016437463</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-654">
+            <person xml:id="pmb120483">
                <persName>Delschaft, Maly</persName>
-               <idno type="GND">https://d-nb.info/gnd/116068124</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-676">
+            <person xml:id="pmb6819">
                <persName>Dieterle, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/119118432</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-842">
+            <person xml:id="pmb117383">
                <persName>Falkenstein, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1028">
+            <person xml:id="pmb119699">
                <persName>Gibson, Vivian</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062485130</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1554">
+            <person xml:id="pmb121701">
                <persName>Krauß, Werner</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2672">
+            <person xml:id="pmb120884">
                <persName>Stuart, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/140579141</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2727">
+            <person xml:id="pmb119837">
                <persName>Than, Josef</persName>
-               <idno type="GND">https://d-nb.info/gnd/117298948</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2746">
+            <person xml:id="pmb10221">
                <persName>Tiedtke, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2937">
+            <person xml:id="pmb10517">
                <persName>Wiene, Conrad</persName>
-               <idno type="GND">https://d-nb.info/gnd/101980551X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2987">
+            <person xml:id="pmb3963">
                <persName>Wüst, Ida</persName>
-               <idno type="GND">https://d-nb.info/gnd/116119667</idno>
             </person>
          </listPerson>
          <listPlace>

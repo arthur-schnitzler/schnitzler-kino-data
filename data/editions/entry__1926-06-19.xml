@@ -96,33 +96,28 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1193">
+            <person xml:id="pmb120501">
                <persName>Hanus, Emmerich</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062356411</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1305">
+            <person xml:id="pmb121642">
                <persName>Hofmann, Ernst</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1442">
+            <person xml:id="pmb114855">
                <persName>Kampers, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/120558424</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1461">
+            <person xml:id="pmb119743">
                <persName>Kayser, Charles Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/116089733</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1511">
+            <person xml:id="pmb97953">
                <persName>Klein-Rohden, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/11621287X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1568">
+            <person xml:id="pmb121690">
                <persName>Kupfer, Margarete</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1632">
+            <person xml:id="pmb119505">
                <persName>Leffler, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/133043894</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2491">
+            <person xml:id="pmb121638">
                <persName>Schroth, Heinrich</persName>
             </person>
          </listPerson>

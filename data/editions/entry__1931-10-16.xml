@@ -105,44 +105,35 @@ Ankündigung NFP 6.10.1931, S. 12, für Opern- und Imperial-Kino. Anzeige und Pr
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-261">
+            <person xml:id="pmb120866">
                <persName>Berry, Mady</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062103084</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-543">
+            <person xml:id="pmb15066">
                <persName>Colombier, Pierre</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061989526</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-986">
+            <person xml:id="pmb121921">
                <persName>Garat, Jean</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1481">
+            <person xml:id="pmb120867">
                <persName>Kerny, Henri</persName>
-               <idno type="GND">https://d-nb.info/gnd/106235219X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1926">
+            <person xml:id="pmb120868">
                <persName>Milton, Georges</persName>
-               <idno type="GND">https://d-nb.info/gnd/137811314</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2016">
+            <person xml:id="pmb120869">
                <persName>Nay, Pierre</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062246411</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2149">
+            <person xml:id="pmb120870">
                <persName>Perdrière, Hélène</persName>
-               <idno type="GND">https://d-nb.info/gnd/173293425</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2247">
+            <person xml:id="pmb120871">
                <persName>Pujol, René</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062158474</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2348">
+            <person xml:id="pmb51476">
                <persName>Robert, Hélène</persName>
-               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
             </person>
          </listPerson>
          <listPlace>

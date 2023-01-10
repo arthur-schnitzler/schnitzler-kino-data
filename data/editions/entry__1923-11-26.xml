@@ -89,33 +89,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1052">
+            <person xml:id="pmb7456">
                <persName>Goetz, Curt</persName>
-               <idno type="GND">https://d-nb.info/gnd/11674023X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1379">
+            <person xml:id="pmb11816">
                <persName>Jannings, Emil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1549">
+            <person xml:id="pmb119185">
                <persName>Kräly, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1943">
+            <person xml:id="pmb3272">
                <persName>Molière (Jean-Baptiste Poquelin)</persName>
-               <idno type="GND">https://d-nb.info/gnd/11858331X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2329">
+            <person xml:id="pmb119570">
                <persName>Rilla, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116547979</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2498">
+            <person xml:id="pmb9830">
                <persName>Schünzel, Reinhold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118892223</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2659">
+            <person xml:id="pmb25589">
                <persName>Stratz, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/117309087</idno>
             </person>
          </listPerson>
          <listPlace>

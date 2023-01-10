@@ -99,51 +99,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-214">
+            <person xml:id="pmb13967">
                <persName>Bendiener, Oskar</persName>
-               <idno type="GND">https://d-nb.info/gnd/126033862</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-382">
+            <person xml:id="pmb120703">
                <persName>Brod, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/129700703</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-472">
+            <person xml:id="pmb95216">
                <persName>Cartellieri, Carmen</persName>
-               <idno type="GND">https://d-nb.info/gnd/124859879</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-654">
+            <person xml:id="pmb120483">
                <persName>Delschaft, Maly</persName>
-               <idno type="GND">https://d-nb.info/gnd/116068124</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-761">
+            <person xml:id="pmb11224">
                <persName>Edthofer, Anton</persName>
-               <idno type="GND">https://d-nb.info/gnd/13014407X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1116">
+            <person xml:id="pmb4073">
                <persName>Griebl, Mizzi</persName>
-               <idno type="GND">https://d-nb.info/gnd/1036993019</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1830">
+            <person xml:id="pmb12192">
                <persName>Marr, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/11857809X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2027">
+            <person xml:id="pmb100484">
                <persName>Neufeld, Eugen</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2028">
+            <person xml:id="pmb9058">
                <persName>Neufeld, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/136366236</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2733">
+            <person xml:id="pmb12939">
                <persName>Thimig, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118757105</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2798">
+            <person xml:id="pmb120704">
                <persName>Unterkircher, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1027133088</idno>
             </person>
          </listPerson>
          <listPlace>

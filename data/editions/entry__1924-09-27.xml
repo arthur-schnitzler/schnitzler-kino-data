@@ -96,28 +96,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1157">
+            <person xml:id="pmb122042">
                <persName>Hackerville, George</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1422">
+            <person xml:id="pmb18932">
                <persName>Julian, Rupert</persName>
-               <idno type="GND">https://d-nb.info/gnd/121949974</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1483">
+            <person xml:id="pmb120786">
                <persName>Kerry, Norman</persName>
-               <idno type="GND">https://d-nb.info/gnd/141933631</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2164">
+            <person xml:id="pmb22504">
                <persName>Philbin, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/160231809</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2627">
+            <person xml:id="pmb121596">
                <persName>Stegmann, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/1192309847</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2816">
+            <person xml:id="pmb121598">
                <persName>Vaverka, Anton</persName>
-               <idno type="GND">https://d-nb.info/gnd/1203575858</idno>
             </person>
          </listPerson>
          <listPlace>

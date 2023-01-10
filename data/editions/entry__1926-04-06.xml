@@ -99,37 +99,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-302">
+            <person xml:id="pmb119892">
                <persName>Blue, Monte</persName>
-               <idno type="GND">https://d-nb.info/gnd/1026977673</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-336">
+            <person xml:id="pmb120021">
                <persName>Bow, Clara</persName>
-               <idno type="GND">https://d-nb.info/gnd/118877291</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-641">
+            <person xml:id="pmb120988">
                <persName>De Najac, Emile</persName>
-               <idno type="GND">https://d-nb.info/gnd/141524367</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1549">
+            <person xml:id="pmb119185">
                <persName>Kräly, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1724">
+            <person xml:id="pmb119214">
                <persName>Louis, Willard</persName>
-               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1733">
+            <person xml:id="pmb115234">
                <persName>Lubitsch, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2236">
+            <person xml:id="pmb120487">
                <persName>Prevost, Marie</persName>
-               <idno type="GND">https://d-nb.info/gnd/1139865609</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2358">
+            <person xml:id="pmb120991">
                <persName>Roche, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/170222918</idno>
             </person>
          </listPerson>
          <listPlace>

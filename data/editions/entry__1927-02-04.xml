@@ -93,20 +93,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-206">
+            <person xml:id="pmb119796">
                <persName>Bell, Karina</persName>
-               <idno type="GND">https://d-nb.info/gnd/141914335</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-911">
+            <person xml:id="pmb121889">
                <persName>Fönss, Olaf</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1191">
+            <person xml:id="pmb120663">
                <persName>Hanson, Einar</persName>
-               <idno type="GND">https://d-nb.info/gnd/1274247160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2427">
+            <person xml:id="pmb119799">
                <persName>Sandberg, A. W.</persName>
-               <idno type="GND">https://d-nb.info/gnd/141914289</idno>
             </person>
          </listPerson>
          <listPlace>

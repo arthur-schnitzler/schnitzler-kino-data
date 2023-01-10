@@ -93,49 +93,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-121">
+            <person xml:id="pmb120241">
                <persName>Ayres, Agnes</persName>
-               <idno type="GND">https://d-nb.info/gnd/141176423</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-144">
+            <person xml:id="pmb120266">
                <persName>Banky, Vilma</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031195645</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-856">
+            <person xml:id="pmb119416">
                <persName>Fawcett, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-893">
+            <person xml:id="pmb7156">
                <persName>Fitzmaurice, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/139520767</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1108">
+            <person xml:id="pmb119372">
                <persName>Gresac, Fred De</persName>
-               <idno type="GND">https://d-nb.info/gnd/135581486</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1348">
+            <person xml:id="pmb120244">
                <persName>Hull, Edith Maude</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061715485</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1727">
+            <person xml:id="pmb120187">
                <persName>Love, Montague</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062212312</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1816">
+            <person xml:id="pmb120267">
                <persName>Marion, Frances</persName>
-               <idno type="GND">https://d-nb.info/gnd/119542080</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1818">
+            <person xml:id="pmb120032">
                <persName>Marion, George Jr.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2805">
+            <person xml:id="pmb10321">
                <persName>Valentino, Rudolph</persName>
-               <idno type="GND">https://d-nb.info/gnd/118625918</idno>
             </person>
          </listPerson>
          <listPlace>

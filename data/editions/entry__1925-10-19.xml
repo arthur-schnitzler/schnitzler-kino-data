@@ -95,57 +95,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-6">
+            <person xml:id="pmb121628">
                <persName>?, Mich.[ael]?</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-492">
+            <person xml:id="pmb6613">
                <persName>Chaney, Lon</persName>
-               <idno type="GND">https://d-nb.info/gnd/119450100</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-515">
+            <person xml:id="pmb119112">
                <persName>Clark, Harvey</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229022678</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-559">
+            <person xml:id="pmb119113">
                <persName>Cook, Clyde</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013030699</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-635">
+            <person xml:id="pmb121629">
                <persName>Davis, George</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-737">
+            <person xml:id="pmb119114">
                <persName>Duval, Paulette</persName>
-               <idno type="GND">https://d-nb.info/gnd/173438296</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1031">
+            <person xml:id="pmb60420">
                <persName>Gilbert, John</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1350">
+            <person xml:id="pmb119117">
                <persName>Hurst, Brandon</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061516423</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1496">
+            <person xml:id="pmb121630">
                <persName>King, Ruth</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1833">
+            <person xml:id="pmb119119">
                <persName>Marshall, Tully</persName>
-               <idno type="GND">https://d-nb.info/gnd/1114425168</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1867">
+            <person xml:id="pmb119122">
                <persName>McDermott, Marc</persName>
-               <idno type="GND">https://d-nb.info/gnd/1111645213</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2508">
+            <person xml:id="pmb9913">
                <persName>Seastrom, Victor</persName>
-               <idno type="GND">https://d-nb.info/gnd/118916629</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2538">
+            <person xml:id="pmb24875">
                <persName>Shearer, Norma</persName>
-               <idno type="GND">https://d-nb.info/gnd/119459183</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2640">
+            <person xml:id="pmb119125">
                <persName>Sterling, Ford</persName>
-               <idno type="GND">https://d-nb.info/gnd/133058875</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -102,42 +102,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-784">
+            <person xml:id="pmb15794">
                <persName>Eisenstein, Sergej M.</persName>
-               <idno type="GND">https://d-nb.info/gnd/118529684</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1130">
+            <person xml:id="pmb121509">
                <persName>Gudkin, Yakov</persName>
-               <idno type="GND">https://d-nb.info/gnd/1211594440</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1398">
+            <person xml:id="pmb122032">
                <persName>Jierichonow, L.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1927">
+            <person xml:id="pmb121512">
                <persName>Minin, Sergei</persName>
-               <idno type="GND">https://d-nb.info/gnd/1239769067</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2763">
+            <person xml:id="pmb26143">
                <persName>Trauberg, Ilja</persName>
-               <idno type="GND">https://d-nb.info/gnd/1145053734</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2768">
+            <person xml:id="pmb121513">
                <persName>Tretjakow, Sergej</persName>
-               <idno type="GND">https://d-nb.info/gnd/13325934X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2778">
+            <person xml:id="pmb122033">
                <persName>Tschernak, Igor</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2912">
+            <person xml:id="pmb13085">
                <persName>Wellesz, Egon</persName>
-               <idno type="GND">https://d-nb.info/gnd/118630830</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2913">
+            <person xml:id="pmb121514">
                <persName>Wellesz, Emmy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1157843913</idno>
             </person>
          </listPerson>
          <listPlace>

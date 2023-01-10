@@ -92,25 +92,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-169">
+            <person xml:id="pmb6142">
                <persName>Basch, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017960879</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1766">
+            <person xml:id="pmb119295">
                <persName>Mack, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/119401738</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2459">
+            <person xml:id="pmb120473">
                <persName>Schmidthässler, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061569993</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2519">
+            <person xml:id="pmb120475">
                <persName>Seldeneck, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/106248097X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2907">
+            <person xml:id="pmb120477">
                <persName>Weisse, Hanni</persName>
-               <idno type="GND">https://d-nb.info/gnd/11730008X</idno>
             </person>
          </listPerson>
          <listPlace>

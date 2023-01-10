@@ -96,41 +96,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-822">
+            <person xml:id="pmb119564">
                <persName>Esterházy, Agnes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1018">
+            <person xml:id="pmb11423">
                <persName>Gerasch, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/116564342</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1126">
+            <person xml:id="pmb17455">
                <persName>Grune, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/13907760X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1163">
+            <person xml:id="pmb7656">
                <persName>Haid, Liane</persName>
-               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1543">
+            <person xml:id="pmb11975">
                <persName>Kortner, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1789">
+            <person xml:id="pmb121460">
                <persName>Malikoff, Nikolai</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061272192</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1820">
+            <person xml:id="pmb121533">
                <persName>Maris, Mona</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061416771</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1959">
+            <person xml:id="pmb120931">
                <persName>Morel, Dene</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061767019</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2549">
+            <person xml:id="pmb119172">
                <persName>Siebrecht, Eduard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1205354077</idno>
             </person>
          </listPerson>
          <listPlace>

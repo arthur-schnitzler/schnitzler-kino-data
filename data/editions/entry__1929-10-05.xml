@@ -96,24 +96,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-244">
+            <person xml:id="pmb120096">
                <persName>Berley, André</persName>
-               <idno type="GND">https://d-nb.info/gnd/1095510231</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1363">
+            <person xml:id="pmb120812">
                <persName>Iribe, Marie Louise</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061551490</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1391">
+            <person xml:id="pmb120814">
                <persName>Jen, Liao Sze</persName>
-               <idno type="GND">https://d-nb.info/gnd/1206595310</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2303">
+            <person xml:id="pmb121765">
                <persName>Rémy, Constante</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2374">
+            <person xml:id="pmb23529">
                <persName>Roquin, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/121165078</idno>
             </person>
          </listPerson>
          <listPlace>

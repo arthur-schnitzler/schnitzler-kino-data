@@ -72,13 +72,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-571">
+            <person xml:id="pmb121434">
                <persName>Correll, Ernst Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061767566</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2469">
+            <person xml:id="pmb12692">
                <persName>Schnitzler, Heinrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
          </listPerson>
          <listPlace>

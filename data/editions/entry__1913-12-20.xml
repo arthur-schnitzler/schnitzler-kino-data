@@ -92,44 +92,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-290">
+            <person xml:id="pmb120979">
                <persName>Blad, Augusta</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061993906</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-300">
+            <person xml:id="pmb5042">
                <persName>Blom, August</persName>
-               <idno type="GND">https://d-nb.info/gnd/173729762</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-958">
+            <person xml:id="pmb11975">
                <persName>Fritz-Petersen, Johanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1308">
+            <person xml:id="pmb121935">
                <persName>Holch, Christel</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1371">
+            <person xml:id="pmb120980">
                <persName>Jacobsen, Frederik</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061524094</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1615">
+            <person xml:id="pmb120981">
                <persName>Lauritzen, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1148438548</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1775">
+            <person xml:id="pmb119568">
                <persName>Madsen, Holger</persName>
-               <idno type="GND">https://d-nb.info/gnd/141911395</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2245">
+            <person xml:id="pmb12454">
                <persName>Psilander, Valdemar</persName>
-               <idno type="GND">https://d-nb.info/gnd/132838834</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2443">
+            <person xml:id="pmb119306">
                <persName>Schenstrøm, Carl, siehe Pat und Patachon</persName>
-               <idno type="GND">https://d-nb.info/gnd/118754602</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2468">
+            <person xml:id="pmb2121">
                <persName>Schnitzler, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
             </person>
          </listPerson>
          <listPlace>

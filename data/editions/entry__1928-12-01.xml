@@ -99,40 +99,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1789">
+            <person xml:id="pmb121460">
                <persName>Malikoff, Nikolai</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061272192</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1974">
+            <person xml:id="pmb119147">
                <persName>Mosjoukine, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2327">
+            <person xml:id="pmb23413">
                <persName>Righelli, Gennaro</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061722260</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2491">
+            <person xml:id="pmb121638">
                <persName>Schroth, Heinrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2532">
+            <person xml:id="pmb119639">
                <persName>Serventi, Luigi</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062245261</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2828">
+            <person xml:id="pmb119586">
                <persName>Vernon, Suzy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061527891</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2876">
+            <person xml:id="pmb120053">
                <persName>Wanja, Iwa</persName>
-               <idno type="GND">https://d-nb.info/gnd/13455079X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2963">
+            <person xml:id="pmb120860">
                <persName>Wohl, Ludwig von</persName>
-               <idno type="GND">https://d-nb.info/gnd/117456837</idno>
             </person>
          </listPerson>
          <listPlace>

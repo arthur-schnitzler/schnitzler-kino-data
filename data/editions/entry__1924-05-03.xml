@@ -93,40 +93,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-167">
+            <person xml:id="pmb120456">
                <persName>Barton, Grace</persName>
-               <idno type="GND">https://d-nb.info/gnd/134322223</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-218">
+            <person xml:id="pmb120459">
                <persName>Benham, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/170560732</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-301">
+            <person xml:id="pmb120403">
                <persName>Bloomer, Raymond</persName>
-               <idno type="GND">https://d-nb.info/gnd/141328398</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-479">
+            <person xml:id="pmb120460">
                <persName>Casavant, Nina</persName>
-               <idno type="GND">https://d-nb.info/gnd/1183819730</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-661">
+            <person xml:id="pmb120463">
                <persName>Denison, Edward</persName>
-               <idno type="GND">https://d-nb.info/gnd/131983059</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1095">
+            <person xml:id="pmb121856">
                <persName>Grauer, Bunny</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1556">
+            <person xml:id="pmb121857">
                <persName>Krech, Warren</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1917">
+            <person xml:id="pmb21458">
                <persName>Millarde, Harry</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2572">
+            <person xml:id="pmb120464">
                <persName>Sloane, Paul H.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1218807539</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2740">
+            <person xml:id="pmb121858">
                <persName>Thomas, Jane</persName>
             </person>
          </listPerson>

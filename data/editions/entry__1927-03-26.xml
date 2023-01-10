@@ -93,43 +93,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-27">
+            <person xml:id="pmb5952">
                <persName>Albers, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-89">
+            <person xml:id="pmb121698">
                <persName>Arno, Siegfried</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-282">
+            <person xml:id="pmb2638">
                <persName>Birinski, Leo</persName>
-               <idno type="GND">https://d-nb.info/gnd/116189851</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-668">
+            <person xml:id="pmb119489">
                <persName>Desni, Xenia</persName>
-               <idno type="GND">https://d-nb.info/gnd/101862452X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1162">
+            <person xml:id="pmb119527">
                <persName>Haid, Grit</persName>
-               <idno type="GND">https://d-nb.info/gnd/1049307976</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1568">
+            <person xml:id="pmb121690">
                <persName>Kupfer, Margarete</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1670">
+            <person xml:id="pmb8628">
                <persName>Liedtke, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1828">
+            <person xml:id="pmb8823">
                <persName>Maroff, Hilde</persName>
-               <idno type="GND">https://d-nb.info/gnd/106175555X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2480">
+            <person xml:id="pmb9825">
                <persName>Schönfelder, Erich</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062382404</idno>
             </person>
          </listPerson>
          <listPlace>

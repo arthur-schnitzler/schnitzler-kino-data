@@ -92,33 +92,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-673">
+            <person xml:id="pmb113240">
                <persName>Diegelmann, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/11610046X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-676">
+            <person xml:id="pmb6819">
                <persName>Dieterle, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/119118432</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1194">
+            <person xml:id="pmb121467">
                <persName>Hara, Sigrid</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062041739</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1490">
+            <person xml:id="pmb119533">
                <persName>Kid, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061461572</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2083">
+            <person xml:id="pmb121468">
                <persName>Orel, Henrik</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061724492</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2265">
+            <person xml:id="pmb23029">
                <persName>Rameau, Emil</persName>
-               <idno type="GND">https://d-nb.info/gnd/116327200</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2872">
+            <person xml:id="pmb119174">
                <persName>Walther-Fein, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1089417594</idno>
             </person>
          </listPerson>
          <listPlace>

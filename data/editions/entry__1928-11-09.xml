@@ -100,31 +100,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-648">
+            <person xml:id="pmb15289">
                <persName>Dekobra, Maurice</persName>
-               <idno type="GND">https://d-nb.info/gnd/118524445</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-854">
+            <person xml:id="pmb120435">
                <persName>Fast, Boris de</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062428110</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-895">
+            <person xml:id="pmb95830">
                <persName>Fjord, Olaf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1021990108</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-929">
+            <person xml:id="pmb119856">
                <persName>France, Claude</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062043677</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-999">
+            <person xml:id="pmb120729">
                <persName>Gastyne, Marco de</persName>
-               <idno type="GND">https://d-nb.info/gnd/132104512</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1044">
+            <person xml:id="pmb121458">
                <persName>Gleice, Maurice</persName>
-               <idno type="GND">https://d-nb.info/gnd/131520121</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2530">
+            <person xml:id="pmb122024">
                <persName>Serta, Mary</persName>
             </person>
          </listPerson>

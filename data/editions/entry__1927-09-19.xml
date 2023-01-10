@@ -99,47 +99,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-28">
+            <person xml:id="pmb121687">
                <persName>Alberti, Fritz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-310">
+            <person xml:id="pmb6352">
                <persName>Boese, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/12341055X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1004">
+            <person xml:id="pmb11409">
                <persName>Gebühr, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979610</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1745">
+            <person xml:id="pmb119168">
                <persName>Lüthge, Bobby E.</persName>
-               <idno type="GND">https://d-nb.info/gnd/106438158</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1775">
+            <person xml:id="pmb119568">
                <persName>Madsen, Holger</persName>
-               <idno type="GND">https://d-nb.info/gnd/141911395</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1973">
+            <person xml:id="pmb8981">
                <persName>Mosheim, Grete</persName>
-               <idno type="GND">https://d-nb.info/gnd/116939966</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2193">
+            <person xml:id="pmb121702">
                <persName>Pointner, Anton</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2218">
+            <person xml:id="pmb119565">
                <persName>Porta, Elizza la</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061730611</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2329">
+            <person xml:id="pmb119570">
                <persName>Rilla, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116547979</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2569">
+            <person xml:id="pmb2827">
                <persName>Skowronnek, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062257804</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2633">
+            <person xml:id="pmb12837">
                <persName>Steinrück, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/117263923</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -105,41 +105,32 @@ Wohl irrige Datierung bei Pollaczek. Anzeige NFP 8.6.1928, S. 7 (Alleinaufführu
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-27">
+            <person xml:id="pmb5952">
                <persName>Albers, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-83">
+            <person xml:id="pmb119503">
                <persName>Armandy, André</persName>
-               <idno type="GND">https://d-nb.info/gnd/172771374</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-325">
+            <person xml:id="pmb6372">
                <persName>Bonnard, Mario</persName>
-               <idno type="GND">https://d-nb.info/gnd/17375368X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1163">
+            <person xml:id="pmb7656">
                <persName>Haid, Liane</persName>
-               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1632">
+            <person xml:id="pmb119505">
                <persName>Leffler, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/133043894</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1899">
+            <person xml:id="pmb119508">
                <persName>Merelle, Claude</persName>
-               <idno type="GND">https://d-nb.info/gnd/134790006</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2345">
+            <person xml:id="pmb119509">
                <persName>Roanne, André</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062103661</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2599">
+            <person xml:id="pmb119326">
                <persName>Spiegler, ?</persName>
-               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2921">
+            <person xml:id="pmb10499">
                <persName>Werner-Kahle, Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/116024925</idno>
             </person>
          </listPerson>
          <listPlace>

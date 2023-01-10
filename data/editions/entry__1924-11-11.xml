@@ -99,32 +99,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-363">
+            <person xml:id="pmb121097">
                <persName>Breese, Edmund</persName>
-               <idno type="GND">https://d-nb.info/gnd/119164817</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-446">
+            <person xml:id="pmb14838">
                <persName>Campbell, Webster</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-719">
+            <person xml:id="pmb121098">
                <persName>Duffy, Gerald C.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1168499399</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-915">
+            <person xml:id="pmb121099">
                <persName>Ford, Harrison</persName>
-               <idno type="GND">https://d-nb.info/gnd/1163207918</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1078">
+            <person xml:id="pmb7503">
                <persName>Goulding, Edmund</persName>
-               <idno type="GND">https://d-nb.info/gnd/129013846</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1479">
+            <person xml:id="pmb121102">
                <persName>Kenyon, Doris</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055101780</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2543">
+            <person xml:id="pmb120454">
                <persName>Sherman, Lowell</persName>
-               <idno type="GND">https://d-nb.info/gnd/14184762X</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -93,39 +93,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-632">
+            <person xml:id="pmb122021">
                <persName>Davies, Marion</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1165">
+            <person xml:id="pmb120154">
                <persName>Haines, William</persName>
-               <idno type="GND">https://d-nb.info/gnd/140414118</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1405">
+            <person xml:id="pmb121453">
                <persName>Johnston, Agnes Christine</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062488083</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1958">
+            <person xml:id="pmb119631">
                <persName>Moran, Polly</persName>
-               <idno type="GND">https://d-nb.info/gnd/1018858695</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2259">
+            <person xml:id="pmb122022">
                <persName>Ralli, Paul</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2595">
+            <person xml:id="pmb121386">
                <persName>Spence, Ralph</persName>
-               <idno type="GND">https://d-nb.info/gnd/108279029X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2610">
+            <person xml:id="pmb120119">
                <persName>Stallings, Laurence</persName>
-               <idno type="GND">https://d-nb.info/gnd/118798391</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2836">
+            <person xml:id="pmb10355">
                <persName>Vidor, King</persName>
-               <idno type="GND">https://d-nb.info/gnd/118860542</idno>
             </person>
          </listPerson>
          <listPlace>

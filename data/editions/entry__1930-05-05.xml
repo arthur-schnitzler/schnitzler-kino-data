@@ -93,52 +93,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-197">
+            <person xml:id="pmb120606">
                <persName>Behmer, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061452093</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-246">
+            <person xml:id="pmb119471">
                <persName>Berliner, Gertrude</persName>
-               <idno type="GND">https://d-nb.info/gnd/140576029</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-665">
+            <person xml:id="pmb120608">
                <persName>Dernburg, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056891661</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-780">
+            <person xml:id="pmb120225">
                <persName>Eis, Egon</persName>
-               <idno type="GND">https://d-nb.info/gnd/1115839799</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-936">
+            <person xml:id="pmb120610">
                <persName>Frank, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/125270305</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1458">
+            <person xml:id="pmb120226">
                <persName>Katscher, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1051107830</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1856">
+            <person xml:id="pmb120049">
                <persName>Maximilian, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062358910</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1906">
+            <person xml:id="pmb21388">
                <persName>Meyer, Johannes</persName>
-               <idno type="GND">https://d-nb.info/gnd/135663911</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2684">
+            <person xml:id="pmb10151">
                <persName>Susa, Charlotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/117381683</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2870">
+            <person xml:id="pmb121647">
                <persName>Walter, Hertha von</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2949">
+            <person xml:id="pmb120611">
                <persName>Wilmsen, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061807460</idno>
             </person>
          </listPerson>
          <listPlace>

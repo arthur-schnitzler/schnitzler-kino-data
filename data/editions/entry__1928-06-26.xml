@@ -96,24 +96,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-597">
+            <person xml:id="pmb120015">
                <persName>Cumming, Dorothy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1238196160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-987">
+            <person xml:id="pmb7347">
                <persName>Garbo, Greta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118537571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1192">
+            <person xml:id="pmb121682">
                <persName>Hanson, Lars</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2508">
+            <person xml:id="pmb9913">
                <persName>Seastrom, Victor</persName>
-               <idno type="GND">https://d-nb.info/gnd/118916629</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2543">
+            <person xml:id="pmb120454">
                <persName>Sherman, Lowell</persName>
-               <idno type="GND">https://d-nb.info/gnd/14184762X</idno>
             </person>
          </listPerson>
          <listPlace>

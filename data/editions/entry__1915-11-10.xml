@@ -92,17 +92,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-862">
+            <person xml:id="pmb16120">
                <persName>Fehér, Friedrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014759994</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1766">
+            <person xml:id="pmb119295">
                <persName>Mack, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/119401738</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2422">
+            <person xml:id="pmb2167">
                <persName>Salten, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>
          </listPerson>
          <listPlace>

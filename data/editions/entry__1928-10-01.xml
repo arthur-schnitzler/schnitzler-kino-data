@@ -101,61 +101,47 @@ Ankündigung der »kontinentalen Uraufführung« im Schweden-Kino in NFP 31.8.19
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-82">
+            <person xml:id="pmb120010">
                <persName>Arlen, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1132228816</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-194">
+            <person xml:id="pmb10863">
                <persName>Beer-Hofmann, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/118654756</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-336">
+            <person xml:id="pmb120021">
                <persName>Bow, Clara</persName>
-               <idno type="GND">https://d-nb.info/gnd/118877291</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-365">
+            <person xml:id="pmb120022">
                <persName>Brendel, El</persName>
-               <idno type="GND">https://d-nb.info/gnd/138155240</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-561">
+            <person xml:id="pmb15096">
                <persName>Cooper, Gary</persName>
-               <idno type="GND">https://d-nb.info/gnd/135292174</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1402">
+            <person xml:id="pmb119665">
                <persName>Johnson, Julian</persName>
-               <idno type="GND">https://d-nb.info/gnd/139555633</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1530">
+            <person xml:id="pmb19515">
                <persName>Kohner, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/116308869</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1673">
+            <person xml:id="pmb120023">
                <persName>Lighton, Louis D.</persName>
-               <idno type="GND">https://d-nb.info/gnd/104736767X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1716">
+            <person xml:id="pmb120024">
                <persName>Loring, Hope</persName>
-               <idno type="GND">https://d-nb.info/gnd/1047367130</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1964">
+            <person xml:id="pmb120025">
                <persName>Morgan, Byron</persName>
-               <idno type="GND">https://d-nb.info/gnd/141351926</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2263">
+            <person xml:id="pmb120026">
                <persName>Ralston, Jobyna</persName>
-               <idno type="GND">https://d-nb.info/gnd/141271361</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2367">
+            <person xml:id="pmb120027">
                <persName>Rogers, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/1034400614</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2437">
+            <person xml:id="pmb120028">
                <persName>Saunders, John Monk</persName>
-               <idno type="GND">https://d-nb.info/gnd/126912017</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2914">
+            <person xml:id="pmb120029">
                <persName>Wellman, William A.</persName>
-               <idno type="GND">https://d-nb.info/gnd/132497018</idno>
             </person>
          </listPerson>
          <listPlace>

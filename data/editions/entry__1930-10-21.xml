@@ -102,40 +102,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-61">
+            <person xml:id="pmb13390">
                <persName>Anderson, John Murray</persName>
-               <idno type="GND">https://d-nb.info/gnd/1024349462</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-316">
+            <person xml:id="pmb119882">
                <persName>Boles, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/101945623X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1708">
+            <person xml:id="pmb121754">
                <persName>Loff, Jeanette</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1729">
+            <person xml:id="pmb119883">
                <persName>Lowe, Edward T. Jr.</persName>
-               <idno type="GND">https://d-nb.info/gnd/139521038</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1756">
+            <person xml:id="pmb8765">
                <persName>MacArthur, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/1231042206</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2185">
+            <person xml:id="pmb119886">
                <persName>Plante, Laura la</persName>
-               <idno type="GND">https://d-nb.info/gnd/1166586103</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2406">
+            <person xml:id="pmb119887">
                <persName>Ruskin, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061986462</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2422">
+            <person xml:id="pmb2167">
                <persName>Salten, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2930">
+            <person xml:id="pmb119889">
                <persName>Whiteman, Paul and His Band</persName>
-               <idno type="GND">https://d-nb.info/gnd/128535334</idno>
             </person>
          </listPerson>
          <listPlace>

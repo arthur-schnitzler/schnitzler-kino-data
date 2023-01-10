@@ -101,60 +101,47 @@ Nachgewiesener Spielort: Münstedts Kinopalast (RPT 8.6.1926, S. 14).</ab>
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-310">
+            <person xml:id="pmb6352">
                <persName>Boese, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/12341055X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-654">
+            <person xml:id="pmb120483">
                <persName>Delschaft, Maly</persName>
-               <idno type="GND">https://d-nb.info/gnd/116068124</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-657">
+            <person xml:id="pmb8533">
                <persName>Demburg, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118727079</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-716">
+            <person xml:id="pmb120565">
                <persName>Droop, Marie-Louise</persName>
-               <idno type="GND">https://d-nb.info/gnd/104908955</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-778">
+            <person xml:id="pmb121011">
                <persName>Eichstaedt, Senta</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062337131</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-782">
+            <person xml:id="pmb119265">
                <persName>Eisenmenger, Hofrat</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061597334</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1004">
+            <person xml:id="pmb11409">
                <persName>Gebühr, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979610</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1068">
+            <person xml:id="pmb121012">
                <persName>Gorin, Owen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062140028</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1961">
+            <person xml:id="pmb120205">
                <persName>Morena, Erna</persName>
-               <idno type="GND">https://d-nb.info/gnd/117143588</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1980">
+            <person xml:id="pmb121697">
                <persName>Müller, E. Dr.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2182">
+            <person xml:id="pmb120063">
                <persName>Pittschau, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062207742</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2298">
+            <person xml:id="pmb121014">
                <persName>Reinwald, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061508900</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2371">
+            <person xml:id="pmb119255">
                <persName>Rommer, Claire</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019375620</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3008">
+            <person xml:id="pmb121016">
                <persName>Zickner, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116986220</idno>
             </person>
          </listPerson>
          <listPlace>

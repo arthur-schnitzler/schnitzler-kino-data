@@ -99,28 +99,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-505">
+            <person xml:id="pmb119087">
                <persName>Chmara, Grigori</persName>
-               <idno type="GND">https://d-nb.info/gnd/1064689515</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-703">
+            <person xml:id="pmb121641">
                <persName>Dostojewski, Fjodor</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2142">
+            <person xml:id="pmb121324">
                <persName>Pawlow, Pawel</persName>
-               <idno type="GND">https://d-nb.info/gnd/106207324X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2570">
+            <person xml:id="pmb121325">
                <persName>Skulskaja, Elisaweta</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062334531</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2707">
+            <person xml:id="pmb121326">
                <persName>Tarasova, Alla</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061599841</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2938">
+            <person xml:id="pmb10519">
                <persName>Wiene, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/118852485</idno>
             </person>
          </listPerson>
          <listPlace>

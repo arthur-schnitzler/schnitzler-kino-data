@@ -107,62 +107,50 @@ Keine Lust zum arbeiten u. fühle wie die Zeit vergeht – kostbare Zeit. Der Br
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-172">
+            <person xml:id="pmb10844">
                <persName>Bassermann, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-717">
+            <person xml:id="pmb120493">
                <persName>Drucker, Hofrat</persName>
-               <idno type="GND">https://d-nb.info/gnd/116227656</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-799">
+            <person xml:id="pmb119326">
                <persName>Engel, ? (Direktor)</persName>
-               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-816">
+            <person xml:id="pmb121648">
                <persName>Erlanger, Emmy</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-830">
+            <person xml:id="pmb11281">
                <persName>Ewers, Hanns Heinz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118685570</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1072">
+            <person xml:id="pmb120494">
                <persName>Gotthilf, Else</persName>
-               <idno type="GND">https://d-nb.info/gnd/117483788</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1148">
+            <person xml:id="pmb121865">
                <persName>Gutmann, Baronin</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1249">
+            <person xml:id="pmb7781">
                <persName>Helm, Brigitte</persName>
-               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1537">
+            <person xml:id="pmb19953">
                <persName>Königswarter, Margarete von</persName>
-               <idno type="GND">https://d-nb.info/gnd/116662778</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2092">
+            <person xml:id="pmb9181">
                <persName>Oswald, Richard</persName>
-               <idno type="GND">https://d-nb.info/gnd/118787322</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2139">
+            <person xml:id="pmb9204">
                <persName>Paulsen, Harald</persName>
-               <idno type="GND">https://d-nb.info/gnd/116065796</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2211">
+            <person xml:id="pmb119666">
                <persName>Pollak, Karl Hofr. (Bruder von Frieda P.)</persName>
-               <idno type="GND">https://d-nb.info/gnd/1201389879</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2365">
+            <person xml:id="pmb120495">
                <persName>Roellinghoff, Charlie K.</persName>
-               <idno type="GND">https://d-nb.info/gnd/116582871</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2600">
+            <person xml:id="pmb25202">
                <persName>Spiegler, Hedwig</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2903">
+            <person xml:id="pmb120496">
                <persName>Weisbach, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061397475</idno>
             </person>
          </listPerson>
          <listPlace>

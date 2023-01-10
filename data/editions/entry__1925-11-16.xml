@@ -99,92 +99,71 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-204">
+            <person xml:id="pmb120626">
                <persName>Belcher, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/142262021</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-297">
+            <person xml:id="pmb120627">
                <persName>Blinn, Holbrook</persName>
-               <idno type="GND">https://d-nb.info/gnd/1186940387</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-309">
+            <person xml:id="pmb119214">
                <persName>Bodamere, Madame De</persName>
-               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-457">
+            <person xml:id="pmb120628">
                <persName>Carillo, Mario</persName>
-               <idno type="GND">https://d-nb.info/gnd/1122700083</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-546">
+            <person xml:id="pmb119762">
                <persName>Comont, Mathilde</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061767485</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-723">
+            <person xml:id="pmb120629">
                <persName>Dumanoir, Philippe</persName>
-               <idno type="GND">https://d-nb.info/gnd/120858169</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-767">
+            <person xml:id="pmb120630">
                <persName>Edwards, Snitz</persName>
-               <idno type="GND">https://d-nb.info/gnd/142261998</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-808">
+            <person xml:id="pmb120632">
                <persName>d’Ennery, Adolphe</persName>
-               <idno type="GND">https://d-nb.info/gnd/130135275</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-839">
+            <person xml:id="pmb119919">
                <persName>Falk, Norbert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057549096</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1048">
+            <person xml:id="pmb14953">
                <persName>Glümer, Mizi</persName>
-               <idno type="GND">https://d-nb.info/gnd/128385022</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1520">
+            <person xml:id="pmb120633">
                <persName>Knoblock, Edward</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061944530</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1549">
+            <person xml:id="pmb119185">
                <persName>Kräly, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1577">
+            <person xml:id="pmb120635">
                <persName>Lacy, Philippe De</persName>
-               <idno type="GND">https://d-nb.info/gnd/138116741</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1639">
+            <person xml:id="pmb120636">
                <persName>Leigh, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1146010052</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1733">
+            <person xml:id="pmb115234">
                <persName>Lubitsch, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1864">
+            <person xml:id="pmb120637">
                <persName>McAlpin, Donald</persName>
-               <idno type="GND">https://d-nb.info/gnd/1160723117</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2150">
+            <person xml:id="pmb121886">
                <persName>Periolat, George</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2169">
+            <person xml:id="pmb120264">
                <persName>Pickford, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/119031035</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2315">
+            <person xml:id="pmb120638">
                <persName>Rich, Irene</persName>
-               <idno type="GND">https://d-nb.info/gnd/118694076X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2606">
+            <person xml:id="pmb120640">
                <persName>Sprotte, Bert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061491129</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2786">
+            <person xml:id="pmb120641">
                <persName>Turner, Doreen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017479178</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2868">
+            <person xml:id="pmb120643">
                <persName>Walsh, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/118694109X</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -86,33 +86,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-27">
+            <person xml:id="pmb5952">
                <persName>Albers, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1806">
+            <person xml:id="pmb119518">
                <persName>Mara, Lya</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031438521</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2186">
+            <person xml:id="pmb119520">
                <persName>Platen, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2771">
+            <person xml:id="pmb10253">
                <persName>Trevor, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2777">
+            <person xml:id="pmb26216">
                <persName>Tschechowa, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/118624296</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3005">
+            <person xml:id="pmb10663">
                <persName>Zelnik, Friedrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116978899</idno>
             </person>
          </listPerson>
          <listPlace>

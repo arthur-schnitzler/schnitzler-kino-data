@@ -93,44 +93,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-336">
+            <person xml:id="pmb120021">
                <persName>Bow, Clara</persName>
-               <idno type="GND">https://d-nb.info/gnd/118877291</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-366">
+            <person xml:id="pmb14523">
                <persName>Brenon, Herbert</persName>
-               <idno type="GND">https://d-nb.info/gnd/123048028</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-597">
+            <person xml:id="pmb120015">
                <persName>Cumming, Dorothy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1238196160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1078">
+            <person xml:id="pmb7503">
                <persName>Goulding, Edmund</persName>
-               <idno type="GND">https://d-nb.info/gnd/129013846</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1180">
+            <person xml:id="pmb120425">
                <persName>Halsey, Forrest</persName>
-               <idno type="GND">https://d-nb.info/gnd/139705503</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1420">
+            <person xml:id="pmb121060">
                <persName>Joyce, Alice</persName>
-               <idno type="GND">https://d-nb.info/gnd/174227132</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1466">
+            <person xml:id="pmb121895">
                <persName>Keith, Donald</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2521">
+            <person xml:id="pmb121061">
                <persName>Selwyn, Edgar</persName>
-               <idno type="GND">https://d-nb.info/gnd/1264673493</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2715">
+            <person xml:id="pmb119786">
                <persName>Tearle, Conway</persName>
-               <idno type="GND">https://d-nb.info/gnd/1122436181</idno>
             </person>
          </listPerson>
          <listPlace>

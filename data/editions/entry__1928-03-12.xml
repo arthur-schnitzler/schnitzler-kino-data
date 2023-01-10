@@ -99,32 +99,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-221">
+            <person xml:id="pmb120709">
                <persName>Bennett, Belle</persName>
-               <idno type="GND">https://d-nb.info/gnd/1216469261</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-900">
+            <person xml:id="pmb120716">
                <persName>Fleming, Viktor</persName>
-               <idno type="GND">https://d-nb.info/gnd/1164193791</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1225">
+            <person xml:id="pmb120717">
                <persName>Haver, Phillis</persName>
-               <idno type="GND">https://d-nb.info/gnd/102402876</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1310">
+            <person xml:id="pmb114318">
                <persName>Holl-Jannings, Gussy</persName>
-               <idno type="GND">https://d-nb.info/gnd/116961333</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1379">
+            <person xml:id="pmb11816">
                <persName>Jannings, Emil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1466">
+            <person xml:id="pmb121895">
                <persName>Keith, Donald</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2540">
+            <person xml:id="pmb120718">
                <persName>Sheehan, Perley Poore</persName>
-               <idno type="GND">https://d-nb.info/gnd/13802104X</idno>
             </person>
          </listPerson>
          <listPlace>

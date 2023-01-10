@@ -99,56 +99,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-159">
+            <person xml:id="pmb120410">
                <persName>Barrie, Nigel</persName>
-               <idno type="GND">https://d-nb.info/gnd/106023274X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-372">
+            <person xml:id="pmb119525">
                <persName>Brettel, Colette</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061252760</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-601">
+            <person xml:id="pmb120419">
                <persName>Cürlis, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116757620</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-611">
+            <person xml:id="pmb6746">
                <persName>Dagover, Lil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1045">
+            <person xml:id="pmb7427">
                <persName>Gliese, Rochus</persName>
-               <idno type="GND">https://d-nb.info/gnd/116663308</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1341">
+            <person xml:id="pmb120420">
                <persName>Huch, William</persName>
-               <idno type="GND">https://d-nb.info/gnd/1268683213</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1632">
+            <person xml:id="pmb119505">
                <persName>Leffler, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/133043894</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1991">
+            <person xml:id="pmb8990">
                <persName>Murnau, Friedrich Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/118585878</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1999">
+            <person xml:id="pmb119592">
                <persName>Murski, Alexander</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061309770</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2115">
+            <person xml:id="pmb121851">
                <persName>Palfi, Victor</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2222">
+            <person xml:id="pmb119091">
                <persName>Potechina, Lydia</persName>
-               <idno type="GND">https://d-nb.info/gnd/1043652914</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2924">
+            <person xml:id="pmb119439">
                <persName>Weyher, Ruth</persName>
-               <idno type="GND">https://d-nb.info/gnd/1138037524</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2953">
+            <person xml:id="pmb120423">
                <persName>Winar, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061925110</idno>
             </person>
          </listPerson>
          <listPlace>

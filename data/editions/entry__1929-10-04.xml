@@ -99,41 +99,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-160">
+            <person xml:id="pmb121852">
                <persName>Barrington, E.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-597">
+            <person xml:id="pmb120015">
                <persName>Cumming, Dorothy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1238196160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1117">
+            <person xml:id="pmb17379">
                <persName>Griffith, Corinne</persName>
-               <idno type="GND">https://d-nb.info/gnd/127632603</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1180">
+            <person xml:id="pmb120425">
                <persName>Halsey, Forrest</persName>
-               <idno type="GND">https://d-nb.info/gnd/139705503</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1183">
+            <person xml:id="pmb120426">
                <persName>Hamilton, Lady</persName>
-               <idno type="GND">https://d-nb.info/gnd/1205422528</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1467">
+            <person xml:id="pmb119777">
                <persName>Keith, Ian</persName>
-               <idno type="GND">https://d-nb.info/gnd/136343899</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1695">
+            <person xml:id="pmb20534">
                <persName>Lloyd, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/141025565</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1727">
+            <person xml:id="pmb120187">
                <persName>Love, Montague</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062212312</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2584">
+            <person xml:id="pmb3109">
                <persName>Sonnenfeld, Kurt</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2813">
+            <person xml:id="pmb121853">
                <persName>Várkonyi, [Michael] Victor</persName>
             </person>
          </listPerson>

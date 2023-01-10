@@ -69,12 +69,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-816">
+            <person xml:id="pmb121648">
                <persName>Erlanger, Emmy</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1702">
+            <person xml:id="pmb20542">
                <persName>Loeb, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229925457</idno>
             </person>
          </listPerson>
          <listPlace>

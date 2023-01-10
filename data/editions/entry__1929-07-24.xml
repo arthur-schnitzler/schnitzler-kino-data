@@ -104,44 +104,35 @@ Nachgewiesener Spielort: Flieger-Kino (NZG 24.7.1929, S. 8). In PFL ist der Kino
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-222">
+            <person xml:id="pmb120719">
                <persName>Bennison, Andrew</persName>
-               <idno type="GND">https://d-nb.info/gnd/123665809</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-448">
+            <person xml:id="pmb14843">
                <persName>Cannon, Raymond</persName>
-               <idno type="GND">https://d-nb.info/gnd/141328398</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-541">
+            <person xml:id="pmb121896">
                <persName>Collyer, June</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-548">
+            <person xml:id="pmb120250">
                <persName>Condon, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/129803448</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1082">
+            <person xml:id="pmb120720">
                <persName>Graham, Garrett</persName>
-               <idno type="GND">https://d-nb.info/gnd/1242132627</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1187">
+            <person xml:id="pmb120721">
                <persName>Hanen, Herr van</persName>
-               <idno type="GND">https://d-nb.info/gnd/1128238527</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2008">
+            <person xml:id="pmb119365">
                <persName>Nagel, Conrad</persName>
-               <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2209">
+            <person xml:id="pmb119102">
                <persName>Pollak, Frieda </persName>
-               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2448">
+            <person xml:id="pmb4412">
                <persName>Schinnerer, Otto P.</persName>
-               <idno type="GND">https://d-nb.info/gnd/105204042X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -92,21 +92,17 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-2383">
+            <person xml:id="pmb9585">
                <persName>Ross, Colin</persName>
-               <idno type="GND">https://d-nb.info/gnd/139863613</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2489">
+            <person xml:id="pmb119684">
                <persName>Schroeder, Dir.</persName>
-               <idno type="GND">https://d-nb.info/gnd/117072486</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2957">
+            <person xml:id="pmb119447">
                <persName>Winter, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>
          </listPerson>
          <listPlace>

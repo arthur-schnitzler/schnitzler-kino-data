@@ -99,56 +99,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-99">
+            <person xml:id="pmb120133">
                <persName>Aslan, Didier</persName>
-               <idno type="GND">https://d-nb.info/gnd/127105514</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-118">
+            <person xml:id="pmb120136">
                <persName>Auzinger, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061948226</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-506">
+            <person xml:id="pmb120137">
                <persName>Christensen, Benjamin</persName>
-               <idno type="GND">https://d-nb.info/gnd/132758326</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-714">
+            <person xml:id="pmb6863">
                <persName>Dreyer, Carl Theodor</persName>
-               <idno type="GND">https://d-nb.info/gnd/118672444</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-949">
+            <person xml:id="pmb120139">
                <persName>Freund, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/129589330</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-996">
+            <person xml:id="pmb121689">
                <persName>Garrison, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1106">
+            <person xml:id="pmb96317">
                <persName>Gregor, Nora</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979645</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1196">
+            <person xml:id="pmb119203">
                <persName>Harbou, Thea von</persName>
-               <idno type="GND">https://d-nb.info/gnd/118701495</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1519">
+            <person xml:id="pmb120141">
                <persName>Klotz, Eugène de</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062161335</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1973">
+            <person xml:id="pmb8981">
                <persName>Mosheim, Grete</persName>
-               <idno type="GND">https://d-nb.info/gnd/116939966</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1999">
+            <person xml:id="pmb119592">
                <persName>Murski, Alexander</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061309770</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2429">
+            <person xml:id="pmb12621">
                <persName>Sandrock, Wilhelmine</persName>
-               <idno type="GND">https://d-nb.info/gnd/116801468</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2571">
+            <person xml:id="pmb9917">
                <persName>Slezak, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/118614967</idno>
             </person>
          </listPerson>
          <listPlace>

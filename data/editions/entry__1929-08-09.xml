@@ -104,40 +104,32 @@ Nachgewiesener Spielort neben dem Flieger-Freiluft-Kino: Maria-Theresien-Kino (N
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-540">
+            <person xml:id="pmb121400">
                <persName>Collough, Phil Mac</persName>
-               <idno type="GND">https://d-nb.info/gnd/13285905X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-868">
+            <person xml:id="pmb120595">
                <persName>Fellowes, Rockliffe</persName>
-               <idno type="GND">https://d-nb.info/gnd/1147771707</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-998">
+            <person xml:id="pmb121401">
                <persName>Garvin, Anitta</persName>
-               <idno type="GND">https://d-nb.info/gnd/1027645550</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1257">
+            <person xml:id="pmb119428">
                <persName>Herbert, Holmes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062353846</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1455">
+            <person xml:id="pmb8533">
                <persName>Kascon, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/118727079</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1694">
+            <person xml:id="pmb119913">
                <persName>Livingston, Margaret</persName>
-               <idno type="GND">https://d-nb.info/gnd/117143502</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1881">
+            <person xml:id="pmb122012">
                <persName>Meford, George</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2464">
+            <person xml:id="pmb9734">
                <persName>Schmutzer, Alice</persName>
-               <idno type="GND">https://d-nb.info/gnd/116816902</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2465">
+            <person xml:id="pmb24344">
                <persName>Schmutzer, Susanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061879321</idno>
             </person>
          </listPerson>
          <listPlace>

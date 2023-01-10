@@ -90,22 +90,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1493">
+            <person xml:id="pmb122047">
                <persName>King, Claude</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2474">
+            <person xml:id="pmb9751">
                <persName>Schoedsack, Ernest B.</persName>
-               <idno type="GND">https://d-nb.info/gnd/138302731</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2505">
+            <person xml:id="pmb121615">
                <persName>Scott, Douglas</persName>
-               <idno type="GND">https://d-nb.info/gnd/106918666X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2956">
+            <person xml:id="pmb122048">
                <persName>Winkler, Ferdinand</persName>
             </person>
          </listPerson>

@@ -90,12 +90,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-312">
+            <person xml:id="pmb121940">
                <persName>Böhne, Margareta</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1961">
+            <person xml:id="pmb120205">
                <persName>Morena, Erna</persName>
-               <idno type="GND">https://d-nb.info/gnd/117143588</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -96,56 +96,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-242">
+            <person xml:id="pmb10886">
                <persName>Bergner, Elisabeth</persName>
-               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-611">
+            <person xml:id="pmb6746">
                <persName>Dagover, Lil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-956">
+            <person xml:id="pmb94101">
                <persName>Fritsch, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1107">
+            <person xml:id="pmb121831">
                <persName>Greiner, Fritz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1197">
+            <person xml:id="pmb119513">
                <persName>Hardt, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1250">
+            <person xml:id="pmb120809">
                <persName>Heltai, Andor</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062245555</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1431">
+            <person xml:id="pmb3025">
                <persName>Kahane, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/116017538</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1439">
+            <person xml:id="pmb119197">
                <persName>Kaiser-Titz, Erich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116028769</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1858">
+            <person xml:id="pmb8868">
                <persName>May, Joe</persName>
-               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2125">
+            <person xml:id="pmb120810">
                <persName>Parlo, Dita</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014815126</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2502">
+            <person xml:id="pmb24609">
                <persName>Schwarz, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/138875057</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2695">
+            <person xml:id="pmb119670">
                <persName>Székely, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
             </person>
          </listPerson>
          <listPlace>

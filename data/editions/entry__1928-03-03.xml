@@ -93,58 +93,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-71">
+            <person xml:id="pmb121726">
                <persName>Anthony, Walter</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-105">
+            <person xml:id="pmb119957">
                <persName>Astor, Gertrude</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061280861</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-454">
+            <person xml:id="pmb119958">
                <persName>Carewe, Arthur Edmund</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061706370</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-529">
+            <person xml:id="pmb121769">
                <persName>Cohn, Alfred A.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-884">
+            <person xml:id="pmb119961">
                <persName>Finch, Flora</persName>
-               <idno type="GND">https://d-nb.info/gnd/1018304096</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1167">
+            <person xml:id="pmb119962">
                <persName>Hale, Creighton</persName>
-               <idno type="GND">https://d-nb.info/gnd/1119262801</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1284">
+            <person xml:id="pmb18268">
                <persName>Hill, Robert F.</persName>
-               <idno type="GND">https://d-nb.info/gnd/140890386</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1645">
+            <person xml:id="pmb20287">
                <persName>Leni, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/119369249</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1850">
+            <person xml:id="pmb119963">
                <persName>Mattox, Martha</persName>
-               <idno type="GND">https://d-nb.info/gnd/136961657</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2185">
+            <person xml:id="pmb119886">
                <persName>Plante, Laura la</persName>
-               <idno type="GND">https://d-nb.info/gnd/1166586103</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2550">
+            <person xml:id="pmb119731">
                <persName>Siegmann, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062304896</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2615">
+            <person xml:id="pmb121770">
                <persName>Stanley, Forrest</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2945">
+            <person xml:id="pmb119964">
                <persName>Willard, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/1052026575</idno>
             </person>
          </listPerson>
          <listPlace>

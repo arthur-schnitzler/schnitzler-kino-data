@@ -111,52 +111,41 @@ Verfilmung bereits 1923, vgl. NFP 13.2.1925, S. 23. Ankündigung NFP 12.12.1930,
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-271">
+            <person xml:id="pmb120911">
                <persName>Bickford, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/1235774139</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-389">
+            <person xml:id="pmb6455">
                <persName>Brown, Clarence</persName>
-               <idno type="GND">https://d-nb.info/gnd/137569122</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-522">
+            <person xml:id="pmb5146">
                <persName>Cleve, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-695">
+            <person xml:id="pmb15433">
                <persName>Donath, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-712">
+            <person xml:id="pmb120912">
                <persName>Dressler, Marie</persName>
-               <idno type="GND">https://d-nb.info/gnd/120573482</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-987">
+            <person xml:id="pmb7347">
                <persName>Garbo, Greta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118537571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1816">
+            <person xml:id="pmb120267">
                <persName>Marion, Frances</persName>
-               <idno type="GND">https://d-nb.info/gnd/119542080</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2100">
+            <person xml:id="pmb5198">
                <persName>O’Neill, Eugene</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2470">
+            <person xml:id="pmb12698">
                <persName>Schnitzler, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848693</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3028">
+            <person xml:id="pmb2312">
                <persName>Zuckerkandl, Berta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118758160</idno>
             </person>
          </listPerson>
          <listPlace>

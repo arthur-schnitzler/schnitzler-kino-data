@@ -99,29 +99,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-469">
+            <person xml:id="pmb120116">
                <persName>Carr, Percy</persName>
-               <idno type="GND">https://d-nb.info/gnd/137920431</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-612">
+            <person xml:id="pmb121276">
                <persName>Dale, Margaret</persName>
-               <idno type="GND">https://d-nb.info/gnd/140229760</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-659">
+            <person xml:id="pmb121277">
                <persName>Dempster, Carol</persName>
-               <idno type="GND">https://d-nb.info/gnd/135728797</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1118">
+            <person xml:id="pmb120447">
                <persName>Griffith, D. W.</persName>
-               <idno type="GND">https://d-nb.info/gnd/118718851</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1349">
+            <person xml:id="pmb121280">
                <persName>Hull, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/126543186</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2562">
+            <person xml:id="pmb121281">
                <persName>Sinclair, Irene</persName>
-               <idno type="GND">https://d-nb.info/gnd/14067988X</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -93,51 +93,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1166">
+            <person xml:id="pmb121600">
                <persName>Hakk, Käthe</persName>
-               <idno type="GND">https://d-nb.info/gnd/115660917</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1241">
+            <person xml:id="pmb119231">
                <persName>Heilborn-Körbitz, Luise</persName>
-               <idno type="GND">https://d-nb.info/gnd/102748154X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1587">
+            <person xml:id="pmb12028">
                <persName>Lamprecht, Gerhard</persName>
-               <idno type="GND">https://d-nb.info/gnd/116665483</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1828">
+            <person xml:id="pmb8823">
                <persName>Maroff, Hilde</persName>
-               <idno type="GND">https://d-nb.info/gnd/106175555X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1965">
+            <person xml:id="pmb8975">
                <persName>Morgan, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1201140560</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1981">
+            <person xml:id="pmb12327">
                <persName>Müller, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1140252038</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2048">
+            <person xml:id="pmb119746">
                <persName>Nissen, Aud Egede</persName>
-               <idno type="GND">https://d-nb.info/gnd/142174769</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2322">
+            <person xml:id="pmb121644">
                <persName>Richter, Paul</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2387">
+            <person xml:id="pmb120750">
                <persName>Rothauser, Eduard</persName>
-               <idno type="GND">https://d-nb.info/gnd/116639636</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2896">
+            <person xml:id="pmb121601">
                <persName>Weel, Arne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061251292</idno>
             </person>
          </listPerson>
          <listPlace>

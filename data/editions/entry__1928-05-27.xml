@@ -104,72 +104,56 @@ Besprechung von Eduard Siebrecht in NFP 26.5.1928, S. 8. »Der« bzw. »Die Viel
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-526">
+            <person xml:id="pmb120469">
                <persName>Cody, Lew</persName>
-               <idno type="GND">https://d-nb.info/gnd/1221831518</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-550">
+            <person xml:id="pmb119410">
                <persName>Connelly, Edward</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050223748</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-639">
+            <person xml:id="pmb120440">
                <persName>Day, Marceline</persName>
-               <idno type="GND">https://d-nb.info/gnd/136910246</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-679">
+            <person xml:id="pmb15382">
                <persName>Dietrichstein, Leo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055217622</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-731">
+            <person xml:id="pmb121373">
                <persName>Duquesnel, Félix</persName>
-               <idno type="GND">https://d-nb.info/gnd/100116825</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-744">
+            <person xml:id="pmb121182">
                <persName>D’Algy, Antonio</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057079502</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-747">
+            <person xml:id="pmb119371">
                <persName>d’Arcy, Roy</persName>
-               <idno type="GND">https://d-nb.info/gnd/138664439</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-969">
+            <person xml:id="pmb121374">
                <persName>Furber, Douglas</persName>
-               <idno type="GND">https://d-nb.info/gnd/142330043</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1043">
+            <person xml:id="pmb119419">
                <persName>Glazer, Benjamin F.</persName>
-               <idno type="GND">https://d-nb.info/gnd/142304492</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1054">
+            <person xml:id="pmb7460">
                <persName>Goetz, Wolfgang</persName>
-               <idno type="GND">https://d-nb.info/gnd/1147031363</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1255">
+            <person xml:id="pmb18114">
                <persName>Hennequin, Maurice</persName>
-               <idno type="GND">https://d-nb.info/gnd/105765485X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1554">
+            <person xml:id="pmb121701">
                <persName>Krauß, Werner</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1871">
+            <person xml:id="pmb121376">
                <persName>McGregor, Malcolm</persName>
-               <idno type="GND">https://d-nb.info/gnd/136416632</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2004">
+            <person xml:id="pmb120658">
                <persName>Myers, Carmel</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017940088</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2166">
+            <person xml:id="pmb121377">
                <persName>Phillips, Dorothy</persName>
-               <idno type="GND">https://d-nb.info/gnd/102869332X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2549">
+            <person xml:id="pmb119172">
                <persName>Siebrecht, Eduard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1205354077</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2608">
+            <person xml:id="pmb9994">
                <persName>Stahl, John M.</persName>
-               <idno type="GND">https://d-nb.info/gnd/136444415</idno>
             </person>
          </listPerson>
          <listPlace>

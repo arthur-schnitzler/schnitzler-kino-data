@@ -104,41 +104,32 @@ Ankündigung NFP 15.2.1929, S. 10. </ab>
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-561">
+            <person xml:id="pmb15096">
                <persName>Cooper, Gary</persName>
-               <idno type="GND">https://d-nb.info/gnd/135292174</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-578">
+            <person xml:id="pmb121423">
                <persName>Cowl, Jane</persName>
-               <idno type="GND">https://d-nb.info/gnd/131992368</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-811">
+            <person xml:id="pmb28285">
                <persName>Epstein, Anna</persName>
-               <idno type="GND">https://d-nb.info/gnd/14325717X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-893">
+            <person xml:id="pmb7156">
                <persName>Fitzmaurice, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/139520767</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1057">
+            <person xml:id="pmb119426">
                <persName>Goldbeck, Willis</persName>
-               <idno type="GND">https://d-nb.info/gnd/141051361</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1818">
+            <person xml:id="pmb120032">
                <persName>Marion, George Jr.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1953">
+            <person xml:id="pmb21581">
                <persName>Moore, Colleen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1022915096</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1988">
+            <person xml:id="pmb121424">
                <persName>Murfin, Jane</persName>
-               <idno type="GND">https://d-nb.info/gnd/1208472488</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2950">
+            <person xml:id="pmb121425">
                <persName>Wilson, Carey</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061884597</idno>
             </person>
          </listPerson>
          <listPlace>

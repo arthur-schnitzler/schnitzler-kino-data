@@ -102,49 +102,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-85">
+            <person xml:id="pmb119575">
                <persName>Arna, Lissi</persName>
-               <idno type="GND">https://d-nb.info/gnd/117763713</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-201">
+            <person xml:id="pmb120048">
                <persName>Behrens-Klausen, Andreas</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061298817</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1241">
+            <person xml:id="pmb119231">
                <persName>Heilborn-Körbitz, Luise</persName>
-               <idno type="GND">https://d-nb.info/gnd/102748154X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1587">
+            <person xml:id="pmb12028">
                <persName>Lamprecht, Gerhard</persName>
-               <idno type="GND">https://d-nb.info/gnd/116665483</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1658">
+            <person xml:id="pmb8602">
                <persName>Lettinger, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1856">
+            <person xml:id="pmb120049">
                <persName>Maximilian, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062358910</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2006">
+            <person xml:id="pmb119515">
                <persName>Mylong-Münz, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1021053074</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2363">
+            <person xml:id="pmb120051">
                <persName>Rodegg, Gustav</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061737861</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2681">
+            <person xml:id="pmb12899">
                <persName>Sudermann, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/118619853</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2771">
+            <person xml:id="pmb10253">
                <persName>Trevor, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2968">
+            <person xml:id="pmb120052">
                <persName>Woldera, Louise</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061383857</idno>
             </person>
          </listPerson>
          <listPlace>

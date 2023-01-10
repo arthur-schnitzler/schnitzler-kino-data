@@ -104,59 +104,49 @@ Ankündigung NFP 29.5.1931, S. 13. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-9">
+            <person xml:id="pmb119150">
                <persName>Aalten, Truus van</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031502505</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-774">
+            <person xml:id="pmb121633">
                <persName>Ehrlich, Max</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1620">
+            <person xml:id="pmb20223">
                <persName>Lederer, Franz</persName>
-               <idno type="GND">https://d-nb.info/gnd/130217492</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1675">
+            <person xml:id="pmb119153">
                <persName>Lilien, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/143330365</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2046">
+            <person xml:id="pmb121634">
                <persName>Nikolaus, Paul</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2123">
+            <person xml:id="pmb119155">
                <persName>Parker, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057117625</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2137">
+            <person xml:id="pmb119156">
                <persName>Paulig, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/116065109</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2202">
+            <person xml:id="pmb22696">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2205">
+            <person xml:id="pmb119157">
                <persName>Pollaczek, Magdalena</persName>
-               <idno type="GND">https://d-nb.info/gnd/132915251</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2583">
+            <person xml:id="pmb119158">
                <persName>Söneland, Senta</persName>
-               <idno type="GND">https://d-nb.info/gnd/117459488</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2693">
+            <person xml:id="pmb119159">
                <persName>Szakall, Szöke</persName>
-               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2730">
+            <person xml:id="pmb25996">
                <persName>Thiele, Eugen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061660400</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2944">
+            <person xml:id="pmb121635">
                <persName>Wilhelm, Wolfgang</persName>
             </person>
          </listPerson>

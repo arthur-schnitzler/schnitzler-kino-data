@@ -101,36 +101,29 @@ Anzeige und Besprechung NFP 18.1.1924, S. 19, dort nachgewiesene Spielorte von 2
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-348">
+            <person xml:id="pmb121951">
                <persName>Brandt, Dr.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-408">
+            <person xml:id="pmb14665">
                <persName>Buchowetzki, Dimitri</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062126793</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-768">
+            <person xml:id="pmb119746">
                <persName>Egede-Nissen, Aud</persName>
-               <idno type="GND">https://d-nb.info/gnd/142174769</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-866">
+            <person xml:id="pmb16146">
                <persName>Fekete, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/116438851</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-965">
+            <person xml:id="pmb119436">
                <persName>Fryland, Alphons</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019855827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1383">
+            <person xml:id="pmb114705">
                <persName>Janssen, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2222">
+            <person xml:id="pmb119091">
                <persName>Potechina, Lydia</persName>
-               <idno type="GND">https://d-nb.info/gnd/1043652914</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2223">
+            <person xml:id="pmb121073">
                <persName>Pottier, Waldemar</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061464466</idno>
             </person>
          </listPerson>
          <listPlace>

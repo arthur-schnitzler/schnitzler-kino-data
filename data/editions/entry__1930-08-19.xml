@@ -106,33 +106,26 @@ Premierennotiz NFP 8.8.1930, S. 11, für 14.8.1930. Nachgewiesener Spielort: Lus
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-320">
+            <person xml:id="pmb14373">
                <persName>Bolváry, Géza von</persName>
-               <idno type="GND">https://d-nb.info/gnd/119489686</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-695">
+            <person xml:id="pmb15433">
                <persName>Donath, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-923">
+            <person xml:id="pmb119573">
                <persName>Forst, Willi</persName>
-               <idno type="GND">https://d-nb.info/gnd/118818813</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1452">
+            <person xml:id="pmb8112">
                <persName>Karlweis, Oskar</persName>
-               <idno type="GND">https://d-nb.info/gnd/116055766</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1794">
+            <person xml:id="pmb120227">
                <persName>Malten, Fee</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019374217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2299">
+            <person xml:id="pmb9472">
                <persName>Reisch, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2823">
+            <person xml:id="pmb116393">
                <persName>Verebes, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/135294959</idno>
             </person>
          </listPerson>
          <listPlace>

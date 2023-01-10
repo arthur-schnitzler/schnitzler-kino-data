@@ -69,12 +69,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-122">
+            <person xml:id="pmb121826">
                <persName>Bachrach, Dr.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1486">
+            <person xml:id="pmb120143">
                <persName>Kertész, Mihaly</persName>
-               <idno type="GND">https://d-nb.info/gnd/1216510946</idno>
             </person>
          </listPerson>
          <listPlace>

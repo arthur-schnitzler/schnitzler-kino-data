@@ -92,75 +92,59 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-268">
+            <person xml:id="pmb6294">
                <persName>Bettauer, Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/11851038X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-505">
+            <person xml:id="pmb119087">
                <persName>Chmara, Grigori</persName>
-               <idno type="GND">https://d-nb.info/gnd/1064689515</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-822">
+            <person xml:id="pmb119564">
                <persName>Esterházy, Agnes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-824">
+            <person xml:id="pmb114872">
                <persName>Etlinger, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050467310</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-971">
+            <person xml:id="pmb96023">
                <persName>Fürth, Jaro</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019732121</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-987">
+            <person xml:id="pmb7347">
                <persName>Garbo, Greta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118537571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1127">
+            <person xml:id="pmb114647">
                <persName>Grüning, Ilka</persName>
-               <idno type="GND">https://d-nb.info/gnd/130523216</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1154">
+            <person xml:id="pmb7630">
                <persName>Haas, Willy</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1191">
+            <person xml:id="pmb120663">
                <persName>Hanson, Einar</persName>
-               <idno type="GND">https://d-nb.info/gnd/1274247160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1554">
+            <person xml:id="pmb121701">
                <persName>Krauß, Werner</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1893">
+            <person xml:id="pmb3119">
                <persName>Menczel, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/116876514</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1894">
+            <person xml:id="pmb21304">
                <persName>Menczel, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/116876522</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1999">
+            <person xml:id="pmb119592">
                <persName>Murski, Alexander</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061309770</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2040">
+            <person xml:id="pmb9082">
                <persName>Nielsen, Asta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118587854</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2104">
+            <person xml:id="pmb120883">
                <persName>Pabst, Elisabeth</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061902110</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2106">
+            <person xml:id="pmb119300">
                <persName>Pabst, Georg Wilhelm </persName>
-               <idno type="GND">https://d-nb.info/gnd/118942387</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2672">
+            <person xml:id="pmb120884">
                <persName>Stuart, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/140579141</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -107,38 +107,31 @@ Premierennotiz NFP 1.5.1931, S. 14, für 5.5.1931 Ur- und Alleinaufführung Schw
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-193">
+            <person xml:id="pmb10860">
                <persName>Beer-Hofmann, Paula</persName>
-               <idno type="GND">https://d-nb.info/gnd/119044994</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-331">
+            <person xml:id="pmb120576">
                <persName>Bourdelle, Thomy</persName>
-               <idno type="GND">https://d-nb.info/gnd/173938957</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1642">
+            <person xml:id="pmb119326">
                <persName>Leitner, ? </persName>
-               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1702">
+            <person xml:id="pmb20542">
                <persName>Loeb, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229925457</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1812">
+            <person xml:id="pmb119326">
                <persName>Marfeld, ?</persName>
-               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2194">
+            <person xml:id="pmb22670">
                <persName>Poirier, Léon</persName>
-               <idno type="GND">https://d-nb.info/gnd/1058603582</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2202">
+            <person xml:id="pmb22696">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2208">
+            <person xml:id="pmb120578">
                <persName>Pollak, Egon</persName>
-               <idno type="GND">https://d-nb.info/gnd/11626330X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2264">
+            <person xml:id="pmb121881">
                <persName>Rama-Tahé</persName>
             </person>
          </listPerson>

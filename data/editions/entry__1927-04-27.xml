@@ -92,36 +92,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-452">
+            <person xml:id="pmb121246">
                <persName>Capuana, Luigi</persName>
-               <idno type="GND">https://d-nb.info/gnd/118668285</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-983">
+            <person xml:id="pmb7334">
                <persName>Gallone, Soava</persName>
-               <idno type="GND">https://d-nb.info/gnd/119353199</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-994">
+            <person xml:id="pmb16919">
                <persName>Gargiulo, Mario</persName>
-               <idno type="GND">https://d-nb.info/gnd/133492559</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1092">
+            <person xml:id="pmb17337">
                <persName>Grasso, Giovanni</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2528">
+            <person xml:id="pmb121247">
                <persName>Serena, Gustavo</persName>
-               <idno type="GND">https://d-nb.info/gnd/120920387</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3000">
+            <person xml:id="pmb121248">
                <persName>Zanussi, Lucia</persName>
-               <idno type="GND">https://d-nb.info/gnd/119148277</idno>
             </person>
          </listPerson>
          <listPlace>

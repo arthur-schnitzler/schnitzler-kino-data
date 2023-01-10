@@ -93,26 +93,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-252">
+            <person xml:id="pmb120835">
                <persName>Bernard, Sester</persName>
-               <idno type="GND">https://d-nb.info/gnd/1250870259</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-393">
+            <person xml:id="pmb120836">
                <persName>Brown-Faire, Vivian</persName>
-               <idno type="GND">https://d-nb.info/gnd/1096521954</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-631">
+            <person xml:id="pmb121917">
                <persName>Davidson, S.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2099">
+            <person xml:id="pmb121883">
                <persName>O’Malley, Pat</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2375">
+            <person xml:id="pmb120839">
                <persName>Rosanowa, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/121772993</idno>
             </person>
          </listPerson>
          <listPlace>

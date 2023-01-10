@@ -107,44 +107,35 @@ Notiz NFP 12.5.1931, S. 13. Premierennotiz NFP 19.5.1931, S. 10, für 22.5.1931.
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-31">
+            <person xml:id="pmb119600">
                <persName>Albrecht, Ina</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061918211</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-349">
+            <person xml:id="pmb6400">
                <persName>Brandt, Johannes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1016437463</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-427">
+            <person xml:id="pmb113713">
                <persName>Busch, Ernst</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-664">
+            <person xml:id="pmb119601">
                <persName>Deppe, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/137967497</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1329">
+            <person xml:id="pmb119603">
                <persName>Hörmann, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/122170539</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2168">
+            <person xml:id="pmb9265">
                <persName>Pick, Lupu</persName>
-               <idno type="GND">https://d-nb.info/gnd/11617840X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2621">
+            <person xml:id="pmb119604">
                <persName>Staudte, Wolfgang</persName>
-               <idno type="GND">https://d-nb.info/gnd/118616943</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2744">
+            <person xml:id="pmb119606">
                <persName>Thuns</persName>
-               <idno type="GND">https://d-nb.info/gnd/1273743768</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3007">
+            <person xml:id="pmb119608">
                <persName>Zickel, Martin</persName>
-               <idno type="GND">https://d-nb.info/gnd/116986123</idno>
             </person>
          </listPerson>
          <listPlace>

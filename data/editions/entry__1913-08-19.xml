@@ -92,36 +92,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-478">
+            <person xml:id="pmb121294">
                <persName>Casaleggio, Giovanni</persName>
-               <idno type="GND">https://d-nb.info/gnd/137962886</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-943">
+            <person xml:id="pmb121295">
                <persName>Frascaroli	, Valentina</persName>
-               <idno type="GND">https://d-nb.info/gnd/1021970328</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1813">
+            <person xml:id="pmb121296">
                <persName>Mari, Febo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1141193485</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2253">
+            <person xml:id="pmb121989">
                <persName>Quaranta, Lidia</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2666">
+            <person xml:id="pmb12877">
                <persName>Strindberg, August</persName>
-               <idno type="GND">https://d-nb.info/gnd/118619314</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2725">
+            <person xml:id="pmb121299">
                <persName>Testa, Dante</persName>
-               <idno type="GND">https://d-nb.info/gnd/139129391</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2998">
+            <person xml:id="pmb121300">
                <persName>Zaccaria, Gino</persName>
-               <idno type="GND">https://d-nb.info/gnd/134227980</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2999">
+            <person xml:id="pmb3787">
                <persName>Zacconi, Ermete</persName>
-               <idno type="GND">https://d-nb.info/gnd/116946970</idno>
             </person>
          </listPerson>
          <listPlace>

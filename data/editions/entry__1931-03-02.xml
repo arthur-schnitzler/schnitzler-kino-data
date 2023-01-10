@@ -104,32 +104,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-27">
+            <person xml:id="pmb5952">
                <persName>Albers, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-246">
+            <person xml:id="pmb119471">
                <persName>Berliner, Gertrude</persName>
-               <idno type="GND">https://d-nb.info/gnd/140576029</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-701">
+            <person xml:id="pmb94080">
                <persName>Dorsch, Käthe</persName>
-               <idno type="GND">https://d-nb.info/gnd/11868051X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1288">
+            <person xml:id="pmb7863">
                <persName>Hilpert, Heinz</persName>
-               <idno type="GND">https://d-nb.info/gnd/1235924181</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1621">
+            <person xml:id="pmb119473">
                <persName>Lederer, Joe</persName>
-               <idno type="GND">https://d-nb.info/gnd/116852038</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2549">
+            <person xml:id="pmb119172">
                <persName>Siebrecht, Eduard</persName>
-               <idno type="GND">https://d-nb.info/gnd/1205354077</idno>
             </person>
          </listPerson>
          <listPlace>

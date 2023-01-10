@@ -100,48 +100,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-51">
+            <person xml:id="pmb121744">
                <persName>Almar, Knud</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-97">
+            <person xml:id="pmb119795">
                <persName>Ask, Sam</persName>
-               <idno type="GND">https://d-nb.info/gnd/1154872092</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-206">
+            <person xml:id="pmb119796">
                <persName>Bell, Karina</persName>
-               <idno type="GND">https://d-nb.info/gnd/141914335</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-782">
+            <person xml:id="pmb119265">
                <persName>Eisenmenger, Hofrat</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061597334</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-834">
+            <person xml:id="pmb119797">
                <persName>Fabian, Kate</persName>
-               <idno type="GND">https://d-nb.info/gnd/1160761299</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1270">
+            <person xml:id="pmb119104">
                <persName>Herzberg, Martin</persName>
-               <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1786">
+            <person xml:id="pmb119798">
                <persName>Malberg, Peter</persName>
-               <idno type="GND">https://d-nb.info/gnd/122311051</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1839">
+            <person xml:id="pmb21128">
                <persName>Marton, Alexander</persName>
-               <idno type="GND">https://d-nb.info/gnd/116811625</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2427">
+            <person xml:id="pmb119799">
                <persName>Sandberg, A. W.</persName>
-               <idno type="GND">https://d-nb.info/gnd/141914289</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2488">
+            <person xml:id="pmb119802">
                <persName>Schrøder, Xenia</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062305469</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2935">
+            <person xml:id="pmb119803">
                <persName>Wiehe, Viggo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1024673626</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -98,45 +98,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-53">
+            <person xml:id="pmb13328">
                <persName>Alten, Ferdinand von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-78">
+            <person xml:id="pmb119823">
                <persName>Arbenina, Stella</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061862240</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-919">
+            <person xml:id="pmb4431">
                <persName>Forest, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1018886052</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1004">
+            <person xml:id="pmb11409">
                <persName>Gebühr, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979610</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1058">
+            <person xml:id="pmb7467">
                <persName>Goldberg, Heinz</persName>
-               <idno type="GND">https://d-nb.info/gnd/116748508</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1073">
+            <person xml:id="pmb119824">
                <persName>Gottowt, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062117123</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1840">
+            <person xml:id="pmb119826">
                <persName>Marville, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062349652</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2105">
+            <person xml:id="pmb119828">
                <persName>Pabst, Erich</persName>
-               <idno type="GND">https://d-nb.info/gnd/143131044</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2532">
+            <person xml:id="pmb119639">
                <persName>Serventi, Luigi</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062245261</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2585">
+            <person xml:id="pmb119244">
                <persName>Sorina, Alexandra</persName>
-               <idno type="GND">https://d-nb.info/gnd/1048749975</idno>
             </person>
          </listPerson>
          <listPlace>

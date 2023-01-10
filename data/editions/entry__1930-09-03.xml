@@ -105,45 +105,37 @@ Abends. Nach einer wundervollen Liebesstunde noch in meinen Armen sagt er: „Ir
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-683">
+            <person xml:id="pmb121480">
                <persName>Dissel, Gustav</persName>
-               <idno type="GND">https://d-nb.info/gnd/11728582X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1070">
+            <person xml:id="pmb17256">
                <persName>Gosewisch, Helen</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1249">
+            <person xml:id="pmb7781">
                <persName>Helm, Brigitte</persName>
-               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1484">
+            <person xml:id="pmb119286">
                <persName>Kerst, Rittmeister</persName>
-               <idno type="GND">https://d-nb.info/gnd/173625738</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1608">
+            <person xml:id="pmb2959">
                <persName>Lantz, Adolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1655">
+            <person xml:id="pmb121481">
                <persName>Leska, Peter</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062195612</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2072">
+            <person xml:id="pmb114032">
                <persName>Odemar, Fritz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2106">
+            <person xml:id="pmb119300">
                <persName>Pabst, Georg Wilhelm </persName>
-               <idno type="GND">https://d-nb.info/gnd/118942387</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2771">
+            <person xml:id="pmb10253">
                <persName>Trevor, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2803">
+            <person xml:id="pmb106896">
                <persName>Vajda, Ladislaus</persName>
-               <idno type="GND">https://d-nb.info/gnd/129296805</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2870">
+            <person xml:id="pmb121647">
                <persName>Walter, Hertha von</persName>
             </person>
          </listPerson>

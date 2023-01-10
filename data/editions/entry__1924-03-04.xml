@@ -99,31 +99,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-174">
+            <person xml:id="pmb120514">
                <persName>Baston, Thornton</persName>
-               <idno type="GND">https://d-nb.info/gnd/139964320</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-637">
+            <person xml:id="pmb15248">
                <persName>Dawley, J. Searle</persName>
-               <idno type="GND">https://d-nb.info/gnd/1116649861</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-763">
+            <person xml:id="pmb120515">
                <persName>Edwards, Alan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061324443</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-788">
+            <person xml:id="pmb120516">
                <persName>Elliot, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1157557902</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1855">
+            <person xml:id="pmb121868">
                <persName>Maxim, Hiram Percy</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2929">
+            <person xml:id="pmb120517">
                <persName>White, Pearl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1042649693</idno>
             </person>
          </listPerson>
          <listPlace>

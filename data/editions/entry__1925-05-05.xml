@@ -96,17 +96,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1978">
+            <person xml:id="pmb120394">
                <persName>Mulhall, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229049746</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2654">
+            <person xml:id="pmb25553">
                <persName>Storm, Jerome</persName>
-               <idno type="GND">https://d-nb.info/gnd/142158887</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2702">
+            <person xml:id="pmb25851">
                <persName>Talmadge, Constance</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013150368</idno>
             </person>
          </listPerson>
          <listPlace>

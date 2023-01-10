@@ -99,56 +99,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-276">
+            <person xml:id="pmb115641">
                <persName>Bildt, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/11618051X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-359">
+            <person xml:id="pmb119522">
                <persName>Brausewetter, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116430249</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-505">
+            <person xml:id="pmb119087">
                <persName>Chmara, Grigori</persName>
-               <idno type="GND">https://d-nb.info/gnd/1064689515</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-755">
+            <person xml:id="pmb15641">
                <persName>Eckstein, Franz</persName>
-               <idno type="GND">https://d-nb.info/gnd/138614563</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-796">
+            <person xml:id="pmb120923">
                <persName>Elzer, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116464402</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-968">
+            <person xml:id="pmb121930">
                <persName>Funck, Werner</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1659">
+            <person xml:id="pmb120925">
                <persName>Leux, Lori</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061723666</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2040">
+            <person xml:id="pmb9082">
                <persName>Nielsen, Asta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118587854</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2123">
+            <person xml:id="pmb119155">
                <persName>Parker, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057117625</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2220">
+            <person xml:id="pmb49860">
                <persName>Porten, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/127913297</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2275">
+            <person xml:id="pmb120927">
                <persName>Rath, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/116337060</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2428">
+            <person xml:id="pmb12618">
                <persName>Sandrock, Adele</persName>
-               <idno type="GND">https://d-nb.info/gnd/118605429</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2498">
+            <person xml:id="pmb9830">
                <persName>Schünzel, Reinhold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118892223</idno>
             </person>
          </listPerson>
          <listPlace>

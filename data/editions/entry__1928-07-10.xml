@@ -102,36 +102,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-611">
+            <person xml:id="pmb6746">
                <persName>Dagover, Lil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-963">
+            <person xml:id="pmb121448">
                <persName>Fröschel, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/136449964</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-971">
+            <person xml:id="pmb96023">
                <persName>Fürth, Jaro</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019732121</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1912">
+            <person xml:id="pmb119236">
                <persName>Mierendorff, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1020648120</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1987">
+            <person xml:id="pmb121934">
                <persName>Murat, Jean</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2441">
+            <person xml:id="pmb120940">
                <persName>Scheff, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/117185124</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2609">
+            <person xml:id="pmb113732">
                <persName>Stahl-Nachbaur, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/117203688</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2731">
+            <person xml:id="pmb10206">
                <persName>Thiele, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979513</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -101,56 +101,44 @@ Premierennotiz und Anzeige NFP 10.9.1926, S. 16. </ab>
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-102">
+            <person xml:id="pmb119423">
                <persName>Asther, Nils</persName>
-               <idno type="GND">https://d-nb.info/gnd/118970240</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-266">
+            <person xml:id="pmb119879">
                <persName>Beß, Jane</persName>
-               <idno type="GND">https://d-nb.info/gnd/116154489</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-314">
+            <person xml:id="pmb6354">
                <persName>Bois, Curt</persName>
-               <idno type="GND">https://d-nb.info/gnd/118512994</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-324">
+            <person xml:id="pmb10980">
                <persName>Bonn, Ferdinand</persName>
-               <idno type="GND">https://d-nb.info/gnd/118625543</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-614">
+            <person xml:id="pmb119703">
                <persName>Damita, Lily</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061430359</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1023">
+            <person xml:id="pmb115025">
                <persName>Gerron, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1486">
+            <person xml:id="pmb120143">
                <persName>Kertész, Mihaly</persName>
-               <idno type="GND">https://d-nb.info/gnd/1216510946</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1608">
+            <person xml:id="pmb2959">
                <persName>Lantz, Adolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1631">
+            <person xml:id="pmb120144">
                <persName>Leffler, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116855797</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2186">
+            <person xml:id="pmb119520">
                <persName>Platen, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116206659</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2641">
+            <person xml:id="pmb121800">
                <persName>Stern, Artur</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2697">
+            <person xml:id="pmb119880">
                <persName>Szöreghi, Julius von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061649415</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2771">
+            <person xml:id="pmb10253">
                <persName>Trevor, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
             </person>
          </listPerson>
          <listPlace>

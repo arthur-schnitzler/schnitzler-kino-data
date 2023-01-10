@@ -90,33 +90,28 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-12">
+            <person xml:id="pmb119258">
                <persName>Abramson, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/127485562</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-116">
+            <person xml:id="pmb13601">
                <persName>Austin, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/1147008698</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-401">
+            <person xml:id="pmb121651">
                <persName>Brundage, Mathilde</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-558">
+            <person xml:id="pmb114683">
                <persName>Coogan, Jackie</persName>
-               <idno type="GND">https://d-nb.info/gnd/12489366X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1032">
+            <person xml:id="pmb121652">
                <persName>Gillingwater, Claude</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1236">
+            <person xml:id="pmb7758">
                <persName>Heerman, Victor</persName>
-               <idno type="GND">https://d-nb.info/gnd/140807462</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1823">
+            <person xml:id="pmb119259">
                <persName>Marks, Patsy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1159247749</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1835">
+            <person xml:id="pmb121653">
                <persName>Martin, Shirley Vance</persName>
             </person>
          </listPerson>

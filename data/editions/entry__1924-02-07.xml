@@ -99,36 +99,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-110">
+            <person xml:id="pmb119581">
                <persName>Auen, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/116376805</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-978">
+            <person xml:id="pmb120199">
                <persName>Galaor, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1057048461</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1152">
+            <person xml:id="pmb5288">
                <persName>Haack, Käthe</persName>
-               <idno type="GND">https://d-nb.info/gnd/118543997</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1312">
+            <person xml:id="pmb119982">
                <persName>Hollay, Camilla von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1566">
+            <person xml:id="pmb3656">
                <persName>Kühne, Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1658">
+            <person xml:id="pmb8602">
                <persName>Lettinger, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2337">
+            <person xml:id="pmb9535">
                <persName>Rippert, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062445198</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2811">
+            <person xml:id="pmb119563">
                <persName>Vanloo, Rolf E.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013990633</idno>
             </person>
          </listPerson>
          <listPlace>

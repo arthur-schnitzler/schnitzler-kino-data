@@ -93,24 +93,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-639">
+            <person xml:id="pmb120440">
                <persName>Day, Marceline</persName>
-               <idno type="GND">https://d-nb.info/gnd/136910246</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1027">
+            <person xml:id="pmb121457">
                <persName>Gibbon, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/174310161</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1465">
+            <person xml:id="pmb8155">
                <persName>Keaton, Buster</persName>
-               <idno type="GND">https://d-nb.info/gnd/118560875</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2512">
+            <person xml:id="pmb122023">
                <persName>Sedgewick, Edward</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2957">
+            <person xml:id="pmb119447">
                <persName>Winter, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
             </person>
          </listPerson>
          <listPlace>

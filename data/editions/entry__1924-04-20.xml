@@ -92,42 +92,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-1">
+            <person xml:id="pmb121621">
                <persName>?, Annie</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-5">
+            <person xml:id="pmb121622">
                <persName>?, Helene</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-560">
+            <person xml:id="pmb119077">
                <persName>Cooke, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1141821079</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1683">
+            <person xml:id="pmb119080">
                <persName>Linder, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/119123703</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1929">
+            <person xml:id="pmb119081">
                <persName>Miranda, Tom</persName>
-               <idno type="GND">https://d-nb.info/gnd/14181084X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1949">
+            <person xml:id="pmb119082">
                <persName>Montana, Bull</persName>
-               <idno type="GND">https://d-nb.info/gnd/140023186</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2270">
+            <person xml:id="pmb119083">
                <persName>Rankin, Caroline</persName>
-               <idno type="GND">https://d-nb.info/gnd/1016127073</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2470">
+            <person xml:id="pmb12698">
                <persName>Schnitzler, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848693</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
          </listPerson>
          <listPlace>

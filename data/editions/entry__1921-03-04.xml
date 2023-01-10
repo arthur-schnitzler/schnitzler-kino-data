@@ -86,40 +86,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-404">
+            <person xml:id="pmb121173">
                <persName>Bryant, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/137608322</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-449">
+            <person xml:id="pmb14848">
                <persName>Capellani, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/128643048</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-591">
+            <person xml:id="pmb121962">
                <persName>Crute, Sally</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-875">
+            <person xml:id="pmb121174">
                <persName>Fernandez, E. L.</persName>
-               <idno type="GND">https://d-nb.info/gnd/122949474X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-980">
+            <person xml:id="pmb121175">
                <persName>Gallaher, Donald</persName>
-               <idno type="GND">https://d-nb.info/gnd/1230837817</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1501">
+            <person xml:id="pmb119483">
                <persName>Kistemaeckers, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1027092217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1846">
+            <person xml:id="pmb119778">
                <persName>Mathis, June</persName>
-               <idno type="GND">https://d-nb.info/gnd/137458029</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2017">
+            <person xml:id="pmb121176">
                <persName>Nazimova, Alla</persName>
-               <idno type="GND">https://d-nb.info/gnd/119540649</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2295">
+            <person xml:id="pmb121179">
                <persName>Reinhard, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/17009006X</idno>
             </person>
          </listPerson>
          <listPlace>

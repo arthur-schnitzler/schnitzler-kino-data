@@ -89,39 +89,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-203">
+            <person xml:id="pmb120623">
                <persName>Belajeff, Olga</persName>
-               <idno type="GND">https://d-nb.info/gnd/137716273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-226">
+            <person xml:id="pmb112682">
                <persName>Berber, Anita</persName>
-               <idno type="GND">https://d-nb.info/gnd/11865568X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-781">
+            <person xml:id="pmb6969">
                <persName>Eisenbach, Heinrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1561">
+            <person xml:id="pmb119854">
                <persName>Kronegg, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061752240</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1667">
+            <person xml:id="pmb121724">
                <persName>Liebmann, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2252">
+            <person xml:id="pmb22932">
                <persName>Putti, Lya de</persName>
-               <idno type="GND">https://d-nb.info/gnd/11911657X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2498">
+            <person xml:id="pmb9830">
                <persName>Schünzel, Reinhold</persName>
-               <idno type="GND">https://d-nb.info/gnd/118892223</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2547">
+            <person xml:id="pmb120624">
                <persName>Sieber, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017177805</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2605">
+            <person xml:id="pmb120625">
                <persName>Springer, Armin</persName>
-               <idno type="GND">https://d-nb.info/gnd/133637352</idno>
             </person>
          </listPerson>
          <listPlace>

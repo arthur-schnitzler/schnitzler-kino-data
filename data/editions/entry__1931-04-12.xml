@@ -104,64 +104,53 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-68">
+            <person xml:id="pmb121763">
                <persName>Annabella</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-259">
+            <person xml:id="pmb119931">
                <persName>Berr, Georges</persName>
-               <idno type="GND">https://d-nb.info/gnd/1044369981</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-512">
+            <person xml:id="pmb6657">
                <persName>Clair, René</persName>
-               <idno type="GND">https://d-nb.info/gnd/118669400</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-520">
+            <person xml:id="pmb15015">
                <persName>Clauser, Suzanne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1011">
+            <person xml:id="pmb115850">
                <persName>Georg, Rita</persName>
-               <idno type="GND">https://d-nb.info/gnd/106154124X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1111">
+            <person xml:id="pmb119933">
                <persName>Gréville, Vanda</persName>
-               <idno type="GND">https://d-nb.info/gnd/1226708013</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1134">
+            <person xml:id="pmb119934">
                <persName>Guillemaud, Marcel</persName>
-               <idno type="GND">https://d-nb.info/gnd/1054770905</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1630">
+            <person xml:id="pmb121764">
                <persName>Lefébre, René</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1822">
+            <person xml:id="pmb8820">
                <persName>Marischka, Hubert</persName>
-               <idno type="GND">https://d-nb.info/gnd/116067411</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2075">
+            <person xml:id="pmb119935">
                <persName>Ollivier, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/1205670815</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2663">
+            <person xml:id="pmb12870">
                <persName>Strauss, Richard</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2669">
+            <person xml:id="pmb119937">
                <persName>Stroesco, Constantin</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014276497</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2700">
+            <person xml:id="pmb119938">
                <persName>Talazac, Odette</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062387538</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3028">
+            <person xml:id="pmb2312">
                <persName>Zuckerkandl, Berta</persName>
-               <idno type="GND">https://d-nb.info/gnd/118758160</idno>
             </person>
          </listPerson>
          <listPlace>

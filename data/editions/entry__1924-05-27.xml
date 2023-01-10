@@ -99,47 +99,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-474">
+            <person xml:id="pmb121285">
                <persName>Carter, Lincoln J.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1196242305</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-728">
+            <person xml:id="pmb121288">
                <persName>Dunkinson, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1244868892</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-734">
+            <person xml:id="pmb15550">
                <persName>Durning, Bernard J.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1129620808</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1368">
+            <person xml:id="pmb121984">
                <persName>Jaccard, Jacques</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1409">
+            <person xml:id="pmb120973">
                <persName>Jones, Buck [Charles]</persName>
-               <idno type="GND">https://d-nb.info/gnd/137935943</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1843">
+            <person xml:id="pmb121289">
                <persName>Mason, James</persName>
-               <idno type="GND">https://d-nb.info/gnd/121650626</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1896">
+            <person xml:id="pmb8906">
                <persName>Menjou, Adolphe</persName>
-               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2128">
+            <person xml:id="pmb121290">
                <persName>Parsons, Agnes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229685871</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2148">
+            <person xml:id="pmb120433">
                <persName>Percy, Eileen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017961859</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2623">
+            <person xml:id="pmb121291">
                <persName>Steele, William</persName>
-               <idno type="GND">https://d-nb.info/gnd/1137291966</idno>
             </person>
          </listPerson>
          <listPlace>

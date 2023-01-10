@@ -69,17 +69,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-193">
+            <person xml:id="pmb10860">
                <persName>Beer-Hofmann, Paula</persName>
-               <idno type="GND">https://d-nb.info/gnd/119044994</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1893">
+            <person xml:id="pmb3119">
                <persName>Menczel, Philipp</persName>
-               <idno type="GND">https://d-nb.info/gnd/116876514</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1894">
+            <person xml:id="pmb21304">
                <persName>Menczel, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/116876522</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -102,41 +102,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-28">
+            <person xml:id="pmb121687">
                <persName>Alberti, Fritz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-703">
+            <person xml:id="pmb121641">
                <persName>Dostojewski, Fjodor</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1543">
+            <person xml:id="pmb11975">
                <persName>Kortner, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2094">
+            <person xml:id="pmb119544">
                <persName>Ozep, Fedor</persName>
-               <idno type="GND">https://d-nb.info/gnd/172959756</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2192">
+            <person xml:id="pmb9312">
                <persName>Pohl, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/116260513</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2204">
+            <person xml:id="pmb22698">
                <persName>Pollaczek, Karl Friedrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2274">
+            <person xml:id="pmb11975">
                <persName>Rasp, Fritz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2636">
+            <person xml:id="pmb10028">
                <persName>Sten, Anna</persName>
-               <idno type="GND">https://d-nb.info/gnd/138875537</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2849">
+            <person xml:id="pmb119546">
                <persName>Waag, Hanna</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061924149</idno>
             </person>
          </listPerson>
          <listPlace>

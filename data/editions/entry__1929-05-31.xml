@@ -101,28 +101,23 @@ Premierennotiz NFP 24.5.1929, S. 12, für 31.5.1929. Notiz und Anzeige NFP 31.5.
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-89">
+            <person xml:id="pmb121698">
                <persName>Arno, Siegfried</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-573">
+            <person xml:id="pmb120079">
                <persName>Cortez, Ricardo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013862333</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-668">
+            <person xml:id="pmb119489">
                <persName>Desni, Xenia</persName>
-               <idno type="GND">https://d-nb.info/gnd/101862452X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1416">
+            <person xml:id="pmb120081">
                <persName>Joseph-Renaud, Jean</persName>
-               <idno type="GND">https://d-nb.info/gnd/1225429374</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1580">
+            <person xml:id="pmb120083">
                <persName>Lagrange, Louise</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061736512</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2151">
+            <person xml:id="pmb22442">
                <persName>Perret, Léonce</persName>
-               <idno type="GND">https://d-nb.info/gnd/132699435</idno>
             </person>
          </listPerson>
          <listPlace>

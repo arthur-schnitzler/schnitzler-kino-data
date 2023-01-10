@@ -93,47 +93,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-11">
+            <person xml:id="pmb119250">
                <persName>Abel, Victor</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062154703</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-54">
+            <person xml:id="pmb121649">
                <persName>Alten, Truus von</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-277">
+            <person xml:id="pmb94953">
                <persName>Bill, Teddy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056825936</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-802">
+            <person xml:id="pmb119252">
                <persName>Engels, Vera</persName>
-               <idno type="GND">https://d-nb.info/gnd/116497513</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1548">
+            <person xml:id="pmb8319">
                <persName>Kracauer, Siegfried</persName>
-               <idno type="GND">https://d-nb.info/gnd/1251917062</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2340">
+            <person xml:id="pmb119253">
                <persName>Ritter, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/118946560</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2371">
+            <person xml:id="pmb119255">
                <persName>Rommer, Claire</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019375620</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2424">
+            <person xml:id="pmb119257">
                <persName>Samborski, J. Kowal</persName>
-               <idno type="GND">https://d-nb.info/gnd/1203766440</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2580">
+            <person xml:id="pmb121650">
                <persName>Solm, Fred</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2632">
+            <person xml:id="pmb10020">
                <persName>Steinhoff, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118993933</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2746">
+            <person xml:id="pmb10221">
                <persName>Tiedtke, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
             </person>
          </listPerson>
          <listPlace>

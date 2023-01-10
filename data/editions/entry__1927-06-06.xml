@@ -102,45 +102,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-172">
+            <person xml:id="pmb10844">
                <persName>Bassermann, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-522">
+            <person xml:id="pmb5146">
                <persName>Cleve, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1252">
+            <person xml:id="pmb119178">
                <persName>Henckels, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1423">
+            <person xml:id="pmb119874">
                <persName>Jungk, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/117238600</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1588">
+            <person xml:id="pmb120489">
                <persName>Land, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/116669888</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1904">
+            <person xml:id="pmb120491">
                <persName>Meszaros, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031959890</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2127">
+            <person xml:id="pmb119356">
                <persName>Parry, Lee</persName>
-               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2436">
+            <person xml:id="pmb24003">
                <persName>Sauer, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2693">
+            <person xml:id="pmb119159">
                <persName>Szakall, Szöke</persName>
-               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2884">
+            <person xml:id="pmb120492">
                <persName>Wasa, Elsa</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061926184</idno>
             </person>
          </listPerson>
          <listPlace>

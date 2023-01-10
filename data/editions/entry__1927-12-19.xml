@@ -96,23 +96,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-493">
+            <person xml:id="pmb121992">
                <persName>Chantui</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-563">
+            <person xml:id="pmb15100">
                <persName>Cooper, Merian C.</persName>
-               <idno type="GND">https://d-nb.info/gnd/120909855</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1563">
+            <person xml:id="pmb121309">
                <persName>Kru</persName>
-               <idno type="GND">https://d-nb.info/gnd/133436721</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2010">
+            <person xml:id="pmb121993">
                <persName>Nah</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2474">
+            <person xml:id="pmb9751">
                <persName>Schoedsack, Ernest B.</persName>
-               <idno type="GND">https://d-nb.info/gnd/138302731</idno>
             </person>
          </listPerson>
          <listPlace>

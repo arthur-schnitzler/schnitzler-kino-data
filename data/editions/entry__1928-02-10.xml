@@ -99,52 +99,41 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-39">
+            <person xml:id="pmb114115">
                <persName>Alexander, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-825">
+            <person xml:id="pmb119089">
                <persName>Eva, Evi</persName>
-               <idno type="GND">https://d-nb.info/gnd/106178925X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-897">
+            <person xml:id="pmb119695">
                <persName>Fleck, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/1011893878</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-898">
+            <person xml:id="pmb119697">
                <persName>Fleck, Louise</persName>
-               <idno type="GND">https://d-nb.info/gnd/116598271</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1028">
+            <person xml:id="pmb119699">
                <persName>Gibson, Vivian</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062485130</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1086">
+            <person xml:id="pmb7522">
                <persName>Granichstädten, Bruno</persName>
-               <idno type="GND">https://d-nb.info/gnd/133464490</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1424">
+            <person xml:id="pmb119129">
                <persName>Junkermann, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1457">
+            <person xml:id="pmb19175">
                <persName>Kastner, Bruno</persName>
-               <idno type="GND">https://d-nb.info/gnd/116066008</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1821">
+            <person xml:id="pmb8817">
                <persName>Marischka, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/120522004</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2161">
+            <person xml:id="pmb115703">
                <persName>Petrovich, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031491554</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2450">
+            <person xml:id="pmb119701">
                <persName>Schirokauer, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/117276464</idno>
             </person>
          </listPerson>
          <listPlace>

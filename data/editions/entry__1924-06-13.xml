@@ -93,44 +93,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-10">
+            <person xml:id="pmb5903">
                <persName>Abel, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-26">
+            <person xml:id="pmb119193">
                <persName>Albani, Marcella</persName>
-               <idno type="GND">https://d-nb.info/gnd/11627526X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-688">
+            <person xml:id="pmb119195">
                <persName>Döblin, Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/116152788</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1305">
+            <person xml:id="pmb121642">
                <persName>Hofmann, Ernst</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1439">
+            <person xml:id="pmb119197">
                <persName>Kaiser-Titz, Erich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116028769</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2311">
+            <person xml:id="pmb115262">
                <persName>Rex, Ludwig</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062309510</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2440">
+            <person xml:id="pmb24055">
                <persName>Schamberg, Guido</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061453197</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2520">
+            <person xml:id="pmb119199">
                <persName>Selva-Goebel, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061751821</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2655">
+            <person xml:id="pmb119200">
                <persName>Storm, Olaf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062011155</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2911">
+            <person xml:id="pmb119201">
                <persName>Welcker, Gertrude</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062300831</idno>
             </person>
          </listPerson>
          <listPlace>

@@ -93,61 +93,47 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-27">
+            <person xml:id="pmb5952">
                <persName>Albers, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-60">
+            <person xml:id="pmb119449">
                <persName>Ander, Charlotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019197625</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-450">
+            <person xml:id="pmb14850">
                <persName>Cappellini, Arnoldo</persName>
-               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-805">
+            <person xml:id="pmb119480">
                <persName>Englisch, Lucie</persName>
-               <idno type="GND">https://d-nb.info/gnd/122067975</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-842">
+            <person xml:id="pmb117383">
                <persName>Falkenstein, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-959">
+            <person xml:id="pmb7276">
                <persName>Froelich, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/11683093X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1383">
+            <person xml:id="pmb114705">
                <persName>Janssen, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1501">
+            <person xml:id="pmb119483">
                <persName>Kistemaeckers, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1027092217</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2091">
+            <person xml:id="pmb119486">
                <persName>Ostyn, Berthe</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062133439</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2299">
+            <person xml:id="pmb9472">
                <persName>Reisch, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2683">
+            <person xml:id="pmb119487">
                <persName>Supper, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/118620088</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2864">
+            <person xml:id="pmb116939">
                <persName>Wallburg, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/119368080</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2987">
+            <person xml:id="pmb3963">
                <persName>Wüst, Ida</persName>
-               <idno type="GND">https://d-nb.info/gnd/116119667</idno>
             </person>
          </listPerson>
          <listPlace>

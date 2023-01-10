@@ -99,34 +99,28 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-518">
+            <person xml:id="pmb120012">
                <persName>Clary, Charles</persName>
-               <idno type="GND">https://d-nb.info/gnd/111603252X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-704">
+            <person xml:id="pmb121358">
                <persName>Dougherty, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050274059</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-828">
+            <person xml:id="pmb121359">
                <persName>Evans, Larry</persName>
-               <idno type="GND">https://d-nb.info/gnd/140956859</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-920">
+            <person xml:id="pmb16403">
                <persName>Forman, Tom</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1716">
+            <person xml:id="pmb120024">
                <persName>Loring, Hope</persName>
-               <idno type="GND">https://d-nb.info/gnd/1047367130</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1758">
+            <person xml:id="pmb121361">
                <persName>MacDonald, Catherine</persName>
-               <idno type="GND">https://d-nb.info/gnd/170806871</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2650">
+            <person xml:id="pmb121362">
                <persName>Stockdale, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1222206471</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2948">
+            <person xml:id="pmb122006">
                <persName>Willis, Paul</persName>
             </person>
          </listPerson>

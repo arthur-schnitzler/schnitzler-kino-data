@@ -99,56 +99,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-53">
+            <person xml:id="pmb13328">
                <persName>Alten, Ferdinand von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-139">
+            <person xml:id="pmb10825">
                <persName>Balzac, Honoré de</persName>
-               <idno type="GND">https://d-nb.info/gnd/118506358</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-418">
+            <person xml:id="pmb11046">
                <persName>Burg, Eugen</persName>
-               <idno type="GND">https://d-nb.info/gnd/117164062</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-858">
+            <person xml:id="pmb119832">
                <persName>Fayette, Andrée La</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062051920</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-975">
+            <person xml:id="pmb119833">
                <persName>Fütterer, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/138898278</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1023">
+            <person xml:id="pmb115025">
                <persName>Gerron, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1504">
+            <person xml:id="pmb121623">
                <persName>Klaudy, Lilly</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1903">
+            <person xml:id="pmb2885">
                <persName>Messer, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/1177079917</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1986">
+            <person xml:id="pmb119835">
                <persName>Münchhofen, Helene von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061279413</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2051">
+            <person xml:id="pmb21992">
                <persName>Noa, Manfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/172286603</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2727">
+            <person xml:id="pmb119837">
                <persName>Than, Josef</persName>
-               <idno type="GND">https://d-nb.info/gnd/117298948</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2897">
+            <person xml:id="pmb10457">
                <persName>Wegener, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/118765981</idno>
             </person>
          </listPerson>
          <listPlace>

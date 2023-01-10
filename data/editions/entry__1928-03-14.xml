@@ -97,51 +97,41 @@ Mit C. P. silb. Brunnen.– </ab>
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-996">
+            <person xml:id="pmb121689">
                <persName>Garrison, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1083">
+            <person xml:id="pmb119706">
                <persName>Gralla, Dina</persName>
-               <idno type="GND">https://d-nb.info/gnd/1018977155</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1176">
+            <person xml:id="pmb121627">
                <persName>Hallier, Hélène</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1178">
+            <person xml:id="pmb120707">
                <persName>Halm, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062056973</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1201">
+            <person xml:id="pmb121293">
                <persName>Hardy, Sam</persName>
-               <idno type="GND">https://d-nb.info/gnd/1049999606</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1625">
+            <person xml:id="pmb119356">
                <persName>Lee, Gwen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1953">
+            <person xml:id="pmb21581">
                <persName>Moore, Colleen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1022915096</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1978">
+            <person xml:id="pmb120394">
                <persName>Mulhall, Jack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1229049746</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2137">
+            <person xml:id="pmb119156">
                <persName>Paulig, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/116065109</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2432">
+            <person xml:id="pmb23965">
                <persName>Santell, Alfred</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062357728</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2480">
+            <person xml:id="pmb9825">
                <persName>Schönfelder, Erich</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062382404</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2831">
+            <person xml:id="pmb119097">
                <persName>Vespermann, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/1031195793</idno>
             </person>
          </listPerson>
          <listPlace>

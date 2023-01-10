@@ -92,44 +92,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-956">
+            <person xml:id="pmb94101">
                <persName>Fritsch, Willy</persName>
-               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1216">
+            <person xml:id="pmb7717">
                <persName>Harvey, Lilian</persName>
-               <idno type="GND">https://d-nb.info/gnd/118546473</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1525">
+            <person xml:id="pmb121576">
                <persName>Koeppke, Margarete</persName>
-               <idno type="GND">https://d-nb.info/gnd/1020866438</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1667">
+            <person xml:id="pmb121724">
                <persName>Liebmann, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2351">
+            <person xml:id="pmb9539">
                <persName>Roberts, Ralph Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/119046334</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2403">
+            <person xml:id="pmb9621">
                <persName>Rühmann, Heinz</persName>
-               <idno type="GND">https://d-nb.info/gnd/118603949</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2502">
+            <person xml:id="pmb24609">
                <persName>Schwarz, Hanns</persName>
-               <idno type="GND">https://d-nb.info/gnd/138875057</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2557">
+            <person xml:id="pmb24941">
                <persName>Sima, Oskar</persName>
-               <idno type="GND">https://d-nb.info/gnd/130872091</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2827">
+            <person xml:id="pmb10348">
                <persName>Verneuil, Louis</persName>
-               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
             </person>
          </listPerson>
          <listPlace>

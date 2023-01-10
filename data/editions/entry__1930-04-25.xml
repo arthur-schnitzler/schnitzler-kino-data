@@ -104,69 +104,55 @@ Ankündigung NFP 14.3.1930, S. 10. Notizen NFP 4.4.1930, S. 10, und NFP 16.5.193
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-27">
+            <person xml:id="pmb5952">
                <persName>Albers, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-494">
+            <person xml:id="pmb14920">
                <persName>Chaplin, Charles</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-673">
+            <person xml:id="pmb113240">
                <persName>Diegelmann, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/11610046X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-677">
+            <person xml:id="pmb6824">
                <persName>Dietrich, Marlene</persName>
-               <idno type="GND">https://d-nb.info/gnd/118525565</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1023">
+            <person xml:id="pmb115025">
                <persName>Gerron, Kurt</persName>
-               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1351">
+            <person xml:id="pmb119475">
                <persName>Huszar-Puffy, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1136430121</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1379">
+            <person xml:id="pmb11816">
                <persName>Jannings, Emil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1799">
+            <person xml:id="pmb12170">
                <persName>Mann, Heinrich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1984">
+            <person xml:id="pmb119477">
                <persName>Müller, Rolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/1265208190</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2416">
+            <person xml:id="pmb119478">
                <persName>Sahl, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118750747</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2469">
+            <person xml:id="pmb12692">
                <persName>Schnitzler, Heinrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2643">
+            <person xml:id="pmb119322">
                <persName>Sternberg, Josef von</persName>
-               <idno type="GND">https://d-nb.info/gnd/118753630</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2806">
+            <person xml:id="pmb117683">
                <persName>Valetti, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/117341150</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2846">
+            <person xml:id="pmb13014">
                <persName>Vollmoeller, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/101328354</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2958">
+            <person xml:id="pmb13138">
                <persName>Winterstein, Eduard von</persName>
-               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3029">
+            <person xml:id="pmb10692">
                <persName>Zuckmayer, Carl</persName>
             </person>
          </listPerson>

@@ -99,46 +99,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-511">
+            <person xml:id="pmb119379">
                <persName>Clair, Malcolm St.</persName>
-               <idno type="GND">https://d-nb.info/gnd/120645041</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-536">
+            <person xml:id="pmb120731">
                <persName>Collings, Pierre</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061614638</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-838">
+            <person xml:id="pmb121049">
                <persName>Falk, Henri</persName>
-               <idno type="GND">https://d-nb.info/gnd/1053273428</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1316">
+            <person xml:id="pmb119728">
                <persName>Holmes, Stuart</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062172388</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1956">
+            <person xml:id="pmb121333">
                <persName>Moore, Tom</persName>
-               <idno type="GND">https://d-nb.info/gnd/1138839833</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1976">
+            <person xml:id="pmb121998">
                <persName>Mosquini, Marie</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2019">
+            <person xml:id="pmb9036">
                <persName>Negri, Pola</persName>
-               <idno type="GND">https://d-nb.info/gnd/118843249</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2154">
+            <person xml:id="pmb121999">
                <persName>Peter, René</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2214">
+            <person xml:id="pmb121334">
                <persName>Pont, Miss du</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056197331</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2320">
+            <person xml:id="pmb122000">
                <persName>Richmond, Warner</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2640">
+            <person xml:id="pmb119125">
                <persName>Sterling, Ford</persName>
-               <idno type="GND">https://d-nb.info/gnd/133058875</idno>
             </person>
          </listPerson>
          <listPlace>

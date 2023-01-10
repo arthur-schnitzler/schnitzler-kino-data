@@ -99,48 +99,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-28">
+            <person xml:id="pmb121687">
                <persName>Alberti, Fritz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-50">
+            <person xml:id="pmb119561">
                <persName>Alma, Marian</persName>
-               <idno type="GND">https://d-nb.info/gnd/116287969</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-273">
+            <person xml:id="pmb10925">
                <persName>Biensfeldt, Paul</persName>
-               <idno type="GND">https://d-nb.info/gnd/116165685</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-965">
+            <person xml:id="pmb119436">
                <persName>Fryland, Alphons</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019855827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1163">
+            <person xml:id="pmb7656">
                <persName>Haid, Liane</persName>
-               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1197">
+            <person xml:id="pmb119513">
                <persName>Hardt, Harry</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2078">
+            <person xml:id="pmb22163">
                <persName>Ondra, Anny</persName>
-               <idno type="GND">https://d-nb.info/gnd/1081829273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2140">
+            <person xml:id="pmb119562">
                <persName>Pavanelli, Livio</persName>
-               <idno type="GND">https://d-nb.info/gnd/116069902</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2239">
+            <person xml:id="pmb117374">
                <persName>Pröckl, Ernst</persName>
-               <idno type="GND">https://d-nb.info/gnd/116292148</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2629">
+            <person xml:id="pmb25378">
                <persName>Stein, Paul Ludwig</persName>
-               <idno type="GND">https://d-nb.info/gnd/141369914</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2811">
+            <person xml:id="pmb119563">
                <persName>Vanloo, Rolf E.</persName>
-               <idno type="GND">https://d-nb.info/gnd/1013990633</idno>
             </person>
          </listPerson>
          <listPlace>

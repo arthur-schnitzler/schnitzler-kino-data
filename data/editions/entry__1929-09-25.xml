@@ -104,45 +104,37 @@ Bericht von der Berliner Premiere (und auch zum Wettrennen um den Tonfilm zwisch
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-125">
+            <person xml:id="pmb13667">
                <persName>Bacon, Lloyd</persName>
-               <idno type="GND">https://d-nb.info/gnd/13031580X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-129">
+            <person xml:id="pmb120269">
                <persName>Baker, C. Graham</persName>
-               <idno type="GND">https://d-nb.info/gnd/139840281</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-384">
+            <person xml:id="pmb119378">
                <persName>Bronson, Betty</persName>
-               <idno type="GND">https://d-nb.info/gnd/137417446</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-422">
+            <person xml:id="pmb120270">
                <persName>Burrows, Leslie</persName>
-               <idno type="GND">https://d-nb.info/gnd/140831274</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-729">
+            <person xml:id="pmb120236">
                <persName>Dunn, Josephine</persName>
-               <idno type="GND">https://d-nb.info/gnd/1017964688</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1292">
+            <person xml:id="pmb11704">
                <persName>Hirschfeld, Ludwig</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1336">
+            <person xml:id="pmb120017">
                <persName>Housman, Arthur</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061470067</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1369">
+            <person xml:id="pmb121827">
                <persName>Jackson, Joseph</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1407">
+            <person xml:id="pmb8038">
                <persName>Jolson, Al</persName>
-               <idno type="GND">https://d-nb.info/gnd/118864270</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1622">
+            <person xml:id="pmb119356">
                <persName>Lee, David</persName>
-               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1836">
+            <person xml:id="pmb121824">
                <persName>Martindel, Edward</persName>
             </person>
          </listPerson>

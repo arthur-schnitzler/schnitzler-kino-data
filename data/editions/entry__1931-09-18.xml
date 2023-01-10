@@ -101,31 +101,26 @@ Ankündigung NFP 13.3.1931, S. 9. Notizen NFP 20.3.1931, S. 7, NFP 3.3.1931, S. 
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-371">
+            <person xml:id="pmb121115">
                <persName>Bressart, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019704373</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-522">
+            <person xml:id="pmb5146">
                <persName>Cleve, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1983">
+            <person xml:id="pmb121798">
                <persName>Müller, Renate</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2495">
+            <person xml:id="pmb24560">
                <persName>Schulz, Franz</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2657">
+            <person xml:id="pmb121118">
                <persName>Stössel, Ludwig</persName>
-               <idno type="GND">https://d-nb.info/gnd/117266264</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2731">
+            <person xml:id="pmb10206">
                <persName>Thiele, Wilhelm</persName>
-               <idno type="GND">https://d-nb.info/gnd/124979513</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2734">
+            <person xml:id="pmb12945">
                <persName>Thimig, Hermann</persName>
-               <idno type="GND">https://d-nb.info/gnd/118757121</idno>
             </person>
          </listPerson>
          <listPlace>

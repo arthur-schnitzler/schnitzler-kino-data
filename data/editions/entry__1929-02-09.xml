@@ -127,60 +127,47 @@
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-142">
+            <person xml:id="pmb13712">
                <persName>Bandler, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/119140438</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-522">
+            <person xml:id="pmb5146">
                <persName>Cleve, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-611">
+            <person xml:id="pmb6746">
                <persName>Dagover, Lil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-628">
+            <person xml:id="pmb120328">
                <persName>Davert, José</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061263703</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-685">
+            <person xml:id="pmb121837">
                <persName>Dix, Jean</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1974">
+            <person xml:id="pmb119147">
                <persName>Mosjoukine, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2156">
+            <person xml:id="pmb120084">
                <persName>Petersen, Agnes</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062300017</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2209">
+            <person xml:id="pmb119102">
                <persName>Pollak, Frieda </persName>
-               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2327">
+            <person xml:id="pmb23413">
                <persName>Righelli, Gennaro</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061722260</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2637">
+            <person xml:id="pmb28820">
                <persName>Stendhal</persName>
-               <idno type="GND">https://d-nb.info/gnd/118617648</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2753">
+            <person xml:id="pmb120329">
                <persName>Tolnay, Emmy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061450023</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2886">
+            <person xml:id="pmb13055">
                <persName>Wassermann, Jakob</persName>
-               <idno type="GND">https://d-nb.info/gnd/118629387</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2887">
+            <person xml:id="pmb13058">
                <persName>Wassermann, Julie</persName>
-               <idno type="GND">https://d-nb.info/gnd/117149411</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2912">
+            <person xml:id="pmb13085">
                <persName>Wellesz, Egon</persName>
-               <idno type="GND">https://d-nb.info/gnd/118630830</idno>
             </person>
          </listPerson>
          <listPlace>

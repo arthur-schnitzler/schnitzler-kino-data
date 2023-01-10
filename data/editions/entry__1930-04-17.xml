@@ -99,55 +99,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-156">
+            <person xml:id="pmb6124">
                <persName>Baroncelli, Jacques de</persName>
-               <idno type="GND">https://d-nb.info/gnd/120705184</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-196">
+            <person xml:id="pmb120113">
                <persName>Beery, Wallace</persName>
-               <idno type="GND">https://d-nb.info/gnd/1019429607</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-417">
+            <person xml:id="pmb120287">
                <persName>Buñuel, Luis</persName>
-               <idno type="GND">https://d-nb.info/gnd/118517465</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-598">
+            <person xml:id="pmb6734">
                <persName>Cummings, Irving</persName>
-               <idno type="GND">https://d-nb.info/gnd/138342393</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-603">
+            <person xml:id="pmb120402">
                <persName>Curwood, James Oliver</persName>
-               <idno type="GND">https://d-nb.info/gnd/119235951</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-669">
+            <person xml:id="pmb120403">
                <persName>Destac, Raymond</persName>
-               <idno type="GND">https://d-nb.info/gnd/141328398</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1259">
+            <person xml:id="pmb120404">
                <persName>Herford, William</persName>
-               <idno type="GND">https://d-nb.info/gnd/1037627105</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1509">
+            <person xml:id="pmb19421">
                <persName>Klein, Robert</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1725">
+            <person xml:id="pmb8719">
                <persName>Louÿs, Pierre</persName>
-               <idno type="GND">https://d-nb.info/gnd/118780557</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1951">
+            <person xml:id="pmb21571">
                <persName>Montenegro, Conchita</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2060">
+            <person xml:id="pmb120405">
                <persName>Novak, Eva</persName>
-               <idno type="GND">https://d-nb.info/gnd/130318019</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2331">
+            <person xml:id="pmb120406">
                <persName>Rin-Tin-Tin</persName>
-               <idno type="GND">https://d-nb.info/gnd/1181895960</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2932">
+            <person xml:id="pmb120407">
                <persName>Whitson, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/17059341X</idno>
             </person>
          </listPerson>
          <listPlace>

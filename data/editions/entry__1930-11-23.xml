@@ -108,61 +108,49 @@ Nachgewiesene Spielorte: Gartenbau-, Kolosseum- und Ufa-Ton-Kino (NFP 23.11.1930
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-24">
+            <person xml:id="pmb10752">
                <persName>Albach-Retty, Rosa</persName>
-               <idno type="GND">https://d-nb.info/gnd/118501356</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-39">
+            <person xml:id="pmb114115">
                <persName>Alexander, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-90">
+            <person xml:id="pmb121685">
                <persName>Arnold, Ernst</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-253">
+            <person xml:id="pmb10896">
                <persName>Bernauer, Rudolf</persName>
-               <idno type="GND">https://d-nb.info/gnd/118656295</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1373">
+            <person xml:id="pmb18738">
                <persName>Jacoby, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/1243843225</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1550">
+            <person xml:id="pmb11981">
                <persName>Kramer, Leopold</persName>
-               <idno type="GND">https://d-nb.info/gnd/116376309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1972">
+            <person xml:id="pmb8978">
                <persName>Moser, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/135781868</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2090">
+            <person xml:id="pmb27649">
                <persName>Österreicher, Rudolf</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2222">
+            <person xml:id="pmb119091">
                <persName>Potechina, Lydia</persName>
-               <idno type="GND">https://d-nb.info/gnd/1043652914</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2257">
+            <person xml:id="pmb119429">
                <persName>Raff, Friedrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/116323884</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2422">
+            <person xml:id="pmb2167">
                <persName>Salten, Felix</persName>
-               <idno type="GND">https://d-nb.info/gnd/118840819</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2733">
+            <person xml:id="pmb12939">
                <persName>Thimig, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/118757105</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2735">
+            <person xml:id="pmb12948">
                <persName>Thimig, Hugo</persName>
-               <idno type="GND">https://d-nb.info/gnd/11875713X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2801">
+            <person xml:id="pmb119431">
                <persName>Urgiß, Julius</persName>
-               <idno type="GND">https://d-nb.info/gnd/117315036</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3010">
+            <person xml:id="pmb121686">
                <persName>Ziegler, Arnold</persName>
             </person>
          </listPerson>

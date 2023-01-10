@@ -92,27 +92,23 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-611">
+            <person xml:id="pmb6746">
                <persName>Dagover, Lil</persName>
-               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-862">
+            <person xml:id="pmb16120">
                <persName>Fehér, Friedrich</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014759994</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1381">
+            <person xml:id="pmb122018">
                <persName>Janowitz, Horst</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1554">
+            <person xml:id="pmb121701">
                <persName>Krauß, Werner</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2818">
+            <person xml:id="pmb13004">
                <persName>Veidt, Conrad</persName>
-               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2938">
+            <person xml:id="pmb10519">
                <persName>Wiene, Robert</persName>
-               <idno type="GND">https://d-nb.info/gnd/118852485</idno>
             </person>
          </listPerson>
          <listPlace>

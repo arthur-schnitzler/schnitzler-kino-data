@@ -93,36 +93,29 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-178">
+            <person xml:id="pmb120534">
                <persName>Bauditz, Lise</persName>
-               <idno type="GND">https://d-nb.info/gnd/1050426231</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-484">
+            <person xml:id="pmb120535">
                <persName>Cervantes, Miguel</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056574100</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1474">
+            <person xml:id="pmb19262">
                <persName>Kempny, Hedy</persName>
-               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1616">
+            <person xml:id="pmb121876">
                <persName>Lauritzen, Lau Sr.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1774">
+            <person xml:id="pmb8773">
                <persName>Madsen, Harald, s. Pat und Patachon</persName>
-               <idno type="GND">https://d-nb.info/gnd/118730045</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1890">
+            <person xml:id="pmb120130">
                <persName>Melsing, Svend</persName>
-               <idno type="GND">https://d-nb.info/gnd/141197455</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2443">
+            <person xml:id="pmb119306">
                <persName>Schenstrøm, Carl, siehe Pat und Patachon</persName>
-               <idno type="GND">https://d-nb.info/gnd/118754602</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2839">
+            <person xml:id="pmb120536">
                <persName>Villa, Carmen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1216341389</idno>
             </person>
          </listPerson>
          <listPlace>

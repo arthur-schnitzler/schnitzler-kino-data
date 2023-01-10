@@ -99,54 +99,44 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-264">
+            <person xml:id="pmb6284">
                <persName>Berton, Pierre</persName>
-               <idno type="GND">https://d-nb.info/gnd/1020505656</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-740">
+            <person xml:id="pmb15575">
                <persName>Dwan, Allan</persName>
-               <idno type="GND">https://d-nb.info/gnd/124321208</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1074">
+            <person xml:id="pmb121923">
                <persName>Gottschalk, Ferdinand</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1221">
+            <person xml:id="pmb120874">
                <persName>Hatch, Riley</persName>
-               <idno type="GND">https://d-nb.info/gnd/1198770996</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1344">
+            <person xml:id="pmb120875">
                <persName>Hughes, Yvonne</persName>
-               <idno type="GND">https://d-nb.info/gnd/138798400</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1688">
+            <person xml:id="pmb119147">
                <persName>Linoff, Iwan</persName>
-               <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1754">
+            <person xml:id="pmb121924">
                <persName>Lytton, L. Rogers</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1765">
+            <person xml:id="pmb120876">
                <persName>Mack, Helen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1165272466</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2688">
+            <person xml:id="pmb25768">
                <persName>Swanson, Gloria</persName>
-               <idno type="GND">https://d-nb.info/gnd/122997506</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2745">
+            <person xml:id="pmb120879">
                <persName>Thurman, Mary</persName>
-               <idno type="GND">https://d-nb.info/gnd/117372552</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2826">
+            <person xml:id="pmb120880">
                <persName>Verne, Lucille La</persName>
-               <idno type="GND">https://d-nb.info/gnd/1014937914</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2841">
+            <person xml:id="pmb121925">
                <persName>Vino, Albert S. Le</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2881">
+            <person xml:id="pmb120881">
                <persName>Warner, H. B.</persName>
-               <idno type="GND">https://d-nb.info/gnd/115089394X</idno>
             </person>
          </listPerson>
          <listPlace>

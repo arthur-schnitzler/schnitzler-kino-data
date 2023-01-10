@@ -99,25 +99,22 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-240">
+            <person xml:id="pmb119610">
                <persName>Bergman, Henry</persName>
-               <idno type="GND">https://d-nb.info/gnd/129190624</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-494">
+            <person xml:id="pmb14920">
                <persName>Chaplin, Charles</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1168">
+            <person xml:id="pmb120795">
                <persName>Hale, Georgia</persName>
-               <idno type="GND">https://d-nb.info/gnd/119296780</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1998">
+            <person xml:id="pmb121910">
                <persName>Murray, Tom</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2687">
+            <person xml:id="pmb120273">
                <persName>Swain, Mack</persName>
-               <idno type="GND">https://d-nb.info/gnd/1027251811</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2857">
+            <person xml:id="pmb121911">
                <persName>Waite, Malcolm</persName>
             </person>
          </listPerson>

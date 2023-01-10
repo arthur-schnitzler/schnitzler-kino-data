@@ -101,31 +101,26 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-913">
+            <person xml:id="pmb122041">
                <persName>Forbes, Ralph</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-940">
+            <person xml:id="pmb16507">
                <persName>Franklin, Sidney</persName>
-               <idno type="GND">https://d-nb.info/gnd/142369284</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1625">
+            <person xml:id="pmb119356">
                <persName>Lee, Gwen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1892">
+            <person xml:id="pmb121903">
                <persName>Menasse, Lotte</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-1954">
+            <person xml:id="pmb121570">
                <persName>Moore, Owen</persName>
-               <idno type="GND">https://d-nb.info/gnd/1015529798</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2538">
+            <person xml:id="pmb24875">
                <persName>Shearer, Norma</persName>
-               <idno type="GND">https://d-nb.info/gnd/119459183</idno>
             </person>
          </listPerson>
          <listPlace>

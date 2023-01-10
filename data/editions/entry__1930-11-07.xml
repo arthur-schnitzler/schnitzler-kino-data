@@ -110,56 +110,44 @@ Ankündigung NFP 17.10.1930, S. 14. Anzeige und Premierennotiz NFP 28.10.1930, S
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-39">
+            <person xml:id="pmb114115">
                <persName>Alexander, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-213">
+            <person xml:id="pmb112860">
                <persName>Bender, Henry</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-246">
+            <person xml:id="pmb119471">
                <persName>Berliner, Gertrude</persName>
-               <idno type="GND">https://d-nb.info/gnd/140576029</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-277">
+            <person xml:id="pmb94953">
                <persName>Bill, Teddy</persName>
-               <idno type="GND">https://d-nb.info/gnd/1056825936</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-567">
+            <person xml:id="pmb113090">
                <persName>Corday, Charlotte</persName>
-               <idno type="GND">https://d-nb.info/gnd/118676881</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-982">
+            <person xml:id="pmb7334">
                <persName>Gallone, Carmine</persName>
-               <idno type="GND">https://d-nb.info/gnd/119353199</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1249">
+            <person xml:id="pmb7781">
                <persName>Helm, Brigitte</persName>
-               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1383">
+            <person xml:id="pmb114705">
                <persName>Janssen, Walter</persName>
-               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1491">
+            <person xml:id="pmb114702">
                <persName>Kiepura, Jan</persName>
-               <idno type="GND">https://d-nb.info/gnd/118984411</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1787">
+            <person xml:id="pmb119669">
                <persName>Maldacea, Francesco</persName>
-               <idno type="GND">https://d-nb.info/gnd/1062306910</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2234">
+            <person xml:id="pmb9360">
                <persName>Preminger, Otto</persName>
-               <idno type="GND">https://d-nb.info/gnd/119067412</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2695">
+            <person xml:id="pmb119670">
                <persName>Székely, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2792">
+            <person xml:id="pmb114365">
                <persName>Twardowski, H. von</persName>
-               <idno type="GND">https://d-nb.info/gnd/116173092</idno>
             </person>
          </listPerson>
          <listPlace>

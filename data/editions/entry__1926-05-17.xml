@@ -92,63 +92,52 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-46">
+            <person xml:id="pmb121735">
                <persName>Allen, Sam</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-132">
+            <person xml:id="pmb121736">
                <persName>Baker, Sam</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-162">
+            <person xml:id="pmb121737">
                <persName>Barrows, James O.</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-163">
+            <person xml:id="pmb5372">
                <persName>Barrymore, John</persName>
-               <idno type="GND">https://d-nb.info/gnd/119340933</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-260">
+            <person xml:id="pmb119761">
                <persName>Berrell, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/135387906</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-546">
+            <person xml:id="pmb119762">
                <persName>Comont, Mathilde</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061767485</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-574">
+            <person xml:id="pmb119763">
                <persName>Costello, Dolores</persName>
-               <idno type="GND">https://d-nb.info/gnd/140242627</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-696">
+            <person xml:id="pmb119764">
                <persName>Donlin, Mike</persName>
-               <idno type="GND">https://d-nb.info/gnd/140503323</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1161">
+            <person xml:id="pmb119765">
                <persName>Hagne, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/104284706</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1898">
+            <person xml:id="pmb119411">
                <persName>Meredyth, Bess</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061542610</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2022">
+            <person xml:id="pmb119766">
                <persName>Nelson, Frank</persName>
-               <idno type="GND">https://d-nb.info/gnd/1146287348</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2098">
+            <person xml:id="pmb119767">
                <persName>O’Hara, George</persName>
-               <idno type="GND">https://d-nb.info/gnd/1169595901</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2471">
+            <person xml:id="pmb2238">
                <persName>Schnitzler, Lili</persName>
-               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2472">
+            <person xml:id="pmb2173">
                <persName>Schnitzler, Olga, geb. Gussmann</persName>
-               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2799">
+            <person xml:id="pmb121738">
                <persName>Uraneff, Vadim</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2893">
+            <person xml:id="pmb26719">
                <persName>Webb, Millard</persName>
             </person>
          </listPerson>
