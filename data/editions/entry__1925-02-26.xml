@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xml:id="ask__1925-02-26.xml"
-     xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-02-26.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/ask">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -28,27 +26,33 @@
             </respStmt>
          </editionStmt>
          <publicationStmt>
-            <publisher>
-Austrian Centre for Digital Humanities and Cultural Heritage
-            </publisher>
+            <publisher> Austrian Centre for Digital Humanities and Cultural Heritage </publisher>
             <idno type="db-id">229</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
-                  <p>
-Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
-                  </p>
-                  <p>
-Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
-                  </p>
-                  <p>
-Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
-                  </p>
+                  <p> Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell. </p>
+                  <p> Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen: </p>
+                  <p> Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen,
+                     einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden,
+                     allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie
+                     dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die
+                     anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt. </p>
                   <p>Hinweise:</p>
-                  <p>
-Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
-                  </p>
+                  <p> Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken. </p>
                </licence>
             </availability>
          </publicationStmt>
@@ -57,20 +61,25 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script
+            "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="as"
-              source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-02-26.html">
-            <ab>26/2 […] Mit C. P. Kino (Pension Groonen),– und Kino (Verwehte Spuren) dann in der Pilsenetzer (Regina) gen.–</ab>
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-02-26.html">
+            <ab>26/2 […] Mit C. P. Kino (Pension Groonen),– und Kino (Verwehte Spuren) dann in der
+               Pilsenetzer (Regina) gen.–</ab>
          </div>
          <div type="anmerkung">
-            <ab>Zu »Pension Groonen« vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 22, S. 4f., Besprechung in NFP 20.2.1925, S. 16. Ebd. auch Anzeige und Premierennotiz zu »Auf verwehten Spuren«, dazu Besprechung von Lilly Klaudy in NFP 27.2.1925, S. 16. NAB 26.2.1925, S. 8, weist »Pension Groonen« an diesem Tag für Burg-, Rotenturm-, Schottenring- und Central-Kino nach, »Auf verwehten Spuren« für das Kruger-Kino.</ab>
+            <ab>Zu »Pension Groonen« vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 22, S. 4f.,
+               Besprechung in NFP 20.2.1925, S. 16. Ebd. auch Anzeige und Premierennotiz zu »Auf
+               verwehten Spuren«, dazu Besprechung von Lilly Klaudy in NFP 27.2.1925, S. 16. NAB
+               26.2.1925, S. 8, weist »Pension Groonen« an diesem Tag für Burg-, Rotenturm-,
+               Schottenring- und Central-Kino nach, »Auf verwehten Spuren« für das Kruger-Kino.</ab>
          </div>
          <note type="kommentar">
-            <p xml:space="preserve">Zu »Pension Groonen« vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 22, S. 4f., Besprechung in <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250220&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1925-02-20">20.2.1925</date><biblScope unit="page">16</biblScope></bibl>. Ebd. auch Anzeige und Premierennotiz zu »Auf verwehten Spuren«, dazu Besprechung von Lilly Klaudy in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250227&amp;seite=16"><title><abbr>NFP</abbr></title><date when="1925-02-27">27.2.1925</date><biblScope unit="page">16</biblScope></bibl>. <bibl><title><abbr>NAB</abbr></title><date when="1925-02-26">26.2.1925</date><biblScope unit="page">8</biblScope></bibl>, weist »Pension Groonen« an diesem Tag für Burg-, Rotenturm-, Schottenring- und Central-Kino nach, »Auf verwehten Spuren« für das Kruger-Kino.</p>
+            <p xml:space="preserve">Zu »Pension Groonen« vgl. Doppelseite in Filmwelt, Jg. 1924, Nr. 22, S. 4f., Besprechung in <bibl type="Filmkritik" facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250220&amp;seite=16"><title>Neue Freie Presse</title><date when="1925-02-20">20.2.1925</date><biblScope unit="page">16</biblScope></bibl>. Ebd. auch Anzeige und Premierennotiz zu »Auf verwehten Spuren«, dazu Besprechung von Lilly Klaudy in <bibl facs="http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19250227&amp;seite=16"><title>Neue Freie Presse</title><date when="1925-02-27">27.2.1925</date><biblScope unit="page">16</biblScope></bibl>. <bibl><title>Neues 8 Uhr Blatt</title><date when="1925-02-26">26.2.1925</date><biblScope unit="page">8</biblScope></bibl>, weist »Pension Groonen« an diesem Tag für Burg-, Rotenturm-, Schottenring- und Central-Kino nach, »Auf verwehten Spuren« für das Kruger-Kino.</p>
          </note>
          <div type="film">
             <table type="movies">
@@ -91,7 +100,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Produktion">
                      <orgName>Pan-Film</orgName>
                   </cell>
-                  <cell role="data" ana="Darsteller_innen">Charlotte Ander, Claude France, Carmen Cartellieri, Anton Edthofer, Harry Nestor, Albert Heine, Karl Forest, Grete Kaiser</cell>
+                  <cell role="data" ana="Darsteller_innen">Charlotte Ander, Claude France, Carmen
+                     Cartellieri, Anton Edthofer, Harry Nestor, Albert Heine, Karl Forest, Grete
+                     Kaiser</cell>
                </row>
             </table>
          </div>
