@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
-            <title level="s">»«, 1927-12-15, Wien</title>
+            <title level="s">1927-12-15, Wien</title>
             <title type="alternative" when-iso="1927-12-15">Donnerstag, 15. Dezember 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
@@ -62,7 +62,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as" source="">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-12-15.html">
             <ab>15/12 […] Abds. mit C. P. Silb. Brunnen genachtm.–
 Ostbahn. Lili und Arnoldo kommen aus Venedig an.</ab>
          </div>
